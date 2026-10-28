@@ -168,6 +168,20 @@
     "name_ko": "마루가메 제면 나라점"
   },
   {
+    "id": "pl_df5b35a026",
+    "code": "JP-NAR-F-0026",
+    "slug": "kashiya",
+    "kind": "food",
+    "name_ko": "갓샤 (樫舎)"
+  },
+  {
+    "id": "pl_00406a6d95",
+    "code": "JP-NAR-F-0027",
+    "slug": "temma-an",
+    "kind": "food",
+    "name_ko": "덴마안 (天平庵)"
+  },
+  {
     "id": "pl_3ac352c865",
     "code": "JP-NAR-P-0001",
     "slug": "nakagawa-masashichi-nara",
@@ -215,6 +229,20 @@
     "slug": "yu-nakagawa",
     "kind": "shop",
     "name_ko": "유추가와"
+  },
+  {
+    "id": "pl_3ecf20cd48",
+    "code": "JP-NAR-P-0008",
+    "slug": "ionmoru-nara-tomigaoka",
+    "kind": "shop",
+    "name_ko": "이온몰 나라 도미가오카"
+  },
+  {
+    "id": "pl_2ac19c4753",
+    "code": "JP-NAR-P-0009",
+    "slug": "mi-nara",
+    "kind": "shop",
+    "name_ko": "미나라"
   },
   {
     "id": "pl_78d482ea46",
@@ -539,6 +567,160 @@
     "name_ko": "아스카 자료관"
   },
   {
+    "id": "pl_e4b1f3db25",
+    "code": "JP-NAR-S-0048",
+    "slug": "daianji",
+    "kind": "sight",
+    "name_ko": "다이안지 (대안사)"
+  },
+  {
+    "id": "pl_e887366ec8",
+    "code": "JP-NAR-S-0050",
+    "slug": "sarusawa-pond",
+    "kind": "sight",
+    "name_ko": "사루사와 연못"
+  },
+  {
+    "id": "pl_211d1749a2",
+    "code": "JP-NAR-S-0051",
+    "slug": "isagawa-shrine",
+    "kind": "sight",
+    "name_ko": "이사가와 신사"
+  },
+  {
+    "id": "pl_002a470afe",
+    "code": "JP-NAR-S-0052",
+    "slug": "kangoku-shrine",
+    "kind": "sight",
+    "name_ko": "간고쿠 신사 (한국신사)"
+  },
+  {
+    "id": "pl_350673259f",
+    "code": "JP-NAR-S-0053",
+    "slug": "himuro-shrine",
+    "kind": "sight",
+    "name_ko": "히무로 신사"
+  },
+  {
+    "id": "pl_3a8371dc74",
+    "code": "JP-NAR-S-0054",
+    "slug": "tamukeyama-hachimangu",
+    "kind": "sight",
+    "name_ko": "다무케야마 하치만구"
+  },
+  {
+    "id": "pl_a2107789c4",
+    "code": "JP-NAR-S-0056",
+    "slug": "tengaimon",
+    "kind": "sight",
+    "name_ko": "덴가이몬 (전해문)"
+  },
+  {
+    "id": "pl_bccc269bcc",
+    "code": "JP-NAR-S-0057",
+    "slug": "nara-hotel",
+    "kind": "sight",
+    "name_ko": "나라 호텔"
+  },
+  {
+    "id": "pl_3ea1cf527f",
+    "code": "JP-NAR-S-0059",
+    "slug": "hokkeji",
+    "kind": "sight",
+    "name_ko": "홋케지 (법화사)"
+  },
+  {
+    "id": "pl_8f2209fced",
+    "code": "JP-NAR-S-0060",
+    "slug": "kairyuoji",
+    "kind": "sight",
+    "name_ko": "가이류지 (해룡왕사)"
+  },
+  {
+    "id": "pl_27f533dec0",
+    "code": "JP-NAR-S-0061",
+    "slug": "byakugoji",
+    "kind": "sight",
+    "name_ko": "뱌쿠고지 (백호사)"
+  },
+  {
+    "id": "pl_a621a828eb",
+    "code": "JP-NAR-S-0062",
+    "slug": "dorogawa-onsen",
+    "kind": "sight",
+    "name_ko": "도로가와 온천"
+  },
+  {
+    "id": "pl_582fe20038",
+    "code": "JP-NAR-S-0063",
+    "slug": "souni-kogen",
+    "kind": "sight",
+    "name_ko": "소니 고원"
+  },
+  {
+    "id": "pl_9d27936942",
+    "code": "JP-NAR-S-0064",
+    "slug": "yamato-shrine",
+    "kind": "sight",
+    "name_ko": "야마토 신사"
+  },
+  {
+    "id": "pl_10091db3f6",
+    "code": "JP-NAR-S-0066",
+    "slug": "todai-ji-museum",
+    "kind": "sight",
+    "name_ko": "도다이지 뮤지엄"
+  },
+  {
+    "id": "pl_c76d88c4c8",
+    "code": "JP-NAR-S-0067",
+    "slug": "enjo-ji",
+    "kind": "sight",
+    "name_ko": "엔조지 (인욕산)"
+  },
+  {
+    "id": "pl_85020295e0",
+    "code": "JP-NAR-S-0068",
+    "slug": "yamato-bunkakan",
+    "kind": "sight",
+    "name_ko": "야마토 문카칸"
+  },
+  {
+    "id": "pl_5b5e4ae15d",
+    "code": "JP-NAR-S-0069",
+    "slug": "shoryaku-ji",
+    "kind": "sight",
+    "name_ko": "쇼랴쿠지"
+  },
+  {
+    "id": "pl_8734328eee",
+    "code": "JP-NAR-S-0070",
+    "slug": "ryosen-ji",
+    "kind": "sight",
+    "name_ko": "료센지"
+  },
+  {
+    "id": "pl_904aecc74e",
+    "code": "JP-NAR-S-0071",
+    "slug": "zuto",
+    "kind": "sight",
+    "name_ko": "즈토 (두탑)"
+  },
+  {
+    "id": "pl_dc2d7af5dd",
+    "code": "JP-NAR-S-0072",
+    "slug": "taimadera",
+    "kind": "sight",
+    "name_ko": "다이마데라 (당마사)"
+  },
+  {
+    "id": "pl_65b503c3c3",
+    "code": "JP-NAR-S-0073",
+    "slug": "futai-ji",
+    "kind": "sight",
+    "name_ko": "후타이지 (불퇴사)"
+  },
+  {
     "id": "pl_7a7bf0ab09",
     "code": "JP-NAR-T-0001",
     "slug": "kintetsu-nara-station",
@@ -579,5 +761,12 @@
     "slug": "yoshino-station",
     "kind": "transit",
     "name_ko": "긴테쓰 요시노역"
+  },
+  {
+    "id": "pl_a1c248d8a6",
+    "code": "JP-NAR-T-0007",
+    "slug": "tenri-station",
+    "kind": "transit",
+    "name_ko": "덴리역"
   }
 ]

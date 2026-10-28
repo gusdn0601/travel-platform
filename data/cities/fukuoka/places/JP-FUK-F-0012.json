@@ -43,7 +43,10 @@
   "order": [
     "<b>水炊きコース</b> 미즈타키 코스",
     "<b>鶏のたたき</b> 닭고기 타타키",
-    "<b>雑炊</b> 마무리 죽"
+    "<b>雑炊</b> 마무리 죽",
+    "<b>水炊き</b> 미즈타키(닭물곰탕)",
+    "<b>ぶつ切り</b> 닭 도막",
+    "<b>ささみ</b> 닭 안심"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -79,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:52.657Z"
 }

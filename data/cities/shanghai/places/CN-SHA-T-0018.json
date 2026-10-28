@@ -1,0 +1,85 @@
+{
+  "id": "pl_0fdff8db2d",
+  "code": "CN-SHA-T-0018",
+  "city_id": "CN-SHA",
+  "slug": "pujiang-ferry",
+  "kind": "transit",
+  "name_ko": "황푸강 페리",
+  "name_sub": "Pujiang Ferry",
+  "name_local": "黄浦江轮渡",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/와이탄",
+  "lead": "와이탄과 푸둥을 잇는 강 건너기 배. 지하철보다 느리지만 강 위 풍경이 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "도심 페리"
+    ],
+    [
+      "구간",
+      "와이탄~푸둥 등"
+    ],
+    [
+      "요금",
+      "노선별 상이(추정)"
+    ],
+    [
+      "특징",
+      "자전거·보행자 이용"
+    ]
+  ],
+  "origin": [
+    "황푸강 페리는 와이탄과 푸둥을 오가는 도심 교통 수단이에요.",
+    "지하철이 생기기 전에는 강을 건너는 주요 방법이었고, 지금도 출퇴근과 관광에 함께 쓰여요.",
+    "짧은 시간이지만 강 위에서 와이탄 건물 군과 루자쭈이 고층 빌딩을 볼 수 있어요.",
+    "관광 유람선보다 저렴해 가볍게 체험하기 좋아요."
+  ],
+  "practical": [
+    "노선과 운항 시간을 미리 확인하세요",
+    "현금보다 교통카드·앱 결제가 편해요"
+  ],
+  "tip": "일몰 무렵에 타면 와이탄과 루자쭈이 야경을 함께 볼 수 있어요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "저렴한 편(추정)",
+  "must": 0,
+  "tags": [
+    "페리",
+    "황푸강",
+    "교통",
+    "체험"
+  ],
+  "art_key": "boat",
+  "local_search": "黄浦江轮渡",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%B5%A6%E6%B1%9F",
+    "https://map.baidu.com/search/%E9%BB%84%E6%B5%A6%E6%B1%9F%E8%BD%AE%E6%B8%A1"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 강 건너기 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%B5%A6%E6%B1%9F",
+        "https://map.baidu.com/search/%E9%BB%84%E6%B5%A6%E6%B1%9F%E8%BD%AE%E6%B8%A1"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:22.319Z"
+}

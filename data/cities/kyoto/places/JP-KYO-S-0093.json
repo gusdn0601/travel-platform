@@ -1,0 +1,82 @@
+{
+  "id": "pl_14e6a13483",
+  "code": "JP-KYO-S-0093",
+  "city_id": "JP-KYO",
+  "slug": "manshu-in",
+  "kind": "sight",
+  "name_ko": "만슈인",
+  "name_sub": "Manshu-in",
+  "name_local": "曼殊院",
+  "lat": 35.04882,
+  "lng": 135.80306,
+  "area": "이치조지",
+  "lead": "이치조지의 문적원. 작은 정원과 건물이 조용히 남아 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "정원·서원"
+    ],
+    [
+      "위치",
+      "이치조지"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "만슈인은 교토 북동쪽 이치조지 지역의 사찰이에요.",
+    "작은 정원과 서원 건물이 옛 모습을 간직하고 있어요.",
+    "시내에서 떨어져 있어 관광객이 적고 조용해요.",
+    "시센도나 료안지와 함께 반나절 코스로 묶기 좋아요."
+  ],
+  "tip": "버스로 접근하며 배차 간격을 확인하세요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 약 600엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "조용",
+    "교외"
+  ],
+  "art_key": "garden",
+  "local_search": "曼殊院",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manshu-in",
+    "https://ja.wikipedia.org/wiki/%E6%9B%BC%E6%AE%8A%E9%99%A2",
+    "https://www.openstreetmap.org/relation/15519150"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 15,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 한적한 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:14:35.566Z"
+}

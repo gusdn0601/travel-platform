@@ -1,0 +1,81 @@
+{
+  "id": "pl_5f6256933f",
+  "code": "JP-KYO-S-0084",
+  "city_id": "JP-KYO",
+  "slug": "tenzan-no-yu",
+  "kind": "sight",
+  "name_ko": "덴잔노유",
+  "name_sub": "Tenzan no Yu",
+  "name_local": "天山の湯",
+  "lat": 35.01388,
+  "lng": 135.69323,
+  "area": "우즈마사",
+  "lead": "교토 서쪽의 대형 온천 시설. 노천탕과 사우나가 있어 하루 끝에 쉬기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "온천·사우나"
+    ],
+    [
+      "특징",
+      "노천탕"
+    ],
+    [
+      "위치",
+      "교토 서쪽"
+    ],
+    [
+      "이용",
+      "수건 대여 확인"
+    ]
+  ],
+  "origin": [
+    "덴잔노유는 교토 서쪽에 있는 대형 온천 시설이에요.",
+    "여러 종류의 탕과 노천탕, 사우나를 갖추고 있어 관광 후 피로를 풀기 좋아요.",
+    "시내 중심에서 버스로 이동해야 하지만 그만큼 넓고 한적해요.",
+    "현지인 이용이 많은 생활형 시설이에요."
+  ],
+  "tip": "입욕료와 수건 대여, 휴무일을 방문 전에 확인하세요.",
+  "open_hours": "00:00-01:00, 10:00-24:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "입욕료 약 1,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "온천",
+    "사우나",
+    "휴식",
+    "교외"
+  ],
+  "art_key": "onsen",
+  "local_search": "天山の湯",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E9%8A%AD%E6%B9%AF",
+    "https://en.wikipedia.org/wiki/Onsen",
+    "https://www.openstreetmap.org/way/425954557"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 온천로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:45.630Z"
+}

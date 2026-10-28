@@ -189,6 +189,13 @@
     "name_ko": "파블로 신사이바시"
   },
   {
+    "id": "pl_ab5be066e4",
+    "code": "JP-OSA-F-0029",
+    "slug": "richoen-ikuno",
+    "kind": "food",
+    "name_ko": "이초엔 (이쿠노)"
+  },
+  {
     "id": "pl_e49c9d67d1",
     "code": "JP-OSA-P-0001",
     "slug": "nipponbashi",
@@ -313,6 +320,69 @@
     "slug": "kurahoru-shotengai",
     "kind": "shop",
     "name_ko": "쿠라호리 상점가"
+  },
+  {
+    "id": "pl_108cb7a0ea",
+    "code": "JP-OSA-P-0021",
+    "slug": "tenjinbashisuji-shotengai",
+    "kind": "shop",
+    "name_ko": "덴진바시스지 상점가 (텐진바시)"
+  },
+  {
+    "id": "pl_ea440eb0d4",
+    "code": "JP-OSA-P-0022",
+    "slug": "kizu-wholesale-market",
+    "kind": "shop",
+    "name_ko": "오사카 기즈 도매시장"
+  },
+  {
+    "id": "pl_7d9d52eeb2",
+    "code": "JP-OSA-P-0023",
+    "slug": "tsuruhashi-shotengai",
+    "kind": "shop",
+    "name_ko": "쓰루하시 상점가"
+  },
+  {
+    "id": "pl_c2d38f4c14",
+    "code": "JP-OSA-P-0025",
+    "slug": "daimaru-umeda",
+    "kind": "shop",
+    "name_ko": "다이마루 우메다점"
+  },
+  {
+    "id": "pl_49490523d5",
+    "code": "JP-OSA-P-0026",
+    "slug": "takashimaya-namba",
+    "kind": "shop",
+    "name_ko": "다카시마야 난바점"
+  },
+  {
+    "id": "pl_d0d7117d61",
+    "code": "JP-OSA-P-0027",
+    "slug": "namba-marui",
+    "kind": "shop",
+    "name_ko": "난바 마루이"
+  },
+  {
+    "id": "pl_b96818d8b9",
+    "code": "JP-OSA-P-0028",
+    "slug": "matsukiyo-dotonbori",
+    "kind": "shop",
+    "name_ko": "마쓰모토키요시 도톤보리점"
+  },
+  {
+    "id": "pl_457bbd8eac",
+    "code": "JP-OSA-P-0029",
+    "slug": "tempozan-marketplace",
+    "kind": "shop",
+    "name_ko": "덴포잔 마켓플레이스"
+  },
+  {
+    "id": "pl_25dd9ee3cb",
+    "code": "JP-OSA-P-0030",
+    "slug": "nihonbashi-otaroad",
+    "kind": "shop",
+    "name_ko": "오타로드 (니혼바시)"
   },
   {
     "id": "pl_9c25154834",
@@ -602,6 +672,97 @@
     "name_ko": "난바 그랜드 카가쿠"
   },
   {
+    "id": "pl_7162976daa",
+    "code": "JP-OSA-S-0043",
+    "slug": "hatsu-tenjin-tsuyunoten",
+    "kind": "sight",
+    "name_ko": "오하쓰텐진 (쓰유노텐 신사)"
+  },
+  {
+    "id": "pl_a030d5b5a0",
+    "code": "JP-OSA-S-0044",
+    "slug": "nagai-botanical-garden",
+    "kind": "sight",
+    "name_ko": "나가이 식물원"
+  },
+  {
+    "id": "pl_130d683dff",
+    "code": "JP-OSA-S-0045",
+    "slug": "kids-plaza-osaka",
+    "kind": "sight",
+    "name_ko": "키즈플라자 오사카"
+  },
+  {
+    "id": "pl_67c1bbbe5e",
+    "code": "JP-OSA-S-0046",
+    "slug": "osaka-castle-park",
+    "kind": "sight",
+    "name_ko": "오사카성 공원"
+  },
+  {
+    "id": "pl_1b6227b893",
+    "code": "JP-OSA-S-0047",
+    "slug": "nishinomaru-garden",
+    "kind": "sight",
+    "name_ko": "오사카성 니시노마루 정원"
+  },
+  {
+    "id": "pl_7c1cf9ff0a",
+    "code": "JP-OSA-S-0048",
+    "slug": "sakishima-observatory",
+    "kind": "sight",
+    "name_ko": "사키시마 청사 전망대"
+  },
+  {
+    "id": "pl_96c131ede4",
+    "code": "JP-OSA-S-0049",
+    "slug": "naniwa-no-yu",
+    "kind": "sight",
+    "name_ko": "나니와노유 (천연온천)"
+  },
+  {
+    "id": "pl_62db875893",
+    "code": "JP-OSA-S-0050",
+    "slug": "noba-no-yu-tsuruhashi",
+    "kind": "sight",
+    "name_ko": "노바노유 쓰루하시점"
+  },
+  {
+    "id": "pl_25cc3fcb35",
+    "code": "JP-OSA-S-0051",
+    "slug": "janjan-yokocho",
+    "kind": "sight",
+    "name_ko": "잔잔 요코초"
+  },
+  {
+    "id": "pl_69329e4e3a",
+    "code": "JP-OSA-S-0052",
+    "slug": "osaka-museum-natural-history",
+    "kind": "sight",
+    "name_ko": "오사카시립 자연사 박물관"
+  },
+  {
+    "id": "pl_522699af87",
+    "code": "JP-OSA-S-0053",
+    "slug": "kishiwada-danjiri-kaikan",
+    "kind": "sight",
+    "name_ko": "기시와다 단지리 회관"
+  },
+  {
+    "id": "pl_b0c5437176",
+    "code": "JP-OSA-S-0054",
+    "slug": "osaka-city-museum-fine-arts",
+    "kind": "sight",
+    "name_ko": "오사카시립미술관"
+  },
+  {
+    "id": "pl_3b24137c9d",
+    "code": "JP-OSA-S-0055",
+    "slug": "tenma-tenjin-hanjo-tei",
+    "kind": "sight",
+    "name_ko": "덴마텐진 한조테이"
+  },
+  {
     "id": "pl_f7be50174d",
     "code": "JP-OSA-T-0001",
     "slug": "osaka-station",
@@ -642,5 +803,19 @@
     "slug": "osaka-international-airport",
     "kind": "transit",
     "name_ko": "오사카 이타미 공항"
+  },
+  {
+    "id": "pl_5ad1e5c0d5",
+    "code": "JP-OSA-T-0007",
+    "slug": "tsuruhashi-station",
+    "kind": "transit",
+    "name_ko": "쓰루하시역"
+  },
+  {
+    "id": "pl_3b79f80e8e",
+    "code": "JP-OSA-T-0008",
+    "slug": "namba-station",
+    "kind": "transit",
+    "name_ko": "난바역"
   }
 ]

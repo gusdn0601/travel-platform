@@ -37,7 +37,10 @@
   ],
   "tip": "아침 참배 전에 죽 한 그릇을 먹으면 든든해요.",
   "order": [
-    "<b>万葉粥</b> 만엽죽"
+    "<b>万葉粥</b> 만엽죽",
+    "<b>万葉粥</b> 만요죽",
+    "<b>柿の葉寿司</b> 감잎 초밥",
+    "<b>ぜんざい</b> 젠자이"
   ],
   "open_hours": "10:00-16:00 (OSM)",
   "stay_min": 40,
@@ -75,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:33.032Z"
 }

@@ -72,7 +72,15 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:32:56.081Z"
+  "sanitized_at": "2026-10-28T10:32:56.081Z",
+  "order": [
+    "<b>日替わりごはん</b> 오늘의 밥",
+    "<b>カレー</b> 카레",
+    "<b>ケーキ</b> 케이크",
+    "<b>珈琲</b> 커피"
+  ]
 }

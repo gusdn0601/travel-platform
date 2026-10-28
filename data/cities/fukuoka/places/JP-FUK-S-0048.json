@@ -1,0 +1,83 @@
+{
+  "id": "pl_03fc2e598a",
+  "code": "JP-FUK-S-0048",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-aka-renga-kan",
+  "kind": "sight",
+  "name_ko": "후쿠오카시 아카렌가 문화관",
+  "name_sub": "Fukuoka City Aka Renga Cultural Hall",
+  "name_local": "福岡市赤煉瓦文化館",
+  "lat": 33.59311,
+  "lng": 130.40189,
+  "area": "텐진",
+  "lead": "텐진의 붉은 벽돌 건물. 무료로 들어가 볼 수 있는 근대 건축이에요.",
+  "facts": [
+    [
+      "종류",
+      "근대 건축"
+    ],
+    [
+      "특징",
+      "붉은 벽돌"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "입장",
+      "무료"
+    ]
+  ],
+  "origin": [
+    "아카렌가 문화관은 텐진에 남아 있는 붉은 벽돌 건물이에요.",
+    "근대 일본의 건축가가 설계했다고 전해지며, 지금은 문화 시설로 쓰여요.",
+    "내부를 무료로 둘러볼 수 있어 사진 찍기 좋아요.",
+    "텐진 쇼핑 중 잠깐 들르기 좋은 곳이에요."
+  ],
+  "tip": "행사나 대관으로 일부 공간이 닫힐 수 있어요. 조용히 관람하세요.",
+  "open_hours": "Mo-Su 09:00-22:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "근대건축",
+    "무료",
+    "사진",
+    "텐진"
+  ],
+  "art_key": "building",
+  "local_search": "福岡市赤煉瓦文化館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E8%B5%A4%E7%85%89%E7%93%A6%E6%96%87%E5%8C%96%E9%A4%A8",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://ja.wikipedia.org/wiki/%E8%BE%B0%E9%87%8E%E9%87%91%E5%90%BE",
+    "https://www.openstreetmap.org/way/314743807"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 근대 건축로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:52.611Z"
+}

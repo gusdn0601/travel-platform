@@ -1,0 +1,84 @@
+{
+  "id": "pl_987634050d",
+  "code": "CN-SHA-P-0032",
+  "city_id": "CN-SHA",
+  "slug": "ole-supermarket",
+  "kind": "shop",
+  "name_ko": "올레 프리미엄 슈퍼",
+  "name_sub": "Ole' Premium Supermarket",
+  "name_local": "Ole'精品超市",
+  "lat": null,
+  "lng": null,
+  "area": "도심 몰 내",
+  "lead": "쇼핑몰 안에 있는 고급 슈퍼마켓. 수입 과자와 치즈, 와인이 잘 갖춰져 있어요.",
+  "facts": [
+    [
+      "성격",
+      "프리미엄 슈퍼마켓"
+    ],
+    [
+      "위치",
+      "주요 쇼핑몰 내"
+    ],
+    [
+      "특징",
+      "수입식품 · 과일 · 베이커리"
+    ],
+    [
+      "결제",
+      "위챗페이 · 알리페이"
+    ]
+  ],
+  "origin": [
+    "올레는 중국 화룬(华润) 계열이 운영하는 고급 슈퍼마켓 브랜드예요.",
+    "대형 쇼핑몰 안에 들어가 수입식품과 신선식품, 베이커리를 갖춰 놓았어요.",
+    "일반 마트보다 값은 높지만 품질과 진열이 깔끔해 여행 중 간식이나 선물용 과자를 사기 좋아요.",
+    "몰 안에 있어 쇼핑 동선에 자연스럽게 넣을 수 있어요."
+  ],
+  "practical": [
+    "몰마다 입점 여부가 달라요",
+    "수입 과자는 값이 높은 편이에요"
+  ],
+  "tip": "선물용 과자와 차는 일반 마트보다 종류가 많아요. 유통기한을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "장보기별 상이",
+  "must": 0,
+  "tags": [
+    "마트",
+    "수입식품",
+    "장보기"
+  ],
+  "art_key": "market",
+  "local_search": "Ole'精品超市",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%8D%8E%E6%B6%A6%E4%B8%87%E5%AE%B6",
+    "https://map.baidu.com/search/Ole%E8%B6%85%E5%B8%82%20%E4%B8%8A%E6%B5%B7"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 프리미엄 장보기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E5%8D%8E%E6%B6%A6%E4%B8%87%E5%AE%B6",
+        "https://map.baidu.com/search/Ole%E8%B6%85%E5%B8%82%20%E4%B8%8A%E6%B5%B7"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.609Z"
+}

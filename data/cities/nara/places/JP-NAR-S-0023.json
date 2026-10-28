@@ -60,7 +60,21 @@
     "addr_basis": null,
     "entity": "botanical garden in Nara, Nara, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 산책 식물원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:30.576Z"
+  "sanitized_at": "2026-10-28T11:17:02.740Z",
+  "origin": [
+    "만요 식물원은 만요슈에 등장하는 식물을 모아 놓은 식물원이에요.",
+    "시가에 나오는 풀과 나무를 실제로 볼 수 있도록 꾸며져 있어요.",
+    "계절 꽃이 피는 산책로가 있어 천천히 걷기 좋아요.",
+    "나라 공원 안에 있어 사찰 관람과 함께 들르기 좋아요."
+  ]
 }

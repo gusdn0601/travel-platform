@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:44.978Z"
+  "sanitized_at": "2026-10-28T11:16:38.938Z",
+  "origin": [
+    "야사카 신사는 기온 끝자락에 있는 신사예요.",
+    "전승에 따르면 7세기에 세워졌고, 교토 기온 지역의 중심 신사로 자리 잡았어요.",
+    "경내가 늦은 시간까지 열려 있어 저녁 산책 코스로 좋아요.",
+    "매년 여름 기온 마쓰리 때는 거리와 신사가 함께 크게 붐벼요."
+  ]
 }

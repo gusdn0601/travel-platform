@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "museum in Fukuoka City, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 역사 박물관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:07.811Z"
+  "sanitized_at": "2026-10-28T11:17:31.905Z",
+  "origin": [
+    "후쿠오카시 박물관은 ‘한위노국왕’ 금도장으로 알려진 유물을 전시하는 박물관이에요.",
+    "옛 기록에 나오는 금인과 후쿠오카의 역사 자료를 함께 볼 수 있어요.",
+    "실내라 비 오는 날 일정으로 좋아요.",
+    "모모치 지역이라 해변 산책과 함께 묶기 좋아요."
+  ]
 }

@@ -1,0 +1,83 @@
+{
+  "id": "pl_002a470afe",
+  "code": "JP-NAR-S-0052",
+  "city_id": "JP-NAR",
+  "slug": "kangoku-shrine",
+  "kind": "sight",
+  "name_ko": "간고쿠 신사 (한국신사)",
+  "name_sub": "Kangoku Shrine",
+  "name_local": "漢国神社",
+  "lat": 34.68361,
+  "lng": 135.82542,
+  "area": "나라마치",
+  "lead": "이름에 한반도가 담긴 나라마치의 신사. 오래된 교류의 흔적을 느낄 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "한국과의 교류"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ],
+    [
+      "분위기",
+      "조용"
+    ]
+  ],
+  "origin": [
+    "간고쿠 신사는 나라마치에 있는 신사로, 이름에 한반도와의 교류를 담고 있어요.",
+    "오래전 나라에 머물던 사람들이 모시던 신을 이어 왔다는 이야기가 전해져요.",
+    "경내는 작고 조용해 나라마치 산책 중 잠깐 들르기 좋아요.",
+    "역사적 배경을 알고 가면 더 흥미로워요."
+  ],
+  "tip": "나라마치 다른 신사와 함께 걸어 보세요. 촬영 예절을 지키세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "한국",
+    "역사",
+    "나라마치"
+  ],
+  "art_key": "shrine",
+  "local_search": "漢国神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%9C%8B%E7%A5%9E%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%9B%BD%E7%A5%9E%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%89%E3%81%BE%E3%81%A1",
+    "https://www.openstreetmap.org/way/341763752"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 15,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 한반도 교류로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:36.468Z"
+}

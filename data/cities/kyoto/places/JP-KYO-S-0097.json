@@ -1,0 +1,84 @@
+{
+  "id": "pl_7cf6567c24",
+  "code": "JP-KYO-S-0097",
+  "city_id": "JP-KYO",
+  "slug": "shisen-do",
+  "kind": "sight",
+  "name_ko": "시센도",
+  "name_sub": "Shisen-do",
+  "name_local": "詩仙堂",
+  "lat": 35.04374,
+  "lng": 135.79623,
+  "area": "이치조지",
+  "lead": "이치조지 지역의 작은 정원 사찰. 조용한 정원과 건물이 남아 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰·정원"
+    ],
+    [
+      "특징",
+      " 작은 정원"
+    ],
+    [
+      "위치",
+      "이치조지"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "시센도는 교토 북동쪽 이치조지 지역에 자리한 작은 사찰이에요.",
+    "정원과 건물이 조용하게 남아 있어 천천히 둘러보기 좋아요.",
+    "시내 중심에서 떨어져 있어 관광객이 적어요.",
+    "주변의 다른 사찰과 함께 반나절 코스로 다녀오기 좋아요."
+  ],
+  "tip": "버스로 이동하는 편이 좋아요. 관람 시간을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "입장료 약 600엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "조용",
+    "교외"
+  ],
+  "art_key": "garden",
+  "local_search": "詩仙堂",
+  "photos": [
+    "JP-KYO-S-0097-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shisen-d%C5%8D",
+    "https://ja.wikipedia.org/wiki/%E8%A9%A9%E4%BB%99%E5%A0%82",
+    "https://www.openstreetmap.org/way/503289189"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 3,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 한적한 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:15:29.705Z"
+}

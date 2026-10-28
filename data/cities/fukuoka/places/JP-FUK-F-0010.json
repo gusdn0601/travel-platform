@@ -43,7 +43,12 @@
   "order": [
     "<b>もつ鍋</b> 곱창 전골(간장/된장)",
     "<b>ちゃんぽん麺</b> 마무리 면",
-    "<b>雑炊</b> 마무리 죽"
+    "<b>雑炊</b> 마무리 죽",
+    "<b>もつ鍋(醤油)</b> 간장 모츠나베",
+    "<b>もつ鍋(味噌)</b> 미소 모츠나베",
+    "<b>酢もつ</b> 초모츠(새콤 곱창)",
+    "<b>ごまさば</b> 고마사바(참깨 고등어)",
+    "<b>明太子</b> 명란"
   ],
   "open_hours": null,
   "stay_min": 80,
@@ -80,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:49.911Z"
 }

@@ -1,0 +1,82 @@
+{
+  "id": "pl_49490523d5",
+  "code": "JP-OSA-P-0026",
+  "city_id": "JP-OSA",
+  "slug": "takashimaya-namba",
+  "kind": "shop",
+  "name_ko": "다카시마야 난바점",
+  "name_sub": "Takashimaya Namba",
+  "name_local": "高島屋 なんば店",
+  "lat": 34.66463,
+  "lng": 135.5018,
+  "area": "난바",
+  "lead": "난바역 위의 백화점. 지하 식품관과 면세 카운터가 있어 쇼핑 동선에 넣기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "지하 식품관"
+    ],
+    [
+      "위치",
+      "난바역 직결"
+    ],
+    [
+      "면세",
+      "카운터 운영(조건 확인)"
+    ]
+  ],
+  "origin": [
+    "다카시마야 난바점은 난바역과 이어지는 백화점이에요.",
+    "지하 식품관에는 간식과 도시락, 기념품이 모여 있어요.",
+    "백화점 위층에는 식당가가 있어 도톤보리 쇼핑 중 쉬어 가기 좋아요.",
+    "면세 카운터가 있어 한국 여행객이 구매 후 환급을 받으러 들러요."
+  ],
+  "tip": "도톤보리와 바로 이어져 저녁 식사 전후로 이용하기 좋아요.",
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "면세",
+    "식품관",
+    "난바"
+  ],
+  "art_key": "mall",
+  "local_search": "高島屋 なんば店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Takashimaya",
+    "https://ja.wikipedia.org/wiki/%E9%AB%99%E5%B3%B6%E5%B1%8B",
+    "https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2",
+    "https://www.openstreetmap.org/node/447587574"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난바 백화점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:33.948Z"
+}

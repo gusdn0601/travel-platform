@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Fukuoka Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:38.417Z"
+  "sanitized_at": "2026-10-28T11:17:31.900Z",
+  "origin": [
+    "다자이후 텐만구는 학문의 신을 모신 신사예요.",
+    "참배길에 연못과 다리가 이어져 걸으며 들어가게 돼요.",
+    "입시와 학업을 기원하는 참배객이 많고, 참배길의 매화떡이 유명해요.",
+    "후쿠오카 시내에서 전철로 이동해 반나절 코스로 다녀오기 좋아요."
+  ]
 }

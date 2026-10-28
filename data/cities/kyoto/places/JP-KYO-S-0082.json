@@ -1,0 +1,84 @@
+{
+  "id": "pl_3b1503f151",
+  "code": "JP-KYO-S-0082",
+  "city_id": "JP-KYO",
+  "slug": "funaoka-onsen",
+  "kind": "sight",
+  "name_ko": "후나오카 온천",
+  "name_sub": "Funaoka Onsen",
+  "name_local": "船岡温泉",
+  "lat": 35.0369,
+  "lng": 135.7446,
+  "area": "니시진",
+  "lead": "오래된 목조 건물의 동네 목욕탕. 조각 장식이 남아 있어 레트로 분위기가 물씬해요.",
+  "facts": [
+    [
+      "종류",
+      "센토(목욕탕)"
+    ],
+    [
+      "특징",
+      "목조 건물·조각"
+    ],
+    [
+      "위치",
+      "니시진"
+    ],
+    [
+      "분위기",
+      "현지 생활"
+    ]
+  ],
+  "origin": [
+    "후나오카 온천은 교토 니시진 지역의 오래된 목욕탕이에요.",
+    "목조 건물과 정교한 조각 장식이 남아 있어 건축을 보러 오는 사람도 있어요.",
+    "관광지가 아니라 현지인이 이용하는 생활 시설이라 조용히 쉬기 좋아요.",
+    "수건과 세면도구는 직접 챙기는 편이 좋아요."
+  ],
+  "tip": "목욕탕 예절을 지키고, 사진 촬영은 삼가세요. 휴무일을 확인하세요.",
+  "open_hours": "Mo-Sa 15:00-01:00; Su 08:00-01:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입욕료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "센토",
+    "온천",
+    "레트로",
+    "현지"
+  ],
+  "art_key": "onsen",
+  "local_search": "船岡温泉",
+  "photos": [
+    "JP-KYO-S-0082-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Funaoka_Onsen",
+    "https://ja.wikipedia.org/wiki/%E8%88%B9%E5%B2%A1%E6%B8%A9%E6%B3%89",
+    "https://www.openstreetmap.org/node/4229642062"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 11,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 레트로 센토로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:41.771Z"
+}

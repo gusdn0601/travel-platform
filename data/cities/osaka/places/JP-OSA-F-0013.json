@@ -41,7 +41,10 @@
   "tip": "계란을 잘 섞어야 맛이 부드러워져요.",
   "order": [
     "<b>名物カレー</b> 명물 카레(생계란 포함)",
-    "<b>ビーフカレー</b> 비프 카레"
+    "<b>ビーフカレー</b> 비프 카레",
+    "<b>名物カレー</b> 명물 카레(비빔 카레)",
+    "<b>カレーライス</b> 카레라이스",
+    "<b>ハヤシライス</b> 하이라이스"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -82,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:16.727Z"
 }

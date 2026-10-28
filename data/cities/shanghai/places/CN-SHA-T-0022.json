@@ -1,0 +1,86 @@
+{
+  "id": "pl_8f244dee7a",
+  "code": "CN-SHA-T-0022",
+  "city_id": "CN-SHA",
+  "slug": "city-bus",
+  "kind": "transit",
+  "name_ko": "상하이 시내버스",
+  "name_sub": "Shanghai City Bus",
+  "name_local": "上海公交",
+  "lat": null,
+  "lng": null,
+  "area": "상하이 전역",
+  "lead": "시내 곳곳을 잇는 버스. 지하철이 닿지 않는 골목과 동네로 갈 때 유용해요.",
+  "facts": [
+    [
+      "성격",
+      "시내버스"
+    ],
+    [
+      "요금",
+      "거리·노선별(추정)"
+    ],
+    [
+      "결제",
+      "교통카드 · 앱 QR"
+    ],
+    [
+      "안내",
+      "중국어 중심"
+    ]
+  ],
+  "origin": [
+    "상하이 시내버스는 지하철이 지나지 않는 골목과 외곽까지 이어지는 교통망이에요.",
+    "요금이 저렴하고 노선이 촘촘하지만 안내가 대부분 중국어라 여행자가 이용하기는 쉽지 않아요.",
+    "지도 앱으로 노선을 확인하고 교통카드나 앱 QR로 결제하면 이용할 수 있어요.",
+    "짐이 많거나 시간이 촉박하면 택시가 낫어요."
+  ],
+  "practical": [
+    "정류장 이름이 중국어로만 표시되는 경우가 많아요",
+    "혼잡 시간대에는 오래 기다릴 수 있어요"
+  ],
+  "tip": "지도 앱에서 버스 노선과 정류장을 확인하세요. 요금은 교통카드가 편해요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "저렴한 편(추정)",
+  "must": 0,
+  "tags": [
+    "버스",
+    "교통",
+    "저렴"
+  ],
+  "art_key": "street",
+  "local_search": "上海公交",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E4%BA%A4",
+    "https://en.wikipedia.org/wiki/Transport_in_Shanghai",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E4%BA%A4"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 시내버스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E4%BA%A4",
+        "https://en.wikipedia.org/wiki/Transport_in_Shanghai",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E4%BA%A4"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:22.322Z"
+}

@@ -37,7 +37,10 @@
   ],
   "tip": "지도로 위치를 미리 확인하고 가세요.",
   "order": [
-    "<b>きつねうどん</b> 유부 우동"
+    "<b>きつねうどん</b> 유부 우동",
+    "<b>たわらやうどん</b> 타와라야 우동",
+    "<b>茶がゆ</b> 차죽",
+    "<b>かき氷</b> 빙수"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -71,7 +74,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:04.111Z"
 }

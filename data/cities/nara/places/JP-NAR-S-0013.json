@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 근교 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:49.567Z"
+  "sanitized_at": "2026-10-28T11:17:02.733Z",
+  "origin": [
+    "무로지는 나라 동쪽 우다 산속에 자리한 사찰이에요.",
+    "작은 오층탑이 숲에 둘러싸여 서 있어 풍경이 독특해요.",
+    "여성의 고야산이라 불리며 오래도록 여성 참배객이 찾아온 곳으로 알려져 있어요.",
+    "산길이라 이동 시간을 넉넉히 잡는 편이 좋아요."
+  ]
 }

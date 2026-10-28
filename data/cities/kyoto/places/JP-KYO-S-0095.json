@@ -1,0 +1,82 @@
+{
+  "id": "pl_9d2dad4ccb",
+  "code": "JP-KYO-S-0095",
+  "city_id": "JP-KYO",
+  "slug": "kyocera-museum",
+  "kind": "sight",
+  "name_ko": "교토시 교세라 미술관",
+  "name_sub": "Kyoto City KYOCERA Museum of Art",
+  "name_local": "京都市京セラ美術館",
+  "lat": 35.01281,
+  "lng": 135.78364,
+  "area": "오카자키",
+  "lead": "오카자키 공원 안의 시립 미술관. 근현대 미술 전시를 봐요.",
+  "facts": [
+    [
+      "종류",
+      "미술관"
+    ],
+    [
+      "특징",
+      "근현대 미술"
+    ],
+    [
+      "위치",
+      "오카자키"
+    ],
+    [
+      "분위기",
+      "실내"
+    ]
+  ],
+  "origin": [
+    "교토시 교세라 미술관은 오카자키 공원 안에 있는 시립 미술관이에요.",
+    "교토와 관련된 근현대 미술을 중심으로 전시해요.",
+    "건물 자체도 볼거리라 비 오는 날 일정으로 좋아요.",
+    "헤이안 신궁이나 동물원과 함께 묶기 좋아요."
+  ],
+  "tip": "전시에 따라 휴관일이 달라 공식 안내를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 약 730엔(추정)",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "실내",
+    "비오는날",
+    "오카자키"
+  ],
+  "art_key": "museum",
+  "local_search": "京都市京セラ美術館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8",
+    "https://www.openstreetmap.org/node/11433400363",
+    "https://www.wikidata.org/wiki/Q3330657"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 90,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 실내 미술관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:05.112Z"
+}

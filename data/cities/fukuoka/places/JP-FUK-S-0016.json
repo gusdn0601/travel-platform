@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "observation tower",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 항 전망로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:19.123Z"
+  "sanitized_at": "2026-10-28T11:17:31.906Z",
+  "origin": [
+    "하카타 포트 타워는 하카타 항 앞에 서 있는 전망탑이에요.",
+    "위층에서 항구와 시내 전경을 볼 수 있어요.",
+    "항구 쪽이라 도심 번화가와 분위기가 달라 조용히 둘러보기 좋아요.",
+    "하카타 포트 국제터미널과 가까워 배 타기 전후로 들르기 좋아요."
+  ]
 }

@@ -59,7 +59,21 @@
     "addr_basis": null,
     "entity": "shōtengai in Hakata-ku, Fukuoka City, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 상점가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:51.315Z"
+  "sanitized_at": "2026-10-28T11:17:31.894Z",
+  "origin": [
+    "가와바타 상점가는 하카타의 오래된 지붕 있는 상점가예요.",
+    "간식 가게와 잡화점이 이어져 걸으며 구경하기 좋아요.",
+    "팥떡과 어묵 같은 간식이 이 상점가의 대표 먹거리로 꼽혀요.",
+    "하카타역과 나카스 사이에 있어 이동 중에 들르기 좋아요."
+  ]
 }

@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "art museum in Nara, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 실내 일정로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:29.720Z"
+  "sanitized_at": "2026-10-28T11:17:02.731Z",
+  "origin": [
+    "나라 국립박물관은 나라 공원 안에 있는 국립박물관이에요.",
+    "불교 미술을 중심으로 나라 지역의 유물을 전시해요.",
+    "건물이 넓고 실내라 비 오는 날 일정으로 좋아요.",
+    "도다이지 관람 전후로 들러 배경 지식을 정리하기 좋아요."
+  ]
 }

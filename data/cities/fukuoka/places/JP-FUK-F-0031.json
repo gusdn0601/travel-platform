@@ -1,0 +1,89 @@
+{
+  "id": "pl_801aa2feb5",
+  "code": "JP-FUK-F-0031",
+  "city_id": "JP-FUK",
+  "slug": "inaba-udon",
+  "kind": "food",
+  "name_ko": "이나바 우동",
+  "name_sub": "Inaba Udon",
+  "name_local": "因幡うどん",
+  "lat": 33.58923,
+  "lng": 130.39953,
+  "area": "텐진",
+  "lead": "텐진의 우동집. 부드러운 면과 국물로 가볍게 한 끼 하기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "우동집"
+    ],
+    [
+      "특징",
+      "부드러운 면"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "분위기",
+      "현지·간단"
+    ]
+  ],
+  "origin": [
+    "이나바 우동은 텐진에 있는 우동집이에요.",
+    "부드러운 면과 담백한 국물로 알려져 있어요.",
+    "쇼핑 중 가볍게 한 끼 하기 좋아요.",
+    "점심 시간에는 현지 손님으로 붐비니 시간을 조금 비켜 가세요."
+  ],
+  "tip": "메뉴와 영업시간은 매장에서 확인하세요. 현금 결제 여부를 미리 보세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 500~1,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "우동",
+    "텐진",
+    "현지",
+    "가벼운식사"
+  ],
+  "art_key": "food",
+  "local_search": "因幡うどん",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+    "https://www.openstreetmap.org/node/3166277883"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 우동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:20.413Z",
+  "order": [
+    "<b>ごぼう天うどん</b> 우엉 튀김 우동",
+    "<b>肉うどん</b> 고기 우동",
+    "<b>かしわうどん</b> 닭고기 우동",
+    "<b>丸天うどん</b> 어묵 튀김 우동"
+  ]
+}

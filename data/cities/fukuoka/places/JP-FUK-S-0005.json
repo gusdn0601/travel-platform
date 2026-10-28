@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "broadcasting and observation tower in Fukuoka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 야경 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:10.008Z"
+  "sanitized_at": "2026-10-28T11:17:31.901Z",
+  "origin": [
+    "후쿠오카 타워는 모모치 해변 앞에 서 있는 전망탑이에요.",
+    "위층 전망대에서 후쿠오카 만과 시내가 함께 보여요.",
+    "해질 무렵부터 야경이 좋아 저녁 코스로 많이 찾아요.",
+    "모모치 해변 공원과 가까워 함께 걷기 좋아요."
+  ]
 }

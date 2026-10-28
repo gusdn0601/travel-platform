@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "aquarium in Fukuoka, Fukuoka Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 가족 여행로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:22.398Z"
+  "sanitized_at": "2026-10-28T11:17:31.902Z",
+  "origin": [
+    "마린월드 우미노나카미치는 후쿠오카 서쪽 해변에 있는 수족관이에요.",
+    "돌고래 쇼와 대형 수조가 있어 가족 단위 방문이 많아요.",
+    "관람 후 해변 공원으로 이어져 하루 코스로 묶기 좋아요.",
+    "시내에서 전철로 이동할 수 있어 접근도 편해요."
+  ]
 }

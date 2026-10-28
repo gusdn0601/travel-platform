@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "railway museum in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 아이와 갈 곳로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:10.010Z"
+  "sanitized_at": "2026-10-28T11:16:38.941Z",
+  "origin": [
+    "교토 철도박물관은 우메코지에 자리한 철도 전문 박물관이에요.",
+    "증기기관차부터 신칸센까지 실물 차량이 넓은 공간에 전시되어 있어요.",
+    "아이가 직접 조작할 수 있는 체험 전시와 미니 열차도 있어 가족 단위 방문이 많아요.",
+    "비 오는 날 실내 일정으로도 좋아요."
+  ]
 }

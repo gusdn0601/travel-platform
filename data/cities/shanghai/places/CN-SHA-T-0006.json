@@ -1,0 +1,92 @@
+{
+  "id": "pl_de05dbf5b9",
+  "code": "CN-SHA-T-0006",
+  "city_id": "CN-SHA",
+  "slug": "maglev",
+  "kind": "transit",
+  "name_ko": "마그레브(자기부상열차)",
+  "name_sub": "Shanghai Maglev Train",
+  "name_local": "上海磁浮示范运营线",
+  "lat": 31.20389,
+  "lng": 121.55389,
+  "area": "푸둥/룽양루",
+  "lead": "푸동공항과 룽양루를 잇는 자기부상열차. 최고 속도가 매우 빨라 체험으로도 인기예요.",
+  "facts": [
+    [
+      "구간",
+      "푸동공항~룽양루"
+    ],
+    [
+      "개통",
+      "2004년"
+    ],
+    [
+      "최고 속도",
+      "시험 운행 기준 430km/h"
+    ],
+    [
+      "소요",
+      "편도 약 8분"
+    ]
+  ],
+  "origin": [
+    "상하이 자기부상열차는 2004년 푸동공항과 룽양루 사이에 개통한 상용 자기부상 노선이에요.",
+    "바퀴 없이 자기력으로 떠서 달리는 방식으로, 시험 운행에서는 430km/h까지 기록했어요.",
+    "실제 운행 속도는 시간대에 따라 달라요.",
+    "공항에서 시내로 들어오는 교통편이면서 그 자체로 체험거리예요."
+  ],
+  "practical": [
+    "왕복권이 편도권보다 저렴한 경우가 있어요",
+    "짐이 많으면 일반 지하철이 편할 수 있어요"
+  ],
+  "tip": "룽양루에서 지하철 2호선으로 갈아타 시내로 이동해요. 운행 시간대와 속도를 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "구간별 요금(추정)",
+  "must": 0,
+  "tags": [
+    "교통",
+    "자기부상",
+    "공항",
+    "체험"
+  ],
+  "art_key": "train",
+  "local_search": "上海磁浮示范运营线",
+  "photos": [
+    "CN-SHA-T-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_maglev_train",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E7%A3%81%E6%B5%AE%E7%A4%BA%E8%8C%83%E8%BF%90%E8%90%A5%E7%BA%BF",
+    "https://www.openstreetmap.org/way/10595858"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1817,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 공항 교통 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanghai_maglev_train",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E7%A3%81%E6%B5%AE%E7%A4%BA%E8%8C%83%E8%BF%90%E8%90%A5%E7%BA%BF",
+        "https://www.openstreetmap.org/way/10595858"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:17.776Z"
+}

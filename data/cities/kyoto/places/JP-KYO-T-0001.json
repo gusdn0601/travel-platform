@@ -60,7 +60,21 @@
     "addr_basis": null,
     "entity": "railway station and metro station in Kyōto, Kyōto Prefecture, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 관문역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:23.796Z"
+  "sanitized_at": "2026-10-28T11:16:38.954Z",
+  "origin": [
+    "교토역은 신칸센과 JR, 지하철, 사철이 모이는 교토의 관문이에요.",
+    "지금의 대형 역사는 1990년대에 새로 지은 것으로, 넓은 계단과 스카이웨이가 볼거리로 꼽혀요.",
+    "역 안에 상점과 식당이 많아 이동 중 쇼핑과 식사를 해결하기 좋아요.",
+    "시내 버스가 역 앞에서 출발해 관광지로 이동하기 편해요."
+  ]
 }

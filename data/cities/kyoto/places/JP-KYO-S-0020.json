@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "observation tower in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 전망 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:06.789Z"
+  "sanitized_at": "2026-10-28T11:16:38.941Z",
+  "origin": [
+    "교토 타워는 교토역 앞에 세워진 흰 전망탑이에요.",
+    "1960년대에 지어졌고, 위층 전망대에서 평지가 넓은 교토 시내를 한눈에 볼 수 있어요.",
+    "시내에 높은 건물이 적어 전망이 잘 트여요.",
+    "교토역과 이어져 이동 전후에 들르기 좋아요."
+  ]
 }

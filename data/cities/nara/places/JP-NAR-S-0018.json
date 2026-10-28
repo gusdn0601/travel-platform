@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:12.649Z"
+  "sanitized_at": "2026-10-28T11:17:02.737Z",
+  "origin": [
+    "신야쿠시지는 나라마치 동쪽에 있는 사찰이에요.",
+    "12신장상이 있는 것으로 알려져 있어 불교 조각을 좋아하는 사람이 찾아요.",
+    "규모가 크지 않고 조용해 천천히 볼 수 있어요.",
+    "나라마치 산책과 함께 묶기 좋아요."
+  ]
 }

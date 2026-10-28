@@ -37,7 +37,10 @@
   ],
   "tip": "따뜻한 국물이라 추운 날 일정에 잘 맞아요.",
   "order": [
-    "<b>にしんそば</b> 니신 소바"
+    "<b>にしんそば</b> 니신 소바",
+    "<b>にしんそば</b> 청어 소바",
+    "<b>きざみそば</b> 잘게 썬 소바",
+    "<b>天ぷらそば</b> 덴푸라 소바"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -71,7 +74,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:12.904Z"
 }

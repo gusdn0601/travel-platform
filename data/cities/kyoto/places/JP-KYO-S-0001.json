@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Shinto shrines in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:29.359Z"
+  "sanitized_at": "2026-10-28T11:16:38.931Z",
+  "origin": [
+    "후시미 이나리 대사는 교토 남쪽 후시미에 자리한 신사예요.",
+    "산기슭부터 산길을 따라 수천 개의 붉은 도리이가 이어지는 풍경으로 유명해요.",
+    "전승에 따르면 8세기 초에 세워졌고, 상업과 풍작의 신을 모셔요.",
+    "입구 가까운 구간만 걸어도 볼거리가 충분하고, 산길을 오르면 사람이 줄어 조용히 걸을 수 있어요."
+  ]
 }

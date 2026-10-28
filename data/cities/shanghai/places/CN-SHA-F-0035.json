@@ -39,7 +39,11 @@
   ],
   "tip": "해 질 녘에 들어가 야경으로 이어지는 시간대가 좋아요.",
   "order": [
-    "<b>Cocktail</b> 칵테일"
+    "<b>Cocktail</b> 칵테일",
+    "<b>VUE Martini</b> 뷰 마티니(시그니처)",
+    "<b>Bund Mojito</b> 와이탄 모히토",
+    "<b>VUE Elixir</b> 뷰 엘릭서",
+    "<b>Champagne</b> 샴페인"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -58,7 +62,9 @@
   "verified_at": null,
   "sources": [
     "https://en.wikipedia.org/wiki/The_Bund",
-    "https://zh.wikipedia.org/wiki/%E5%A4%96%E6%BB%A9"
+    "https://zh.wikipedia.org/wiki/%E5%A4%96%E6%BB%A9",
+    "https://www.therooftopguide.com/rooftop-bars-in-shanghai/vue-bar-at-the-hyatt-on-the-bund.html",
+    "https://www.tripadvisor.co.uk/Attraction_Review-g308272-d4052561-Reviews-or20-VUE_Bar-Shanghai.html"
   ],
   "meta": {
     "priority": 2,
@@ -76,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.381Z"
 }

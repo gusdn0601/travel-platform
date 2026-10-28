@@ -42,7 +42,11 @@
   "tip": "점심 오픈 직전에 도착하면 대기가 짧아요.",
   "order": [
     "<b>せいろ蒸し</b> 세이로무시(찜통 장어 덮밥)",
-    "<b>う巻き</b> 장어 계란말이"
+    "<b>う巻き</b> 장어 계란말이",
+    "<b>うなぎのせいろ蒸し</b> 장어 찜밥",
+    "<b>うな重</b> 장어 덮밥",
+    "<b>うなぎ茶漬け</b> 장어 차즈케",
+    "<b>肝吸い</b> 간장어 맑은국"
   ],
   "open_hours": null,
   "stay_min": 80,
@@ -80,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:00.866Z"
 }

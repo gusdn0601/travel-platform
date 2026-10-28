@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Kita-ku, Kyōto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:19.419Z"
+  "sanitized_at": "2026-10-28T11:16:38.942Z",
+  "origin": [
+    "가미가모 신사는 교토에서 가장 오래된 신사 중 하나로 알려진 곳이에요.",
+    "전승에 따르면 7세기에 세워졌고, 가모강 상류의 신을 모셔요.",
+    "널찍한 경내와 긴 참배길이 차분한 분위기를 만들어요.",
+    "하류의 시모가모 신사와 함께 둘러보는 코스가 정석이에요."
+  ]
 }

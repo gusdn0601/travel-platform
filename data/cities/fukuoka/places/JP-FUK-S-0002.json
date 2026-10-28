@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Japanese castle in Fukuoka city",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 성터로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:33.742Z"
+  "sanitized_at": "2026-10-28T11:17:31.899Z",
+  "origin": [
+    "후쿠오카성터는 마이즈루 공원 안에 남아 있는 성터예요.",
+    "천수각은 남아 있지 않지만 돌담과 성문 터가 보존되어 있어요.",
+    "넓은 잔디밭과 산책로가 있어 도심에서 쉬기 좋아요.",
+    "봄에는 벚꽃 명소로 꼽혀 사람이 많이 찾아요."
+  ]
 }

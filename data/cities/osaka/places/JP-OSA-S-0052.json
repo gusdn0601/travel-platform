@@ -1,0 +1,83 @@
+{
+  "id": "pl_69329e4e3a",
+  "code": "JP-OSA-S-0052",
+  "city_id": "JP-OSA",
+  "slug": "osaka-museum-natural-history",
+  "kind": "sight",
+  "name_ko": "오사카시립 자연사 박물관",
+  "name_sub": "Osaka Museum of Natural History",
+  "name_local": "大阪市立自然史博物館",
+  "lat": 34.61037,
+  "lng": 135.52256,
+  "area": "나가이",
+  "lead": "나가이 공원 안의 자연사 박물관. 오사카 지역의 자연과 화석 전시가 중심이에요.",
+  "facts": [
+    [
+      "종류",
+      "자연사 박물관"
+    ],
+    [
+      "특징",
+      "지역 자연·화석"
+    ],
+    [
+      "위치",
+      "나가이 공원"
+    ],
+    [
+      "함께",
+      "식물원"
+    ]
+  ],
+  "origin": [
+    "오사카시립 자연사 박물관은 나가이 공원 안에 있는 자연사 박물관이에요.",
+    "오사카와 간사이 지역의 지질, 동식물, 화석을 다루는 전시가 중심이에요.",
+    "규모가 크지 않아 아이와 한두 시간 둘러보기 좋고, 같은 공원의 식물원과 함께 보기 편해요.",
+    "비 오는 날 실내 일정으로 활용하기 좋아요."
+  ],
+  "tip": "식물원과 입장권을 함께 확인하면 동선을 짜기 쉬워요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 약 300엔(추정)",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "자연사",
+    "아이",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪市立自然史博物館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Osaka_Museum_of_Natural_History",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E8%87%AA%E7%84%B6%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B1%85%E5%85%AC%E5%9C%92",
+    "https://www.openstreetmap.org/way/462894544"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 39,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 아이 박물관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:22.192Z"
+}

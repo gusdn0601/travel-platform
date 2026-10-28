@@ -1,0 +1,82 @@
+{
+  "id": "pl_873adcd55b",
+  "code": "JP-KYO-S-0074",
+  "city_id": "JP-KYO",
+  "slug": "nishi-honganji",
+  "kind": "sight",
+  "name_ko": "니시혼간지",
+  "name_sub": "Nishi Hongan-ji",
+  "name_local": "西本願寺",
+  "lat": 34.99205,
+  "lng": 135.75161,
+  "area": "교토역 서쪽",
+  "lead": "교토역 서쪽의 큰 사찰. 국보 건물과 거대한 은행나무가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "정토진종 사찰"
+    ],
+    [
+      "특징",
+      "국보 건축"
+    ],
+    [
+      "위치",
+      "교토역 서쪽"
+    ],
+    [
+      "입장",
+      "무료 구역"
+    ]
+  ],
+  "origin": [
+    "니시혼간지는 교토역 서쪽에 자리한 정토진종의 큰 사찰이에요.",
+    "여러 건물이 국보와 중요문화재로 지정되어 있어 건축을 보러 오는 사람도 많아요.",
+    "경내는 무료로 열려 있어 부담 없이 둘러볼 수 있어요.",
+    "가을에는 은행나무 잎이 노랗게 물들어 사진 찍기 좋아요."
+  ],
+  "tip": "경내는 무료지만 일부 건물은 관람 시간이 정해져 있어요.",
+  "open_hours": "Mo-Su 05:30-17:00 (OSM)",
+  "stay_min": 50,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "국보",
+    "무료",
+    "건축"
+  ],
+  "art_key": "temple",
+  "local_search": "西本願寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nishi_Hongan-ji",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E9%A1%98%E5%AF%BA",
+    "https://www.openstreetmap.org/way/372460724"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 57,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 무료 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:24.938Z"
+}

@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "National Garden in Kyoto",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 산책 공원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:09.401Z"
+  "sanitized_at": "2026-10-28T11:16:38.935Z",
+  "origin": [
+    "교토 교엔은 옛 황궁을 둘러싼 넓은 정원이에요.",
+    "자갈길과 잔디, 나무가 넓게 펼쳐져 도심 속에서 여유를 느낄 수 있어요.",
+    "계절마다 꽃이 바뀌어 봄과 가을에 걷기 좋아요.",
+    "무료로 열려 있어 근처 사찰과 함께 가볍게 들르기 좋아요."
+  ]
 }

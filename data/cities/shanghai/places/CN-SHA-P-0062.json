@@ -1,0 +1,87 @@
+{
+  "id": "pl_1b0ba6d66e",
+  "code": "CN-SHA-P-0062",
+  "city_id": "CN-SHA",
+  "slug": "tianshan-tea-city",
+  "kind": "shop",
+  "name_ko": "톈산차성",
+  "name_sub": "Tianshan Tea City",
+  "name_local": "天山茶城",
+  "lat": 31.21478,
+  "lng": 121.40709,
+  "area": "창닝/톈산",
+  "lead": "차 도매상이 모인 시장. 우롱차와 보이차를 시음하며 고를 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "차 전문 시장"
+    ],
+    [
+      "위치",
+      "창닝구 톈산 일대"
+    ],
+    [
+      "상품",
+      "우롱차 · 보이차 · 다기"
+    ],
+    [
+      "특징",
+      "시음 · 도매"
+    ]
+  ],
+  "origin": [
+    "톈산차성은 창닝구 톈산 일대에 형성된 차 전문 시장이에요.",
+    "여러 가게가 우롱차와 보이차, 녹차를 진열하고 시음을 권해요.",
+    "도매 성격이 강해 소매보다 값이 합리적인 경우가 있어요.",
+    "차를 좋아하는 여행자에게는 다양한 중국 차를 비교해 볼 수 있는 곳이에요."
+  ],
+  "practical": [
+    "가게별 가격 차이가 커요",
+    "현금 할인을 제안하는 곳도 있어요"
+  ],
+  "tip": "시음 후 구매하고, 포장과 가격을 확인하세요. 흥정이 가능한 가게도 있어요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "차",
+    "시장",
+    "기념품",
+    "선물"
+  ],
+  "art_key": "tea",
+  "local_search": "天山茶城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://map.baidu.com/search/%E5%A4%A9%E5%B1%B1%E8%8C%B6%E5%9F%8E",
+    "https://www.openstreetmap.org/way/443640063"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 차 시장로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://www.openstreetmap.org/way/443640063",
+        "https://map.baidu.com/search/%E5%A4%A9%E5%B1%B1%E8%8C%B6%E5%9F%8E"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.987Z"
+}

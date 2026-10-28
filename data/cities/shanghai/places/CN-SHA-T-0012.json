@@ -1,0 +1,90 @@
+{
+  "id": "pl_3d62f0cf5c",
+  "code": "CN-SHA-T-0012",
+  "city_id": "CN-SHA",
+  "slug": "jingan-temple-station",
+  "kind": "transit",
+  "name_ko": "징안사역",
+  "name_sub": "Jing'an Temple Station",
+  "name_local": "静安寺站",
+  "lat": 31.22308,
+  "lng": 121.44622,
+  "area": "징안/난징시루",
+  "lead": "징안사 바로 아래의 환승역. 2·7·14호선이 만나 시내 이동이 편해요.",
+  "facts": [
+    [
+      "노선",
+      "2·7·14호선"
+    ],
+    [
+      "위치",
+      "징안사 앞"
+    ],
+    [
+      "주변",
+      "징안사 · 난징시루"
+    ],
+    [
+      "특징",
+      "다중 환승역"
+    ]
+  ],
+  "origin": [
+    "징안사역은 황금빛 징안사 바로 아래에 있는 지하철역이에요.",
+    "2·7·14호선이 만나 환승이 편하고, 난징시루 쇼핑 구역과도 가까워요.",
+    "역을 나오면 사찰과 고층 빌딩이 마주 보는 상하이다운 풍경이 펼쳐져요.",
+    "쇼핑과 관광을 함께 하려는 여행자가 자주 이용해요."
+  ],
+  "practical": [
+    "환승 통로가 긴 편이에요",
+    "사찰 방향 출구는 사람이 많아요"
+  ],
+  "tip": "징안사 관람과 난징시루 쇼핑을 같은 날 묶기 좋아요. 출구 번호를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "징안사",
+    "환승",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "静安寺站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jing'an_Temple_station",
+    "https://zh.wikipedia.org/wiki/%E9%9D%99%E5%AE%89%E5%AF%BA%E7%AB%99",
+    "https://www.openstreetmap.org/node/8364473746"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1939,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 징안사 관광 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jing'an_Temple_station",
+        "https://zh.wikipedia.org/wiki/%E9%9D%99%E5%AE%89%E5%AF%BA%E7%AB%99",
+        "https://www.openstreetmap.org/node/8364473746"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:29.292Z"
+}

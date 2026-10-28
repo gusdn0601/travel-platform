@@ -1,0 +1,88 @@
+{
+  "id": "pl_09e787b77e",
+  "code": "CN-SHA-P-0021",
+  "city_id": "CN-SHA",
+  "slug": "global-harbor",
+  "kind": "shop",
+  "name_ko": "글로벌하버",
+  "name_sub": "Global Harbor",
+  "name_local": "环球港",
+  "lat": 31.23417,
+  "lng": 121.40789,
+  "area": "푸퉈",
+  "lead": "푸퉈의 초대형 쇼핑몰. 유럽식 건물과 넓은 실내 공간이 특징이에요.",
+  "facts": [
+    [
+      "개장",
+      "2013년"
+    ],
+    [
+      "성격",
+      "초대형 복합 몰"
+    ],
+    [
+      "접근",
+      "지하철 3·4·13호선 진사장루역"
+    ],
+    [
+      "특징",
+      "유럽풍 외관 · 대형 돔"
+    ]
+  ],
+  "origin": [
+    "글로벌하버는 푸퉈구에 세워진 대형 쇼핑몰로, 유럽 고전 건축을 본뜬 외관과 유리 돔이 눈에 띄어요.",
+    "쇼핑 매장과 식당, 영화관, 전망 시설이 한 건물에 모여 있어 하루를 보내기 좋아요.",
+    "관광지 중심에서 벗어나 있어 현지 가족 단위 방문객이 많아요.",
+    "규모가 커서 동선을 정하고 움직이는 편이 좋아요."
+  ],
+  "practical": [
+    "지하철 3·4호선과 13호선이 만나 접근이 편해요",
+    "주말에는 주차장이 일찍 차요"
+  ],
+  "tip": "입구에서 층별 안내를 확인하고 관심 매장을 먼저 정하세요. 걸을 거리가 많아요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "몰",
+    "가족",
+    "전망"
+  ],
+  "art_key": "mall",
+  "local_search": "环球港",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E7%8E%AF%E7%90%83%E6%B8%AF",
+    "https://www.openstreetmap.org/way/298481570"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 223,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 서북부 대형 몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E7%8E%AF%E7%90%83%E6%B8%AF",
+        "https://www.openstreetmap.org/way/298481570"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.593Z"
+}

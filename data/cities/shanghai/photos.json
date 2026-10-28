@@ -482,5 +482,68 @@
     "credit": "Chainwit. · CC BY 4.0 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "source_url": "https://commons.wikimedia.org/wiki/File:(2024)_Mahavira_Hall,_Jade_Buddha_Temple,_Shanghai_-_img_04.jpg"
+  },
+  {
+    "id": "CN-SHA-P-0010-P1",
+    "place_id": "pl_3a269c2d62",
+    "file": "photos/CN-SHA-P-0010/1.jpg",
+    "caption": "신톈디",
+    "credit": "ヌンヌン · CC BY 2.0 · Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Xintiandi5.jpg"
+  },
+  {
+    "id": "CN-SHA-P-0011-P1",
+    "place_id": "pl_9cf6c9148c",
+    "file": "photos/CN-SHA-P-0011/1.jpg",
+    "caption": "톈쯔팡",
+    "credit": "lienyuan lee · CC BY 3.0 · Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shanghai_Tianzifang_%E4%B8%8A%E6%B5%B7%E7%94%B0%E5%AD%90%E5%9D%8A_-_panoramio.jpg"
+  },
+  {
+    "id": "CN-SHA-P-0033-P1",
+    "place_id": "pl_673087839c",
+    "file": "photos/CN-SHA-P-0033/1.jpg",
+    "caption": "샘스클럽",
+    "credit": "Wikideas1 · CC0 · Wikimedia Commons",
+    "license": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sam's_Club_in_Onalaska.jpg"
+  },
+  {
+    "id": "CN-SHA-P-0040-P1",
+    "place_id": "pl_881bfb49fe",
+    "file": "photos/CN-SHA-P-0040/1.jpg",
+    "caption": "따룬파",
+    "credit": "玄史生 · CC0 · Wikimedia Commons",
+    "license": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:RT-MART_Neihu_No.2_Store_20140928.jpg"
+  },
+  {
+    "id": "CN-SHA-T-0005-P1",
+    "place_id": "pl_d5f6448908",
+    "file": "photos/CN-SHA-T-0005/1.jpg",
+    "caption": "상하이남역",
+    "credit": "Eugene Regis · CC BY 2.0 · Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shanghai_South_Railway_Station_01.jpg"
+  },
+  {
+    "id": "CN-SHA-T-0006-P1",
+    "place_id": "pl_de05dbf5b9",
+    "file": "photos/CN-SHA-T-0006/1.jpg",
+    "caption": "마그레브(자기부상열차)",
+    "credit": "User Alex Needham (own photography) on en.wikipedia · Public domain · Wikimedia Commons",
+    "license": "Public domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A_maglev_train_coming_out,_Pudong_International_Airport,_Shanghai.jpg"
+  },
+  {
+    "id": "CN-SHA-T-0013-P1",
+    "place_id": "pl_be0f66c7a3",
+    "file": "photos/CN-SHA-T-0013/1.jpg",
+    "caption": "쉬자후이역",
+    "credit": "4084470 0.smil · CC BY 4.0 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Full_Platform_of_Xujiahui_Station_of_Shanghai_Metro_Line_1_20250831.jpg"
   }
 ]

@@ -1,0 +1,81 @@
+{
+  "id": "pl_0d2660cb88",
+  "code": "JP-KYO-S-0085",
+  "city_id": "JP-KYO",
+  "slug": "fuufu-no-yu-arashiyama",
+  "kind": "sight",
+  "name_ko": "아라시야마 온천 후후노유",
+  "name_sub": "Arashiyama Onsen Fuufu no Yu",
+  "name_local": "嵐山温泉 風風の湯",
+  "lat": 35.01146,
+  "lng": 135.6804,
+  "area": "아라시야마",
+  "lead": "아라시야마의 온천 시설. 산책 후 노천탕으로 피로를 풀기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "온천"
+    ],
+    [
+      "특징",
+      "노천탕·족욕"
+    ],
+    [
+      "위치",
+      "아라시야마"
+    ],
+    [
+      "함께",
+      "대나무 숲 산책"
+    ]
+  ],
+  "origin": [
+    "후후노유는 아라시야마에 있는 온천 시설이에요.",
+    "대나무 숲과 강변을 걷고 난 뒤 노천탕에서 쉬기 좋아요.",
+    "족욕만 이용하는 방법도 있어 짧게 들르기 편해요.",
+    "수건과 입욕료는 현장에서 확인하는 편이 좋아요."
+  ],
+  "tip": "족욕과 입욕 요금이 달라요. 산책 후 들르면 동선이 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입욕료 약 800엔(추정)",
+  "must": 0,
+  "tags": [
+    "온천",
+    "아라시야마",
+    "휴식",
+    "족욕"
+  ],
+  "art_key": "onsen",
+  "local_search": "嵐山温泉 風風の湯",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%B5%90%E5%B1%B1",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E9%8A%AD%E6%B9%AF",
+    "https://www.openstreetmap.org/node/4269820512"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 온천로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:46.146Z"
+}

@@ -66,7 +66,21 @@
     "addr_basis": "osm-tags",
     "entity": "Zen Buddhist temple in Kyoto, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:39.773Z"
+  "sanitized_at": "2026-10-28T11:16:38.932Z",
+  "origin": [
+    "킨카쿠지는 연못가에 세워진 누각에 금박을 입힌 사찰이에요.",
+    "14세기 말 쇼군 아시카가 요시미쓰가 지은 별장에서 시작해 사찰로 바뀌었다고 알려져 있어요.",
+    "누각이 연못에 비치는 풍경이 대표 사진으로 꼽히고, 관람 동선이 짧아 부담 없이 돌 수 있어요.",
+    "오전 일찍 가면 사람이 적어 한적하게 볼 수 있어요."
+  ]
 }

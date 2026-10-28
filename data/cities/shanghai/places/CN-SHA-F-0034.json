@@ -35,12 +35,15 @@
   ],
   "practical": [
     "사전 예약 필수",
-    "드레스코드 권장"
+    "드레스코드 권장",
+    "2022년 2월 폐업 보도가 있어 방문 전 확인(현장 영업 여부 미확인)"
   ],
   "tip": "가성비를 원하면 점심 세트가 부담이 덜해요.",
   "order": [
     "<b>Pavlova</b> 파블로바",
-    "<b>Lunch Set</b> 런치 세트"
+    "<b>Lunch Set</b> 런치 세트",
+    "<b>Crispy Suckling Pig</b> 바삭한 새끼돼지구이",
+    "<b>Smoked Salmon</b> 훈제 연어"
   ],
   "open_hours": null,
   "stay_min": 120,
@@ -54,14 +57,16 @@
   "art_key": "bund",
   "local_search": "外滩5号 M on the Bund",
   "photos": [],
-  "status": "drafted",
+  "status": "closed",
   "version": 1,
   "verified_at": "2026-10-28",
   "sources": [
     "https://en.wikipedia.org/wiki/M_on_the_Bund",
     "https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B0%8F%E8%A5%BF%E9%A4%90%E5%8E%85",
     "https://www.openstreetmap.org/node/1887575215",
-    "https://en.wikipedia.org/wiki/M_on_the_Bund"
+    "https://en.wikipedia.org/wiki/M_on_the_Bund",
+    "https://www.smartshanghai.com/articles/dining/m-on-the-bund-and-glam-to-close-february-2022-2021-12-14",
+    "https://www.top25index.com/china/shanghai/restaurant/m-on-the-bund/"
   ],
   "meta": {
     "priority": 2,
@@ -84,7 +89,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.380Z"
 }

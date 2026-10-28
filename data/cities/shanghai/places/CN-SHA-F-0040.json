@@ -1,0 +1,100 @@
+{
+  "id": "pl_dbjcw0001",
+  "code": "CN-SHA-F-0040",
+  "city_id": "CN-SHA",
+  "slug": "dongbei-jicaiwang",
+  "kind": "food",
+  "name_ko": "둥베이 지차이왕",
+  "name_sub": "Dongbei Jicai Wang",
+  "name_local": "东北吉菜王(北宝兴路店)",
+  "addr_local": "上海市静安区北宝兴路272号",
+  "lat": null,
+  "lng": null,
+  "area": "징안·다닝",
+  "lead": "꿔바로우와 눈처럼 흰 팥 디저트 쑤에이더우사로 소문난 지린 요리집. 꿔바로우를 먹으러 일부러 찾아가는 단골이 많은 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "둥베이(지린) 요리"
+    ],
+    [
+      "대표",
+      "锅包肉 · 雪衣豆沙"
+    ],
+    [
+      "위치",
+      "북보흥로 272호, 옌창루역 도보 15분"
+    ],
+    [
+      "1인",
+      "60~80위안 추정"
+    ]
+  ],
+  "origin": [
+    "꿔바로우는 청나라 말 지린성 하얼빈의 관청 요리사가 만든 요리로 알려져 있어요. 러시아 손님 입맛에 맞추려고 간장 대신 설탕과 식초로 새콤달콤하게 튀긴 것이 시작이라고 전해집니다.",
+    "둥베이 요리는 추운 겨울을 나기 위한 절임(酸菜), 뿌리채소, 고기 요리가 중심이에요. 상하이의 둥베이 식당은 대부분 민항·바오산 같은 외곽에 모여 있고, 이 집은 옛 자베이(闸北) 쪽에서 오래 자리를 지켰어요.",
+    "상하이에서 꿔바로우는 한국 여행자 사이에서도 검색어로 자주 오르는 메뉴예요. 이 집은 꿔바로우와 쑤에이더우사를 함께 주문하는 조합으로 알려져 있습니다."
+  ],
+  "details": [
+    {
+      "t": "쑤에이더우사란?",
+      "d": "달걀흰자를 눈처럼 부풀려 팥소를 감싼 뒤 튀긴 디저트예요. 겉은 솜사탕처럼 가볍고 속은 달콤해요. 만드는 데 손이 많이 가서 요즘은 취급하는 집이 줄었다고 해요."
+    },
+    {
+      "t": "한국식 탕수육과 비교",
+      "d": "꿔바로우는 찹쌀가루를 섞어 겉을 더 바삭하게 튀기고, 소스는 식초 향이 강한 편이에요. 부먹·찍먹 논쟁처럼 소스를 따로 내는지 물어보세요."
+    }
+  ],
+  "practical": [
+    "웨이팅이 길 수 있어 개점 직후나 늦은 저녁이 비교적 수월해요",
+    "꿔바로우는 튀김 요리라 포장하면 식감이 떨어져요 — 매장 식사 권장",
+    "영업시간은 출처마다 달라 방문 전 전화 확인(021-36531175) 권장"
+  ],
+  "tip": "꿔바로우 + 쑤에이더우사 조합이 이 집의 정석이에요. 식초 향이 강하니 아이와 함께라면 미리 물어보세요.",
+  "order": [
+    "<b>锅包肉</b> 꿔바로우(새콤달콤 돼지고기 튀김)",
+    "<b>雪衣豆沙</b> 쑤에이더우사(달걀흰자 팥 튀김 디저트)",
+    "<b>地三鲜</b> 디싼시엔(가지·감자·피망 볶음)",
+    "<b>酸菜猪肉饺子</b> 절인 배추 돼지고기 만두"
+  ],
+  "open_hours": "10:00~14:00, 16:30~24:00 무렵(출처별 상이)",
+  "stay_min": 70,
+  "price_hint": "1인 60~80위안 추정",
+  "must": 0,
+  "tags": [
+    "꿔바로우",
+    "둥베이요리",
+    "노포"
+  ],
+  "art_key": "food",
+  "local_search": "东北吉菜王 北宝兴路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.dianhua.cn/dt/18a571b902be45a8bdcf0e65fe6a38ff/d52255b95a8ba60017cc1779adaaa6be",
+    "https://baike.so.com/doc/9450235-9791724.html"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge + cuisine history; menu from public listings (see sources[])",
+    "popularity": {
+      "note": "상하이 꿔바로우 검색에서 자주 언급되는 집(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:20:00.000Z"
+}

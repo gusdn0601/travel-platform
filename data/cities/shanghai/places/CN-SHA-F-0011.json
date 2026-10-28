@@ -39,7 +39,11 @@
   ],
   "tip": "길게 서야 한다면 오전 일찍이나 비수기 시간대가 나아요.",
   "order": [
-    "<b>葱油饼</b> 파전 한 장"
+    "<b>葱油饼</b> 파전 한 장",
+    "<b>葱油饼</b> 총요우빙(파기름 부침개)",
+    "<b>鸡蛋葱油饼</b> 계란 총요우빙",
+    "<b>鸡肉葱油饼</b> 닭고기 총요우빙",
+    "<b>黑猪肉葱油饼</b> 흑돼지 총요우빙"
   ],
   "open_hours": null,
   "stay_min": 20,
@@ -59,7 +63,9 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Scallion_pancake",
     "https://zh.wikipedia.org/wiki/%E8%91%B1%E6%B2%B9%E9%A5%BC",
-    "https://www.openstreetmap.org/node/5040158726"
+    "https://www.openstreetmap.org/node/5040158726",
+    "https://finance.sina.cn/2025-07-02/detail-infeafyk5815651.d.html",
+    "https://m.gmw.cn/toutiao/2025-04/22/content_1304020405.htm"
   ],
   "meta": {
     "priority": 2,
@@ -79,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.066Z"
 }

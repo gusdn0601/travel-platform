@@ -1,0 +1,83 @@
+{
+  "id": "pl_a1c248d8a6",
+  "code": "JP-NAR-T-0007",
+  "city_id": "JP-NAR",
+  "slug": "tenri-station",
+  "kind": "transit",
+  "name_ko": "덴리역",
+  "name_sub": "Tenri Station",
+  "name_local": "天理駅",
+  "lat": 34.60102,
+  "lng": 135.83007,
+  "area": "덴리",
+  "lead": "나라 남동부로 가는 관문역. 덴리와 이소노카미 방면 이동에 이용해요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "JR·긴테쓰"
+    ],
+    [
+      "위치",
+      "덴리"
+    ],
+    [
+      "연결",
+      "이소노카미·야마토 신사"
+    ]
+  ],
+  "origin": [
+    "덴리역은 나라 남동부 덴리시의 중심역이에요.",
+    "JR과 긴테쓰가 지나며, 이소노카미 신궁과 야마토 신사 방면으로 이동할 때 이용해요.",
+    "역 주변에 상점과 식당이 있어 잠깐 쉬기 좋아요.",
+    "나라 시내에서 전철로 짧게 이동할 수 있어요."
+  ],
+  "tip": "신사 방면 버스 시간을 미리 확인하세요. 배차가 길 수 있어요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "역",
+    "교통",
+    "교외",
+    "환승"
+  ],
+  "art_key": "station",
+  "local_search": "天理駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tenri_Station",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%90%86%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%90%86%E5%B8%82",
+    "https://www.openstreetmap.org/node/9647896122"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 68,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 교외 이동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:10.239Z"
+}

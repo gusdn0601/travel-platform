@@ -1,0 +1,85 @@
+{
+  "id": "pl_705e33f5fc",
+  "code": "CN-SHA-P-0044",
+  "city_id": "CN-SHA",
+  "slug": "hongqiao-pearl-city",
+  "kind": "shop",
+  "name_ko": "훙차오 진주시장",
+  "name_sub": "Hongqiao Pearl City",
+  "name_local": "虹桥国际珍珠城",
+  "lat": null,
+  "lng": null,
+  "area": "창닝/훙차오",
+  "lead": "훙차오의 진주 전문 시장. 목걸이와 귀걸이를 골라 살 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "진주·보석 시장"
+    ],
+    [
+      "위치",
+      "훙차오 일대"
+    ],
+    [
+      "상품",
+      "진주 목걸이 · 귀걸이"
+    ],
+    [
+      "주의",
+      "감정서 확인"
+    ]
+  ],
+  "origin": [
+    "훙차오 진주시장은 상하이 서쪽 훙차오 일대에 형성된 진주·보석 상가예요.",
+    "가게마다 진주 목걸이와 귀걸이, 원석을 진열해 두고 그 자리에서 골라 살 수 있어요.",
+    "한국 여행자에게는 가성비 좋은 진주 액세서리로 알려져 있어요.",
+    "천연 진주와 모조품이 섞여 있을 수 있으니 감정서와 품질을 확인해야 해요."
+  ],
+  "practical": [
+    "현금 할인이 있는 경우가 있어요",
+    "고가품은 여러 가게를 비교하세요"
+  ],
+  "tip": "가격 흥정이 일반적이에요. 감정서를 요청하고 카드 결제 가능 여부를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "진주",
+    "기념품",
+    "시장",
+    "보석"
+  ],
+  "art_key": "market",
+  "local_search": "虹桥国际珍珠城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://map.baidu.com/search/%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E7%8F%8D%E7%8F%A0%E5%9F%8E",
+    "https://www.openstreetmap.org/search?query=%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E7%8F%8D%E7%8F%A0%E5%9F%8E"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 진주 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://map.baidu.com/search/%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E7%8F%8D%E7%8F%A0%E5%9F%8E",
+        "https://www.openstreetmap.org/search?query=%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E7%8F%8D%E7%8F%A0%E5%9F%8E"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.955Z"
+}

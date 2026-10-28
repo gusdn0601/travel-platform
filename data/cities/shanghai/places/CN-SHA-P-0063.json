@@ -1,0 +1,85 @@
+{
+  "id": "pl_92d10681de",
+  "code": "CN-SHA-P-0063",
+  "city_id": "CN-SHA",
+  "slug": "miniso",
+  "kind": "shop",
+  "name_ko": "미니소",
+  "name_sub": "MINISO",
+  "name_local": "名创优品",
+  "lat": null,
+  "lng": null,
+  "area": "도심 몰·거리",
+  "lead": "저렴한 생활잡화와 캐릭터 상품을 파는 매장. 가벼운 선물을 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "생활잡화 브랜드"
+    ],
+    [
+      "창업",
+      "2013년"
+    ],
+    [
+      "상품",
+      "생활용품 · 문구 · 캐릭터"
+    ],
+    [
+      "특징",
+      "저렴한 가격"
+    ]
+  ],
+  "origin": [
+    "미니소는 2013년 중국에서 시작한 생활잡화 브랜드예요.",
+    "문구와 주방용품, 화장품, 캐릭터 콜라보 상품을 저렴하게 팔아 젊은 층이 많이 찾아요.",
+    "상하이의 쇼핑 거리와 몰에 매장이 많아 여행 중 가볍게 들르기 좋아요.",
+    "한국에서도 알려진 브랜드라 비교해 보는 재미가 있어요."
+  ],
+  "practical": [
+    "매장별 상품 구성이 달라요",
+    "품질 편차가 있을 수 있어요"
+  ],
+  "tip": "캐릭터 콜라보 상품은 한정 판매가 많아요. 가격이 저렴해 선물용으로 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "생활용품",
+    "잡화",
+    "선물"
+  ],
+  "art_key": "shop",
+  "local_search": "名创优品",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/MINISO",
+    "https://www.miniso.com/"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 생활잡화 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/MINISO",
+        "https://www.miniso.com/"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.988Z"
+}

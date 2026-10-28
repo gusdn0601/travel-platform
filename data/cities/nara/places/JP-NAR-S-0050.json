@@ -1,0 +1,83 @@
+{
+  "id": "pl_e887366ec8",
+  "code": "JP-NAR-S-0050",
+  "city_id": "JP-NAR",
+  "slug": "sarusawa-pond",
+  "kind": "sight",
+  "name_ko": "사루사와 연못",
+  "name_sub": "Sarusawa Pond",
+  "name_local": "猿沢池",
+  "lat": 34.68139,
+  "lng": 135.83083,
+  "area": "나라마치",
+  "lead": "나라마치 입구의 작은 연못. 고후쿠지 오층탑이 물에 비치는 풍경이 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "연못"
+    ],
+    [
+      "특징",
+      "탑 그림자"
+    ],
+    [
+      "위치",
+      "나라마치 입구"
+    ],
+    [
+      "시간대",
+      "저녁 노을"
+    ]
+  ],
+  "origin": [
+    "사루사와 연못은 나라마치와 고후쿠지를 잇는 자리에 있는 작은 연못이에요.",
+    "연못 너머로 고후쿠지 오층탑이 보여 사진 찍기 좋은 자리로 알려져 있어요.",
+    "저녁에는 주변 불빛과 노을이 물에 비쳐 분위기가 달라져요.",
+    "나라마치 산책의 시작이나 끝에 들르기 좋아요."
+  ],
+  "tip": "연못 주변은 좁은 보행로예요. 붐비는 시간에는 천천히 지나가세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "연못",
+    "산책",
+    "야경",
+    "사진"
+  ],
+  "art_key": "pond",
+  "local_search": "猿沢池",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%8C%BF%E6%B2%A2%E6%B1%A0",
+    "https://ja.wikipedia.org/wiki/%E8%88%88%E7%A6%8F%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%89%E3%81%BE%E3%81%A1",
+    "https://www.openstreetmap.org/way/59465653"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 12,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 사진 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:33.445Z"
+}

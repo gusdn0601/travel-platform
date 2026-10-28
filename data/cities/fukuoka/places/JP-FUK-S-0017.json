@@ -67,7 +67,21 @@
     "addr_basis": "osm-tags",
     "entity": "Buddhist temple in Fukuoka City, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:25.159Z"
+  "sanitized_at": "2026-10-28T11:17:31.907Z",
+  "origin": [
+    "도초지는 큰 와불로 알려진 사찰이에요.",
+    "하카타 구시가의 사찰 구역 안에 있어 다른 절과 함께 걸을 수 있어요.",
+    "경내가 넓지 않아 짧게 둘러보기 좋아요.",
+    "구시다 신사와 가까워 함께 묶는 일정이 많아요."
+  ]
 }

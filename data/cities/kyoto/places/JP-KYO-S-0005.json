@@ -60,7 +60,21 @@
     "addr_basis": null,
     "entity": "Bamboo forest in Arashiyama, Kyoto",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 산책로로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:52.005Z"
+  "sanitized_at": "2026-10-28T11:16:38.933Z",
+  "origin": [
+    "아라시야마 대나무 숲은 하늘로 뻗은 대나무가 양쪽을 채우는 산책로예요.",
+    "길이가 길지 않아 천천히 걸어도 금방 지나가요.",
+    "대나무 사이로 스며드는 빛과 바람 소리가 분위기를 만들어 사진 찍는 사람이 많아요.",
+    "이른 아침이나 해질 무렵에 가면 비교적 한적해요."
+  ]
 }

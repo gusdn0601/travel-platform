@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Japanese garden in Nara, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:04.106Z"
+  "sanitized_at": "2026-10-28T11:17:02.735Z",
+  "origin": [
+    "요시키엔은 나라 공원 근처에 있는 일본 정원이에요.",
+    "연못과 이끼 정원, 다실이 차분하게 배치되어 있어요.",
+    "계절마다 꽃과 나무 색이 달라져 같은 자리에서도 풍경이 바뀌어요.",
+    "사찰 관람 사이에 잠깐 쉬어 가기 좋아요."
+  ]
 }

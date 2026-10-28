@@ -40,7 +40,11 @@
   "order": [
     "<b>东坡肉</b> 동파육",
     "<b>茶香鸡</b> 차 향 닭",
-    "<b>面包诱惑</b> 시그니처 디저트"
+    "<b>面包诱惑</b> 시그니처 디저트",
+    "<b>茶香鸡</b> 차향 닭",
+    "<b>红烧肉</b> 홍샤오러우",
+    "<b>麻婆豆腐</b> 마파두부",
+    "<b>外婆小炒</b> 웨이포 볶음"
   ],
   "open_hours": null,
   "stay_min": 80,
@@ -80,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.371Z"
 }

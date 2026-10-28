@@ -1,0 +1,84 @@
+{
+  "id": "pl_4e5101f583",
+  "code": "CN-SHA-P-0036",
+  "city_id": "CN-SHA",
+  "slug": "familymart",
+  "kind": "shop",
+  "name_ko": "패밀리마트",
+  "name_sub": "FamilyMart",
+  "name_local": "全家便利店",
+  "lat": null,
+  "lng": null,
+  "area": "도심 전역",
+  "lead": "상하이에서 가장 자주 보이는 편의점 중 하나. 간식과 음료, 생활용품이 갖춰져 있어요.",
+  "facts": [
+    [
+      "성격",
+      "편의점 체인"
+    ],
+    [
+      "진출",
+      "2004년 상하이"
+    ],
+    [
+      "영업",
+      "24시간 매장이 많음"
+    ],
+    [
+      "결제",
+      "위챗페이 · 알리페이"
+    ]
+  ],
+  "origin": [
+    "패밀리마트는 2004년 상하이에 진출한 일본계 편의점이에요.",
+    "이후 점포 수를 크게 늘려 지금은 상하이 곳곳에서 쉽게 볼 수 있어요.",
+    "도시락과 삼각김밥, 빵, 음료와 함께 우산·충전기 같은 생활용품도 팔아요.",
+    "한국 편의점과 구성이 비슷해 여행 중 빠르게 끼니를 해결하기 좋아요."
+  ],
+  "practical": [
+    "현금 없이 앱 결제가 일반적이에요",
+    "24시간이 아닌 매장도 있어요"
+  ],
+  "tip": "따뜻하게 데워 주는 도시락과 차 음료가 편해요. 매장별로 파는 상품이 조금씩 달라요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "편의점",
+    "간식",
+    "생활용품"
+  ],
+  "art_key": "shop",
+  "local_search": "全家便利店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/FamilyMart",
+    "https://zh.wikipedia.org/wiki/FamilyMart"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 편의점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/FamilyMart",
+        "https://zh.wikipedia.org/wiki/FamilyMart"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.943Z"
+}

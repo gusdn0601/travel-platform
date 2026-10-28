@@ -1,0 +1,83 @@
+{
+  "id": "pl_43cec52672",
+  "code": "JP-FUK-S-0049",
+  "city_id": "JP-FUK",
+  "slug": "miyajidake-shrine",
+  "kind": "sight",
+  "name_ko": "미야지다케 신사",
+  "name_sub": "Miyajidake Shrine",
+  "name_local": "宮地嶽神社",
+  "lat": 33.77972,
+  "lng": 130.48611,
+  "area": "후쿠쓰",
+  "lead": "바다를 향해 뻗은 참배길로 알려진 신사. 일몰 철 풍경이 특히 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "바다로 이어지는 참배길"
+    ],
+    [
+      "위치",
+      "후쿠쓰"
+    ],
+    [
+      "시기",
+      "일몰 철"
+    ]
+  ],
+  "origin": [
+    "미야지다케 신사는 후쿠오카 북쪽 후쿠쓰시에 자리한 신사예요.",
+    "언덕에서 바다를 향해 뻗은 참배길이 독특한 풍경을 만들어요.",
+    "일 년에 몇 번, 참배길 끝으로 해가 지는 모습이 화제가 되어 사람이 몰려요.",
+    "평소에도 경내가 넓어 천천히 걷기 좋아요."
+  ],
+  "tip": "일몰 시기에는 교통과 주차가 혼잡해요. 대중교통 시간을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "전망",
+    "일몰",
+    "교외"
+  ],
+  "art_key": "shrine",
+  "local_search": "宮地嶽神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miyajidake_Shrine",
+    "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%B4%A5%E5%B8%82",
+    "https://www.openstreetmap.org/relation/11211626"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 39,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 일몰 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:54.923Z"
+}

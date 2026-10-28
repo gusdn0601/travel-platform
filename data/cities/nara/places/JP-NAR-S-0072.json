@@ -1,0 +1,82 @@
+{
+  "id": "pl_dc2d7af5dd",
+  "code": "JP-NAR-S-0072",
+  "city_id": "JP-NAR",
+  "slug": "taimadera",
+  "kind": "sight",
+  "name_ko": "다이마데라 (당마사)",
+  "name_sub": "Taima-dera",
+  "name_local": "当麻寺",
+  "lat": 34.51608,
+  "lng": 135.69464,
+  "area": "가쓰라기",
+  "lead": "나라 남서쪽의 오래된 사찰. 탑과 정원, 전통 공예로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "탑·정원"
+    ],
+    [
+      "위치",
+      "가쓰라기"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "다이마데라는 나라 남서쪽 가쓰라기 지역에 자리한 오래된 사찰이에요.",
+    "두 개의 탑과 정원이 남아 있어 옛 가람의 분위기를 느낄 수 있어요.",
+    "주변은 조용한 시골 풍경이라 천천히 걷기 좋아요.",
+    "나라 시내에서 전철과 버스로 이동해 반나절 코스로 다녀오기 좋아요."
+  ],
+  "tip": "대중교통 배차가 길어 왕복 시간을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "역사",
+    "탈",
+    "교외"
+  ],
+  "art_key": "temple",
+  "local_search": "当麻寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Taima-dera",
+    "https://ja.wikipedia.org/wiki/%E7%95%B6%E9%BA%BB%E5%AF%BA",
+    "https://www.openstreetmap.org/way/669223973"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 22,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 교외 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:15:20.837Z"
+}

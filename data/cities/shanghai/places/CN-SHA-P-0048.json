@@ -1,0 +1,86 @@
+{
+  "id": "pl_b889867796",
+  "code": "CN-SHA-P-0048",
+  "city_id": "CN-SHA",
+  "slug": "uniqlo-huaihai",
+  "kind": "shop",
+  "name_ko": "유니클로 화이하이 플래그십",
+  "name_sub": "Uniqlo Huaihai Global Flagship",
+  "name_local": "优衣库 淮海中路全球旗舰店",
+  "lat": 31.21911,
+  "lng": 121.45643,
+  "area": "황푸/화이하이",
+  "lead": "화이하이중루의 유니클로 대형 매장. 한국보다 저렴한 기본 의류를 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "유니클로 글로벌 플래그십"
+    ],
+    [
+      "위치",
+      "화이하이중루"
+    ],
+    [
+      "특징",
+      "대형 매장 · 한정 상품"
+    ],
+    [
+      "결제",
+      "위챗페이 · 알리페이"
+    ]
+  ],
+  "origin": [
+    "유니클로는 화이하이중루에 글로벌 플래그십 매장을 두고 있어요.",
+    "여러 층에 걸쳐 의류와 잡화를 갖춰 놓아 한국 매장보다 규모가 커요.",
+    "중국 한정 디자인과 콜라보 상품이 나오기도 해요.",
+    "기본 티셔츠와 이너웨어를 여행 중 보충하기 좋아요."
+  ],
+  "practical": [
+    "주말에는 탈의실 대기가 길어요",
+    "콜라보 상품은 조기 품절될 수 있어요"
+  ],
+  "tip": "면세 환급은 일정 금액 이상 구매 시 가능해요. 여권을 챙기세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "의류",
+    "플래그십"
+  ],
+  "art_key": "shop",
+  "local_search": "优衣库 淮海中路全球旗舰店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Uniqlo",
+    "https://www.openstreetmap.org/way/757497652"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 의류 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uniqlo",
+        "https://www.openstreetmap.org/way/757497652"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.964Z"
+}

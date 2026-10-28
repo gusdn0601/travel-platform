@@ -1,0 +1,89 @@
+{
+  "id": "pl_eaf05f07bf",
+  "code": "JP-FUK-F-0033",
+  "city_id": "JP-FUK",
+  "slug": "nakasu-zenzai",
+  "kind": "food",
+  "name_ko": "나카스 젠자이",
+  "name_sub": "Nakasu Zenzai",
+  "name_local": "中洲ぜんざい",
+  "lat": 33.59229,
+  "lng": 130.41009,
+  "area": "나카스",
+  "lead": "나카스의 팥 단 음식집. 밤에 가볍게 단 것을 먹기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "단 음식집"
+    ],
+    [
+      "특징",
+      "팥·찹쌀"
+    ],
+    [
+      "위치",
+      "나카스"
+    ],
+    [
+      "시간대",
+      "저녁·밤"
+    ]
+  ],
+  "origin": [
+    "나카스 젠자이는 나카스에 있는 팥 단 음식집이에요.",
+    "따뜻한 팥과 찹쌀떡을 곁들인 젠자이를 내요.",
+    "술집이 많은 나카스에서 밤에 가볍게 단 것을 먹기 좋아요.",
+    "좌석이 많지 않아 붐비는 시간에는 대기가 생겨요."
+  ],
+  "tip": "밤 시간대에 운영해요. 영업일을 확인하고 가세요.",
+  "open_hours": "Mo-Tu 11:00-17:00; Th-Sa 11:00-17:00 (OSM)",
+  "stay_min": 20,
+  "price_hint": "1인 500~1,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "디저트",
+    "팥",
+    "나카스",
+    "야식"
+  ],
+  "art_key": "sweets",
+  "local_search": "中洲ぜんざい",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B4%B2",
+    "https://ja.wikipedia.org/wiki/%E3%81%9C%E3%82%93%E3%81%96%E3%81%84",
+    "https://www.openstreetmap.org/node/11337871815"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나카스 야식 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:23.497Z",
+  "order": [
+    "<b>ぜんざい</b> 젠자이(팥 단음식)",
+    "<b>白玉ぜんざい</b> 시라타마 젠자이",
+    "<b>おしるこ</b> 오시루코(팥죽)",
+    "<b>冷やしぜんざい</b> 차가운 젠자이"
+  ]
+}

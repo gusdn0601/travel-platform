@@ -59,7 +59,21 @@
     "addr_basis": null,
     "entity": "museum in Hakata-ku, Fukuoka City, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 전통 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:43.154Z"
+  "sanitized_at": "2026-10-28T11:17:31.904Z",
+  "origin": [
+    "하카타 마치야 후루사토관은 옛 하카타의 마치야와 생활 풍습을 소개하는 작은 박물관이에요.",
+    "전통 공예 시연을 볼 수 있어 아이와 함께 보기 좋아요.",
+    "규모가 작아 짧게 둘러보기 좋아요.",
+    "구시다 신사와 가까워 함께 묶기 편해요."
+  ]
 }

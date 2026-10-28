@@ -1,0 +1,87 @@
+{
+  "id": "pl_a8dae0e1eb",
+  "code": "CN-SHA-P-0041",
+  "city_id": "CN-SHA",
+  "slug": "hongquan-korean-mart",
+  "kind": "shop",
+  "name_ko": "홍취안루 한인마트",
+  "name_sub": "Hongquan Road Korean Town",
+  "name_local": "虹泉路韩国街",
+  "lat": 31.17179,
+  "lng": 121.37029,
+  "area": "민항/한인타운",
+  "lead": "상하이 한인타운의 중심 거리. 한국 식재료와 반찬, 라면을 파는 가게가 모여 있어요.",
+  "facts": [
+    [
+      "성격",
+      "한인 상권 · 식료품"
+    ],
+    [
+      "위치",
+      "민항구 홍취안루"
+    ],
+    [
+      "접근",
+      "지하철 10호선 룽보이루역에서 택시"
+    ],
+    [
+      "특징",
+      "한글 간판 · 한국 식재료"
+    ]
+  ],
+  "origin": [
+    "상하이에는 1990년대 이후 한국 기업과 가족이 모여 살면서 한인 상권이 형성됐어요.",
+    "민항구 홍취안루 일대는 한식당과 한국 식료품점, 카페가 한글 간판으로 이어지는 대표적인 한인 거리예요.",
+    "한국 라면과 김치, 반찬, 과자를 현지에서 살 수 있어 장기 체류자에게 유용해요.",
+    "여행자에게는 한국 음식이 그리울 때 찾기 좋은 곳이에요."
+  ],
+  "practical": [
+    "매장마다 영업시간이 달라요",
+    "한국어로 소통되는 가게가 많아요"
+  ],
+  "tip": "주말 저녁에는 한식당 대기가 길어요. 식료품은 낮에 사는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "한인마트",
+    "한식",
+    "장보기",
+    "한국어"
+  ],
+  "art_key": "market",
+  "local_search": "虹泉路韩国街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E8%99%B9%E6%B3%89%E8%B7%AF",
+    "https://www.openstreetmap.org/way/240826953"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 한인 생활 상권로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://www.openstreetmap.org/way/240826953",
+        "https://zh.wikipedia.org/wiki/%E8%99%B9%E6%B3%89%E8%B7%AF"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.953Z"
+}

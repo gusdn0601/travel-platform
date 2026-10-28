@@ -1,0 +1,89 @@
+{
+  "id": "pl_f2757f120e",
+  "code": "CN-SHA-T-0009",
+  "city_id": "CN-SHA",
+  "slug": "nanjing-east-road-station",
+  "kind": "transit",
+  "name_ko": "난징둥루역",
+  "name_sub": "Nanjing East Road Station",
+  "name_local": "南京东路站",
+  "lat": 31.24231,
+  "lng": 121.45875,
+  "area": "황푸/난징둥루",
+  "lead": "난징둥루 보행거리와 와이탄 사이의 지하철역. 쇼핑과 야경 동선에 편해요.",
+  "facts": [
+    [
+      "노선",
+      "2·10호선"
+    ],
+    [
+      "위치",
+      "난징둥루"
+    ],
+    [
+      "주변",
+      "보행거리 · 와이탄"
+    ],
+    [
+      "특징",
+      "관광객 비중 높음"
+    ]
+  ],
+  "origin": [
+    "난징둥루역은 지하철 2호선과 10호선이 만나는 역으로, 난징둥루 보행거리 아래에 있어요.",
+    "역에서 나오면 바로 쇼핑 거리와 와이탄 방면으로 걸을 수 있어요.",
+    "저녁에는 야경을 보러 가는 사람으로 붐벼요.",
+    "출구가 많아 와이탄 방향과 보행거리 방향을 구분해 이용하세요."
+  ],
+  "practical": [
+    "출구 번호를 확인하세요",
+    "주말 저녁에는 매우 붐벼요"
+  ],
+  "tip": "와이탄 야경을 보려면 해 질 무렵 이 역에서 내려 걸어가세요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "쇼핑",
+    "환승",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "南京东路站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nanjing_Road",
+    "https://map.baidu.com/search/%E5%8D%97%E4%BA%AC%E4%B8%9C%E8%B7%AF%E7%AB%99",
+    "https://www.openstreetmap.org/way/1389669270"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난징둥루 쇼핑 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://www.openstreetmap.org/way/1389669270",
+        "https://en.wikipedia.org/wiki/Nanjing_Road",
+        "https://map.baidu.com/search/%E5%8D%97%E4%BA%AC%E4%B8%9C%E8%B7%AF%E7%AB%99"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:22.314Z"
+}

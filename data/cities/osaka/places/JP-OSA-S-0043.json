@@ -1,0 +1,81 @@
+{
+  "id": "pl_7162976daa",
+  "code": "JP-OSA-S-0043",
+  "city_id": "JP-OSA",
+  "slug": "hatsu-tenjin-tsuyunoten",
+  "kind": "sight",
+  "name_ko": "오하쓰텐진 (쓰유노텐 신사)",
+  "name_sub": "Tsuyunoten Shrine",
+  "name_local": "露天神社",
+  "lat": 34.69928,
+  "lng": 135.50081,
+  "area": "우메다/오기마치",
+  "lead": "우메다 번화가 안의 작은 신사. 연애와 인연의 신으로 알려져 젊은 사람이 많이 찾아요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "연애·인연 기원"
+    ],
+    [
+      "위치",
+      "오기마치"
+    ],
+    [
+      "규모",
+      "작은 경내"
+    ]
+  ],
+  "origin": [
+    "오하쓰텐진으로 불리는 쓰유노텐 신사는 우메다의 빌딩 숲 사이에 남아 있는 작은 신사예요.",
+    "에도시대에 이곳에서 있었던 비극적인 사랑 이야기가 전해지며 연애와 인연을 비는 곳으로 알려졌어요.",
+    "경내에는 그 이야기를 새긴 비석과 작은 사당이 있어요.",
+    "쇼핑 중 잠깐 들러 조용히 참배하기 좋아요."
+  ],
+  "tip": "저녁에는 주변 상점가 불빛과 어우러져 분위기가 달라요. 참배 예절은 다른 신사와 같아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "연애",
+    "도심"
+  ],
+  "art_key": "shrine",
+  "local_search": "露天神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%9C%B2%E5%A4%A9%E7%A5%9E%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/%E6%9B%BE%E6%A0%B9%E5%B4%8E%E5%BF%83%E4%B8%AD",
+    "https://www.openstreetmap.org/way/482761129"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 17,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 연애 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:05.740Z"
+}

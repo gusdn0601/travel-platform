@@ -44,7 +44,9 @@
   "order": [
     "<b>天然とんこつラーメン</b> 기본 돈코츠 라멘",
     "<b>替玉</b> 면 추가",
-    "<b>半熟塩ゆでたまご</b> 반숙 계란"
+    "<b>半熟塩ゆでたまご</b> 반숙 계란",
+    "<b>明太子ごはん</b> 명란 밥",
+    "<b>抹茶杏仁豆腐</b> 말차 아몬드 두부 디저트"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -65,7 +67,8 @@
     "https://en.wikipedia.org/wiki/Ichiran",
     "https://ja.wikipedia.org/wiki/%E4%B8%80%E8%98%AD",
     "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
-    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+    "https://www.ichiran.co.jp/"
   ],
   "meta": {
     "priority": 1,
@@ -85,7 +88,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:36.834Z"
 }

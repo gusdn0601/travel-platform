@@ -1,0 +1,86 @@
+{
+  "id": "pl_7ec3d5b706",
+  "code": "CN-SHA-T-0010",
+  "city_id": "CN-SHA",
+  "slug": "zhangjiang-hitech-station",
+  "kind": "transit",
+  "name_ko": "장장하이커역",
+  "name_sub": "Zhangjiang Hi-Tech Station",
+  "name_local": "张江高科站",
+  "lat": 31.20306,
+  "lng": 121.58056,
+  "area": "푸둥/장장",
+  "lead": "푸둥 장장 첨단산업단지의 지하철역. 관광보다는 업무·주거 이동에 쓰여요.",
+  "facts": [
+    [
+      "노선",
+      "2호선"
+    ],
+    [
+      "위치",
+      "푸둥 장장"
+    ],
+    [
+      "주변",
+      "첨단산업단지"
+    ],
+    [
+      "특징",
+      "출퇴근 수요"
+    ]
+  ],
+  "origin": [
+    "장장하이커역은 푸둥의 장장 첨단산업단지에 있는 지하철 2호선 역이에요.",
+    "주변에 연구소와 기업, 주거 단지가 있어 출퇴근 시간대에 붐벼요.",
+    "관광지와는 거리가 있지만 푸동공항과 시내를 오가는 2호선 경로에 있어 지나가며 이용할 수 있어요.",
+    "여행자에게는 특별한 볼거리가 없는 역이에요."
+  ],
+  "practical": [
+    "출퇴근 시간대에 혼잡해요",
+    "주변에 편의점과 식당이 있어요"
+  ],
+  "tip": "관광 목적이라면 굳이 내릴 필요는 없어요. 2호선 이동 중 환승역으로 기억해 두세요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "푸둥",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "张江高科站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%B1%9F%E9%AB%98%E7%A7%91%E7%AB%99",
+    "https://map.baidu.com/search/%E5%BC%A0%E6%B1%9F%E9%AB%98%E7%A7%91%E7%AB%99"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 푸둥 업무 지구 역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E5%BC%A0%E6%B1%9F%E9%AB%98%E7%A7%91%E7%AB%99",
+        "https://map.baidu.com/search/%E5%BC%A0%E6%B1%9F%E9%AB%98%E7%A7%91%E7%AB%99"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:22.318Z"
+}

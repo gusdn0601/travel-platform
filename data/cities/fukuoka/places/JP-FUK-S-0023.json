@@ -56,7 +56,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 오래된 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:48.803Z"
+  "sanitized_at": "2026-10-28T11:17:31.909Z",
+  "origin": [
+    "스미요시 신사는 하카타에 있는 오래된 신사예요.",
+    "전국 스미요시 신사의 원형으로 알려져 있어 역사가 긴 곳이에요.",
+    "경내가 크지 않아 조용히 참배하기 좋아요.",
+    "나카스와 가까워 저녁 산책 코스에 넣기 좋아요."
+  ]
 }

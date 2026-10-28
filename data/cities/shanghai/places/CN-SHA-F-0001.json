@@ -89,7 +89,10 @@
     "<b>招牌烤鸭</b> 대표 오리구이 한 마리",
     "<b>杏仁豆腐</b> 아몬드 두부 디저트",
     "<b>宫保鸡丁</b> 궁보계정, 아이용은 <span class=\"cn\">不辣</span>",
-    "<b>炸酱面</b> 베이징식 짜장면, 한국 짜장과 비교해 보기"
+    "<b>炸酱面</b> 베이징식 짜장면, 한국 짜장과 비교해 보기",
+    "<b>烤鸭</b> 베이징덕 한 마리",
+    "<b>宫保鸡丁</b> 궁보계정",
+    "<b>炸酱面</b> 베이징식 짜장면"
   ],
   "kid": {
     "missions": [
@@ -115,7 +118,7 @@
   ],
   "open_hours": null,
   "stay_min": null,
-  "price_hint": null,
+  "price_hint": "1인 200~350위안 추정",
   "must": 0,
   "tags": [],
   "art_key": "duck",
@@ -127,5 +130,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  }
 }

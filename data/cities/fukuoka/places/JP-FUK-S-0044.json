@@ -1,0 +1,83 @@
+{
+  "id": "pl_3b460180c6",
+  "code": "JP-FUK-S-0044",
+  "city_id": "JP-FUK",
+  "slug": "genko-borui",
+  "kind": "sight",
+  "name_ko": "원구 방루 (몽골 침입 방어벽)",
+  "name_sub": "Genko Borui",
+  "name_local": "元寇防塁",
+  "lat": 33.58556,
+  "lng": 130.30833,
+  "area": "니시구/사와라",
+  "lead": "가마쿠라 시대 몽골 침입에 대비해 쌓은 돌벽. 바닷가 도로변에 남아 있어요.",
+  "facts": [
+    [
+      "종류",
+      "역사 유적"
+    ],
+    [
+      "특징",
+      "돌로 쌓은 방어벽"
+    ],
+    [
+      "위치",
+      "후쿠오카 서쪽 해안"
+    ],
+    [
+      "분위기",
+      "주택가 속 유적"
+    ]
+  ],
+  "origin": [
+    "원구 방루는 몽골의 침입에 대비해 후쿠오카 해안을 따라 쌓은 돌벽이에요.",
+    "지금은 일부 구간만 남아 주택가와 도로 사이에 놓여 있어요.",
+    "바닷가를 따라 걷다 보면 오래된 돌벽을 만날 수 있어요.",
+    "역사에 관심이 있다면 짧게 들러 볼 만한 곳이에요."
+  ],
+  "tip": "남아 있는 구간이 흩어져 있어 지도로 위치를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "역사",
+    "유적",
+    "바닷가",
+    "산책"
+  ],
+  "art_key": "ruins",
+  "local_search": "元寇防塁",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Genk%C5%8D_B%C5%8Drui",
+    "https://ja.wikipedia.org/wiki/%E5%85%83%E5%AF%87%E9%98%B2%E5%A1%81",
+    "https://ja.wikipedia.org/wiki/%E5%85%83%E5%AF%87",
+    "https://www.openstreetmap.org/way/1375997204"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 3820,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 역사 유적로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:47.307Z"
+}

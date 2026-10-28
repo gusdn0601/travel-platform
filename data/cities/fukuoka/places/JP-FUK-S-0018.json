@@ -63,7 +63,21 @@
     "addr_basis": null,
     "entity": "science museum in Ropponmatsu, Chūō-ku, Fukuoka City, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 아이와 갈 곳로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:31.605Z"
+  "sanitized_at": "2026-10-28T11:17:31.907Z",
+  "origin": [
+    "후쿠오카시 과학관은 체험형 전시가 있는 시립 과학관이에요.",
+    "손으로 만지고 돌리는 전시가 많아 아이가 직접 익힐 수 있어요.",
+    "실내라 비 오는 날 일정으로 좋아요.",
+    "롯폰마쓰 지역이라 오호리 공원과 함께 묶기 좋아요."
+  ]
 }

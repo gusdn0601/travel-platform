@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "park in Chūō-ku, Fukuoka-shiy, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 도심 공원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:27.789Z"
+  "sanitized_at": "2026-10-28T11:17:31.899Z",
+  "origin": [
+    "오호리 공원은 후쿠오카 도심에 있는 큰 연못 공원이에요.",
+    "연못을 한 바퀴 도는 산책로가 있어 천천히 걷기 좋아요.",
+    "호수 위로 다리가 놓여 있고 주변에 정원과 카페가 있어 쉬어 가기 좋아요.",
+    "벚꽃철에는 공원 전체가 꽃으로 채워져 사람이 많아요."
+  ]
 }

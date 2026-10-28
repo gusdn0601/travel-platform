@@ -1,0 +1,85 @@
+{
+  "id": "pl_58cb97d512",
+  "code": "CN-SHA-T-0026",
+  "city_id": "CN-SHA",
+  "slug": "to-suzhou",
+  "kind": "transit",
+  "name_ko": "상하이→쑤저우 고속철",
+  "name_sub": "Shanghai–Suzhou Railway",
+  "name_local": "沪宁城际铁路",
+  "lat": null,
+  "lng": null,
+  "area": "도시 간 이동",
+  "lead": "상하이에서 쑤저우까지 30분 안팎. 정원과 운하 마을을 당일치기로 볼 수 있어요.",
+  "facts": [
+    [
+      "구간",
+      "상하이~쑤저우"
+    ],
+    [
+      "소요",
+      "30분 안팎"
+    ],
+    [
+      "출발",
+      "훙차오역·상하이역 등"
+    ],
+    [
+      "명소",
+      "졸정원 · 산탕제"
+    ]
+  ],
+  "origin": [
+    "상하이와 쑤저우는 고속철로 30분 안팎 거리예요.",
+    "쑤저우의 고전 정원과 운하 거리, 산탕제를 당일치기로 둘러보는 코스가 인기예요.",
+    "출발역이 훙차오역과 상하이역 등으로 나뉘어 있어 표에 적힌 역을 확인해야 해요.",
+    "쑤저우역이나 쑤저우 북역에 내려 택시나 지하철로 시내로 이동해요."
+  ],
+  "practical": [
+    "표에 출발역이 다르게 적혀 있을 수 있어요",
+    "당일 복귀는 막차 시간을 확인하세요"
+  ],
+  "tip": "정원은 오전에 덜 붐벼요. 출발역과 도착역 이름을 꼭 확인하세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "구간별 상이",
+  "must": 0,
+  "tags": [
+    "고속철",
+    "쑤저우",
+    "당일치기",
+    "교통"
+  ],
+  "art_key": "train",
+  "local_search": "沪宁城际铁路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai%E2%80%93Nanjing_intercity_railway",
+    "https://zh.wikipedia.org/wiki/%E6%B2%AA%E5%AE%81%E5%9F%8E%E9%99%85%E9%93%81%E8%B7%AF"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 근교 정원 여행로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanghai%E2%80%93Nanjing_intercity_railway",
+        "https://zh.wikipedia.org/wiki/%E6%B2%AA%E5%AE%81%E5%9F%8E%E9%99%85%E9%93%81%E8%B7%AF"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:51.490Z"
+}

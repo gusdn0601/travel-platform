@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Fukuoka Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 다자이후 조용한 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:15.710Z"
+  "sanitized_at": "2026-10-28T11:17:31.906Z",
+  "origin": [
+    "고묘젠지는 다자이후 참배길 근처에 있는 사찰이에요.",
+    "이끼와 모래로 꾸민 작은 정원이 있어 조용히 앉아 보기 좋아요.",
+    "관광객이 적어 한적하게 둘러볼 수 있어요.",
+    "다자이후 텐만구와 함께 걷는 코스로 묶기 좋아요."
+  ]
 }

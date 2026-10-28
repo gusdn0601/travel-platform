@@ -1,0 +1,83 @@
+{
+  "id": "pl_9d48efe64d",
+  "code": "JP-FUK-S-0055",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-city-art-museum",
+  "kind": "sight",
+  "name_ko": "후쿠오카시 미술관",
+  "name_sub": "Fukuoka Art Museum",
+  "name_local": "福岡市美術館",
+  "lat": 33.58389,
+  "lng": 130.37981,
+  "area": "오호리",
+  "lead": "오호리 공원 안의 미술관. 공원 산책과 함께 둘러보기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "미술관"
+    ],
+    [
+      "특징",
+      "근현대 미술"
+    ],
+    [
+      "위치",
+      "오호리 공원"
+    ],
+    [
+      "장점",
+      "실내"
+    ]
+  ],
+  "origin": [
+    "후쿠오카시 미술관은 오호리 공원 안에 자리한 미술관이에요.",
+    "근현대 미술과 지역 관련 작품, 기획전을 함께 다뤄요.",
+    "공원 산책과 함께 둘러보기 좋고 비 오는 날 실내 일정으로도 알맞아요.",
+    "입장료와 휴관일은 기획전에 따라 달라요."
+  ],
+  "tip": "기획전 일정을 확인하고, 공원 산책과 함께 계획하세요.",
+  "open_hours": "Mo off; Tu-Su 09:30-17:30; Jul-Oct Fr,Su 09:30-20:00; Dec 28-Jan 04 off (OSM)",
+  "stay_min": 90,
+  "price_hint": "입장료 약 200엔(추정)",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "실내",
+    "오호리",
+    "전시"
+  ],
+  "art_key": "museum",
+  "local_search": "福岡市美術館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fukuoka_Art_Museum",
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%BF%A0%E5%85%AC%E5%9C%92",
+    "https://www.openstreetmap.org/relation/14988554"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 9,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오호리 미술관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:04.508Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pl_673087839c",
+  "code": "CN-SHA-P-0033",
+  "city_id": "CN-SHA",
+  "slug": "sams-club",
+  "kind": "shop",
+  "name_ko": "샘스클럽 푸둥점",
+  "name_sub": "Sam's Club (Pudong)",
+  "name_local": "山姆会员商店",
+  "lat": 31.1887,
+  "lng": 121.53111,
+  "area": "푸둥·민항 등",
+  "lead": "대용량 상품을 파는 회원제 창고형 매장. 과자와 생활용품을 크게 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "회원제 창고형 마트"
+    ],
+    [
+      "접근",
+      "푸둥·민항 등 외곽"
+    ],
+    [
+      "특징",
+      "대용량 · 시식"
+    ],
+    [
+      "결제",
+      "회원 카드 필요"
+    ]
+  ],
+  "origin": [
+    "샘스클럽은 월마트 계열의 회원제 창고형 매장이에요.",
+    "상하이에도 여러 지점이 있어 대용량 과자와 생활용품, 냉동식품을 사려는 현지 가족이 많이 찾아요.",
+    "매장이 넓고 시식 코너가 있어 구경하는 재미도 있어요.",
+    "다만 회원 가입이 필요하고 도심에서 거리가 있어 여행자에게는 접근성이 떨어져요."
+  ],
+  "practical": [
+    "회원 카드와 앱이 필요해요",
+    "도심에서 택시로 30분 이상 걸려요"
+  ],
+  "tip": "회원이 아니면 구매가 어려워요. 동행이 회원일 때만 방문하는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "회원제(연회비 별도, 추정)",
+  "must": 0,
+  "tags": [
+    "마트",
+    "회원제",
+    "대용량",
+    "장보기"
+  ],
+  "art_key": "market",
+  "local_search": "山姆会员商店",
+  "photos": [
+    "CN-SHA-P-0033-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sam's_Club",
+    "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%E4%BC%9A%E5%91%98%E5%95%86%E5%BA%97",
+    "https://www.openstreetmap.org/way/255882432"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 창고형 장보기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sam's_Club",
+        "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%E4%BC%9A%E5%91%98%E5%95%86%E5%BA%97",
+        "https://www.openstreetmap.org/way/255882432"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.611Z"
+}

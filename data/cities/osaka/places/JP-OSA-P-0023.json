@@ -1,0 +1,82 @@
+{
+  "id": "pl_7d9d52eeb2",
+  "code": "JP-OSA-P-0023",
+  "city_id": "JP-OSA",
+  "slug": "tsuruhashi-shotengai",
+  "kind": "shop",
+  "name_ko": "쓰루하시 상점가",
+  "name_sub": "Tsuruhashi Shopping Street",
+  "name_local": "鶴橋商店街",
+  "lat": 34.66572,
+  "lng": 135.53104,
+  "area": "쓰루하시",
+  "lead": "코리아타운으로 이어지는 상점가. 김치와 반찬, 한국 식재료 가게가 먼저 반겨요.",
+  "facts": [
+    [
+      "종류",
+      "상점가"
+    ],
+    [
+      "특징",
+      "한국 식재료·반찬"
+    ],
+    [
+      "위치",
+      "쓰루하시역 동쪽"
+    ],
+    [
+      "분위기",
+      "재일 한국인 상점가"
+    ]
+  ],
+  "origin": [
+    "쓰루하시 상점가는 역에서 코리아타운으로 들어가며 지나는 상점가예요.",
+    "김치와 반찬, 고추장, 한국 과자를 파는 가게가 먼저 눈에 들어와요.",
+    "이어지는 골목에는 한국 식당과 구이 고기집이 모여 있어 먹거리를 찾기 좋아요.",
+    "좁고 사람이 많아 짐이 많으면 이동이 불편해요."
+  ],
+  "tip": "반찬은 무게로 파는 가게가 많아 양을 확인하고 사세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "코리아타운",
+    "한국식재료",
+    "시장",
+    "먹거리"
+  ],
+  "art_key": "market",
+  "local_search": "鶴橋商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%A9%8B",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3",
+    "https://en.wikipedia.org/wiki/Koreans_in_Japan",
+    "https://www.openstreetmap.org/way/162083392"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 김치·반찬로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:28.447Z"
+}

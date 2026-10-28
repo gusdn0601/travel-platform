@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:07.855Z"
+  "sanitized_at": "2026-10-28T11:17:02.729Z",
+  "origin": [
+    "가스가타이샤는 나라 공원 동쪽 숲에 자리한 신사예요.",
+    "전승에 따르면 8세기에 세워졌고, 수많은 석등과 매달린 등롱이 이어지는 길이 상징이에요.",
+    "숲이 울창해 여름에도 서늘한 기운이 느껴져요.",
+    "주홍색 본전이 나무 사이에서 눈에 띄어 사진 찍기 좋아요."
+  ]
 }

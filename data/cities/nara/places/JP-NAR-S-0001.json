@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Japanese Buddhist temple in Nara",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 대표 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:03.265Z"
+  "sanitized_at": "2026-10-28T11:17:02.726Z",
+  "origin": [
+    "도다이지는 나라 공원 북쪽에 자리한 사찰이에요.",
+    "8세기에 세워졌고, 거대한 청동 대불이 모셔져 있어요.",
+    "대불을 담은 목조 대불전의 규모에 먼저 놀라게 돼요.",
+    "경내가 넓어 공원 산책과 함께 반나절을 잡는 편이 좋아요."
+  ]
 }

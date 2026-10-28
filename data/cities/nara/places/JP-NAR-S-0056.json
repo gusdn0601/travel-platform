@@ -1,0 +1,82 @@
+{
+  "id": "pl_a2107789c4",
+  "code": "JP-NAR-S-0056",
+  "city_id": "JP-NAR",
+  "slug": "tengaimon",
+  "kind": "sight",
+  "name_ko": "덴가이몬 (전해문)",
+  "name_sub": "Tengai-mon",
+  "name_local": "転害門",
+  "lat": 34.68897,
+  "lng": 135.83983,
+  "area": "나라 공원 북서",
+  "lead": "도다이지의 오래된 문. 큰 길에서 떨어져 있어 조용히 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰 문"
+    ],
+    [
+      "특징",
+      "오래된 목조"
+    ],
+    [
+      "위치",
+      "도다이지 서북"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "덴가이몬은 도다이지의 서북쪽에 남아 있는 오래된 문이에요.",
+    "큰 관광 동선에서 떨어져 있어 조용히 볼 수 있어요.",
+    "오래된 목조 건물의 구조를 가까이에서 볼 수 있는 몇 안 되는 곳이에요.",
+    "도다이지 주변을 한적하게 걷고 싶을 때 들르기 좋아요."
+  ],
+  "tip": "주변에 안내가 적어 지도를 보고 찾아가세요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "문",
+    "역사",
+    "조용"
+  ],
+  "art_key": "temple",
+  "local_search": "転害門",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA",
+    "https://www.openstreetmap.org/way/195840408"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 526,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도다이지 숨은 문로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:42.210Z"
+}

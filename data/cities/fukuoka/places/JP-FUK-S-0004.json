@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Fukuoka City, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 축제 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:42.435Z"
+  "sanitized_at": "2026-10-28T11:17:31.901Z",
+  "origin": [
+    "구시다 신사는 하카타 기온 야마카사 축제의 중심 신사예요.",
+    "경내에 화려하게 장식한 축제 가마가 상설 전시되어 있어 축제 시기가 아니어도 볼 수 있어요.",
+    "하카타 구시가지에 있어 다른 사찰과 함께 걷기 좋아요.",
+    "축제 기간에는 거리가 매우 붐벼요."
+  ]
 }

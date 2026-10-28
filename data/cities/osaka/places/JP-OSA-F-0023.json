@@ -42,7 +42,10 @@
   "tip": "점심 오픈 직후나 오후 2시 이후가 덜 붐벼요.",
   "order": [
     "<b>中華そば</b> 주카소바(간장 라멘)",
-    "<b>チャーシュー麺</b> 차슈 라멘"
+    "<b>チャーシュー麺</b> 차슈 라멘",
+    "<b>中華そば</b> 중화소바",
+    "<b>つけそば</b> 츠케소바",
+    "<b>焼き飯</b> 볶음밥"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -82,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:26.393Z"
 }

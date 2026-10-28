@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 근교 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:26.570Z"
+  "sanitized_at": "2026-10-28T11:17:02.731Z",
+  "origin": [
+    "도쇼다이지는 당나라 승려 간진이 세운 사찰로 알려진 곳이에요.",
+    "8세기에 창건되었고, 금당의 웅장한 기둥과 불상이 인상적이에요.",
+    "간진의 좌상이 전시되어 있어 함께 보는 사람이 많아요.",
+    "니시노쿄 지역의 다른 사찰과 함께 반나절 코스로 다녀오기 좋아요."
+  ]
 }

@@ -1,0 +1,83 @@
+{
+  "id": "pl_e58f1a8534",
+  "code": "JP-FUK-S-0053",
+  "city_id": "JP-FUK",
+  "slug": "bayside-place-hakata",
+  "kind": "sight",
+  "name_ko": "베이사이드 플레이스 하카타",
+  "name_sub": "Bayside Place Hakata",
+  "name_local": "ベイサイドプレイス博多",
+  "lat": 33.60378,
+  "lng": 130.39886,
+  "area": "하카타항",
+  "lead": "하카타항의 복합 시설. 바다를 보며 걷고 온천도 이용할 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "항구 복합시설"
+    ],
+    [
+      "특징",
+      "바다 전망"
+    ],
+    [
+      "위치",
+      "하카타항"
+    ],
+    [
+      "함께",
+      "하노유·페리"
+    ]
+  ],
+  "origin": [
+    "베이사이드 플레이스 하카타는 하카타항에 자리한 복합 시설이에요.",
+    "바다를 보며 걷는 공간과 식당, 온천 시설이 함께 있어요.",
+    "섬으로 가는 배가 출발하는 터미널도 가까워 이동 전후에 들르기 좋아요.",
+    "저녁에는 항구의 불빛을 보며 산책하기 좋아요."
+  ],
+  "tip": "배 시간과 온천 이용 시간을 함께 확인하세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료(시설 이용 별도)",
+  "must": 0,
+  "tags": [
+    "항구",
+    "야경",
+    "산책",
+    "온천"
+  ],
+  "art_key": "waterfront",
+  "local_search": "ベイサイドプレイス博多",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%B5%E3%82%A4%E3%83%89%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%8D%9A%E5%A4%9A%E5%9F%A0%E9%A0%AD",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%B8%AF",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E5%9F%A0%E9%A0%AD",
+    "https://www.openstreetmap.org/way/168100626"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 35,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타항 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:00.627Z"
+}

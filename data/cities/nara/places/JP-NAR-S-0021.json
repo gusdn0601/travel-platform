@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 전망 포인트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:22.398Z"
+  "sanitized_at": "2026-10-28T11:17:02.739Z",
+  "origin": [
+    "니가쓰도는 도다이지 경내 언덕 위에 있는 불당이에요.",
+    "계단을 올라가면 나라 시내가 내려다보이는 전망이 펼쳐져요.",
+    "매년 봄 물과 불의 의식이 열리는 곳으로도 알려져 있어요.",
+    "도다이지 관람 중 잠깐 올라가 보기 좋아요."
+  ]
 }

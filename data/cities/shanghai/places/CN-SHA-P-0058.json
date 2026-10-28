@@ -1,0 +1,87 @@
+{
+  "id": "pl_112d8f25c4",
+  "code": "CN-SHA-P-0058",
+  "city_id": "CN-SHA",
+  "slug": "buynow-xujiahui",
+  "kind": "shop",
+  "name_ko": "쉬자후이 전자상가(바이냐오후이)",
+  "name_sub": "Buynow Xujiahui",
+  "name_local": "百脑汇",
+  "lat": 31.19264,
+  "lng": 121.4338,
+  "area": "쉬후이",
+  "lead": "쉬자후이의 전자제품 상가. 노트북과 액세서리, 수리점이 모여 있어요.",
+  "facts": [
+    [
+      "성격",
+      "전자제품 상가"
+    ],
+    [
+      "위치",
+      "쉬자후이"
+    ],
+    [
+      "상품",
+      "노트북 · 액세서리 · 수리"
+    ],
+    [
+      "주의",
+      "가격 흥정·정품 확인"
+    ]
+  ],
+  "origin": [
+    "바이냐오후이는 쉬자후이에 있는 전자제품 전문 상가예요.",
+    "여러 층에 노트북과 주변기기, 부품, 수리점이 들어 있어요.",
+    "상하이에서 전자제품을 사거나 고치려는 현지인이 많이 찾아요.",
+    "가게마다 가격과 재고가 달라 비교가 필요하고, 정품 여부를 확인해야 해요."
+  ],
+  "practical": [
+    "정품 보증서를 확인하세요",
+    "현금보다 카드·앱 결제가 안전해요"
+  ],
+  "tip": "가격을 여러 곳에서 비교하고 영수증을 받으세요. 여행자 대상 바가지가 있을 수 있어요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "전자제품",
+    "컴퓨터",
+    "상가"
+  ],
+  "art_key": "shop",
+  "local_search": "百脑汇",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E7%99%BE%E8%84%91%E6%B1%87",
+    "https://www.openstreetmap.org/way/293862157"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 전자상가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E7%99%BE%E8%84%91%E6%B1%87",
+        "https://www.openstreetmap.org/way/293862157"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.982Z"
+}

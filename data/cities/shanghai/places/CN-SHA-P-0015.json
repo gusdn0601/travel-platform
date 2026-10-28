@@ -1,0 +1,85 @@
+{
+  "id": "pl_a1ecf58c1f",
+  "code": "CN-SHA-P-0015",
+  "city_id": "CN-SHA",
+  "slug": "daning-international",
+  "kind": "shop",
+  "name_ko": "다닝 국제상업광장",
+  "name_sub": "Daning International Commercial Plaza",
+  "name_local": "大宁国际商业广场",
+  "lat": null,
+  "lng": null,
+  "area": "징안/다닝",
+  "lead": "징안 북부의 오픈형 쇼핑몰. 영화관과 식당, 생활 매장이 한 구역에 모여 있어요.",
+  "facts": [
+    [
+      "성격",
+      "오픈형 복합 몰"
+    ],
+    [
+      "위치",
+      "징안구 다닝"
+    ],
+    [
+      "접근",
+      "지하철 1호선 상하이마시장역 일대"
+    ],
+    [
+      "특징",
+      "영화관 · 식당가 · 생활용품"
+    ]
+  ],
+  "origin": [
+    "다닝 국제상업광장은 징안구 북부 주거 지구에 조성된 오픈형 상업 단지예요.",
+    "건물 사이로 걷는 거리가 있어 실내 몰과 다른 산책 느낌을 줘요.",
+    "영화관과 식당, 유아용품·생활용품 매장이 함께 있어 가족 단위 방문이 많아요.",
+    "관광지 성격은 약하지만 현지 생활을 느끼며 쇼핑하기 좋아요."
+  ],
+  "practical": [
+    "주변에 다닝 공원이 있어 함께 걷기 좋아요",
+    "영화관은 주말 저녁 예매가 빨리 차요"
+  ],
+  "tip": "관광 일정 사이에 쉬어 가기 좋아요. 저녁에는 식당가가 붐벼요.",
+  "open_hours": null,
+  "stay_min": 100,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "몰",
+    "가족",
+    "영화관"
+  ],
+  "art_key": "mall",
+  "local_search": "大宁国际商业广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%AE%81%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA",
+    "https://www.openstreetmap.org/search?query=%E5%A4%A7%E5%AE%81%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 징안 북부 가족 상권로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%AE%81%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA",
+        "https://www.openstreetmap.org/search?query=%E5%A4%A7%E5%AE%81%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.578Z"
+}

@@ -81,7 +81,10 @@
     "<b>吊龙</b> 등심",
     "<b>匙柄</b> 어깨살",
     "<b>牛肉丸</b> 소고기 완자",
-    "<b>沙茶酱</b> 사차 소스"
+    "<b>沙茶酱</b> 사차 소스",
+    "<b>鲜牛肉火锅</b> 신선 소고기 훠궈",
+    "<b>吊龙</b> 우둔살 얇은 슬라이스",
+    "<b>匙柄</b> 어깨살 슬라이스"
   ],
   "kid": {
     "missions": [
@@ -102,7 +105,7 @@
   ],
   "open_hours": null,
   "stay_min": null,
-  "price_hint": null,
+  "price_hint": "1인 150~250위안 추정",
   "must": 0,
   "tags": [],
   "art_key": "hotpot",
@@ -114,5 +117,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  }
 }

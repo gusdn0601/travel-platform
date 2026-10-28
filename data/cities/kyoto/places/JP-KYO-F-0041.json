@@ -37,7 +37,11 @@
   ],
   "tip": "아침 8시대에 들르면 한산해요.",
   "order": [
-    "<b>モーニング</b> 아침 세트"
+    "<b>モーニング</b> 아침 세트",
+    "<b>小川ブレンド</b> 오가와 블렌드",
+    "<b>カフェラテ</b> 카페라테",
+    "<b>モーニングセット</b> 모닝 세트",
+    "<b>ケーキ</b> 케이크"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -71,7 +75,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:28.318Z"
 }

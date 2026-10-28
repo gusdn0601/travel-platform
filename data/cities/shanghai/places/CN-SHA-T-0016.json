@@ -1,0 +1,90 @@
+{
+  "id": "pl_56fbb94a5d",
+  "code": "CN-SHA-T-0016",
+  "city_id": "CN-SHA",
+  "slug": "century-avenue-station",
+  "kind": "transit",
+  "name_ko": "세기대로역(스지따다오)",
+  "name_sub": "Century Avenue Station",
+  "name_local": "世纪大道站",
+  "lat": 31.22868,
+  "lng": 121.52721,
+  "area": "푸둥",
+  "lead": "푸둥의 대형 환승역. 2·4·6·9호선이 만나 이동 경로가 많아요.",
+  "facts": [
+    [
+      "노선",
+      "2·4·6·9호선"
+    ],
+    [
+      "위치",
+      "푸둥"
+    ],
+    [
+      "주변",
+      "루자쭈이 · 푸둥 중심"
+    ],
+    [
+      "특징",
+      "4개 노선 환승"
+    ]
+  ],
+  "origin": [
+    "세기대로역은 푸둥에서 2·4·6·9호선이 만나는 대형 환승역이에요.",
+    "루자쭈이와 푸둥 중심, 공항 방면을 오갈 때 자주 이용해요.",
+    "역이 넓고 환승 통로가 길어 시간이 걸릴 수 있어요.",
+    "푸둥 안에서 이동할 때 경로를 짜기 좋은 거점이에요."
+  ],
+  "practical": [
+    "환승 통로가 길어 여유가 필요해요",
+    "출퇴근 시간대에 혼잡해요"
+  ],
+  "tip": "환승 노선이 많아 목적지 방향을 미리 확인하세요. 환승에 시간이 걸려요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "환승",
+    "푸둥",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "世纪大道站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Century_Avenue_station",
+    "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%BA%AA%E5%A4%A7%E9%81%93%E7%AB%99",
+    "https://www.openstreetmap.org/way/264724483"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 469,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 푸둥 대형 환승역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Century_Avenue_station",
+        "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%BA%AA%E5%A4%A7%E9%81%93%E7%AB%99",
+        "https://www.openstreetmap.org/way/264724483"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:38.741Z"
+}

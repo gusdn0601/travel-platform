@@ -1,0 +1,84 @@
+{
+  "id": "pl_30a4164365",
+  "code": "JP-KYO-S-0096",
+  "city_id": "JP-KYO",
+  "slug": "honen-in",
+  "kind": "sight",
+  "name_ko": "호넨인",
+  "name_sub": "Honen-in",
+  "name_local": "法然院",
+  "lat": 35.024,
+  "lng": 135.7974,
+  "area": "히가시야마",
+  "lead": "철학의 길 옆의 조용한 사찰. 이끼 낀 경내와 낮은 문이 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "이끼 정원"
+    ],
+    [
+      "위치",
+      "철학의 길"
+    ],
+    [
+      "분위기",
+      "조용"
+    ]
+  ],
+  "origin": [
+    "호넨인은 철학의 길 옆에 자리한 조용한 사찰이에요.",
+    "낮은 문과 이끼 낀 경내가 차분한 분위기를 만들어요.",
+    "관광객이 몰리는 사찰보다 한적해 천천히 걷기 좋아요.",
+    "은각사와 난젠지 사이에 있어 산책 코스로 묶기 좋아요."
+  ],
+  "tip": "경내 일부는 관람이 제한될 수 있어요. 조용히 걷는 것이 좋아요.",
+  "open_hours": "Mo-Su 06:00-16:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "무료(경내)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "조용",
+    "이끼",
+    "산책"
+  ],
+  "art_key": "temple",
+  "local_search": "法然院",
+  "photos": [
+    "JP-KYO-S-0096-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/H%C5%8Dnen-in",
+    "https://ja.wikipedia.org/wiki/%E6%B3%95%E7%84%B6%E9%99%A2",
+    "https://www.openstreetmap.org/way/684381894"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 39,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 철학의 길 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:15:25.588Z"
+}

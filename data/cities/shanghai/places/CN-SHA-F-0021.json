@@ -40,7 +40,11 @@
   "order": [
     "<b>毛肚</b> 양",
     "<b>菌汤锅底</b> 버섯 육수",
-    "<b>牛肉</b> 소고기"
+    "<b>牛肉</b> 소고기",
+    "<b>毛肚</b> 소 천엽",
+    "<b>菌汤锅</b> 버섯 육수",
+    "<b>鲜切牛肉</b> 생 소고기",
+    "<b>鸭血</b> 오리 피"
   ],
   "open_hours": null,
   "stay_min": 100,
@@ -77,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.358Z"
 }

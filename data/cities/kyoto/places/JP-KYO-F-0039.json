@@ -72,7 +72,14 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:38:25.517Z"
+  "sanitized_at": "2026-10-28T10:38:25.517Z",
+  "order": [
+    "<b>カフェラテ</b> 카페라테",
+    "<b>抹茶クリームフラペチーノ</b> 말차 크림 프라푸치노",
+    "<b>ドリップコーヒー</b> 드립 커피"
+  ]
 }

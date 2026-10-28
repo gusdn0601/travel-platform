@@ -38,7 +38,11 @@
   "tip": "지점마다 분위기가 달라 목적에 맞춰 고르세요.",
   "order": [
     "<b>焼肉盛り合わせ</b> 모둠",
-    "<b>ユッケ</b> 육회"
+    "<b>ユッケ</b> 육회",
+    "<b>焼肉盛り合わせ</b> 야키니쿠 모둠",
+    "<b>タン塩</b> 소금 우설",
+    "<b>ハラミ</b> 하라미(안창살)",
+    "<b>ホルモン</b> 호르몬(곱창)"
   ],
   "open_hours": "Mo-Su 17:00-23:00 (OSM)",
   "stay_min": 90,
@@ -76,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:03.510Z"
 }

@@ -1,0 +1,89 @@
+{
+  "id": "pl_3cbeda1979",
+  "code": "CN-SHA-P-0013",
+  "city_id": "CN-SHA",
+  "slug": "wujiaochang",
+  "kind": "shop",
+  "name_ko": "우자오창 상권",
+  "name_sub": "Wujiaochang",
+  "name_local": "五角场",
+  "lat": 31.29974,
+  "lng": 121.51007,
+  "area": "양푸",
+  "lead": "다섯 갈래 길이 모이는 양푸의 대학가 상권. 대형 몰과 먹거리 골목이 함께 있어요.",
+  "facts": [
+    [
+      "성격",
+      "대학가 상업 지구"
+    ],
+    [
+      "접근",
+      "지하철 10호선 우자오창역"
+    ],
+    [
+      "인근",
+      "푸단대학 · 상하이재경대"
+    ],
+    [
+      "특징",
+      "몰 · 먹거리 골목"
+    ]
+  ],
+  "origin": [
+    "우자오창은 이름 그대로 다섯 갈래 도로가 만나는 교차점에서 출발한 상권이에요.",
+    "푸단대학과 상하이재경대학이 가까워 학생과 젊은 직장인이 모이고, 대형 쇼핑몰과 지하 상가가 이어져요.",
+    "저녁에는 먹거리 가게와 카페가 불을 밝혀 도심과 다른 활기를 만들어요.",
+    "관광 명소라기보다 현지 생활을 느끼기 좋은 동네예요."
+  ],
+  "practical": [
+    "지하철 10호선으로 신톈디·난징둥루와 연결돼요",
+    "대학가라 값이 비교적 합리적이에요"
+  ],
+  "tip": "관광객보다 현지인이 많은 곳이에요. 저녁 식사와 간단한 쇼핑을 함께 해결하기 좋아요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "대학가",
+    "몰",
+    "야식"
+  ],
+  "art_key": "street",
+  "local_search": "五角场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wujiaochang",
+    "https://zh.wikipedia.org/wiki/%E4%BA%94%E8%A7%92%E5%9C%BA",
+    "https://www.openstreetmap.org/node/5306444971"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 양푸 대학가 상권로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wujiaochang",
+        "https://zh.wikipedia.org/wiki/%E4%BA%94%E8%A7%92%E5%9C%BA",
+        "https://www.openstreetmap.org/node/5306444971"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.575Z"
+}

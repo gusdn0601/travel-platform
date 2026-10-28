@@ -100,7 +100,9 @@
     "<b>吉士红烧肉</b> 홍소육",
     "<b>蟹粉豆腐</b> 게살 두부",
     "<b>葱油拌面</b> 파기름 비빔면",
-    "<b>心太软</b> 찹쌀 대추"
+    "<b>心太软</b> 찹쌀 대추",
+    "<b>红烧肉</b> 홍샤오러우(간장 조림 삼겹살)",
+    "<b>油爆虾</b> 새우 튀김 볶음"
   ],
   "kid": {
     "missions": [
@@ -126,7 +128,7 @@
   ],
   "open_hours": null,
   "stay_min": null,
-  "price_hint": null,
+  "price_hint": "1인 150~250위안 추정",
   "must": 0,
   "tags": [],
   "art_key": "basket",
@@ -138,5 +140,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  }
 }

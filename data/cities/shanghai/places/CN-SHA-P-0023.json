@@ -1,0 +1,87 @@
+{
+  "id": "pl_c008c05f5a",
+  "code": "CN-SHA-P-0023",
+  "city_id": "CN-SHA",
+  "slug": "l-mall-lujiazui",
+  "kind": "shop",
+  "name_ko": "L+Mall 루자쭈이",
+  "name_sub": "L+Mall Lujiazui",
+  "name_local": "陆家嘴中心L+Mall",
+  "lat": 31.2333,
+  "lng": 121.51178,
+  "area": "푸둥/루자쭈이",
+  "lead": "루자쭈이의 지하철과 이어진 쇼핑몰. 고층 빌딩 사이에서 쇼핑과 식사를 해결하기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "복합 쇼핑몰"
+    ],
+    [
+      "위치",
+      "푸둥 루자쭈이"
+    ],
+    [
+      "접근",
+      "지하철 2호선 루자쭈이역 일대"
+    ],
+    [
+      "특징",
+      "식당가 · 패션 · 영화관"
+    ]
+  ],
+  "origin": [
+    "L+Mall은 루자쭈이의 고층 빌딩 군 사이에 들어선 쇼핑몰이에요.",
+    "오피스 직장인과 관광객을 함께 겨냥해 식당가와 패션 매장, 영화관이 들어 있어요.",
+    "루자쭈이 전망대나 와이탄 산책 뒤에 들르기 좋은 위치예요.",
+    "실내 공간이 넓고 비교적 한산해 이동 중 쉬어 가기 좋아요."
+  ],
+  "practical": [
+    "주변 빌딩과 지하로 연결된 구간이 있어 안내를 따라가세요",
+    "점심시간 직장인으로 붐벼요"
+  ],
+  "tip": "루자쭈이 전망 일정 뒤 저녁 식사 장소로 좋아요. 지하철로 이동하기 편해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "몰",
+    "루자쭈이",
+    "식당"
+  ],
+  "art_key": "mall",
+  "local_search": "陆家嘴中心L+Mall",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E9%99%86%E5%AE%B6%E5%98%B4",
+    "https://www.openstreetmap.org/way/957455555"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 루자쭈이 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://www.openstreetmap.org/way/957455555",
+        "https://zh.wikipedia.org/wiki/%E9%99%86%E5%AE%B6%E5%98%B4"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.596Z"
+}

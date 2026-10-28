@@ -1,0 +1,82 @@
+{
+  "id": "pl_8f2209fced",
+  "code": "JP-NAR-S-0060",
+  "city_id": "JP-NAR",
+  "slug": "kairyuoji",
+  "kind": "sight",
+  "name_ko": "가이류지 (해룡왕사)",
+  "name_sub": "Kairyuo-ji",
+  "name_local": "海龍王寺",
+  "lat": 34.6929,
+  "lng": 135.80555,
+  "area": "나라 북부",
+  "lead": "작은 규모의 사찰. 오래된 탑과 조용한 경내가 남아 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "작은 탑"
+    ],
+    [
+      "위치",
+      "나라 북부"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "가이류지는 나라 북부에 자리한 작은 사찰이에요.",
+    "오래된 탑과 건물이 남아 있어 옛 모습을 짐작할 수 있어요.",
+    "관광객이 거의 없어 조용히 걷기 좋아요.",
+    "주변의 다른 사찰과 함께 반나절 코스로 다녀오기 좋아요."
+  ],
+  "tip": "개방 시간이 짧을 수 있어 오전 방문이 좋아요.",
+  "open_hours": "09:00-16:30 (OSM)",
+  "stay_min": 30,
+  "price_hint": "입장료 약 400엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "탑",
+    "조용",
+    "역사"
+  ],
+  "art_key": "temple",
+  "local_search": "海龍王寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B5%B7%E9%BE%8D%E7%8E%8B%E5%AF%BA",
+    "https://www.openstreetmap.org/way/1499247838",
+    "https://www.wikidata.org/wiki/Q11559434"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 32,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 숨은 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:08.245Z"
+}

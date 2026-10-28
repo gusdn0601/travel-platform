@@ -37,7 +37,11 @@
   ],
   "tip": "강변에서 바로 먹으면 가장 맛있어요.",
   "order": [
-    "<b>名代豆餅</b> 마메모치"
+    "<b>名代豆餅</b> 마메모치",
+    "<b>名代豆餅</b> 나다이 마메모치",
+    "<b>福豆</b> 후쿠마메",
+    "<b>柏餅</b> 카시와모치",
+    "<b>草餅</b> 쿠사모치"
   ],
   "open_hours": "We-Mo 08:30-17:30 (OSM)",
   "stay_min": 20,
@@ -75,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:19.461Z"
 }

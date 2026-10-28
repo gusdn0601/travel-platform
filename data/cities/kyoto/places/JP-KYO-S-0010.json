@@ -62,7 +62,21 @@
     "addr_basis": null,
     "entity": "neighborhood in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:12.317Z"
+  "sanitized_at": "2026-10-28T11:16:38.936Z",
+  "origin": [
+    "기온은 야사카 신사 앞에서 이어지는 전통 거리예요.",
+    "목조 건물에 늘어선 찻집과 상점이 교토의 옛 모습을 보여 줘요.",
+    "저녁 무렵 등불이 켜지면 분위기가 가장 좋아지지만, 주민이 사는 골목도 섞여 있어 조용히 걷는 예절이 필요해요.",
+    "하나미코지와 이어져 산책 코스로 묶기 좋아요."
+  ]
 }

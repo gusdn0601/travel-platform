@@ -43,7 +43,11 @@
   "order": [
     "<b>プリン</b> 푸딩",
     "<b>トースト</b> 토스트",
-    "<b>クリームソーダ</b> 크림소다"
+    "<b>クリームソーダ</b> 크림소다",
+    "<b>アメリカンコーヒー</b> 아메리칸 커피",
+    "<b>ミックスジュース</b> 믹스주스",
+    "<b>ホットケーキ</b> 핫케이크",
+    "<b>ナポリタン</b> 나폴리탄"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -84,7 +88,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:27.191Z"
 }

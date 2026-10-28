@@ -1,0 +1,90 @@
+{
+  "id": "pl_41e8d4f73a",
+  "code": "CN-SHA-T-0007",
+  "city_id": "CN-SHA",
+  "slug": "peoples-square-station",
+  "kind": "transit",
+  "name_ko": "인민광장역",
+  "name_sub": "People's Square Station",
+  "name_local": "人民广场站",
+  "lat": 31.23309,
+  "lng": 121.4739,
+  "area": "황푸/인민광장",
+  "lead": "상하이 지하철의 중심 환승역. 1·2·8호선이 만나 시내 어디로든 이동하기 좋아요.",
+  "facts": [
+    [
+      "노선",
+      "1·2·8호선"
+    ],
+    [
+      "위치",
+      "인민광장 아래"
+    ],
+    [
+      "주변",
+      "난징둥루 · 인민공원"
+    ],
+    [
+      "특징",
+      "출구가 매우 많음"
+    ]
+  ],
+  "origin": [
+    "인민광장역은 상하이 지하철 1·2·8호선이 만나는 대형 환승역이에요.",
+    "인민광장과 인민공원, 난징둥루가 바로 위에 있어 관광의 출발점으로 많이 이용해요.",
+    "출구가 많아 처음에는 목적지 출구를 찾기 어려울 수 있어요.",
+    "역 안 상가도 있어 이동 중 필요한 것을 살 수 있어요."
+  ],
+  "practical": [
+    "환승 통로가 길어 시간이 걸려요",
+    "출구 번호 표지를 따라가세요"
+  ],
+  "tip": "출구 번호를 미리 확인하세요. 난징둥루 방향과 인민공원 방향 출구가 달라요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "환승",
+    "도심",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "人民广场站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/People's_Square_station_(Shanghai_Metro)",
+    "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA%E7%AB%99_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+    "https://www.openstreetmap.org/node/6991499838"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 117900,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 중심 환승역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/People's_Square_station_(Shanghai_Metro)",
+        "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA%E7%AB%99_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+        "https://www.openstreetmap.org/node/6991499838"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:19.308Z"
+}

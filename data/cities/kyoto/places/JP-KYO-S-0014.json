@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Kyoto Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:33.837Z"
+  "sanitized_at": "2026-10-28T11:16:38.937Z",
+  "origin": [
+    "헤이안 신궁은 교토가 도읍이 된 천 년을 기념해 19세기 말에 세워진 신사예요.",
+    "커다란 붉은 도리이와 넓은 자갈 마당이 인상적이에요.",
+    "뒤쪽의 신엔 정원은 연못과 다리가 이어져 산책하기 좋아요.",
+    "오카자키 공원과 미술관이 가까워 함께 둘러보기 편해요."
+  ]
 }

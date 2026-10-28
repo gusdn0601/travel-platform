@@ -43,7 +43,9 @@
   "order": [
     "<b>ごぼう天うどん</b> 우엉 튀김 우동",
     "<b>肉うどん</b> 고기 우동",
-    "<b>かしわめし</b> 닭고기 주먹밥"
+    "<b>かしわめし</b> 닭고기 주먹밥",
+    "<b>かしわうどん</b> 닭고기 우동",
+    "<b>丸天うどん</b> 어묵 튀김 우동"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -84,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:59.076Z"
 }

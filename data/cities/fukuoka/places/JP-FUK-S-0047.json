@@ -1,0 +1,82 @@
+{
+  "id": "pl_5f70efea8a",
+  "code": "JP-FUK-S-0047",
+  "city_id": "JP-FUK",
+  "slug": "kego-shrine",
+  "kind": "sight",
+  "name_ko": "게고 신사",
+  "name_sub": "Kego Shrine",
+  "name_local": "警固神社",
+  "lat": 33.58778,
+  "lng": 130.39992,
+  "area": "텐진",
+  "lead": "텐진 번화가 한가운데의 신사. 쇼핑 중 잠깐 들러 참배하기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "도심 속 경내"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "분위기",
+      "조용"
+    ]
+  ],
+  "origin": [
+    "게고 신사는 텐진의 빌딩가 사이에 자리한 신사예요.",
+    "번화가 안이지만 경내에 들어서면 조용해 잠깐 쉬기 좋아요.",
+    "오래전부터 이 지역을 지켜 온 신사로 전해져요.",
+    "쇼핑과 식사 사이에 들르기 편한 위치예요."
+  ],
+  "tip": "도심 신사라 출입구가 건물 사이에 있어 지도를 보고 찾으세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "텐진",
+    "도심",
+    "조용"
+  ],
+  "art_key": "shrine",
+  "local_search": "警固神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E8%AD%A6%E5%9B%BA%E7%A5%9E%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://www.openstreetmap.org/way/370418282"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 34,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 도심 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:51.288Z"
+}

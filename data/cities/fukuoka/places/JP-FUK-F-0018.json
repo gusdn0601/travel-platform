@@ -42,7 +42,11 @@
   "tip": "이른 오전에 가면 한적하게 사진 찍기 좋아요.",
   "order": [
     "<b>ドリンク</b> 음료",
-    "<b>梅ヶ枝餅</b> 매화떡(인근 가게)"
+    "<b>梅ヶ枝餅</b> 매화떡(인근 가게)",
+    "<b>抹茶クリームフラペチーノ</b> 말차 크림 프라푸치노",
+    "<b>カフェラテ</b> 카페라테",
+    "<b>ドリップコーヒー</b> 드립 커피",
+    "<b>ホワイトモカ</b> 화이트 모카"
   ],
   "open_hours": null,
   "stay_min": 30,
@@ -82,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:02.867Z"
 }

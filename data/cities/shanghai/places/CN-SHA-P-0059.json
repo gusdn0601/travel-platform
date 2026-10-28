@@ -1,0 +1,88 @@
+{
+  "id": "pl_331c3735a9",
+  "code": "CN-SHA-P-0059",
+  "city_id": "CN-SHA",
+  "slug": "new-world-city",
+  "kind": "shop",
+  "name_ko": "신세계성",
+  "name_sub": "New World City",
+  "name_local": "新世界城",
+  "lat": 31.23692,
+  "lng": 121.46899,
+  "area": "황푸/난징둥루",
+  "lead": "난징둥루의 대형 백화점·쇼핑몰. 영화관과 실내 놀이 시설도 함께 있어요.",
+  "facts": [
+    [
+      "성격",
+      "복합 백화점"
+    ],
+    [
+      "위치",
+      "난징둥루"
+    ],
+    [
+      "접근",
+      "지하철 1·2·8호선 인민광장역"
+    ],
+    [
+      "특징",
+      "영화관 · 놀이시설"
+    ]
+  ],
+  "origin": [
+    "신세계성은 난징둥루와 인민광장 사이에 자리한 대형 쇼핑몰이에요.",
+    "백화점 매장과 식당, 영화관, 실내 놀이 시설이 함께 있어 가족 단위 방문객이 많아요.",
+    "오래된 상권 안에 있지만 리뉴얼을 거쳐 지금도 넓은 매장을 갖추고 있어요.",
+    "난징둥루 쇼핑 중 비를 피하거나 쉬어 가기 좋아요."
+  ],
+  "practical": [
+    "층별 안내를 확인하고 움직이세요",
+    "주변 백화점과 비교 쇼핑하기 좋아요"
+  ],
+  "tip": "인민광장역과 가까워 이동이 편해요. 영화관과 놀이 시설은 주말에 붐벼요.",
+  "open_hours": "Mo-Su 08:00-22:00 (OSM)",
+  "stay_min": 70,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "백화점",
+    "몰",
+    "난징둥루"
+  ],
+  "art_key": "mall",
+  "local_search": "新世界城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%95%8C_(%E4%B8%8A%E6%B5%B7)",
+    "https://www.openstreetmap.org/way/51317339"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 11,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난징둥루 대형 몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%95%8C_(%E4%B8%8A%E6%B5%B7)",
+        "https://www.openstreetmap.org/way/51317339"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.984Z"
+}

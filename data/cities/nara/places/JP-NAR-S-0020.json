@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "kofun in Asuka, Nara",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 고대 유적로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:18.198Z"
+  "sanitized_at": "2026-10-28T11:17:02.738Z",
+  "origin": [
+    "이시부타이 고분은 아스카 지역에 있는 고대 고분이에요.",
+    "거대한 돌로 만든 석실이 드러나 있어 구조를 직접 볼 수 있어요.",
+    "아스카 시대의 돌 처리 기술을 짐작하게 하는 유적으로 꼽혀요.",
+    "아스카 지역의 다른 유적과 함께 둘러보기 좋아요."
+  ]
 }

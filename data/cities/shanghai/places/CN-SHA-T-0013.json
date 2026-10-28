@@ -1,0 +1,92 @@
+{
+  "id": "pl_be0f66c7a3",
+  "code": "CN-SHA-T-0013",
+  "city_id": "CN-SHA",
+  "slug": "xujiahui-station",
+  "kind": "transit",
+  "name_ko": "쉬자후이역",
+  "name_sub": "Xujiahui Station",
+  "name_local": "徐家汇站",
+  "lat": 31.19454,
+  "lng": 121.4379,
+  "area": "쉬후이",
+  "lead": "쇼핑몰과 백화점이 모인 쉬자후이의 중심 환승역. 1·9·11호선이 만나요.",
+  "facts": [
+    [
+      "노선",
+      "1·9·11호선"
+    ],
+    [
+      "위치",
+      "쉬후이"
+    ],
+    [
+      "주변",
+      "강후이항룽광장 · 성당"
+    ],
+    [
+      "특징",
+      "대형 환승역"
+    ]
+  ],
+  "origin": [
+    "쉬자후이역은 1·9·11호선이 만나는 서남부의 중심 환승역이에요.",
+    "강후이항룽광장과 메이뤄청 같은 쇼핑몰, 쉬자후이 성당이 걸어갈 거리에 있어요.",
+    "지하 통로가 쇼핑몰과 이어져 비 오는 날에도 편해요.",
+    "출구가 많고 지하 구조가 복잡해 처음에는 안내를 잘 따라야 해요."
+  ],
+  "practical": [
+    "환승객이 많아 출퇴근 시간대에 붐벼요",
+    "지하 통로 표지를 따라가세요"
+  ],
+  "tip": "쇼핑몰 방향 출구를 미리 확인하세요. 지하 통로로 대부분 연결돼요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "환승",
+    "쇼핑",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "徐家汇站",
+  "photos": [
+    "CN-SHA-T-0013-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xujiahui_station",
+    "https://zh.wikipedia.org/wiki/%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99",
+    "https://www.openstreetmap.org/way/639434535"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 50274,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 쉬자후이 쇼핑 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xujiahui_station",
+        "https://zh.wikipedia.org/wiki/%E5%BE%90%E5%AE%B6%E6%B1%87%E7%AB%99",
+        "https://www.openstreetmap.org/way/639434535"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:32.420Z"
+}

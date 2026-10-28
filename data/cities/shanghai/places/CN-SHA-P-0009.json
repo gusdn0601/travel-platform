@@ -1,0 +1,90 @@
+{
+  "id": "pl_cddfe76424",
+  "code": "CN-SHA-P-0009",
+  "city_id": "CN-SHA",
+  "slug": "nanjing-east-road",
+  "kind": "shop",
+  "name_ko": "난징둥루 보행거리",
+  "name_sub": "Nanjing East Road Pedestrian Street",
+  "name_local": "南京东路步行街",
+  "lat": 31.23472,
+  "lng": 121.47444,
+  "area": "황푸/난징둥루",
+  "lead": "상하이에서 가장 유명한 쇼핑 보행거리. 인민광장에서 와이탄까지 걸어서 이어져요.",
+  "facts": [
+    [
+      "성격",
+      "보행 쇼핑 거리"
+    ],
+    [
+      "구간",
+      "허난중루~시짱중루 일대"
+    ],
+    [
+      "접근",
+      "지하철 2·10호선 난징둥루역"
+    ],
+    [
+      "인근",
+      "인민광장 · 와이탄"
+    ]
+  ],
+  "origin": [
+    "난징루는 상하이 개항 이후 서양 상인이 들어오면서 상업 거리로 자라난 길이에요.",
+    "20세기 초부터 백화점과 상점이 늘어 상하이 상업의 상징이 되었고, 1999년에 중심 구간이 보행 거리로 조성됐어요.",
+    "지금은 오래된 백화점과 대형 브랜드 매장, 기념품 가게가 뒤섞여 있어요.",
+    "길 끝으로 와이탄의 옛 건물 군이 보이는 풍경이 특히 인기예요."
+  ],
+  "practical": [
+    "기념품은 길 안쪽 상점가가 백화점보다 저렴한 편이에요",
+    "소매치기 주의 — 가방은 앞으로"
+  ],
+  "tip": "해 질 무렵부터 인민광장 쪽에서 와이탄 방향으로 걸으면 야경이 이어져요. 주말 저녁은 매우 붐벼요.",
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 150,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "보행거리",
+    "야경",
+    "백화점"
+  ],
+  "art_key": "street",
+  "local_search": "南京东路步行街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nanjing_Road",
+    "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E8%B7%AF_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+    "https://www.openstreetmap.org/node/476779776"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 343,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 대표 쇼핑 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nanjing_Road",
+        "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E8%B7%AF_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+        "https://www.openstreetmap.org/node/476779776"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.566Z"
+}

@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "temple in Sakyo ward of Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:45.013Z"
+  "sanitized_at": "2026-10-28T11:16:38.933Z",
+  "origin": [
+    "긴카쿠지는 쇼군 아시카가 요시마사가 지은 별장에서 시작된 사찰이에요.",
+    "은을 바르지 못해 이름만 은각이 되었다는 이야기가 전해지고, 실제로는 나무색 건물이 남아 있어요.",
+    "이끼 정원과 모래로 만든 조형이 차분한 분위기를 만들어요.",
+    "철학의 길 북쪽 끝에 있어 산책 코스의 시작이나 끝으로 삼기 좋아요."
+  ]
 }

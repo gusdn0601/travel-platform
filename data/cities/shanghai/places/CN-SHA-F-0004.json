@@ -71,7 +71,11 @@
   "order": [
     "<b>呼伦贝尔羊肉串</b> 대표 양꼬치",
     "<b>烤茄子</b> 마늘 가지구이",
-    "<b>烤馒头片</b> 구운 꽃빵"
+    "<b>烤馒头片</b> 구운 꽃빵",
+    "<b>羊肉串</b> 양꼬치",
+    "<b>烤羊排</b> 양갈비구이",
+    "<b>烤韭菜</b> 부추구이",
+    "<b>疙瘩汤</b> 수제비탕"
   ],
   "kid": {
     "missions": [
@@ -92,7 +96,7 @@
   ],
   "open_hours": null,
   "stay_min": null,
-  "price_hint": null,
+  "price_hint": "1인 120~200위안 추정",
   "must": 0,
   "tags": [],
   "art_key": "skewer",
@@ -104,5 +108,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  }
 }

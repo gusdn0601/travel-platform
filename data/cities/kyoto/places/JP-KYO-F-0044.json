@@ -38,7 +38,10 @@
   "tip": "오픈 시간에 맞춰 가면 대기를 줄일 수 있어요.",
   "order": [
     "<b>オムライス</b> 오므라이스",
-    "<b>ビーフカツ</b> 비프카츠"
+    "<b>ビーフカツ</b> 비프카츠",
+    "<b>ビフカツ</b> 비프카츠",
+    "<b>ハンバーグ</b> 함박스테이크",
+    "<b>エビフライ</b> 새우튀김"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -76,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:30.996Z"
 }

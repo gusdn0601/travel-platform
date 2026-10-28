@@ -37,7 +37,10 @@
   ],
   "tip": "기차 타기 전에 포장해 두면 간편해요.",
   "order": [
-    "<b>柿の葉すし</b> 카키노하즈시"
+    "<b>柿の葉すし</b> 카키노하즈시",
+    "<b>柿の葉すし</b> 감잎 초밥",
+    "<b>鮎の姿寿司</b> 은어 통초밥",
+    "<b>奈良の箱寿司</b> 나라 하코즈시"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -75,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:32:58.548Z"
 }

@@ -1,0 +1,82 @@
+{
+  "id": "pl_350673259f",
+  "code": "JP-NAR-S-0053",
+  "city_id": "JP-NAR",
+  "slug": "himuro-shrine",
+  "kind": "sight",
+  "name_ko": "히무로 신사",
+  "name_sub": "Himuro Shrine",
+  "name_local": "氷室神社",
+  "lat": 34.68444,
+  "lng": 135.83806,
+  "area": "나라 공원",
+  "lead": "나라 공원 남쪽의 작은 신사. 얼음과 관련된 신을 모신 것으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "얼음의 신"
+    ],
+    [
+      "위치",
+      "나라 공원 남쪽"
+    ],
+    [
+      "시기",
+      "벚꽃 철"
+    ]
+  ],
+  "origin": [
+    "히무로 신사는 나라 공원 남쪽에 자리한 작은 신사예요.",
+    "옛날 얼음을 저장하던 시설과 관련된 신을 모신 곳으로 알려져 있어요.",
+    "봄에는 경내의 벚꽃이 피어 사진 찍는 사람이 찾아요.",
+    "나라 공원과 국립박물관 사이에 있어 함께 걷기 좋아요."
+  ],
+  "tip": "벚꽃 철에는 짧게 붐비니 이른 시간이 좋아요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "얼음",
+    "벚꽃",
+    "나라공원"
+  ],
+  "art_key": "shrine",
+  "local_search": "氷室神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B0%B7%E5%AE%A4%E7%A5%9E%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92",
+    "https://www.openstreetmap.org/way/1454256057"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 24,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 벚꽃 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:37.473Z"
+}

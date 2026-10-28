@@ -1,0 +1,82 @@
+{
+  "id": "pl_f7a1f64605",
+  "code": "JP-FUK-S-0045",
+  "city_id": "JP-FUK",
+  "slug": "kinin-park-shikashima",
+  "kind": "sight",
+  "name_ko": "긴인 공원 (시카시마)",
+  "name_sub": "Kinin Park",
+  "name_local": "金印公園",
+  "lat": 33.66039,
+  "lng": 130.30113,
+  "area": "시카시마",
+  "lead": "금인이 발견된 섬의 공원. 바다를 바라보는 언덕에 기념비가 서 있어요.",
+  "facts": [
+    [
+      "종류",
+      "역사 공원"
+    ],
+    [
+      "특징",
+      "금인 발견지"
+    ],
+    [
+      "위치",
+      "시카시마"
+    ],
+    [
+      "전망",
+      "바다 조망"
+    ]
+  ],
+  "origin": [
+    "긴인 공원은 시카시마섬에서 금인이 발견된 것으로 전해지는 곳에 조성된 공원이에요.",
+    "금인은 한반도와 중국 방면에서 건너온 것으로 해석되는 오래된 인장이에요.",
+    "언덕 위 공원에서 바다를 바라보며 역사를 떠올리기 좋아요.",
+    "섬까지 버스로 이동해야 하지만 바다 풍경이 좋아 반나절 코스로 알맞아요."
+  ],
+  "tip": "섬 버스 배차가 길어 왕복 시간을 확인하세요. 바람이 강한 날이 많아요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "역사",
+    "금인",
+    "바다",
+    "전망"
+  ],
+  "art_key": "monument",
+  "local_search": "金印公園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%94%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0",
+    "https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%94%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0",
+    "https://ja.wikipedia.org/wiki/%E5%BF%97%E8%B3%80%E5%B3%B6",
+    "https://www.openstreetmap.org/node/934923286"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 금인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:48.521Z"
+}

@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "mountain in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 전망 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:54.753Z"
+  "sanitized_at": "2026-10-28T11:17:02.735Z",
+  "origin": [
+    "와카쿠사야마는 나라 공원 동쪽에 있는 잔디로 덮인 산이에요.",
+    "완만한 길을 따라 오르면 정상 전망대에서 나라 시내가 내려다보여요.",
+    "오르는 길이 길지 않아 가볍게 산책하기 좋아요.",
+    "사슴이 산기슭에도 있어 공원과 함께 걷기 좋아요."
+  ]
 }

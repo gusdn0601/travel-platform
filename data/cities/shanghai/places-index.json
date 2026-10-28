@@ -273,6 +273,20 @@
     "name_ko": "푸 1088 (福1088)"
   },
   {
+    "id": "pl_dbjcw0001",
+    "code": "CN-SHA-F-0040",
+    "slug": "dongbei-jicaiwang",
+    "kind": "food",
+    "name_ko": "둥베이 지차이왕"
+  },
+  {
+    "id": "pl_hkjnx0001",
+    "code": "CN-SHA-F-0041",
+    "slug": "hong-kuijia",
+    "kind": "food",
+    "name_ko": "훙쿠이자 (마라롱샤)"
+  },
+  {
     "id": "pl_52lx50mfql",
     "code": "CN-SHA-P-0001",
     "slug": "roastery",
@@ -327,6 +341,391 @@
     "slug": "foot-massage-area",
     "kind": "shop",
     "name_ko": "발마사지·전신마사지 (가성비 동네 마사지)"
+  },
+  {
+    "id": "pl_cddfe76424",
+    "code": "CN-SHA-P-0009",
+    "slug": "nanjing-east-road",
+    "kind": "shop",
+    "name_ko": "난징둥루 보행거리"
+  },
+  {
+    "id": "pl_3a269c2d62",
+    "code": "CN-SHA-P-0010",
+    "slug": "xintiandi",
+    "kind": "shop",
+    "name_ko": "신톈디"
+  },
+  {
+    "id": "pl_9cf6c9148c",
+    "code": "CN-SHA-P-0011",
+    "slug": "tianzifang",
+    "kind": "shop",
+    "name_ko": "톈쯔팡"
+  },
+  {
+    "id": "pl_d17986b299",
+    "code": "CN-SHA-P-0012",
+    "slug": "yuyuan-bazaar",
+    "kind": "shop",
+    "name_ko": "위위안 상성(예원 쇼핑가)"
+  },
+  {
+    "id": "pl_3cbeda1979",
+    "code": "CN-SHA-P-0013",
+    "slug": "wujiaochang",
+    "kind": "shop",
+    "name_ko": "우자오창 상권"
+  },
+  {
+    "id": "pl_1b48aee02c",
+    "code": "CN-SHA-P-0014",
+    "slug": "sichuan-north-road",
+    "kind": "shop",
+    "name_ko": "쓰촨베이루"
+  },
+  {
+    "id": "pl_a1ecf58c1f",
+    "code": "CN-SHA-P-0015",
+    "slug": "daning-international",
+    "kind": "shop",
+    "name_ko": "다닝 국제상업광장"
+  },
+  {
+    "id": "pl_bb7a190760",
+    "code": "CN-SHA-P-0016",
+    "slug": "plaza66",
+    "kind": "shop",
+    "name_ko": "플라자66"
+  },
+  {
+    "id": "pl_650afe3424",
+    "code": "CN-SHA-P-0017",
+    "slug": "grand-gateway-66",
+    "kind": "shop",
+    "name_ko": "강후이항룽광장(그랜드 게이트웨이 66)"
+  },
+  {
+    "id": "pl_152005756b",
+    "code": "CN-SHA-P-0018",
+    "slug": "jingan-kerry-centre",
+    "kind": "shop",
+    "name_ko": "징안자리센터"
+  },
+  {
+    "id": "pl_cb04f8301a",
+    "code": "CN-SHA-P-0019",
+    "slug": "hkri-taikoo-hui",
+    "kind": "shop",
+    "name_ko": "싱예타이구후이"
+  },
+  {
+    "id": "pl_1a1e196ac1",
+    "code": "CN-SHA-P-0020",
+    "slug": "iapm",
+    "kind": "shop",
+    "name_ko": "환마오 iapm"
+  },
+  {
+    "id": "pl_09e787b77e",
+    "code": "CN-SHA-P-0021",
+    "slug": "global-harbor",
+    "kind": "shop",
+    "name_ko": "글로벌하버"
+  },
+  {
+    "id": "pl_8bce58cb10",
+    "code": "CN-SHA-P-0022",
+    "slug": "westgate-mall",
+    "kind": "shop",
+    "name_ko": "메이룽전광장"
+  },
+  {
+    "id": "pl_c008c05f5a",
+    "code": "CN-SHA-P-0023",
+    "slug": "l-mall-lujiazui",
+    "kind": "shop",
+    "name_ko": "L+Mall 루자쭈이"
+  },
+  {
+    "id": "pl_3dabb19d4e",
+    "code": "CN-SHA-P-0024",
+    "slug": "bfc-bund-finance-center",
+    "kind": "shop",
+    "name_ko": "BFC 외탄금융중심"
+  },
+  {
+    "id": "pl_0e383cbc57",
+    "code": "CN-SHA-P-0025",
+    "slug": "lavenue-shanghai",
+    "kind": "shop",
+    "name_ko": "L'Avenue 상하이"
+  },
+  {
+    "id": "pl_327801c014",
+    "code": "CN-SHA-P-0026",
+    "slug": "kerry-parkside",
+    "kind": "shop",
+    "name_ko": "푸둥 케리 파크사이드"
+  },
+  {
+    "id": "pl_f8c226b8ae",
+    "code": "CN-SHA-P-0027",
+    "slug": "metro-city",
+    "kind": "shop",
+    "name_ko": "메이뤄청"
+  },
+  {
+    "id": "pl_57ab686f0f",
+    "code": "CN-SHA-P-0028",
+    "slug": "bailian-zx",
+    "kind": "shop",
+    "name_ko": "바이롄 ZX 창취창"
+  },
+  {
+    "id": "pl_d46af2d1f1",
+    "code": "CN-SHA-P-0029",
+    "slug": "shanghai-village-outlet",
+    "kind": "shop",
+    "name_ko": "상하이 빌리지(비체스터) 아울렛"
+  },
+  {
+    "id": "pl_271d46680a",
+    "code": "CN-SHA-P-0030",
+    "slug": "qingpu-outlet",
+    "kind": "shop",
+    "name_ko": "칭푸 아울렛"
+  },
+  {
+    "id": "pl_18c48a8979",
+    "code": "CN-SHA-P-0031",
+    "slug": "freshippo",
+    "kind": "shop",
+    "name_ko": "허마셴성"
+  },
+  {
+    "id": "pl_987634050d",
+    "code": "CN-SHA-P-0032",
+    "slug": "ole-supermarket",
+    "kind": "shop",
+    "name_ko": "올레 프리미엄 슈퍼"
+  },
+  {
+    "id": "pl_673087839c",
+    "code": "CN-SHA-P-0033",
+    "slug": "sams-club",
+    "kind": "shop",
+    "name_ko": "샘스클럽 푸둥점"
+  },
+  {
+    "id": "pl_84ece9487e",
+    "code": "CN-SHA-P-0034",
+    "slug": "costco-minhang",
+    "kind": "shop",
+    "name_ko": "코스트코 민항점"
+  },
+  {
+    "id": "pl_812d2e6b0a",
+    "code": "CN-SHA-P-0035",
+    "slug": "lawsons",
+    "kind": "shop",
+    "name_ko": "뤄썬 편의점"
+  },
+  {
+    "id": "pl_4e5101f583",
+    "code": "CN-SHA-P-0036",
+    "slug": "familymart",
+    "kind": "shop",
+    "name_ko": "패밀리마트"
+  },
+  {
+    "id": "pl_92f1308a1f",
+    "code": "CN-SHA-P-0037",
+    "slug": "watsons",
+    "kind": "shop",
+    "name_ko": "왓슨스"
+  },
+  {
+    "id": "pl_51b3ed992f",
+    "code": "CN-SHA-P-0038",
+    "slug": "sephora",
+    "kind": "shop",
+    "name_ko": "세포라"
+  },
+  {
+    "id": "pl_0005475894",
+    "code": "CN-SHA-P-0039",
+    "slug": "carrefour",
+    "kind": "shop",
+    "name_ko": "까르푸"
+  },
+  {
+    "id": "pl_881bfb49fe",
+    "code": "CN-SHA-P-0040",
+    "slug": "rt-mart",
+    "kind": "shop",
+    "name_ko": "따룬파"
+  },
+  {
+    "id": "pl_a8dae0e1eb",
+    "code": "CN-SHA-P-0041",
+    "slug": "hongquan-korean-mart",
+    "kind": "shop",
+    "name_ko": "홍취안루 한인마트"
+  },
+  {
+    "id": "pl_72cd16dce8",
+    "code": "CN-SHA-P-0042",
+    "slug": "tianfu-tea",
+    "kind": "shop",
+    "name_ko": "톈푸밍차"
+  },
+  {
+    "id": "pl_58db3cddb3",
+    "code": "CN-SHA-P-0043",
+    "slug": "shanghai-silk-store",
+    "kind": "shop",
+    "name_ko": "상하이 실크 상점"
+  },
+  {
+    "id": "pl_705e33f5fc",
+    "code": "CN-SHA-P-0044",
+    "slug": "hongqiao-pearl-city",
+    "kind": "shop",
+    "name_ko": "훙차오 진주시장"
+  },
+  {
+    "id": "pl_0fb2cb43be",
+    "code": "CN-SHA-P-0045",
+    "slug": "wenmiao-book-market",
+    "kind": "shop",
+    "name_ko": "원먀오 구서시장"
+  },
+  {
+    "id": "pl_03f0e854af",
+    "code": "CN-SHA-P-0046",
+    "slug": "no1-department-store",
+    "kind": "shop",
+    "name_ko": "상하이 제일백화점"
+  },
+  {
+    "id": "pl_35449f4675",
+    "code": "CN-SHA-P-0047",
+    "slug": "muji-huaihai-755",
+    "kind": "shop",
+    "name_ko": "무인양품 화이하이 755"
+  },
+  {
+    "id": "pl_b889867796",
+    "code": "CN-SHA-P-0048",
+    "slug": "uniqlo-huaihai",
+    "kind": "shop",
+    "name_ko": "유니클로 화이하이 플래그십"
+  },
+  {
+    "id": "pl_55e7bce274",
+    "code": "CN-SHA-P-0049",
+    "slug": "xiaomi-house",
+    "kind": "shop",
+    "name_ko": "샤오미 지아"
+  },
+  {
+    "id": "pl_2677317688",
+    "code": "CN-SHA-P-0050",
+    "slug": "pvg-duty-free",
+    "kind": "shop",
+    "name_ko": "푸동공항 면세점"
+  },
+  {
+    "id": "pl_8b000615ef",
+    "code": "CN-SHA-P-0051",
+    "slug": "lane-crawford",
+    "kind": "shop",
+    "name_ko": "연카포"
+  },
+  {
+    "id": "pl_748017cb49",
+    "code": "CN-SHA-P-0052",
+    "slug": "pop-mart-flagship",
+    "kind": "shop",
+    "name_ko": "팝마트 글로벌 플래그십"
+  },
+  {
+    "id": "pl_5dfc3055b6",
+    "code": "CN-SHA-P-0053",
+    "slug": "duoyun-books",
+    "kind": "shop",
+    "name_ko": "둬윈서점 상하이타워점"
+  },
+  {
+    "id": "pl_641533e828",
+    "code": "CN-SHA-P-0054",
+    "slug": "zhongshuge",
+    "kind": "shop",
+    "name_ko": "중수거"
+  },
+  {
+    "id": "pl_c88a710ca5",
+    "code": "CN-SHA-P-0055",
+    "slug": "foreign-languages-bookstore",
+    "kind": "shop",
+    "name_ko": "상하이 외국어서점"
+  },
+  {
+    "id": "pl_21aea99e7b",
+    "code": "CN-SHA-P-0056",
+    "slug": "ancient-books-store",
+    "kind": "shop",
+    "name_ko": "상하이 구지서점"
+  },
+  {
+    "id": "pl_a2b1a86c6c",
+    "code": "CN-SHA-P-0057",
+    "slug": "chenguang-stationery",
+    "kind": "shop",
+    "name_ko": "천광문구"
+  },
+  {
+    "id": "pl_112d8f25c4",
+    "code": "CN-SHA-P-0058",
+    "slug": "buynow-xujiahui",
+    "kind": "shop",
+    "name_ko": "쉬자후이 전자상가(바이냐오후이)"
+  },
+  {
+    "id": "pl_331c3735a9",
+    "code": "CN-SHA-P-0059",
+    "slug": "new-world-city",
+    "kind": "shop",
+    "name_ko": "신세계성"
+  },
+  {
+    "id": "pl_5321074fef",
+    "code": "CN-SHA-P-0060",
+    "slug": "fuzhou-road-culture-street",
+    "kind": "shop",
+    "name_ko": "푸저우루 문화거리"
+  },
+  {
+    "id": "pl_0734555739",
+    "code": "CN-SHA-P-0061",
+    "slug": "yunzhou-antiques",
+    "kind": "shop",
+    "name_ko": "윈저우 고완성"
+  },
+  {
+    "id": "pl_1b0ba6d66e",
+    "code": "CN-SHA-P-0062",
+    "slug": "tianshan-tea-city",
+    "kind": "shop",
+    "name_ko": "톈산차성"
+  },
+  {
+    "id": "pl_92d10681de",
+    "code": "CN-SHA-P-0063",
+    "slug": "miniso",
+    "kind": "shop",
+    "name_ko": "미니소"
   },
   {
     "id": "pl_1tau5ayq75",
@@ -733,5 +1132,194 @@
     "slug": "yongkang-road",
     "kind": "sight",
     "name_ko": "융캉루 (永康路) 바 거리"
+  },
+  {
+    "id": "pl_48179db822",
+    "code": "CN-SHA-T-0001",
+    "slug": "pudong-airport",
+    "kind": "transit",
+    "name_ko": "푸동국제공항"
+  },
+  {
+    "id": "pl_1a06a0dbf3",
+    "code": "CN-SHA-T-0002",
+    "slug": "hongqiao-airport",
+    "kind": "transit",
+    "name_ko": "훙차오국제공항"
+  },
+  {
+    "id": "pl_b3be3c4307",
+    "code": "CN-SHA-T-0003",
+    "slug": "hongqiao-railway-station",
+    "kind": "transit",
+    "name_ko": "훙차오역(고속철)"
+  },
+  {
+    "id": "pl_a71d1dc569",
+    "code": "CN-SHA-T-0004",
+    "slug": "shanghai-railway-station",
+    "kind": "transit",
+    "name_ko": "상하이역"
+  },
+  {
+    "id": "pl_d5f6448908",
+    "code": "CN-SHA-T-0005",
+    "slug": "shanghai-south-station",
+    "kind": "transit",
+    "name_ko": "상하이남역"
+  },
+  {
+    "id": "pl_de05dbf5b9",
+    "code": "CN-SHA-T-0006",
+    "slug": "maglev",
+    "kind": "transit",
+    "name_ko": "마그레브(자기부상열차)"
+  },
+  {
+    "id": "pl_41e8d4f73a",
+    "code": "CN-SHA-T-0007",
+    "slug": "peoples-square-station",
+    "kind": "transit",
+    "name_ko": "인민광장역"
+  },
+  {
+    "id": "pl_5dcb690e05",
+    "code": "CN-SHA-T-0008",
+    "slug": "lujiazui-station",
+    "kind": "transit",
+    "name_ko": "루자쭈이역"
+  },
+  {
+    "id": "pl_f2757f120e",
+    "code": "CN-SHA-T-0009",
+    "slug": "nanjing-east-road-station",
+    "kind": "transit",
+    "name_ko": "난징둥루역"
+  },
+  {
+    "id": "pl_7ec3d5b706",
+    "code": "CN-SHA-T-0010",
+    "slug": "zhangjiang-hitech-station",
+    "kind": "transit",
+    "name_ko": "장장하이커역"
+  },
+  {
+    "id": "pl_cd4cbae076",
+    "code": "CN-SHA-T-0011",
+    "slug": "xintiandi-station",
+    "kind": "transit",
+    "name_ko": "신톈디역"
+  },
+  {
+    "id": "pl_3d62f0cf5c",
+    "code": "CN-SHA-T-0012",
+    "slug": "jingan-temple-station",
+    "kind": "transit",
+    "name_ko": "징안사역"
+  },
+  {
+    "id": "pl_be0f66c7a3",
+    "code": "CN-SHA-T-0013",
+    "slug": "xujiahui-station",
+    "kind": "transit",
+    "name_ko": "쉬자후이역"
+  },
+  {
+    "id": "pl_1d424ae938",
+    "code": "CN-SHA-T-0014",
+    "slug": "disney-resort-station",
+    "kind": "transit",
+    "name_ko": "디즈니역"
+  },
+  {
+    "id": "pl_bdadfc3e1e",
+    "code": "CN-SHA-T-0015",
+    "slug": "longyang-road-station",
+    "kind": "transit",
+    "name_ko": "룽양루역"
+  },
+  {
+    "id": "pl_56fbb94a5d",
+    "code": "CN-SHA-T-0016",
+    "slug": "century-avenue-station",
+    "kind": "transit",
+    "name_ko": "세기대로역(스지따다오)"
+  },
+  {
+    "id": "pl_88d0ab708c",
+    "code": "CN-SHA-T-0017",
+    "slug": "zhongshan-park-station",
+    "kind": "transit",
+    "name_ko": "중산공원역"
+  },
+  {
+    "id": "pl_0fdff8db2d",
+    "code": "CN-SHA-T-0018",
+    "slug": "pujiang-ferry",
+    "kind": "transit",
+    "name_ko": "황푸강 페리"
+  },
+  {
+    "id": "pl_c8abfac735",
+    "code": "CN-SHA-T-0019",
+    "slug": "bund-sightseeing-tunnel",
+    "kind": "transit",
+    "name_ko": "와이탄 관광터널"
+  },
+  {
+    "id": "pl_6a2659f4b7",
+    "code": "CN-SHA-T-0020",
+    "slug": "didi-taxi",
+    "kind": "transit",
+    "name_ko": "디디추싱·택시"
+  },
+  {
+    "id": "pl_c93f2071f3",
+    "code": "CN-SHA-T-0021",
+    "slug": "shared-bike",
+    "kind": "transit",
+    "name_ko": "공유자전거"
+  },
+  {
+    "id": "pl_8f244dee7a",
+    "code": "CN-SHA-T-0022",
+    "slug": "city-bus",
+    "kind": "transit",
+    "name_ko": "상하이 시내버스"
+  },
+  {
+    "id": "pl_8771d594e7",
+    "code": "CN-SHA-T-0023",
+    "slug": "shanghai-transport-card",
+    "kind": "transit",
+    "name_ko": "상하이 교통카드"
+  },
+  {
+    "id": "pl_361fc4012f",
+    "code": "CN-SHA-T-0024",
+    "slug": "shanghai-metro-pass",
+    "kind": "transit",
+    "name_ko": "상하이 지하철 1·3일권"
+  },
+  {
+    "id": "pl_c839eb1418",
+    "code": "CN-SHA-T-0025",
+    "slug": "to-hangzhou",
+    "kind": "transit",
+    "name_ko": "상하이→항저우 고속철"
+  },
+  {
+    "id": "pl_58cb97d512",
+    "code": "CN-SHA-T-0026",
+    "slug": "to-suzhou",
+    "kind": "transit",
+    "name_ko": "상하이→쑤저우 고속철"
+  },
+  {
+    "id": "pl_e4c33bf084",
+    "code": "CN-SHA-T-0027",
+    "slug": "to-zhujiajiao",
+    "kind": "transit",
+    "name_ko": "상하이→주자자오 교통"
   }
 ]

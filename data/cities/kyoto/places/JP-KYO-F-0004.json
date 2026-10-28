@@ -35,7 +35,11 @@
   ],
   "tip": "철학의 길을 걷고 난 오후에는 줄이 비교적 덜해요.",
   "order": [
-    "<b>おめん</b> 대표 츠케 우동"
+    "<b>おめん</b> 대표 츠케 우동",
+    "<b>おめん</b> 오멘(교토식 우동)",
+    "<b>にしんおめん</b> 청어 오멘",
+    "<b>天ぷらおめん</b> 덴푸라 오멘",
+    "<b>ごまどうふ</b> 참깨 두부"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -69,7 +73,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:08.049Z"
 }

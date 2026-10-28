@@ -1,0 +1,89 @@
+{
+  "id": "pl_84ece9487e",
+  "code": "CN-SHA-P-0034",
+  "city_id": "CN-SHA",
+  "slug": "costco-minhang",
+  "kind": "shop",
+  "name_ko": "코스트코 민항점",
+  "name_sub": "Costco Minhang",
+  "name_local": "开市客 闵行",
+  "lat": 31.21964,
+  "lng": 121.27195,
+  "area": "민항",
+  "lead": "중국 본토에 처음 들어온 코스트코 매장. 대용량 상품과 푸드코트가 있어요.",
+  "facts": [
+    [
+      "개장",
+      "2019년"
+    ],
+    [
+      "성격",
+      "회원제 창고형 매장"
+    ],
+    [
+      "위치",
+      "민항구"
+    ],
+    [
+      "특징",
+      "대용량 · 푸드코트"
+    ]
+  ],
+  "origin": [
+    "코스트코는 2019년 상하이 민항에 중국 본토 첫 매장을 열었어요.",
+    "개장 당시 큰 인파가 몰려 화제가 됐고, 이후에도 회원제 창고형 매장의 대표로 자리 잡았어요.",
+    "대용량 식품과 생활용품, 자체 브랜드 상품이 인기예요.",
+    "도심에서 거리가 있어 차량이나 택시로 이동해야 해요."
+  ],
+  "practical": [
+    "회원 가입이 필요해요",
+    "주말에는 입장 대기가 길어요"
+  ],
+  "tip": "여행자보다 현지 생활자에게 맞는 곳이에요. 짧은 여행이라면 굳이 들를 필요는 없어요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "회원제(연회비 별도, 추정)",
+  "must": 0,
+  "tags": [
+    "마트",
+    "회원제",
+    "대용량",
+    "장보기"
+  ],
+  "art_key": "market",
+  "local_search": "开市客 闵行",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Costco",
+    "https://zh.wikipedia.org/wiki/%E5%A5%BD%E5%B8%82%E5%A4%9A",
+    "https://www.openstreetmap.org/way/719264140"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 창고형 마트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Costco",
+        "https://zh.wikipedia.org/wiki/%E5%A5%BD%E5%B8%82%E5%A4%9A",
+        "https://www.openstreetmap.org/way/719264140"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.614Z"
+}

@@ -37,7 +37,10 @@
   ],
   "tip": "사진을 남기려면 낮 시간대가 좋아요.",
   "order": [
-    "<b>ゼリーポンチ</b> 젤리 폰치"
+    "<b>ゼリーポンチ</b> 젤리 폰치",
+    "<b>ゼリーポンチ</b> 젤리펀치",
+    "<b>ホットケーキ</b> 핫케이크",
+    "<b>コーヒー</b> 커피"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -75,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:20.974Z"
 }

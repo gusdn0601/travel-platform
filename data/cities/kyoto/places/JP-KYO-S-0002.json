@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Higashiyama-ku, Kyoto",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:32.600Z"
+  "sanitized_at": "2026-10-28T11:16:38.932Z",
+  "origin": [
+    "기요미즈데라는 히가시야마 기슭에 세워진 사찰이에요.",
+    "절벽 위에 나무 무대를 걸친 본당 구조가 상징이고, ‘기요미즈의 무대’라는 말이 여기서 나왔다는 이야기가 전해져요.",
+    "무대에서 교토 시내가 내려다보여 사진을 찍는 사람이 많아요.",
+    "아래로 이어지는 산넨자카 골목과 함께 걷는 코스가 정석이에요."
+  ]
 }

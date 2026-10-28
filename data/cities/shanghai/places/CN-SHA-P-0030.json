@@ -1,0 +1,87 @@
+{
+  "id": "pl_271d46680a",
+  "code": "CN-SHA-P-0030",
+  "city_id": "CN-SHA",
+  "slug": "qingpu-outlet",
+  "kind": "shop",
+  "name_ko": "칭푸 아울렛",
+  "name_sub": "Bailian Qingpu Outlet",
+  "name_local": "百联奥特莱斯广场(青浦)",
+  "lat": 31.1583,
+  "lng": 121.22483,
+  "area": "칭푸",
+  "lead": "상하이 서쪽 칭푸의 대형 아울렛. 도심에서 차로 이동해 하루 쇼핑을 하기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "대형 아울렛"
+    ],
+    [
+      "위치",
+      "칭푸구"
+    ],
+    [
+      "접근",
+      "도심에서 차로 1시간 안팎"
+    ],
+    [
+      "특징",
+      "브랜드 할인 · 넓은 주차장"
+    ]
+  ],
+  "origin": [
+    "칭푸 아울렛은 상하이 서쪽 외곽에 자리한 대형 할인 매장 단지예요.",
+    "2000년대 중반 문을 열어 상하이 아울렛 쇼핑의 초기 사례로 꼽혀요.",
+    "넓은 부지에 브랜드 매장과 식당이 흩어져 있어 하루 일정으로 찾는 사람이 많아요.",
+    "근처에 주자자오 같은 수향 마을이 있어 함께 묶는 코스도 가능해요."
+  ],
+  "practical": [
+    "대중교통 접근이 어려워 택시·렌터카가 편해요",
+    "여름 할인 시즌에 사람이 크게 늘어요"
+  ],
+  "tip": "주말보다 평일이 한적해요. 차량이나 택시 이용을 권해요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "아울렛",
+    "근교",
+    "가족"
+  ],
+  "art_key": "shop",
+  "local_search": "百联奥特莱斯广场(青浦)",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/search?query=%E7%99%BE%E8%81%94%E5%A5%A5%E7%89%B9%E8%8E%B1%E6%96%AF%20%E9%9D%92%E6%B5%A6",
+    "https://www.openstreetmap.org/way/41667330"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 근교 아울렛로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://www.openstreetmap.org/way/41667330",
+        "https://www.openstreetmap.org/search?query=%E7%99%BE%E8%81%94%E5%A5%A5%E7%89%B9%E8%8E%B1%E6%96%AF%20%E9%9D%92%E6%B5%A6"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.607Z"
+}

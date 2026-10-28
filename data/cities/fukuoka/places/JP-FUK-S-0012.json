@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "island and neighborhood at Hakata Bay in Fukuoka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 섬 나들이로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:02.462Z"
+  "sanitized_at": "2026-10-28T11:17:31.905Z",
+  "origin": [
+    "노코노시마는 하카타 만에 떠 있는 작은 섬이에요.",
+    "페리로 짧게 건너가 꽃 공원과 바다 풍경을 즐길 수 있어요.",
+    "섬 안이 작아 반나절이면 둘러볼 수 있어요.",
+    "바람이 강한 날에는 배편이 끊길 수 있어 확인이 필요해요."
+  ]
 }

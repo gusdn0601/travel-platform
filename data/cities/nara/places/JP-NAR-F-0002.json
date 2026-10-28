@@ -38,7 +38,11 @@
   "tip": "오픈 시간에 맞춰 가면 대기를 줄일 수 있어요.",
   "order": [
     "<b>奈良定食</b> 나라 정식 카마메시",
-    "<b>かに飯</b> 게 카마메시"
+    "<b>かに飯</b> 게 카마메시",
+    "<b>奈良七種釜めし定食</b> 나라 7가지 솥밥 정식",
+    "<b>かに釜めし定食</b> 게 솥밥 정식",
+    "<b>志津香定食</b> 시즈카 정식",
+    "<b>大和肉鶏釜めし</b> 야마토 닭 솥밥"
   ],
   "open_hours": null,
   "stay_min": 60,
@@ -56,7 +60,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://www.openstreetmap.org/way/344610862"
+    "https://www.openstreetmap.org/way/344610862",
+    "https://map.yahoo.co.jp/v3/place/JxemmkhvKrE/menu",
+    "https://www.gltjp.com/ja/directory/item/13162/"
   ],
   "meta": {
     "priority": 3,
@@ -76,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:32:50.081Z"
 }

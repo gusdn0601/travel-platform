@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "museum in Fukuoka City, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 미술관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:35.928Z"
+  "sanitized_at": "2026-10-28T11:17:31.904Z",
+  "origin": [
+    "후쿠오카 아시아미술관은 하카타 리버레인 안에 있는 미술관이에요.",
+    "아시아 근현대 미술을 주제로 기획전과 소장품을 전시해요.",
+    "하카타역과 가까워 이동 중 들르기 좋아요.",
+    "실내라 비 오는 날 일정으로도 괜찮아요."
+  ]
 }

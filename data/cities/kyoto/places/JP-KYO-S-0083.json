@@ -1,0 +1,84 @@
+{
+  "id": "pl_868efd42af",
+  "code": "JP-KYO-S-0083",
+  "city_id": "JP-KYO",
+  "slug": "doshisha-yundongju-monument",
+  "kind": "sight",
+  "name_ko": "도시샤대학 윤동주 시비",
+  "name_sub": "Yun Dong-ju Monument, Doshisha University",
+  "name_local": "同志社大学",
+  "lat": 35.02974,
+  "lng": 135.76073,
+  "area": "이마데가와",
+  "lead": "도시샤대학 캠퍼스 안의 윤동주 시비. 한국 여행자가 찾아가는 역사 장소예요.",
+  "facts": [
+    [
+      "종류",
+      "시비·기념물"
+    ],
+    [
+      "의미",
+      "윤동주와 교토"
+    ],
+    [
+      "위치",
+      "도시샤대학"
+    ],
+    [
+      "출입",
+      "캠퍼스 규칙 확인"
+    ]
+  ],
+  "origin": [
+    "윤동주는 일제강점기 일본에서 유학하던 중 교토의 도시샤대학에 다녔던 시인이에요.",
+    "캠퍼스 안에는 그의 시를 새긴 시비가 세워져 있어 한국 여행자가 찾아와 시를 읽고 가요.",
+    "시비는 작지만 시인의 삶과 시대를 떠올리게 하는 장소예요.",
+    "대학 캠퍼스이므로 출입 규칙과 조용한 관람 예절을 지켜야 해요."
+  ],
+  "tip": "수업 중에는 출입이 제한될 수 있어요. 방문 전에 캠퍼스 안내를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료(캠퍼스 출입 규칙 확인)",
+  "must": 0,
+  "tags": [
+    "역사",
+    "한국",
+    "시비",
+    "대학"
+  ],
+  "art_key": "monument",
+  "local_search": "同志社大学",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Doshisha_University",
+    "https://ja.wikipedia.org/wiki/%E5%90%8C%E5%BF%97%E7%A4%BE%E5%A4%A7%E5%AD%A6",
+    "https://ja.wikipedia.org/wiki/%E5%B0%B9%E6%9D%B1%E6%9F%B1",
+    "https://en.wikipedia.org/wiki/Yun_Dong-ju",
+    "https://www.openstreetmap.org/way/344919356"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 83,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 윤동주 시비로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:44.504Z"
+}

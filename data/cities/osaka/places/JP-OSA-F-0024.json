@@ -43,7 +43,10 @@
   "tip": "커피와 핫케이크를 함께 주문하면 한 끼로도 충분해요.",
   "order": [
     "<b>ブレンドコーヒー</b> 블렌드 커피",
-    "<b>ホットケーキ</b> 핫케이크"
+    "<b>ホットケーキ</b> 핫케이크",
+    "<b>丸福ブレンド</b> 마루후쿠 블렌드",
+    "<b>サンドイッチ</b> 샌드위치",
+    "<b>プリン</b> 푸딩"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -85,7 +88,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:27.190Z"
 }

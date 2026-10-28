@@ -1,0 +1,87 @@
+{
+  "id": "pl_0fb2cb43be",
+  "code": "CN-SHA-P-0045",
+  "city_id": "CN-SHA",
+  "slug": "wenmiao-book-market",
+  "kind": "shop",
+  "name_ko": "원먀오 구서시장",
+  "name_sub": "Wenmiao Used Book Market",
+  "name_local": "文庙旧书市场",
+  "lat": 31.21967,
+  "lng": 121.48297,
+  "area": "황푸/라오시먼",
+  "lead": "문묘 앞에서 주말에 열리는 중고 책 시장. 옛 책과 엽서, 포스터를 구경할 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "주말 중고책 시장"
+    ],
+    [
+      "위치",
+      "상하이 문묘 인근"
+    ],
+    [
+      "일정",
+      "주말 중심(변동 가능)"
+    ],
+    [
+      "상품",
+      "중고책 · 엽서 · 인쇄물"
+    ]
+  ],
+  "origin": [
+    "원먀오 구서시장은 상하이 문묘(공자묘) 앞에서 주말마다 열리는 중고 책 장터예요.",
+    "옛 책과 잡지, 엽서, 포스터, 사진 같은 인쇄물이 좌판에 늘어서요.",
+    "중국 근현대 인쇄물을 찾는 수집가와 구경꾼이 함께 모여요.",
+    "규모는 크지 않지만 오래된 상하이의 분위기를 느끼기 좋아요."
+  ],
+  "practical": [
+    "개장 일정이 바뀔 수 있어 방문 전 확인하세요",
+    "현금을 준비하면 편해요"
+  ],
+  "tip": "주말 오전에 가야 좌판이 많이 열려요. 상태를 확인하고 흥정해 보세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "서점",
+    "중고책",
+    "시장",
+    "골동"
+  ],
+  "art_key": "market",
+  "local_search": "文庙旧书市场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%BA%99",
+    "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%BA%99%20%E6%97%A7%E4%B9%A6%E5%B8%82%E5%9C%BA"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 중고책 시장로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%BA%99",
+        "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%BA%99%20%E6%97%A7%E4%B9%A6%E5%B8%82%E5%9C%BA"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:21.985Z"
+}

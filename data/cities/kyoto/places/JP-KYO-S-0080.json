@@ -1,0 +1,84 @@
+{
+  "id": "pl_360e8ecd72",
+  "code": "JP-KYO-S-0080",
+  "city_id": "JP-KYO",
+  "slug": "ujigami-shrine",
+  "kind": "sight",
+  "name_ko": "우지가미 신사",
+  "name_sub": "Ujigami Shrine",
+  "name_local": "宇治上神社",
+  "lat": 34.89194,
+  "lng": 135.81139,
+  "area": "우지",
+  "lead": "우지의 작은 신사. 오래된 본전 건물로 세계유산에 올라 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "오래된 본전"
+    ],
+    [
+      "위치",
+      "우지 강변"
+    ],
+    [
+      "분위기",
+      "작고 조용함"
+    ]
+  ],
+  "origin": [
+    "우지가미 신사는 우지 강변에 자리한 작은 신사예요.",
+    "일본에서 가장 오래된 신사 건축 중 하나로 알려져 세계유산에 포함되어 있어요.",
+    "규모가 작아 금방 둘러보지만, 조용한 분위기와 오래된 건물을 천천히 보기 좋아요.",
+    "우지의 다른 사찰과 함께 반나절 코스로 다녀오기 좋아요."
+  ],
+  "tip": "우지 사찰과 함께 보려면 버스와 도보 동선을 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "세계유산",
+    "우지",
+    "조용"
+  ],
+  "art_key": "shrine",
+  "local_search": "宇治上神社",
+  "photos": [
+    "JP-KYO-S-0080-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ujigami_Shrine",
+    "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E4%B8%8A%E7%A5%9E%E7%A4%BE",
+    "https://www.openstreetmap.org/way/332816179"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 14,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우지 세계유산로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:34.677Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pl_540ffacfd5",
+  "code": "JP-KYO-S-0090",
+  "city_id": "JP-KYO",
+  "slug": "goo-jinja",
+  "kind": "sight",
+  "name_ko": "고오 신사",
+  "name_sub": "Goō-jinja",
+  "name_local": "護王神社",
+  "lat": 35.02194,
+  "lng": 135.765,
+  "area": "교토 어원 남쪽",
+  "lead": "교토 어원 남쪽의 신사. 멧돼지 조각과 다리 건강 기원으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "멧돼지 조각"
+    ],
+    [
+      "위치",
+      "교토 어원 남쪽"
+    ],
+    [
+      "분위기",
+      "차분"
+    ]
+  ],
+  "origin": [
+    "고오 신사는 교토 어원 남쪽에 자리한 신사예요.",
+    "멧돼지를 신의 사자로 여겨 경내에 멧돼지 조각이 많아요.",
+    "다리와 허리 건강에 효험이 있다는 이야기가 전해져요.",
+    "니조성이나 교토 어원을 걷다 들르기 좋아요."
+  ],
+  "tip": "조용한 신사라 관람 예절을 지키는 것이 좋아요.",
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "무료(경내)",
+  "must": 0,
+  "tags": [
+    "신사",
+    "멧돼지",
+    "역사",
+    "도심"
+  ],
+  "art_key": "shrine",
+  "local_search": "護王神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Go%C5%8D_Shrine",
+    "https://ja.wikipedia.org/wiki/%E8%AD%B7%E7%8E%8B%E7%A5%9E%E7%A4%BE",
+    "https://www.openstreetmap.org/way/345029419"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 563,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 작은 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:14:30.397Z"
+}

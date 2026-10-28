@@ -1,0 +1,85 @@
+{
+  "id": "pl_8b000615ef",
+  "code": "CN-SHA-P-0051",
+  "city_id": "CN-SHA",
+  "slug": "lane-crawford",
+  "kind": "shop",
+  "name_ko": "연카포",
+  "name_sub": "Lane Crawford",
+  "name_local": "连卡佛",
+  "lat": null,
+  "lng": null,
+  "area": "푸둥/루자쭈이·황푸",
+  "lead": "홍콩계 럭셔리 편집 백화점. 디자이너 브랜드와 라이프스타일 상품을 모아 놓았어요.",
+  "facts": [
+    [
+      "성격",
+      "럭셔리 편집 백화점"
+    ],
+    [
+      "본사",
+      "홍콩"
+    ],
+    [
+      "위치",
+      "IFC · 타임스퀘어 등"
+    ],
+    [
+      "상품",
+      "패션 · 뷰티 · 생활"
+    ]
+  ],
+  "origin": [
+    "연카포는 홍콩에서 시작한 럭셔리 편집 백화점이에요.",
+    "상하이에는 푸둥 IFC와 황푸의 타임스퀘어 등에 매장이 있어요.",
+    "유명 명품보다 디자이너 브랜드와 감각적인 생활용품을 함께 큐레이션해 보여 줘요.",
+    "쇼핑몰 안에 있어 다른 매장과 함께 둘러보기 좋아요."
+  ],
+  "practical": [
+    "매장별 입점 브랜드가 달라요",
+    "면세 환급은 매장에서 확인하세요"
+  ],
+  "tip": "명품보다 편집숍다운 브랜드를 찾을 때 좋아요. 시즌 세일을 노려 보세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "백화점",
+    "명품",
+    "편집숍"
+  ],
+  "art_key": "mall",
+  "local_search": "连卡佛",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lane_Crawford",
+    "https://zh.wikipedia.org/wiki/%E8%BF%9E%E5%8D%A1%E4%BD%9B"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 럭셔리 편집숍로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lane_Crawford",
+        "https://zh.wikipedia.org/wiki/%E8%BF%9E%E5%8D%A1%E4%BD%9B"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.971Z"
+}

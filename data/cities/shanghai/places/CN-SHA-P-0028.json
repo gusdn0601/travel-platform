@@ -1,0 +1,88 @@
+{
+  "id": "pl_57ab686f0f",
+  "code": "CN-SHA-P-0028",
+  "city_id": "CN-SHA",
+  "slug": "bailian-zx",
+  "kind": "shop",
+  "name_ko": "바이롄 ZX 창취창",
+  "name_sub": "Bailian ZX",
+  "name_local": "百联ZX创趣场",
+  "lat": 31.23914,
+  "lng": 121.47877,
+  "area": "황푸/난징둥루",
+  "lead": "난징둥루의 애니메이션·게임 굿즈 전문 몰. 일본 캐릭터 매장이 층마다 들어서요.",
+  "facts": [
+    [
+      "개장",
+      "2023년"
+    ],
+    [
+      "성격",
+      "애니메이션·게임 테마 몰"
+    ],
+    [
+      "위치",
+      "난징둥루"
+    ],
+    [
+      "특징",
+      "캐릭터 굿즈 · 팝업"
+    ]
+  ],
+  "origin": [
+    "바이롄 ZX 창취창은 난징둥루의 오래된 상가 건물을 애니메이션·게임 테마로 바꾼 곳이에요.",
+    "2023년 문을 열면서 젊은 층과 팬덤이 몰려와 줄을 서는 매장이 생겼어요.",
+    "캐릭터 굿즈와 피규어, 콜라보 카페가 층별로 들어서 있어요.",
+    "난징둥루 쇼핑 중 색다른 취향을 찾는다면 들러 볼 만해요."
+  ],
+  "practical": [
+    "한정 굿즈는 조기 품절이 잦아요",
+    "주말에는 팬덤 방문객으로 매우 붐벼요"
+  ],
+  "tip": "인기 매장은 입장 대기가 길어요. 오픈 시간에 맞춰 가세요.",
+  "open_hours": "Mo-Su 10:00-22:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "애니메이션",
+    "굿즈",
+    "젊은층"
+  ],
+  "art_key": "mall",
+  "local_search": "百联ZX创趣场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E7%99%BE%E8%81%94ZX%E5%88%9B%E8%B6%A3%E5%9C%BA",
+    "https://www.openstreetmap.org/way/160821061"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 4,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 애니메이션 굿즈 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E7%99%BE%E8%81%94ZX%E5%88%9B%E8%B6%A3%E5%9C%BA",
+        "https://www.openstreetmap.org/way/160821061"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.604Z"
+}

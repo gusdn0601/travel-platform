@@ -1,0 +1,85 @@
+{
+  "id": "pl_0734555739",
+  "code": "CN-SHA-P-0061",
+  "city_id": "CN-SHA",
+  "slug": "yunzhou-antiques",
+  "kind": "shop",
+  "name_ko": "윈저우 고완성",
+  "name_sub": "Yunzhou Antique City",
+  "name_local": "云洲古玩城",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/다푸차오",
+  "lead": "다푸차오 인근의 골동품 상가. 옛 도자기와 소품, 수집품을 구경할 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "골동품 상가"
+    ],
+    [
+      "위치",
+      "황푸구 다푸차오 인근"
+    ],
+    [
+      "상품",
+      "도자기 · 소품 · 수집품"
+    ],
+    [
+      "주의",
+      "진품 확인 어려움"
+    ]
+  ],
+  "origin": [
+    "윈저우 고완성은 다푸차오 인근에 있는 골동품 상가예요.",
+    "여러 층에 도자기와 목공품, 옛 생활용품, 수집품을 파는 가게가 들어 있어요.",
+    "주말에는 좌판이 열려 구경하는 재미가 있어요.",
+    "진품과 모조품이 섞여 있으니 값이 큰 물건은 신중하게 접근하는 편이 좋아요."
+  ],
+  "practical": [
+    "흥정이 일반적이에요",
+    "현금을 준비하면 편해요"
+  ],
+  "tip": "구경 중심으로 즐기고, 고가품은 전문가 감정을 거치세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "골동품",
+    "수집",
+    "시장",
+    "기념품"
+  ],
+  "art_key": "market",
+  "local_search": "云洲古玩城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://map.baidu.com/search/%E4%BA%91%E6%B4%B2%E5%8F%A4%E7%8E%A9%E5%9F%8E",
+    "https://www.openstreetmap.org/search?query=%E4%BA%91%E6%B4%B2%E5%8F%A4%E7%8E%A9%E5%9F%8E"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 골동품 상가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://map.baidu.com/search/%E4%BA%91%E6%B4%B2%E5%8F%A4%E7%8E%A9%E5%9F%8E",
+        "https://www.openstreetmap.org/search?query=%E4%BA%91%E6%B4%B2%E5%8F%A4%E7%8E%A9%E5%9F%8E"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.986Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "pl_3a269c2d62",
+  "code": "CN-SHA-P-0010",
+  "city_id": "CN-SHA",
+  "slug": "xintiandi",
+  "kind": "shop",
+  "name_ko": "신톈디",
+  "name_sub": "Xintiandi",
+  "name_local": "新天地",
+  "lat": 31.2226,
+  "lng": 121.4701,
+  "area": "황푸/신톈디",
+  "lead": "옛 석쿠먼 주택을 개조한 쇼핑·외식 거리. 상하이의 옛 골목 분위기와 현대 매장이 함께 있어요.",
+  "facts": [
+    [
+      "성격",
+      "석쿠먼 재생 상업 지구"
+    ],
+    [
+      "개발",
+      "2001년 무렵 개장"
+    ],
+    [
+      "접근",
+      "지하철 10·13호선 신톈디역"
+    ],
+    [
+      "즐길 거리",
+      "카페 · 편집숍 · 야경"
+    ]
+  ],
+  "origin": [
+    "신톈디는 1920~30년대 상하이의 전통 주거 형태인 석쿠먼(石库门) 골목을 보존·개조해 만든 상업 지구예요.",
+    "중국 공산당 창당 회의가 열린 옛 건물이 이 일대에 있어 역사 전시 공간도 함께 있어요.",
+    "낮에는 카페와 편집숍, 밤에는 바와 식당이 불을 밝혀 분위기가 크게 달라져요.",
+    "관광객과 현지 젊은 층이 함께 찾는 대표적인 재생 사례예요."
+  ],
+  "practical": [
+    "가격대가 높은 편 — 구경 위주로 즐기기 좋아요",
+    "주말 밤에는 바 구역이 붐벼요"
+  ],
+  "tip": "낮보다 해 진 뒤가 사진이 잘 나와요. 인근 신톈디 남쪽 구역까지 걸어 보세요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "석쿠먼",
+    "카페",
+    "야경"
+  ],
+  "art_key": "street",
+  "local_search": "新天地",
+  "photos": [
+    "CN-SHA-P-0010-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xintiandi",
+    "https://zh.wikipedia.org/wiki/%E6%96%B0%E5%A4%A9%E5%9C%B0",
+    "https://www.openstreetmap.org/way/40325255"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 81,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 대표 재생 상업지로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xintiandi",
+        "https://zh.wikipedia.org/wiki/%E6%96%B0%E5%A4%A9%E5%9C%B0",
+        "https://www.openstreetmap.org/way/40325255"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.569Z"
+}

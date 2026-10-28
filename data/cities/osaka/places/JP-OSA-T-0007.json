@@ -1,0 +1,83 @@
+{
+  "id": "pl_5ad1e5c0d5",
+  "code": "JP-OSA-T-0007",
+  "city_id": "JP-OSA",
+  "slug": "tsuruhashi-station",
+  "kind": "transit",
+  "name_ko": "쓰루하시역",
+  "name_sub": "Tsuruhashi Station",
+  "name_local": "鶴橋駅",
+  "lat": 34.66535,
+  "lng": 135.5313,
+  "area": "쓰루하시",
+  "lead": "코리아타운의 관문역. JR과 지하철, 긴테쓰가 만나 이동이 편해요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "JR·지하철·긴테쓰"
+    ],
+    [
+      "위치",
+      "이쿠노구"
+    ],
+    [
+      "연결",
+      "코리아타운 도보"
+    ]
+  ],
+  "origin": [
+    "쓰루하시역은 오사카 동쪽에서 JR과 지하철, 긴테쓰가 만나는 환승역이에요.",
+    "역을 나면 바로 코리아타운과 상점가가 이어져 한국 여행객이 가장 많이 지나는 관문이에요.",
+    "긴테쓰를 타면 나라·이세 방면으로 갈 수 있고, JR 순환선으로 시내 곳곳에 닿아요.",
+    "출구마다 이어지는 거리가 달라 목적지를 정하고 나오는 편이 좋아요."
+  ],
+  "tip": "코리아타운은 역 동쪽 출구 쪽이에요. 짐이 많으면 엘리베이터 출구를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "역",
+    "환승",
+    "코리아타운",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "鶴橋駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tsuruhashi_Station",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%A9%8B%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%A9%8B",
+    "https://www.openstreetmap.org/node/9850574190"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 52,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 코리아타운 가는 길로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:25.972Z"
+}

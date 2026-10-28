@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "public seaside park in Seaside Momochi, Fukuoka City, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 해변 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:15.198Z"
+  "sanitized_at": "2026-10-28T11:17:31.902Z",
+  "origin": [
+    "모모치 해변 공원은 도심 바로 옆에 조성된 인공 해변 공원이에요.",
+    "모래사장과 산책로가 이어져 바다를 보며 걷기 좋아요.",
+    "석양 무렵 풍경이 좋아 사진 찍는 사람이 많아요.",
+    "후쿠오카 타워와 가까워 함께 둘러보기 편해요."
+  ]
 }

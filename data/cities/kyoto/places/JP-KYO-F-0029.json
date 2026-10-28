@@ -37,7 +37,11 @@
   ],
   "tip": "오픈 30분 전에 가면 첫 순서에 들어갈 수 있어요.",
   "order": [
-    "<b>ごぼう天うどん</b> 우엉 튀김 우동"
+    "<b>ごぼう天うどん</b> 우엉 튀김 우동",
+    "<b>土ごぼう天うどん</b> 흙 우엉 튀김 우동",
+    "<b>牛蒡天うどん</b> 우엉 튀김 우동",
+    "<b>カレーうどん</b> 카레 우동",
+    "<b>ざるうどん</b> 자루 우동"
   ],
   "open_hours": null,
   "stay_min": 60,
@@ -71,7 +75,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:14.456Z"
 }

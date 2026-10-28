@@ -37,7 +37,11 @@
   ],
   "tip": "창가 자리를 원하면 예약할 때 말해 두세요.",
   "order": [
-    "<b>湯葉会席</b> 유바 회석"
+    "<b>湯葉会席</b> 유바 회석",
+    "<b>汲み上げ湯葉</b> 길어 올린 유바",
+    "<b>おぼろ豆腐</b> 오보로 두부",
+    "<b>湯葉会席</b> 유바 가이세키",
+    "<b>湯葉の包み揚げ</b> 유바 튀김"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -54,7 +58,10 @@
   "status": "drafted",
   "version": 1,
   "verified_at": null,
-  "sources": [],
+  "sources": [
+    "https://www.tousuiro.com/",
+    "https://www.umenu.jp/menus/40.html"
+  ],
   "meta": {
     "priority": 32,
     "expansion": "kyoto-2026-10-28",
@@ -71,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:11.173Z"
 }

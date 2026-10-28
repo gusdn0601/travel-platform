@@ -1,0 +1,87 @@
+{
+  "id": "pl_03f0e854af",
+  "code": "CN-SHA-P-0046",
+  "city_id": "CN-SHA",
+  "slug": "no1-department-store",
+  "kind": "shop",
+  "name_ko": "상하이 제일백화점",
+  "name_sub": "Shanghai No.1 Department Store",
+  "name_local": "上海第一百货商业中心",
+  "lat": 31.2371,
+  "lng": 121.47021,
+  "area": "황푸/난징둥루",
+  "lead": "1936년에 문을 연 난징둥루의 오래된 백화점. 상하이 근대 상업의 상징이에요.",
+  "facts": [
+    [
+      "개장",
+      "1936년"
+    ],
+    [
+      "성격",
+      "역사 있는 백화점"
+    ],
+    [
+      "위치",
+      "난징둥루"
+    ],
+    [
+      "특징",
+      "옛 건물 · 생활용품"
+    ]
+  ],
+  "origin": [
+    "상하이 제일백화점은 1936년 난징둥루에 문을 연 오래된 백화점이에요.",
+    "개장 당시 아시아에서 손꼽히는 규모로 알려졌고, 상하이 근대 상업의 상징으로 남아 있어요.",
+    "지금은 건물 일부를 리모델링해 쇼핑과 전시, 식당을 함께 운영해요.",
+    "최신 몰과는 다른 옛 백화점 분위기를 느끼러 들를 만해요."
+  ],
+  "practical": [
+    "층별 매장 구성이 자주 바뀌어요",
+    "주변에 다른 백화점이 많아 비교하기 좋아요"
+  ],
+  "tip": "옛 건물 외관과 계단을 보러 가는 것만으로도 좋아요. 난징둥루 산책과 함께하세요.",
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "백화점",
+    "역사",
+    "난징둥루"
+  ],
+  "art_key": "mall",
+  "local_search": "上海第一百货商业中心",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%AC%AC%E4%B8%80%E7%99%BE%E8%B4%A7%E5%95%86%E5%BA%97",
+    "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E7%99%BE%E8%B4%A7%E5%95%86%E4%B8%9A%E4%B8%AD%E5%BF%83"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 근대 백화점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%AC%AC%E4%B8%80%E7%99%BE%E8%B4%A7%E5%95%86%E5%BA%97",
+        "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E7%99%BE%E8%B4%A7%E5%95%86%E4%B8%9A%E4%B8%AD%E5%BF%83"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:21.987Z"
+}

@@ -40,7 +40,10 @@
   ],
   "tip": "귀국 선물이라면 여행 마지막 날 구입하세요.",
   "order": [
-    "<b>鶴乃子</b> 츠루노코"
+    "<b>鶴乃子</b> 츠루노코",
+    "<b>鶴乃子</b> 츠루노코(마시멜로 과자)",
+    "<b>黄身しぐれ</b> 노른자 시구레",
+    "<b>チーズ饅頭</b> 치즈 만주"
   ],
   "open_hours": null,
   "stay_min": 20,
@@ -81,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:10.116Z"
 }

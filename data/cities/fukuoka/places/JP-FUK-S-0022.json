@@ -56,7 +56,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 최대 번화가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:47.561Z"
+  "sanitized_at": "2026-10-28T11:17:31.908Z",
+  "origin": [
+    "텐진은 백화점과 지하상가, 카페가 모인 후쿠오카 최대 번화가예요.",
+    "지하상가가 역과 이어져 있어 비가 와도 쇼핑하기 좋아요.",
+    "골목마다 식당과 카페가 많아 식사 시간대에 붐벼요.",
+    "니시테쓰 후쿠오카역을 중심으로 동선을 잡기 좋아요."
+  ]
 }

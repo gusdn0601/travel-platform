@@ -1,0 +1,85 @@
+{
+  "id": "pl_6a2659f4b7",
+  "code": "CN-SHA-T-0020",
+  "city_id": "CN-SHA",
+  "slug": "didi-taxi",
+  "kind": "transit",
+  "name_ko": "디디추싱·택시",
+  "name_sub": "DiDi",
+  "name_local": "滴滴出行",
+  "lat": null,
+  "lng": null,
+  "area": "상하이 전역",
+  "lead": "중국에서 가장 많이 쓰는 호출 앱. 택시와 승차 공유를 앱으로 부를 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "차량 호출 앱"
+    ],
+    [
+      "사용",
+      "위챗·알리페이 미니앱"
+    ],
+    [
+      "언어",
+      "영문 모드 지원"
+    ],
+    [
+      "주의",
+      "번호판 확인"
+    ]
+  ],
+  "origin": [
+    "디디추싱은 중국에서 가장 널리 쓰이는 차량 호출 서비스예요.",
+    "앱이나 위챗·알리페이 미니프로그램으로 택시와 승차 공유 차량을 부를 수 있어요.",
+    "영어 모드를 지원해 외국인 여행자도 이용할 수 있어요.",
+    "탑승 전 번호판과 목적지를 확인해 다른 차를 타지 않도록 주의해야 해요."
+  ],
+  "practical": [
+    "현금 결제가 어려운 차량이 많아요",
+    "심야에는 호출이 잘 안 될 수 있어요"
+  ],
+  "tip": "출발지와 목적지를 지도에서 정확히 찍으세요. 탑승 전 번호판을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "거리별 상이",
+  "must": 0,
+  "tags": [
+    "택시",
+    "앱",
+    "교통",
+    "한국어"
+  ],
+  "art_key": "street",
+  "local_search": "滴滴出行",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/DiDi",
+    "https://zh.wikipedia.org/wiki/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 차량 호출로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/DiDi",
+        "https://zh.wikipedia.org/wiki/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:42.387Z"
+}

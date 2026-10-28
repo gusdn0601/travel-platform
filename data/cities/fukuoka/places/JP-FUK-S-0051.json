@@ -1,0 +1,81 @@
+{
+  "id": "pl_8786aa3447",
+  "code": "JP-FUK-S-0051",
+  "city_id": "JP-FUK",
+  "slug": "namiha-no-yu",
+  "kind": "sight",
+  "name_ko": "미나토 온천 하노유",
+  "name_sub": "Minato Onsen Namiha no Yu",
+  "name_local": "波葉の湯",
+  "lat": 33.60374,
+  "lng": 130.39812,
+  "area": "하카타항",
+  "lead": "하카타항 근처의 온천 시설. 노천탕과 사우나가 있어 여행 끝에 쉬기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "온천·사우나"
+    ],
+    [
+      "특징",
+      "노천탕"
+    ],
+    [
+      "위치",
+      "하카타항"
+    ],
+    [
+      "함께",
+      "베이사이드"
+    ]
+  ],
+  "origin": [
+    "하노유는 하카타항 근처에 있는 온천 시설이에요.",
+    "실내탕과 노천탕, 사우나를 갖추고 있어 하루 걸은 피로를 풀기 좋아요.",
+    "항구 쪽이라 바람이 시원하고 주변에 바다를 보는 공간도 있어요.",
+    "베이사이드 플레이스와 가까워 함께 들르기 좋아요."
+  ],
+  "tip": "수건과 입욕료는 현장에서 확인하세요. 문신 규정이 있을 수 있어요.",
+  "open_hours": "10:00-23:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "입욕료 약 1,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "온천",
+    "사우나",
+    "항구",
+    "휴식"
+  ],
+  "art_key": "onsen",
+  "local_search": "波葉の湯",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%B8%AF",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E9%8A%AD%E6%B9%AF",
+    "https://www.openstreetmap.org/way/1411284390"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 온천로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:57.609Z"
+}

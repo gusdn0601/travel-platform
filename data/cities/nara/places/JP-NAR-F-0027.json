@@ -1,0 +1,91 @@
+{
+  "id": "pl_00406a6d95",
+  "code": "JP-NAR-F-0027",
+  "city_id": "JP-NAR",
+  "slug": "temma-an",
+  "kind": "food",
+  "name_ko": "덴마안 (天平庵)",
+  "name_sub": "Temma-an",
+  "name_local": "天平庵",
+  "lat": 34.509,
+  "lng": 135.83728,
+  "area": "나라/덴리",
+  "lead": "나라 지역의 화과자 브랜드. 기념품으로 사 가기 좋은 과자가 많아요.",
+  "facts": [
+    [
+      "종류",
+      "화과자"
+    ],
+    [
+      "특징",
+      "기념품·선물"
+    ],
+    [
+      "위치",
+      "나라·덴리"
+    ],
+    [
+      "포장",
+      "선물용 가능"
+    ]
+  ],
+  "origin": [
+    "덴마안은 나라 지역에서 활동하는 화과자 브랜드예요.",
+    "팥과 찹쌀을 쓴 과자와 계절 한정 상품을 만들어요.",
+    "포장이 잘 되어 있어 여행 기념품으로 사 가기 좋아요.",
+    "지점마다 취급 상품이 달라 매장에서 확인하는 편이 좋아요."
+  ],
+  "tip": "유통기한이 짧은 과자가 많아 마지막 날 구매가 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 500~1,500엔(추정)",
+  "must": 0,
+  "tags": [
+    "화과자",
+    "기념품",
+    "디저트",
+    "나라"
+  ],
+  "art_key": "sweets",
+  "local_search": "天平庵",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%B9%B3%E5%BA%B5",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
+    "https://ja.wikipedia.org/wiki/%E5%92%8C%E8%8F%93%E5%AD%90",
+    "https://www.openstreetmap.org/way/734365805"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 10575,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 기념품 과자로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:00.887Z",
+  "order": [
+    "<b>天平焼</b> 덴표야키(팥 양갱 과자)",
+    "<b>どら焼き</b> 도라야키",
+    "<b>あんみつ</b> 안미츠",
+    "<b>抹茶</b> 말차"
+  ]
+}

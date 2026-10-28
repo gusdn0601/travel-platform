@@ -38,7 +38,10 @@
   "tip": "점심 코스를 노리면 비용을 줄일 수 있어요.",
   "order": [
     "<b>すき焼き</b> 스키야키",
-    "<b>しゃぶしゃぶ</b> 샤브샤브"
+    "<b>しゃぶしゃぶ</b> 샤브샤브",
+    "<b>しゃぶしゃぶ</b> 샤부샤부",
+    "<b>ステーキ</b> 스테이크",
+    "<b>オイル焼</b> 기름 구이"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -72,7 +75,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:02.355Z"
 }

@@ -56,7 +56,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 선종 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:50.514Z"
+  "sanitized_at": "2026-10-28T11:17:31.910Z",
+  "origin": [
+    "쇼후쿠지는 일본 최초의 선종 사찰이라고 전해지는 하카타의 사찰이에요.",
+    "조용한 경내가 이어져 천천히 걷기 좋아요.",
+    "하카타 구시가지에 있어 다른 사찰과 함께 둘러보기 좋아요.",
+    "규모가 크지 않아 짧게 들르기 좋아요."
+  ]
 }

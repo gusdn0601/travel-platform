@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 꽃 공원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:28.848Z"
+  "sanitized_at": "2026-10-28T11:17:31.903Z",
+  "origin": [
+    "우미노나카미치 해변 공원은 계절 꽃밭이 펼쳐진 대형 해변 공원이에요.",
+    "계절마다 다른 꽃이 심어져 사진 찍기 좋아요.",
+    "자전거를 빌려 공원 안을 돌아보는 방법도 있어요.",
+    "바다와 꽃밭이 함께 보여 가족 나들이로 인기가 많아요."
+  ]
 }

@@ -1,0 +1,86 @@
+{
+  "id": "pl_1d424ae938",
+  "code": "CN-SHA-T-0014",
+  "city_id": "CN-SHA",
+  "slug": "disney-resort-station",
+  "kind": "transit",
+  "name_ko": "디즈니역",
+  "name_sub": "Disney Resort Station",
+  "name_local": "迪士尼站",
+  "lat": 31.14343,
+  "lng": 121.66374,
+  "area": "푸둥/디즈니",
+  "lead": "상하이 디즈니랜드로 가는 지하철 11호선 종점역. 공원 입구와 이어져요.",
+  "facts": [
+    [
+      "노선",
+      "11호선"
+    ],
+    [
+      "위치",
+      "푸둥 디즈니랜드"
+    ],
+    [
+      "주변",
+      "디즈니랜드 · 아울렛"
+    ],
+    [
+      "특징",
+      "종점역"
+    ]
+  ],
+  "origin": [
+    "디즈니역은 상하이 디즈니랜드 개장에 맞춰 11호선 종점으로 문을 연 역이에요.",
+    "역 디자인에 디즈니 분위기가 담겨 있고 공원 입구와 가까워요.",
+    "개장 시간대에는 가족 단위 방문객으로 매우 붐벼요.",
+    "인근에 아울렛과 호텔 셔틀도 있어 함께 이용할 수 있어요."
+  ],
+  "practical": [
+    "짐 보관 시설을 확인하세요",
+    "폐장 시간대에는 역이 매우 붐벼요"
+  ],
+  "tip": "공원 개장 시간보다 여유 있게 도착하세요. 막차 시간을 확인하는 것도 중요해요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "디즈니",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "迪士尼站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Disney_Resort_station",
+    "https://zh.wikipedia.org/wiki/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AB%99"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 디즈니랜드 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disney_Resort_station",
+        "https://zh.wikipedia.org/wiki/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AB%99"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:35.026Z"
+}

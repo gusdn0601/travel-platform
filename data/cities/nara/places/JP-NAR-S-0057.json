@@ -1,0 +1,83 @@
+{
+  "id": "pl_bccc269bcc",
+  "code": "JP-NAR-S-0057",
+  "city_id": "JP-NAR",
+  "slug": "nara-hotel",
+  "kind": "sight",
+  "name_ko": "나라 호텔",
+  "name_sub": "Nara Hotel",
+  "name_local": "奈良ホテル",
+  "lat": 34.68003,
+  "lng": 135.83383,
+  "area": "나라 공원",
+  "lead": "나라 공원 안의 오래된 호텔. 근대 건축과 라운지 분위기로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "호텔"
+    ],
+    [
+      "특징",
+      "근대 건축"
+    ],
+    [
+      "위치",
+      "나라 공원"
+    ],
+    [
+      "이용",
+      "라운지·식당"
+    ]
+  ],
+  "origin": [
+    "나라 호텔은 나라 공원 안에 자리한 오래된 호텔이에요.",
+    "근대 일본의 호텔 건축 분위기가 남아 있어 건물을 보러 오는 사람도 있어요.",
+    "투숙하지 않아도 라운지나 식당을 이용할 수 있는 경우가 있어요.",
+    "공원 산책 중 잠깐 쉬어 가기 좋아요."
+  ],
+  "tip": "라운지 이용 가능 여부와 복장 규정을 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "식음료 별도(투숙 별도)",
+  "must": 0,
+  "tags": [
+    "호텔",
+    "근대건축",
+    "카페",
+    "역사"
+  ],
+  "art_key": "building",
+  "local_search": "奈良ホテル",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nara_Hotel",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E3%83%9B%E3%83%86%E3%83%AB",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92",
+    "https://www.openstreetmap.org/way/97661034"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 62,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 근대 건축로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:43.544Z"
+}

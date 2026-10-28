@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "temple in Ukyō-ku, Kyoto Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:01.263Z"
+  "sanitized_at": "2026-10-28T11:16:38.934Z",
+  "origin": [
+    "덴류지는 아라시야마에 자리한 선종 사찰이에요.",
+    "14세기에 세워졌고, 연못을 중심으로 한 정원이 유명해요.",
+    "정원 너머로 산이 겹쳐 보이도록 꾸민 차경이 특징이에요.",
+    "뒷문으로 나가면 대나무 숲으로 바로 이어져 동선을 효율적으로 짤 수 있어요."
+  ]
 }

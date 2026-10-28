@@ -1,0 +1,85 @@
+{
+  "id": "pl_67c1bbbe5e",
+  "code": "JP-OSA-S-0046",
+  "city_id": "JP-OSA",
+  "slug": "osaka-castle-park",
+  "kind": "sight",
+  "name_ko": "오사카성 공원",
+  "name_sub": "Osaka Castle Park",
+  "name_local": "大阪城公園",
+  "lat": 34.68738,
+  "lng": 135.52584,
+  "area": "오사카성",
+  "lead": "오사카성을 둘러싼 넓은 공원. 성을 보지 않아도 산책과 벚꽃만으로 충분히 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "도심 공원"
+    ],
+    [
+      "특징",
+      "해자·벚꽃"
+    ],
+    [
+      "위치",
+      "오사카성 주변"
+    ],
+    [
+      "시설",
+      "정원·운동장·홀"
+    ]
+  ],
+  "origin": [
+    "오사카성 공원은 오사카성과 해자를 둘러싼 넓은 도심 공원이에요.",
+    "성 안쪽과 달리 공원은 무료로 열려 있어 산책과 운동을 하러 오는 현지인도 많아요.",
+    "봄에는 벚꽃 명소로 붐비고, 계절마다 꽃과 나무가 달라져요.",
+    "성 내부 관람과 공원 산책을 나누어 계획하면 동선이 편해요."
+  ],
+  "tip": "공원이 넓어 목적지를 정하고 걷는 편이 좋아요. 벚꽃 철에는 이른 아침이 한산해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(시설별 별도)",
+  "must": 0,
+  "tags": [
+    "공원",
+    "벚꽃",
+    "산책",
+    "역사"
+  ],
+  "art_key": "park",
+  "local_search": "大阪城公園",
+  "photos": [
+    "JP-OSA-S-0046-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Osaka_Castle_Park",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%85%AC%E5%9C%92",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%82%E5%9F%8E",
+    "https://www.openstreetmap.org/way/35457792"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 159,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 벚꽃·산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:13.350Z"
+}

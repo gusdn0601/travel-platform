@@ -42,7 +42,11 @@
   "tip": "해질 무렵 식사 후 바로 전망대에 올라가면 야경까지 한 번에 봐요.",
   "order": [
     "<b>お好み焼</b> 오코노미야키",
-    "<b>うどん</b> 우동"
+    "<b>うどん</b> 우동",
+    "<b>お好み焼き</b> 오코노미야키",
+    "<b>串かつ</b> 쿠시카츠",
+    "<b>たこ焼き</b> 타코야키",
+    "<b>カレーライス</b> 카레라이스"
   ],
   "open_hours": null,
   "stay_min": 60,
@@ -82,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:26.392Z"
 }

@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 조용한 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:09.255Z"
+  "sanitized_at": "2026-10-28T11:17:02.737Z",
+  "origin": [
+    "사이다이지는 나라 서쪽 니시노쿄에 자리한 조용한 사찰이에요.",
+    "큰 찻잔으로 차를 마시는 독특한 의식으로 알려져 있어요.",
+    "경내가 넓지 않아 천천히 둘러보기 좋아요.",
+    "매년 초 열리는 의식 때는 사람이 많이 찾아요."
+  ]
 }

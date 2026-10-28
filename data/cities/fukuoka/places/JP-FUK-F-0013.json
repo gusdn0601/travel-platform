@@ -42,7 +42,11 @@
   "order": [
     "<b>水炊き</b> 미즈타키",
     "<b>鶏皮</b> 닭껍질 꼬치",
-    "<b>雑炊</b> 마무리 죽"
+    "<b>雑炊</b> 마무리 죽",
+    "<b>水炊きコース</b> 미즈타키 코스",
+    "<b>鶏刺し</b> 닭회",
+    "<b>つくね</b> 닭 완자",
+    "<b>明太子</b> 명란"
   ],
   "open_hours": "Mo-Sa 17:00-00:00; Su 17:00-22:00 (OSM)",
   "stay_min": 80,
@@ -82,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:53.901Z"
 }

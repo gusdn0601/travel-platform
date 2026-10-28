@@ -37,7 +37,11 @@
   ],
   "tip": "기차 여행 중 간식으로 사 두면 좋아요.",
   "order": [
-    "<b>柿の葉すし</b> 카키노하즈시 상자"
+    "<b>柿の葉すし</b> 카키노하즈시 상자",
+    "<b>柿の葉すし</b> 감잎 초밥",
+    "<b>さば</b> 고등어",
+    "<b>サーモン</b> 연어",
+    "<b>えび</b> 새우"
   ],
   "open_hours": null,
   "stay_min": 20,
@@ -75,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:07.913Z"
 }

@@ -38,7 +38,11 @@
   "tip": "튀김은 계산 전에 골라 담는 방식이에요.",
   "order": [
     "<b>かけうどん</b> 기본 우동",
-    "<b>天ぷら</b> 튀김"
+    "<b>天ぷら</b> 튀김",
+    "<b>かけうどん</b> 가케 우동",
+    "<b>ぶっかけうどん</b> 붓카케 우동",
+    "<b>カレーうどん</b> 카레 우동",
+    "<b>天ぷら</b> 덴푸라"
   ],
   "open_hours": null,
   "stay_min": 30,
@@ -76,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:35.308Z"
 }

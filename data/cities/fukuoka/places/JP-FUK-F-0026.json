@@ -1,0 +1,89 @@
+{
+  "id": "pl_b19835412e",
+  "code": "JP-FUK-F-0026",
+  "city_id": "JP-FUK",
+  "slug": "fukutaro-mentaiko",
+  "kind": "food",
+  "name_ko": "후쿠타로 (명란)",
+  "name_sub": "Fukutaro",
+  "name_local": "福太郎",
+  "lat": 33.58824,
+  "lng": 130.42205,
+  "area": "하카타",
+  "lead": "하카타의 명란젓 가게. 기념품으로 사 가기 좋은 명란을 다뤄요.",
+  "facts": [
+    [
+      "종류",
+      "명란 전문점"
+    ],
+    [
+      "특징",
+      "기념품·포장"
+    ],
+    [
+      "위치",
+      "하카타"
+    ],
+    [
+      "보관",
+      "냉장 유의"
+    ]
+  ],
+  "origin": [
+    "후쿠타로는 하카타에서 명란젓을 다루는 가게예요.",
+    "밥에 곁들이는 명란과 가공품을 선물용으로 살 수 있어요.",
+    "냉장 보관이 필요한 제품이 많아 여행 마지막 날 구매하는 편이 좋아요.",
+    "하카타역 주변에서 찾기 좋아요."
+  ],
+  "tip": "보관 방법과 유통기한을 확인하고, 비행기 반입 규정도 살펴보세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "구매 별도",
+  "must": 0,
+  "tags": [
+    "명란",
+    "기념품",
+    "하카타",
+    "먹거리"
+  ],
+  "art_key": "shop",
+  "local_search": "福太郎",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A",
+    "https://www.openstreetmap.org/way/45778343"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 명란 선물로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:14.143Z",
+  "order": [
+    "<b>辛子明太子</b> 매운 명란",
+    "<b>明太子ごはん</b> 명란 밥",
+    "<b>明太マヨネーズ</b> 명란 마요",
+    "<b>明太子フランス</b> 명란 바게트"
+  ]
+}

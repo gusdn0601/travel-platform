@@ -45,7 +45,11 @@
     "<b>焼きラーメン</b> 야끼라멘",
     "<b>おでん</b> 오뎅",
     "<b>焼き鳥</b> 꼬치",
-    "<b>餃子</b> 교자"
+    "<b>餃子</b> 교자",
+    "<b>豚骨ラーメン</b> 돈코츠 라멘",
+    "<b>焼きラーメン</b> 야키라멘(나카스 명물)",
+    "<b>串焼き</b> 꼬치구이",
+    "<b>天ぷら</b> 덴푸라"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -85,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:43.659Z"
 }

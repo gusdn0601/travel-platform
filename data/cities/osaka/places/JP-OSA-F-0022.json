@@ -43,7 +43,11 @@
   "tip": "신칸센 시간이 있다면 대기 시간을 넉넉히 잡으세요.",
   "order": [
     "<b>らーめん</b> 기본 라멘",
-    "<b>味玉らーめん</b> 반숙 계란 라멘"
+    "<b>味玉らーめん</b> 반숙 계란 라멘",
+    "<b>中華そば(醤油)</b> 중화소바(간장)",
+    "<b>ラーメン</b> 라멘",
+    "<b>つけ麺</b> 츠케멘",
+    "<b>チャーシュー麺</b> 차슈 라멘"
   ],
   "open_hours": null,
   "stay_min": 60,
@@ -84,7 +88,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:26.393Z"
 }

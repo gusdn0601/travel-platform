@@ -1,0 +1,89 @@
+{
+  "id": "pl_1e9ed0f5a6",
+  "code": "JP-FUK-F-0032",
+  "city_id": "JP-FUK",
+  "slug": "motoyoshiya-yanagawa",
+  "kind": "food",
+  "name_ko": "모토요시야 (야나가와 장어)",
+  "name_sub": "Motoyoshiya",
+  "name_local": "元祖本吉屋",
+  "lat": 33.16796,
+  "lng": 130.41104,
+  "area": "야나가와",
+  "lead": "야나가와의 장어 요리집. 오래된 건물에서 증기로 찐 장어 덮밥을 내요.",
+  "facts": [
+    [
+      "종류",
+      "장어 요리집"
+    ],
+    [
+      "특징",
+      "증기 찜 장어"
+    ],
+    [
+      "위치",
+      "야나가와"
+    ],
+    [
+      "분위기",
+      "오래된 건물"
+    ]
+  ],
+  "origin": [
+    "모토요시야는 야나가와에서 장어 요리를 이어 온 가게예요.",
+    "장어를 쪄서 밥 위에 올린 덮밥이 대표 메뉴로 알려져 있어요.",
+    "오래된 건물과 정원이 남아 있어 식사와 함께 분위기를 즐길 수 있어요.",
+    "후쿠오카 시내에서 차로 이동해 야나가와 뱃놀이와 함께 다녀오기 좋아요."
+  ],
+  "tip": "대기가 길 수 있어 예약과 영업시간을 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "1인 2,000~4,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "장어",
+    "야나가와",
+    "전통",
+    "교외"
+  ],
+  "art_key": "food",
+  "local_search": "元祖本吉屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%9F%B3%E5%B7%9D",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%AA%E3%81%8E",
+    "https://www.openstreetmap.org/node/13418679857"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 야나가와 장어로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:21.880Z",
+  "order": [
+    "<b>うなぎのせいろ蒸し</b> 장어 찜밥",
+    "<b>うな重</b> 장어 덮밥",
+    "<b>うなぎ茶漬け</b> 장어 차즈케",
+    "<b>肝吸い</b> 간장어 맑은국"
+  ]
+}

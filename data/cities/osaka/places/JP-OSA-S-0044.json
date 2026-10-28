@@ -1,0 +1,83 @@
+{
+  "id": "pl_a030d5b5a0",
+  "code": "JP-OSA-S-0044",
+  "city_id": "JP-OSA",
+  "slug": "nagai-botanical-garden",
+  "kind": "sight",
+  "name_ko": "나가이 식물원",
+  "name_sub": "Nagai Botanical Garden",
+  "name_local": "長居植物園",
+  "lat": 34.61056,
+  "lng": 135.52167,
+  "area": "나가이",
+  "lead": "나가이 공원 안의 식물원. 계절 꽃과 연못 산책로가 있고 저녁 미디어 아트 전시로도 알려졌어요.",
+  "facts": [
+    [
+      "종류",
+      "식물원"
+    ],
+    [
+      "특징",
+      "계절 꽃·연못"
+    ],
+    [
+      "위치",
+      "나가이 공원"
+    ],
+    [
+      "저녁",
+      "야간 전시 운영(시기별)"
+    ]
+  ],
+  "origin": [
+    "나가이 식물원은 나가이 공원 안에 자리한 도시 식물원이에요.",
+    "넓은 잔디와 연못, 계절별 꽃밭이 이어져 천천히 걷기 좋아요.",
+    "최근에는 수목과 조명을 결합한 야간 미디어 아트 전시가 열려 저녁 방문객도 늘었어요.",
+    "전시 일정과 운영 시간은 시기마다 달라 방문 전에 확인하는 편이 좋아요."
+  ],
+  "tip": "낮에는 공원 산책, 저녁에는 야간 전시로 나눠 보는 일정이 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 약 300엔(추정)",
+  "must": 0,
+  "tags": [
+    "식물원",
+    "산책",
+    "야간전시",
+    "가족"
+  ],
+  "art_key": "garden",
+  "local_search": "長居植物園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nagai_Botanical_Garden",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E9%95%B7%E5%B1%85%E6%A4%8D%E7%89%A9%E5%9C%92",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B1%85%E5%85%AC%E5%9C%92",
+    "https://www.openstreetmap.org/way/552291472"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 289,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 야간 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:08.373Z"
+}

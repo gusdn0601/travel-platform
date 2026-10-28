@@ -40,7 +40,11 @@
   "order": [
     "<b>红烧肉</b> 홍샤오러우",
     "<b>响油鳝丝</b> 장어채 볶음",
-    "<b>蟹粉豆腐</b> 게살 두부"
+    "<b>蟹粉豆腐</b> 게살 두부",
+    "<b>焖肉面</b> 훈제 삼겹살 면",
+    "<b>爆鱼面</b> 튀긴 생선 면",
+    "<b>虾仁面</b> 새우 면",
+    "<b>焖蹄</b> 조린 돼지족"
   ],
   "open_hours": null,
   "stay_min": 75,
@@ -80,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.071Z"
 }

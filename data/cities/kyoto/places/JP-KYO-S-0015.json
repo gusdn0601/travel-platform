@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "building in Kyoto Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:40.143Z"
+  "sanitized_at": "2026-10-28T11:16:38.938Z",
+  "origin": [
+    "난젠지는 히가시야마 남쪽에 자리한 선종 사찰이에요.",
+    "13세기 말에 세워졌고, 경내를 가로지르는 붉은 벽돌 수로각이 독특한 풍경을 만들어요.",
+    "넓은 경내에 탑두 사찰이 흩어져 있어 천천히 걷는 재미가 있어요.",
+    "철학의 길 남쪽 끝과 가까워 산책 코스로 이어지요."
+  ]
 }

@@ -1,0 +1,86 @@
+{
+  "id": "pl_8bce58cb10",
+  "code": "CN-SHA-P-0022",
+  "city_id": "CN-SHA",
+  "slug": "westgate-mall",
+  "kind": "shop",
+  "name_ko": "메이룽전광장",
+  "name_sub": "Westgate Mall",
+  "name_local": "梅龙镇广场",
+  "lat": 31.23086,
+  "lng": 121.45226,
+  "area": "징안/난징시루",
+  "lead": "난징시루의 오래된 쇼핑몰. 한때 일본계 백화점이 들어와 상하이 쇼핑의 기준이 되었어요.",
+  "facts": [
+    [
+      "성격",
+      "복합 쇼핑몰"
+    ],
+    [
+      "위치",
+      "난징시루 서단"
+    ],
+    [
+      "접근",
+      "지하철 2·12·13호선 난징시루역"
+    ],
+    [
+      "특징",
+      "오래된 상권 · 사무실"
+    ]
+  ],
+  "origin": [
+    "메이룽전광장은 1990년대 후반 난징시루에 문을 연 쇼핑몰이에요.",
+    "일본계 백화점이 들어와 한때 상하이 백화점 쇼핑의 기준으로 불렸지만, 이후 백화점이 철수하고 매장 구성이 바뀌었어요.",
+    "지금도 사무실과 쇼핑 시설이 함께 있어 난징시루를 걷다 잠깐 쉬어 가기 좋아요.",
+    "화려한 최신 몰보다 옛 상권의 흔적을 보고 싶을 때 들르면 좋아요."
+  ],
+  "practical": [
+    "백화점 운영이 바뀌었으니 방문 전 매장 구성을 확인하세요",
+    "난징시루 보행거리와 가까워요"
+  ],
+  "tip": "최신 몰을 원한다면 옆의 플라자66이나 타이쿠후이가 낫어요. 여기는 가볍게 지나가세요.",
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "백화점",
+    "몰"
+  ],
+  "art_key": "mall",
+  "local_search": "梅龙镇广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E6%A2%85%E9%BE%99%E9%95%87%E5%B9%BF%E5%9C%BA",
+    "https://www.openstreetmap.org/way/255632383"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난징시루 오래된 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E6%A2%85%E9%BE%99%E9%95%87%E5%B9%BF%E5%9C%BA",
+        "https://www.openstreetmap.org/way/255632383"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.595Z"
+}

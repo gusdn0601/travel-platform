@@ -43,7 +43,11 @@
   "tip": "오전에 번호표를 받아 두고 쇼핑하다 돌아오는 방식이 효율적이에요.",
   "order": [
     "<b>幸せのパンケーキ</b> 기본 팬케이크",
-    "<b>季節のパンケーキ</b> 계절 팬케이크"
+    "<b>季節のパンケーキ</b> 계절 팬케이크",
+    "<b>幸せのパンケーキ</b> 시아와세 팬케이크",
+    "<b>マカダミアナッツパンケーキ</b> 마카다미아 팬케이크",
+    "<b>ティラミスパンケーキ</b> 티라미수 팬케이크",
+    "<b>紅茶</b> 홍차"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -84,7 +88,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:28.460Z"
 }

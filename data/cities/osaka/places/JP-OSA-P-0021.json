@@ -1,0 +1,82 @@
+{
+  "id": "pl_108cb7a0ea",
+  "code": "JP-OSA-P-0021",
+  "city_id": "JP-OSA",
+  "slug": "tenjinbashisuji-shotengai",
+  "kind": "shop",
+  "name_ko": "덴진바시스지 상점가 (텐진바시)",
+  "name_sub": "Tenjinbashisuji Shopping Street",
+  "name_local": "天神橋筋商店街",
+  "lat": 34.70014,
+  "lng": 135.5116,
+  "area": "텐마/우메다",
+  "lead": "덴진바시스지 상점가 남쪽 구간. 식당과 약국, 잡화점이 길게 이어지는 생활 상점가예요.",
+  "facts": [
+    [
+      "종류",
+      "상점가"
+    ],
+    [
+      "특징",
+      "긴 아케이드"
+    ],
+    [
+      "위치",
+      "텐마·우메다 동쪽"
+    ],
+    [
+      "분위기",
+      "현지 생활 중심"
+    ]
+  ],
+  "origin": [
+    "덴진바시스지 상점가는 덴진바시스지 1초메부터 6초메까지 이어지는 긴 아케이드 상점가예요.",
+    "전체 길이가 길어 일본에서도 손꼽히는 규모로 소개되지만, 구간마다 분위기가 달라요.",
+    "남쪽 구간은 시장과 식당, 약국, 잡화점이 섞여 현지인의 생활 풍경을 보기 좋아요.",
+    "관광지보다 생활감이 강해 천천히 걷고 싶은 날에 어울려요."
+  ],
+  "tip": "구간이 길어 전부 걷기보다 보고 싶은 초메를 정해 두는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "상점가",
+    "생활",
+    "먹거리",
+    "산책"
+  ],
+  "art_key": "street",
+  "local_search": "天神橋筋商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E6%A9%8B%E7%AD%8B%E5%95%86%E5%BA%97%E8%A1%97",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E6%A9%8B%E7%AD%8B%E5%85%AD%E4%B8%81%E7%9B%AE%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%BA%80",
+    "https://www.openstreetmap.org/way/436748638"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 긴 상점가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:04.572Z"
+}

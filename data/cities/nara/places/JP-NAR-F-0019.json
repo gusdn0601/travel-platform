@@ -37,7 +37,10 @@
   ],
   "tip": "늦은 오후에는 재료가 떨어질 수 있어요.",
   "order": [
-    "<b>粟餅</b> 아와모치"
+    "<b>粟餅</b> 아와모치",
+    "<b>粟餅(あん)</b> 아와모치(팥)",
+    "<b>粟餅(きなこ)</b> 아와모치(콩가루)",
+    "<b>抹茶セット</b> 말차 세트"
   ],
   "open_hours": null,
   "stay_min": 20,
@@ -71,7 +74,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:09.399Z"
 }

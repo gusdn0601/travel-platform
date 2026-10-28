@@ -1,0 +1,82 @@
+{
+  "id": "pl_d9e74a44ee",
+  "code": "JP-KYO-S-0073",
+  "city_id": "JP-KYO",
+  "slug": "koryo-museum",
+  "kind": "sight",
+  "name_ko": "고려미술관",
+  "name_sub": "Koryo Museum of Art",
+  "name_local": "高麗美術館",
+  "lat": 35.05429,
+  "lng": 135.75081,
+  "area": "기타/무라사키노",
+  "lead": "교토에 있는 한국 미술 전문 미술관. 고려·조선 도자기와 민예를 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "한국 미술관"
+    ],
+    [
+      "특징",
+      "고려·조선 도자"
+    ],
+    [
+      "위치",
+      "교토 북서부"
+    ],
+    [
+      "분위기",
+      "작고 조용함"
+    ]
+  ],
+  "origin": [
+    "고려미술관은 교토에서 한국의 미술과 공예를 다루는 미술관이에요.",
+    "고려와 조선의 도자기, 민화, 생활 공예품을 중심으로 전시해요.",
+    "규모는 크지 않지만 한국과 교토의 오랜 문화 교류를 느낄 수 있는 곳이에요.",
+    "일본 여행 중 한국 문화를 만나고 싶을 때 들르기 좋아요."
+  ],
+  "tip": "전시 일정과 휴관일이 유동적이라 방문 전에 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "한국문화",
+    "도자기",
+    "역사"
+  ],
+  "art_key": "museum",
+  "local_search": "高麗美術館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Koryo_Museum_of_Art",
+    "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%BA%97%E7%BE%8E%E8%A1%93%E9%A4%A8",
+    "https://www.openstreetmap.org/node/1422972974"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 5,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 한국 미술로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:22.487Z"
+}

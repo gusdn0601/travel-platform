@@ -1,0 +1,101 @@
+{
+  "id": "pl_hkjnx0001",
+  "code": "CN-SHA-F-0041",
+  "city_id": "CN-SHA",
+  "slug": "hong-kuijia",
+  "kind": "food",
+  "name_ko": "훙쿠이자 (마라롱샤)",
+  "name_sub": "Hong Kuijia",
+  "name_local": "红盔甲·小龙虾(人民广场店)",
+  "addr_local": "上海市黄浦区金陵东路500号亚龙国际广场2层",
+  "lat": null,
+  "lng": null,
+  "area": "인민광장·와이탄",
+  "lead": "상하이에서 마라롱샤를 찾을 때 자주 꼽히는 체인. 새벽 2시까지 열어 밤 일정 끝에 들르기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "마라롱샤 전문"
+    ],
+    [
+      "대표",
+      "十三香小龙虾 · 冰镇龙虾 · 蒜香龙虾"
+    ],
+    [
+      "위치",
+      "진링둥루 500호 아롱국제광장 2층, 다스제역 2번 출구"
+    ],
+    [
+      "1인",
+      "200~250위안 추정"
+    ]
+  ],
+  "origin": [
+    "마라롱샤(麻辣小龙虾)는 1990년대 장쑤·후난 일대 노점에서 민물가재를 매운 양념에 볶아 먹던 것이 시작이에요. 이후 상하이·베이징의 여름 야식 문화로 자리 잡았습니다.",
+    "상하이에서는 5~9월이 제철이라 여름밤이면 롱샤 전문점마다 테이블이 거리로 나와요. 겨울에는 양념을 활용한 양쉐즈(羊蝎子) 훠궈로 메뉴를 바꾸는 집도 많습니다.",
+    "훙쿠이자는 2015년 문을 연 브랜드로, 깐 새우를 손님 대신 발라 주는 서비스로 입소문을 탔어요."
+  ],
+  "details": [
+    {
+      "t": "맛 선택",
+      "d": "十三香은 13가지 향신료를 쓴 기본 맛, 蒜香은 마늘 향, 冰镇은 차갑게 식힌 술향 버전이에요. 처음이면 十三香과 蒜香을 반씩 시키는 조합이 무난해요."
+    },
+    {
+      "t": "마무리 면",
+      "d": "남은 양념에 면을 볶아 먹는 拌面이 별미예요. 직원에게 마무리로 면을 추가해 달라고 하면 됩니다."
+    }
+  ],
+  "practical": [
+    "여름 저녁 피크에는 번호표 대기가 길어요 — 개점 직후(16:30 무렵) 입장 권장",
+    "비닐장갑과 앞치마를 주지만 손 씻을 곳 위치를 미리 확인하세요",
+    "겨울에는 롱샤 대신 양쉐즈 훠궈를 내는 경우가 있어 시즌 확인 필요"
+  ],
+  "tip": "새우를 발라 주는 서비스가 있어 아이와 함께도 편해요. 매운맛이 부담되면 蒜香(마늘)부터 시작하세요.",
+  "order": [
+    "<b>十三香小龙虾</b> 스산샹 마라롱샤(13가지 향신료)",
+    "<b>麻辣小龙虾</b> 마라롱샤(매운맛)",
+    "<b>蒜香小龙虾</b> 마늘향 마라롱샤",
+    "<b>冰镇龙虾</b> 얼음에 식힌 롱샤",
+    "<b>拌面</b> 남은 양념에 비벼 먹는 마무리 면"
+  ],
+  "open_hours": "16:30~02:00 무렵(출처별 상이, 낮 영업 여부 확인)",
+  "stay_min": 90,
+  "price_hint": "1인 200~250위안 추정",
+  "must": 0,
+  "tags": [
+    "마라롱샤",
+    "야식",
+    "새벽"
+  ],
+  "art_key": "seafood",
+  "local_search": "红盔甲 小龙虾 人民广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://gs.ctrip.com/html5/you/foods/fooddetail/2/15157834.html",
+    "https://au.trip.com/restaurant/china/shanghai/detail/restaurant-29956012/"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge + cuisine history; menu from public listings (see sources[])",
+    "popularity": {
+      "note": "상하이 마라롱샤 검색 상위에 자주 오르는 체인(수집자 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:20:00.000Z"
+}

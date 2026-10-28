@@ -1,0 +1,83 @@
+{
+  "id": "pl_ff6a2abd99",
+  "code": "JP-FUK-S-0043",
+  "city_id": "JP-FUK",
+  "slug": "korokan-ato",
+  "kind": "sight",
+  "name_ko": "고로칸 터 (홍려관)",
+  "name_sub": "Korokan Ruins",
+  "name_local": "鴻臚館",
+  "lat": 33.58583,
+  "lng": 130.38583,
+  "area": "후쿠오카성",
+  "lead": "후쿠오카성 공원 안의 옛 외교·무역 시설 터. 한반도와 중국에서 온 사신을 맞던 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "역사 유적"
+    ],
+    [
+      "특징",
+      "고대 외교 시설"
+    ],
+    [
+      "위치",
+      "마이즈루 공원"
+    ],
+    [
+      "연결",
+      "한반도 사신"
+    ]
+  ],
+  "origin": [
+    "고로칸은 옛날 일본이 외국 사신을 맞아들이고 교역하던 시설이에요.",
+    "후쿠오카성 공원 안에서 발굴 조사가 이루어졌고, 지금은 유적과 전시 공간이 남아 있어요.",
+    "한반도와 중국에서 건너온 사신이 머물던 곳으로, 후쿠오카가 오래전부터 교류의 관문이었음을 보여 줘요.",
+    "유적 옆 안내를 읽으면 역사의 흐름을 따라가기 좋아요."
+  ],
+  "tip": "공원 산책과 함께 둘러보세요. 발굴 현장은 보호 구역이 있어 들어갈 수 없어요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(전시관 별도)",
+  "must": 0,
+  "tags": [
+    "역사",
+    "한반도",
+    "유적",
+    "발굴"
+  ],
+  "art_key": "ruins",
+  "local_search": "鴻臚館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/K%C5%8Drokan",
+    "https://ja.wikipedia.org/wiki/%E9%B4%BB%E8%87%9A%E9%A4%A8",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A",
+    "https://www.openstreetmap.org/node/4967015307"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 69,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 한반도 교류 유적로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:45.361Z"
+}

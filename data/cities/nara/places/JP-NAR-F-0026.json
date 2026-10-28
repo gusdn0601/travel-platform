@@ -1,0 +1,86 @@
+{
+  "id": "pl_df5b35a026",
+  "code": "JP-NAR-F-0026",
+  "city_id": "JP-NAR",
+  "slug": "kashiya",
+  "kind": "food",
+  "name_ko": "갓샤 (樫舎)",
+  "name_sub": "Kashiya",
+  "name_local": "樫舎",
+  "lat": null,
+  "lng": null,
+  "area": "나라마치",
+  "lead": "나라마치의 화과자 가게. 계절 과자와 차를 함께 즐길 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "화과자·찻집"
+    ],
+    [
+      "특징",
+      "계절 과자"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ],
+    [
+      "분위기",
+      "작고 조용함"
+    ]
+  ],
+  "origin": [
+    "갓샤는 나라마치에 있는 화과자 가게예요.",
+    "계절 재료를 쓴 과자와 차를 함께 내는 작은 가게로 알려져 있어요.",
+    "나라마치 산책 중 잠깐 쉬어 가기 좋아요.",
+    "좌석이 적어 대기가 생길 수 있어요."
+  ],
+  "tip": "영업일과 시간이 짧을 수 있어 방문 전에 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,000~2,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "화과자",
+    "디저트",
+    "나라마치",
+    "찻집"
+  ],
+  "art_key": "cafe",
+  "local_search": "樫舎",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%94%BA",
+    "https://ja.wikipedia.org/wiki/%E5%92%8C%E8%8F%93%E5%AD%90"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라마치 화과자로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:00.178Z",
+  "order": [
+    "<b>季節の上生菓子</b> 계절 생화과자",
+    "<b>抹茶</b> 말차",
+    "<b>お干菓子</b> 건과자",
+    "<b>わらび餅</b> 와라비모치"
+  ]
+}

@@ -6,11 +6,11 @@
   "kind": "shop",
   "name_ko": "다카시마야 교토점",
   "name_sub": "Takashimaya Kyoto",
-  "name_local": "京都高島屋",
+  "name_local": "高島屋 京都店",
   "lat": null,
   "lng": null,
-  "area": "시조/가와라마치",
-  "lead": "시조 가와라마치의 백화점. 식품관 과자 종류가 많아요.",
+  "area": "가와라마치",
+  "lead": "가와라마치의 백화점. 지하 식품관과 면세 카운터가 있어요.",
   "facts": [
     [
       "종류",
@@ -18,42 +18,47 @@
     ],
     [
       "특징",
-      "식품관"
+      "지하 식품관"
     ],
     [
       "위치",
-      "시조 가와라마치"
+      "가와라마치"
+    ],
+    [
+      "면세",
+      "카운터 운영(조건 확인)"
     ]
   ],
   "origin": [
-    "다카시마야 교토점은 시조와 가와라마치가 만나는 지점에 있는 백화점이에요.",
-    "지하 식품관에서 교토 과자와 차를 고르기 좋아요.",
-    "시내 관광 중 들르기 쉬운 위치예요.",
-    "주말 오후에는 매장이 붐벼요."
+    "다카시마야 교토점은 가와라마치의 주요 백화점 중 하나예요.",
+    "지하 식품관에는 교토 과자와 도시락, 기념품이 모여 있어요.",
+    "외국인 여행객을 위한 면세 카운터가 있어 구매 후 환급을 받을 수 있어요.",
+    "신쿄고쿠와 니시키 시장이 가까워 쇼핑 동선을 잇기 좋아요."
   ],
-  "practical": [
-    "영업시간 확인",
-    "면세 카운터"
-  ],
-  "tip": "선물용 차와 과자는 식품관에서 한 번에 살 수 있어요.",
+  "tip": "면세는 여권과 구매 조건이 필요해요. 폐점 시간이 이른 편이에요.",
   "open_hours": null,
-  "stay_min": 60,
-  "price_hint": "무료(구경)",
+  "stay_min": 80,
+  "price_hint": "쇼핑 별도",
   "must": 0,
   "tags": [
     "백화점",
+    "면세",
     "식품관",
-    "시조"
+    "쇼핑"
   ],
-  "art_key": "shop",
-  "local_search": "京都高島屋",
+  "art_key": "mall",
+  "local_search": "高島屋 京都店",
   "photos": [],
   "status": "drafted",
   "version": 1,
   "verified_at": null,
-  "sources": [],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Takashimaya",
+    "https://ja.wikipedia.org/wiki/%E9%AB%99%E5%B3%B6%E5%B1%8B",
+    "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%9D%A1%E6%B2%B3%E5%8E%9F%E7%94%BA"
+  ],
   "meta": {
-    "priority": 38,
+    "priority": 2,
     "expansion": "kyoto-2026-10-28",
     "verification": "unverified",
     "coord_sources": [],
@@ -61,14 +66,14 @@
     "hours_basis": "unknown",
     "stay_basis": "estimated",
     "price_basis": "estimated",
-    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
     "popularity": {
-      "note": "한국어 여행 정보에서 교토 백화점 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "note": "한국어 여행 정보에서 가와라마치 면세로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
       "basis": "collector-judgement (unverified)",
       "sources": []
     },
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:42:18.002Z"
+  "sanitized_at": "2026-10-28T11:08:53.484Z"
 }

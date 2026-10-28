@@ -37,7 +37,11 @@
   "tip": "소프트아이스는 줄이 훨씬 빨라요.",
   "order": [
     "<b>抹茶パフェ</b>",
-    "<b>抹茶ソフト</b> 소프트아이스"
+    "<b>抹茶ソフト</b> 소프트아이스",
+    "<b>抹茶パフェ</b> 말차 파르페",
+    "<b>抹茶ソフト</b> 말차 소프트",
+    "<b>宇治金時</b> 우지킨토키(말차 팥빙수)",
+    "<b>抹茶ラテ</b> 말차 라테"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -75,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:20.654Z"
 }

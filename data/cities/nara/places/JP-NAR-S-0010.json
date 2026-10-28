@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Meiji era garden in Nara, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:38.462Z"
+  "sanitized_at": "2026-10-28T11:17:02.732Z",
+  "origin": [
+    "이스이엔은 나라 공원 안에 있는 일본 정원이에요.",
+    "연못과 이끼, 다실이 어우러져 차분한 풍경을 만들어요.",
+    "정원 너머로 도다이지 대불전 지붕이 보이도록 꾸민 차경이 특징이에요.",
+    "규모가 크지 않아 사찰 관람 사이에 들르기 좋아요."
+  ]
 }

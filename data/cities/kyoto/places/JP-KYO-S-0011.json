@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "neighborhood and Kagai in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 저녁 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:15.244Z"
+  "sanitized_at": "2026-10-28T11:16:38.936Z",
+  "origin": [
+    "폰토초는 가모강 서쪽을 따라 좁게 이어진 골목이에요.",
+    "강변 쪽으로 음식점과 술집이 늘어서 있어 저녁에 등불이 켜지면 특히 분위기가 좋아요.",
+    "골목이 좁아 사람이 많을 때는 걷기 불편할 수 있어요.",
+    "시조대교 부근에서 시작해 강변을 따라 걷는 코스로 인기가 많아요."
+  ]
 }

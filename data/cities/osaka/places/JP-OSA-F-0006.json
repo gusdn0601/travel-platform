@@ -41,7 +41,10 @@
   "tip": "도톤보리 산책 시작할 때 하나 사 들고 걸어요.",
   "order": [
     "<b>たこ焼き</b> 기본 타코야키",
-    "<b>チーズたこ焼き</b> 치즈 타코야키"
+    "<b>チーズたこ焼き</b> 치즈 타코야키",
+    "<b>たこ焼き(大たこ)</b> 큰 문어 타코야키",
+    "<b>ねぎマヨ</b> 파 마요 타코야키",
+    "<b>明石焼き</b> 아카시야키(출장 타이야키)"
   ],
   "open_hours": null,
   "stay_min": 25,
@@ -83,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:08.882Z"
 }

@@ -1,0 +1,81 @@
+{
+  "id": "pl_3b24137c9d",
+  "code": "JP-OSA-S-0055",
+  "city_id": "JP-OSA",
+  "slug": "tenma-tenjin-hanjo-tei",
+  "kind": "sight",
+  "name_ko": "덴마텐진 한조테이",
+  "name_sub": "Tenma Tenjin Hanjotei",
+  "name_local": "天満天神繁昌亭",
+  "lat": 34.69653,
+  "lng": 135.51261,
+  "area": "텐마",
+  "lead": "오사카의 라쿠고 전용 극장. 일본어를 몰라도 분위기를 즐길 수 있는 공연이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "라쿠고 극장"
+    ],
+    [
+      "특징",
+      "일본 전통 만담"
+    ],
+    [
+      "위치",
+      "텐마"
+    ],
+    [
+      "관람",
+      "공연별 좌석·요금"
+    ]
+  ],
+  "origin": [
+    "덴마텐진 한조테이는 오사카에서 라쿠고를 정기적으로 공연하는 전용 극장이에요.",
+    "한 사람이 이야기를 들려주는 일본 전통 만담으로, 표정과 몸짓만으로도 웃음이 전해지는 공연이 있어요.",
+    "좌석과 요금은 공연마다 달라 예매 전에 확인해야 해요.",
+    "오사카 텐만구와 가까워 함께 둘러보기 좋아요."
+  ],
+  "tip": "공연 중 촬영은 제한돼요. 처음이라면 짧은 공연부터 보는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "공연 약 1,500엔부터(추정)",
+  "must": 0,
+  "tags": [
+    "공연",
+    "라쿠고",
+    "전통",
+    "실내"
+  ],
+  "art_key": "theater",
+  "local_search": "天満天神繁昌亭",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%BA%80%E5%A4%A9%E7%A5%9E%E7%B9%81%E6%98%8C%E4%BA%AD",
+    "https://ja.wikipedia.org/wiki/%E8%90%BD%E8%AA%9E",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%BA%80"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 라쿠고로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:46.286Z"
+}

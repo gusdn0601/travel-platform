@@ -1,0 +1,81 @@
+{
+  "id": "pl_0d5ab48112",
+  "code": "JP-KYO-F-0046",
+  "city_id": "JP-KYO",
+  "slug": "nakamura-tokichi-uji",
+  "kind": "food",
+  "name_ko": "나카무라 도키치 우지 본점",
+  "name_sub": "Nakamura Tokichi Honten",
+  "name_local": "中村藤吉本店",
+  "lat": 34.88931,
+  "lng": 135.80152,
+  "area": "우지",
+  "lead": "우지의 오래된 찻집. 말차 디저트와 차를 함께 즐길 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "찻집·디저트"
+    ],
+    [
+      "특징",
+      "우지 말차"
+    ],
+    [
+      "위치",
+      "우지"
+    ],
+    [
+      "대기",
+      "번호표 방식(현장 확인)"
+    ]
+  ],
+  "origin": [
+    "나카무라 도키치는 우지에서 이어져 온 찻집이에요.",
+    "말차와 녹차를 활용한 디저트와 음료를 내고, 차를 사 갈 수 있는 매장도 함께 있어요.",
+    "우지 강변과 사찰이 가까워 반나절 코스로 묶기 좋아요.",
+    "인기 시간대에는 대기가 길어질 수 있어요."
+  ],
+  "tip": "대기 방식과 영업시간은 현장에서 확인하세요. 우지 사찰과 함께 다녀오세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,000~2,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "말차",
+    "우지",
+    "디저트",
+    "찻집"
+  ],
+  "art_key": "cafe",
+  "local_search": "中村藤吉本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E8%8C%B6",
+    "https://www.openstreetmap.org/node/12030526504",
+    "https://www.wikidata.org/wiki/Q11449516"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우지 말차로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:06.600Z"
+}

@@ -44,7 +44,11 @@
   "order": [
     "<b>串カツ</b> 소고기 쿠시카츠",
     "<b>エビ</b> 새우 꼬치",
-    "<b>紅しょうが</b> 붉은 생강 튀김"
+    "<b>紅しょうが</b> 붉은 생강 튀김",
+    "<b>串かつ</b> 쿠시카츠",
+    "<b>牛肉串</b> 소고기 꼬치",
+    "<b>どて焼き</b> 도테야키(된장 곱창 조림)",
+    "<b>生キャベツ</b> 생양배추(무료)"
   ],
   "open_hours": null,
   "stay_min": 70,
@@ -85,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:15.232Z"
 }

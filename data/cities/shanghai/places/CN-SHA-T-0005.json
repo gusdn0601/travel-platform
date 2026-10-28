@@ -1,0 +1,91 @@
+{
+  "id": "pl_d5f6448908",
+  "code": "CN-SHA-T-0005",
+  "city_id": "CN-SHA",
+  "slug": "shanghai-south-station",
+  "kind": "transit",
+  "name_ko": "상하이남역",
+  "name_sub": "Shanghai South Railway Station",
+  "name_local": "上海南站",
+  "lat": 31.15442,
+  "lng": 121.42416,
+  "area": "쉬후이",
+  "lead": "시내 남서쪽의 기차역. 남쪽 지방으로 가는 열차와 지하철이 만나요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "위치",
+      "쉬후이 남쪽"
+    ],
+    [
+      "접근",
+      "지하철 1·3·15호선"
+    ],
+    [
+      "특징",
+      "원형 역사"
+    ]
+  ],
+  "origin": [
+    "상하이남역은 시내 남서쪽에 있는 철도역이에요.",
+    "둥근 지붕의 역사로 알려져 있고 남쪽 방면 열차가 출발해요.",
+    "지하철 1·3·15호선이 연결돼 시내 이동이 편해요.",
+    "훙차오역보다 규모가 작아 붐비는 정도가 덜해요."
+  ],
+  "practical": [
+    "출발역이 남역인지 표에서 확인하세요",
+    "주변 상권은 조용한 편이에요"
+  ],
+  "tip": "남쪽 도시로 갈 때 이용해요. 역과 지하철 연결 통로를 따라가면 편해요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "구간별 상이",
+  "must": 0,
+  "tags": [
+    "기차역",
+    "교통",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "上海南站",
+  "photos": [
+    "CN-SHA-T-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_South_railway_station",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%8D%97%E7%AB%99",
+    "https://www.openstreetmap.org/node/3279344919"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 184,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 남부 철도역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanghai_South_railway_station",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%8D%97%E7%AB%99",
+        "https://www.openstreetmap.org/node/3279344919"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:15.132Z"
+}

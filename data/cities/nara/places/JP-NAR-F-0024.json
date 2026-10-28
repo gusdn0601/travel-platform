@@ -38,7 +38,11 @@
   "tip": "처음이라면 담백한 국물로 주문해 보세요.",
   "order": [
     "<b>こってりラーメン</b> 진한 라멘",
-    "<b>あっさり</b> 담백한 국물"
+    "<b>あっさり</b> 담백한 국물",
+    "<b>こってりラーメン</b> 꼬떼리 라멘",
+    "<b>あっさりラーメン</b> 앗사리 라멘",
+    "<b>チャーハン</b> 볶음밥",
+    "<b>餃子</b> 교자"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -76,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:34.042Z"
 }

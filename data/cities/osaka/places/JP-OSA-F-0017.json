@@ -42,7 +42,11 @@
   "tip": "기본 오무라이스를 먼저 먹어 보고 토핑은 다음에 골라요.",
   "order": [
     "<b>オムライス</b> 오무라이스",
-    "<b>チキンオムライス</b> 치킨 오무라이스"
+    "<b>チキンオムライス</b> 치킨 오무라이스",
+    "<b>オムライス</b> 오므라이스",
+    "<b>チキンオムライス</b> 치킨 오므라이스",
+    "<b>エビオムライス</b> 새우 오므라이스",
+    "<b>ハヤシオムライス</b> 하이라이스 오므라이스"
   ],
   "open_hours": null,
   "stay_min": 45,
@@ -82,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:21.879Z"
 }

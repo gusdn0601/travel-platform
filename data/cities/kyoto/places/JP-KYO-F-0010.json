@@ -36,7 +36,11 @@
   "tip": "설탕 없이 마시고 싶으면 주문 때 말해요.",
   "order": [
     "<b>アラビアの真珠</b> 대표 블렌드",
-    "<b>朝食セット</b> 아침 세트"
+    "<b>朝食セット</b> 아침 세트",
+    "<b>アラビアの真珠</b> 아라비아의 진주(시그니처 커피)",
+    "<b>ミルクコーヒー</b> 밀크커피",
+    "<b>プリン</b> 푸딩",
+    "<b>サンドイッチ</b> 샌드위치"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -74,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:17.163Z"
 }

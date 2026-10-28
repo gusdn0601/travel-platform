@@ -1,0 +1,82 @@
+{
+  "id": "pl_7c1cf9ff0a",
+  "code": "JP-OSA-S-0048",
+  "city_id": "JP-OSA",
+  "slug": "sakishima-observatory",
+  "kind": "sight",
+  "name_ko": "사키시마 청사 전망대",
+  "name_sub": "Sakishima Government Building Observatory",
+  "name_local": "大阪府咲洲庁舎",
+  "lat": 34.63793,
+  "lng": 135.41447,
+  "area": "난코/베이",
+  "lead": "오사카 만 쪽 청사 꼭대기의 무료 전망대. 바다와 시내 야경을 함께 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "전망대"
+    ],
+    [
+      "특징",
+      "무료·베이 전망"
+    ],
+    [
+      "위치",
+      "난코 사키시마"
+    ],
+    [
+      "시간대",
+      "저녁 노을·야경"
+    ]
+  ],
+  "origin": [
+    "사키시마 청사는 오사카 만 인공섬에 세워진 대형 청사예요.",
+    "위층 전망대는 무료로 개방되어 오사카 만과 시내 방향을 넓게 볼 수 있어요.",
+    "관광객이 몰리는 전망대보다 한적해 저녁 노을과 야경을 천천히 보고 싶을 때 좋아요.",
+    "코스모스퀘어역에서 걸어갈 수 있지만 주변에 식당이 적어 일정은 짧게 잡는 편이 좋아요."
+  ],
+  "tip": "바람이 강한 날이 많아 겉옷을 챙기세요. 운영 시간은 시설 안내를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료(전망대)",
+  "must": 0,
+  "tags": [
+    "야경",
+    "전망대",
+    "무료",
+    "베이"
+  ],
+  "art_key": "tower",
+  "local_search": "大阪府咲洲庁舎",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%92%B2%E6%B4%B2%E5%BA%81%E8%88%8E",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E9%A7%85",
+    "https://www.openstreetmap.org/way/43979655"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 40,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 무료 야경로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:16.436Z"
+}

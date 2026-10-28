@@ -56,7 +56,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 산책로로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:45.913Z"
+  "sanitized_at": "2026-10-28T11:16:38.945Z",
+  "origin": [
+    "철학의 길은 수로를 따라 벚나무가 늘어선 산책로예요.",
+    "긴카쿠지에서 난젠지 방향으로 이어지며, 한 철학자가 이 길을 걸으며 생각했다는 이야기에서 이름이 붙었어요.",
+    "봄 벚꽃철에 특히 아름답고, 평소에도 조용히 걷기 좋아요.",
+    "중간에 작은 사찰과 카페가 있어 쉬어 가기 좋아요."
+  ]
 }

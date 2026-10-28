@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "national museum in Fukuoka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 근교 박물관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:10.898Z"
+  "sanitized_at": "2026-10-28T11:17:31.906Z",
+  "origin": [
+    "규슈 국립박물관은 다자이후에 있는 국립박물관이에요.",
+    "일본 문화가 아시아와 어떻게 교류했는지를 주제로 전시해요.",
+    "다자이후 텐만구 바로 옆이라 참배와 함께 둘러보기 좋아요.",
+    "건물과 정원도 볼거리로 꼽혀요."
+  ]
 }

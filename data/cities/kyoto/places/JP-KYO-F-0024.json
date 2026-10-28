@@ -37,7 +37,11 @@
   ],
   "tip": "기요미즈데라 내려오는 길에 들르기 좋아요.",
   "order": [
-    "<b>湯どうふ</b> 유도후"
+    "<b>湯どうふ</b> 유도후",
+    "<b>湯どうふコース</b> 유도후 코스",
+    "<b>昔どうふ</b> 옛 방식 두부",
+    "<b>冷奴コース</b> 히야야코 코스",
+    "<b>豆腐珍味</b> 두부 별미"
   ],
   "open_hours": null,
   "stay_min": 60,
@@ -54,7 +58,10 @@
   "status": "drafted",
   "version": 1,
   "verified_at": null,
-  "sources": [],
+  "sources": [
+    "https://autoreserve.com/ja/restaurants/BoBbWV3CLEKbtQHA3TcK",
+    "https://www.kkday.com/zh-tw/product/525957"
+  ],
   "meta": {
     "priority": 26,
     "expansion": "kyoto-2026-10-28",
@@ -71,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:07.184Z"
 }

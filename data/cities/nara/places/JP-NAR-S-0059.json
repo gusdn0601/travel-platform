@@ -1,0 +1,83 @@
+{
+  "id": "pl_3ea1cf527f",
+  "code": "JP-NAR-S-0059",
+  "city_id": "JP-NAR",
+  "slug": "hokkeji",
+  "kind": "sight",
+  "name_ko": "홋케지 (법화사)",
+  "name_sub": "Hokke-ji",
+  "name_local": "法華寺",
+  "lat": 34.6924,
+  "lng": 135.80412,
+  "area": "나라 북부",
+  "lead": "나라 북쪽의 사찰. 옛 여성 왕족과 관련된 역사가 전해져요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "역사·정원"
+    ],
+    [
+      "위치",
+      "나라 북부"
+    ],
+    [
+      "분위기",
+      "조용"
+    ]
+  ],
+  "origin": [
+    "홋케지는 나라 북쪽에 자리한 사찰이에요.",
+    "옛 왕족 여성이 세운 사찰로 전해지며, 여성과 관련된 역사가 남아 있어요.",
+    "경내에는 조용한 정원과 건물이 있어 천천히 걷기 좋아요.",
+    "나라 공원에서 조금 떨어져 있어 관광객이 적어요."
+  ],
+  "tip": "버스로 이동하는 편이 편해요. 관람 시간을 확인하세요.",
+  "open_hours": "09:00-16:30 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "역사",
+    "정원",
+    "조용"
+  ],
+  "art_key": "temple",
+  "local_search": "法華寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hokke-ji",
+    "https://ja.wikipedia.org/wiki/%E6%B3%95%E8%8F%AF%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E7%9A%87%E5%90%8E",
+    "https://www.openstreetmap.org/way/1499247841"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 30,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 조용한 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:48.147Z"
+}

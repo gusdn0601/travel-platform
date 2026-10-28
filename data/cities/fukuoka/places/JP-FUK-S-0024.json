@@ -56,7 +56,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 근교 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:49.621Z"
+  "sanitized_at": "2026-10-28T11:17:31.909Z",
+  "origin": [
+    "난조인은 아주 긴 와불로 알려진 사찰이에요.",
+    "본당의 와불이 길게 누운 모습으로 유명해 직접 보러 오는 사람이 많아요.",
+    "경내에 다른 불상과 정원도 있어 천천히 둘러볼 수 있어요.",
+    "후쿠오카 시내에서 전철로 이동해 다녀오기 좋아요."
+  ]
 }

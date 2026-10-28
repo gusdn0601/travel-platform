@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "building in Kyoto Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:31.496Z"
+  "sanitized_at": "2026-10-28T11:16:38.937Z",
+  "origin": [
+    "도지는 교토 남쪽에 자리한 오래된 사찰이에요.",
+    "경내 오층탑은 일본에서 가장 높은 목조탑으로 알려져 있어 멀리서도 눈에 띄어요.",
+    "8세기 말에 세워졌고, 이후 여러 차례 재건을 거쳤어요.",
+    "교토역에서 걸어갈 수 있어 도착하거나 떠나는 날 들르기 좋아요."
+  ]
 }

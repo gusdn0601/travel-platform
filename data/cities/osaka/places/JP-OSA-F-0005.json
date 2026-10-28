@@ -42,7 +42,11 @@
   "tip": "삼각공원에 앉아 먹으면 아메리카무라 분위기를 한 번에 느낄 수 있어요.",
   "order": [
     "<b>たこ焼き</b> 기본 타코야키",
-    "<b>ねぎかけ</b> 파 얹기"
+    "<b>ねぎかけ</b> 파 얹기",
+    "<b>たこ焼き(ソース)</b> 소스 타코야키",
+    "<b>ねぎたこ</b> 파 타코야키",
+    "<b>塩たこ</b> 소금 타코야키",
+    "<b>チーズたこ</b> 치즈 타코야키"
   ],
   "open_hours": null,
   "stay_min": 25,
@@ -83,7 +87,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:08.882Z"
 }

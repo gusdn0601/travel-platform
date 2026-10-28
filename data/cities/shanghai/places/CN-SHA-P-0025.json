@@ -1,0 +1,87 @@
+{
+  "id": "pl_0e383cbc57",
+  "code": "CN-SHA-P-0025",
+  "city_id": "CN-SHA",
+  "slug": "lavenue-shanghai",
+  "kind": "shop",
+  "name_ko": "L'Avenue 상하이",
+  "name_sub": "L'Avenue Shanghai",
+  "name_local": "尚嘉中心",
+  "lat": 31.20765,
+  "lng": 121.40247,
+  "area": "창닝",
+  "lead": "외관이 독특한 창닝의 럭셔리 쇼핑몰. 명품 매장이 조용한 분위기로 이어져요.",
+  "facts": [
+    [
+      "성격",
+      "럭셔리 쇼핑몰"
+    ],
+    [
+      "위치",
+      "창닝구"
+    ],
+    [
+      "접근",
+      "지하철 2호선 러우산관루역 일대"
+    ],
+    [
+      "특징",
+      "독특한 외관 · 명품"
+    ]
+  ],
+  "origin": [
+    "L'Avenue는 창닝구에 세워진 고급 쇼핑몰이에요.",
+    "곡선이 강조된 외관 때문에 지나가다 눈에 띄는 건물이에요.",
+    "명품 브랜드와 고급 식당이 들어 있어 관광지보다는 조용한 쇼핑을 원하는 사람이 찾아요.",
+    "상하이 중심 관광지에서 조금 떨어져 있어 붐비지 않는 편이에요."
+  ],
+  "practical": [
+    "면세 환급 가능 여부를 매장에서 확인하세요",
+    "주변에 대형 몰이 적어 조용해요"
+  ],
+  "tip": "명품 쇼핑 목적이 아니면 외관만 보고 지나가도 좋아요. 인근 홍차오 일정과 묶으세요.",
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "명품",
+    "몰",
+    "건축"
+  ],
+  "art_key": "mall",
+  "local_search": "尚嘉中心",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%B0%9A%E5%98%89%E4%B8%AD%E5%BF%83",
+    "https://www.openstreetmap.org/way/1433195401"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 창닝 럭셔리 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E5%B0%9A%E5%98%89%E4%B8%AD%E5%BF%83",
+        "https://www.openstreetmap.org/way/1433195401"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.600Z"
+}

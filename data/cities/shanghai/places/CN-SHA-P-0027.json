@@ -1,0 +1,87 @@
+{
+  "id": "pl_f8c226b8ae",
+  "code": "CN-SHA-P-0027",
+  "city_id": "CN-SHA",
+  "slug": "metro-city",
+  "kind": "shop",
+  "name_ko": "메이뤄청",
+  "name_sub": "Metro City",
+  "name_local": "美罗城",
+  "lat": 31.19492,
+  "lng": 121.43556,
+  "area": "쉬후이",
+  "lead": "쉬자후이의 둥근 유리 건물 쇼핑몰. 전자제품과 캐릭터 굿즈 매장이 함께 있어요.",
+  "facts": [
+    [
+      "개장",
+      "1998년"
+    ],
+    [
+      "성격",
+      "복합 쇼핑몰"
+    ],
+    [
+      "접근",
+      "지하철 1·9·11호선 쉬자후이역"
+    ],
+    [
+      "특징",
+      "구형 유리 외관 · 캐릭터숍"
+    ]
+  ],
+  "origin": [
+    "메이뤄청은 쉬자후이역 앞에 서 있는 둥근 건물 쇼핑몰이에요.",
+    "1998년 문을 연 뒤 전자제품과 젊은 층 대상 매장으로 자리 잡았어요.",
+    "최근에는 캐릭터 굿즈와 애니메이션 관련 매장이 늘어 젊은 방문객이 많이 찾아요.",
+    "쉬자후이 상권에서 강후이항룽광장과 함께 둘러보기 좋아요."
+  ],
+  "practical": [
+    "쉬자후이역 출구와 바로 이어져요",
+    "주말 오후에는 젊은 층으로 붐벼요"
+  ],
+  "tip": "캐릭터 굿즈를 찾는다면 지하층과 위층 매장을 모두 확인해 보세요.",
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "몰",
+    "전자",
+    "쉬후이"
+  ],
+  "art_key": "mall",
+  "local_search": "美罗城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%BD%97%E5%9F%8E",
+    "https://www.openstreetmap.org/way/225521733"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 쉬자후이 캐릭터 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%BD%97%E5%9F%8E",
+        "https://www.openstreetmap.org/way/225521733"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.603Z"
+}

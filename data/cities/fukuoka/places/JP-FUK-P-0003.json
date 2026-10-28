@@ -56,7 +56,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 시장 먹거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:52.025Z"
+  "sanitized_at": "2026-10-28T11:17:31.894Z",
+  "origin": [
+    "야나기바시 연합시장은 하카타의 재래시장이에요.",
+    "‘하카타의 부엌’이라 불리며 해산물 가게와 반찬 가게가 모여 있어요.",
+    "아침부터 문을 여는 가게가 있어 아침 식사 겸 들르기 좋아요.",
+    "가게마다 파는 것이 달라 조금씩 사서 먹는 방식이 잘 맞아요."
+  ]
 }

@@ -38,7 +38,10 @@
   "tip": "라운지 차만 마셔도 분위기를 즐길 수 있어요.",
   "order": [
     "<b>ランチコース</b> 점심 코스",
-    "<b>アフタヌーンティー</b> 애프터눈 티"
+    "<b>アフタヌーンティー</b> 애프터눈 티",
+    "<b>ビーフカレー</b> 비프 카레",
+    "<b>ビーフシチュー</b> 비프 스튜",
+    "<b>ランチコース</b> 점심 코스(飛火野·春日野)"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -56,7 +59,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://www.openstreetmap.org/way/97661034"
+    "https://www.openstreetmap.org/way/97661034",
+    "https://www.narahotel.co.jp/restaurant/",
+    "https://www.jalan.net/yad304722/food/"
   ],
   "meta": {
     "priority": 29,
@@ -76,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:02.982Z"
 }

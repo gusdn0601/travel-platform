@@ -43,7 +43,10 @@
   "tip": "숙소에 두고 다음 날 먹을 생각이라면 보관 방법을 확인하세요.",
   "order": [
     "<b>チーズタルト</b> 치즈 타르트",
-    "<b>ミニサイズ</b> 미니 타르트"
+    "<b>ミニサイズ</b> 미니 타르트",
+    "<b>焼きたてチーズタルト</b> 갓 구운 치즈 타르트",
+    "<b>ミニチーズタルト</b> 미니 치즈 타르트",
+    "<b>パブロプリン</b> 파블로 푸딩"
   ],
   "open_hours": null,
   "stay_min": 20,
@@ -83,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:29.943Z"
 }

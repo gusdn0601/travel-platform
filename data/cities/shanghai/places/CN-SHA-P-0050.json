@@ -1,0 +1,85 @@
+{
+  "id": "pl_2677317688",
+  "code": "CN-SHA-P-0050",
+  "city_id": "CN-SHA",
+  "slug": "pvg-duty-free",
+  "kind": "shop",
+  "name_ko": "푸동공항 면세점",
+  "name_sub": "Sunrise Duty Free (PVG)",
+  "name_local": "日上免税行 浦东机场",
+  "lat": null,
+  "lng": null,
+  "area": "푸둥/푸동공항",
+  "lead": "푸동공항 출국장의 면세점. 화장품과 향수, 주류를 출국 전에 살 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "공항 면세점"
+    ],
+    [
+      "위치",
+      "푸동공항 출국 구역"
+    ],
+    [
+      "상품",
+      "화장품 · 향수 · 주류"
+    ],
+    [
+      "주의",
+      "탑승 시간 여유 필요"
+    ]
+  ],
+  "origin": [
+    "푸동공항에는 출국장 안에 대형 면세점이 있어요.",
+    "화장품과 향수, 주류, 담배를 면세가로 판매하고 한국 여행자가 마지막 쇼핑을 하러 많이 들러요.",
+    "브랜드별 할인과 세트 구성이 달라 미리 비교해 보는 편이 좋아요.",
+    "출국 수속과 탑승 시간을 고려해 여유 있게 움직여야 해요."
+  ],
+  "practical": [
+    "출국장 안에 있어 탑승 전에만 이용할 수 있어요",
+    "인기 상품은 품절될 수 있어요"
+  ],
+  "tip": "여권을 준비하고, 면세 한도와 반입 규정을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "면세가",
+  "must": 0,
+  "tags": [
+    "면세점",
+    "화장품",
+    "주류",
+    "공항"
+  ],
+  "art_key": "shop",
+  "local_search": "日上免税行 浦东机场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://map.baidu.com/search/%E6%97%A5%E4%B8%8A%E5%85%8D%E7%A8%8E%E8%A1%8C%20%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA",
+    "https://www.openstreetmap.org/search?query=%E6%97%A5%E4%B8%8A%E5%85%8D%E7%A8%8E%E8%A1%8C"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 출국 면세 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://map.baidu.com/search/%E6%97%A5%E4%B8%8A%E5%85%8D%E7%A8%8E%E8%A1%8C%20%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA",
+        "https://www.openstreetmap.org/search?query=%E6%97%A5%E4%B8%8A%E5%85%8D%E7%A8%8E%E8%A1%8C"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.968Z"
+}

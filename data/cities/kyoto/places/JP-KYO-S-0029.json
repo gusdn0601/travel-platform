@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Kyoto Prefecture, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 단풍 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:45.565Z"
+  "sanitized_at": "2026-10-28T11:16:38.944Z",
+  "origin": [
+    "에이칸도는 교토 동쪽에 자리한 사찰이에요.",
+    "9세기에 세워졌고, 가을 단풍과 야간 개장으로 유명해요.",
+    "경내가 계단과 언덕으로 이어져 돌아보는 길이 길어요.",
+    "단풍철에는 사람이 많아 이른 시간이나 야간 개장을 노리는 편이 좋아요."
+  ]
 }

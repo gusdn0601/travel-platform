@@ -1,0 +1,87 @@
+{
+  "id": "pl_650afe3424",
+  "code": "CN-SHA-P-0017",
+  "city_id": "CN-SHA",
+  "slug": "grand-gateway-66",
+  "kind": "shop",
+  "name_ko": "강후이항룽광장(그랜드 게이트웨이 66)",
+  "name_sub": "Grand Gateway 66",
+  "name_local": "港汇恒隆广场",
+  "lat": 31.1965,
+  "lng": 121.4325,
+  "area": "쉬후이",
+  "lead": "쉬자후이역 위에 서 있는 대형 쇼핑몰. 지하철과 바로 이어져 이동이 편해요.",
+  "facts": [
+    [
+      "개장",
+      "1999년"
+    ],
+    [
+      "성격",
+      "복합 쇼핑몰"
+    ],
+    [
+      "접근",
+      "지하철 1·9·11호선 쉬자후이역 직결"
+    ],
+    [
+      "특징",
+      "백화점 · 식당가 · 영화관"
+    ]
+  ],
+  "origin": [
+    "강후이항룽광장은 쉬자후이 상권의 중심에 세워진 대형 쇼핑몰이에요.",
+    "1999년 문을 연 뒤 여러 차례 리뉴얼을 거쳐 지금은 패션·뷰티·식당·영화관이 함께 있는 복합 공간이 되었어요.",
+    "지하철 역과 바로 연결돼 비 오는 날에도 쇼핑하기 편해요.",
+    "쉬자후이 성당과 전자상가가 가까워 함께 둘러보기 좋아요."
+  ],
+  "practical": [
+    "쉬자후이역 출구가 많아 목적지 출구를 미리 확인하세요",
+    "주말 저녁 식당가는 대기가 길어요"
+  ],
+  "tip": "지하 식당가와 지하철 연결 통로를 이용하면 날씨 영향을 덜 받아요.",
+  "open_hours": null,
+  "stay_min": 100,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "몰",
+    "백화점",
+    "지하철"
+  ],
+  "art_key": "mall",
+  "local_search": "港汇恒隆广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grand_Gateway_Shanghai",
+    "https://zh.wikipedia.org/wiki/%E6%B8%AF%E6%B1%87%E6%81%92%E9%9A%86%E5%B9%BF%E5%9C%BA"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 쉬자후이 대표 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grand_Gateway_Shanghai",
+        "https://zh.wikipedia.org/wiki/%E6%B8%AF%E6%B1%87%E6%81%92%E9%9A%86%E5%B9%BF%E5%9C%BA"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.583Z"
+}

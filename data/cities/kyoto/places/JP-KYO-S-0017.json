@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "temple in Kyoto, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:51.866Z"
+  "sanitized_at": "2026-10-28T11:16:38.939Z",
+  "origin": [
+    "료안지는 돌과 모래만으로 꾸민 가레산스이 정원으로 유명한 사찰이에요.",
+    "15세기에 세워졌고, 정원에는 돌 열다섯 개가 배치되어 있어요.",
+    "어디에서 보느냐에 따라 돌이 보이는 수가 달라진다는 이야기가 전해져요.",
+    "앉아서 바라보는 방식이라 시간을 두고 천천히 머무는 편이 좋아요."
+  ]
 }

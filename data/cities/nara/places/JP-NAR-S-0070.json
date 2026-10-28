@@ -1,0 +1,82 @@
+{
+  "id": "pl_8734328eee",
+  "code": "JP-NAR-S-0070",
+  "city_id": "JP-NAR",
+  "slug": "ryosen-ji",
+  "kind": "sight",
+  "name_ko": "료센지",
+  "name_sub": "Ryōsen-ji",
+  "name_local": "霊山寺",
+  "lat": 34.67303,
+  "lng": 135.74197,
+  "area": "나라 북부",
+  "lead": "나라 북쪽의 사찰. 장미 정원과 조용한 경내로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "장미 정원"
+    ],
+    [
+      "위치",
+      "나라 북부"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "료센지는 나라 북쪽에 자리한 사찰이에요.",
+    "계절에 따라 장미가 피는 정원이 알려져 있어요.",
+    "경내가 넓지 않아 천천히 둘러보기 좋아요.",
+    "나라 시내에서 버스로 이동해 들르기 좋아요."
+  ],
+  "tip": "꽃은 계절에 따라 달라 방문 시기를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(경내)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "장미",
+    "정원",
+    "조용"
+  ],
+  "art_key": "garden",
+  "local_search": "霊山寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%9C%8A%E5%B1%B1%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)",
+    "https://www.openstreetmap.org/node/1460596999",
+    "https://www.wikidata.org/wiki/Q1089221"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 201,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 꽃 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:12.681Z"
+}

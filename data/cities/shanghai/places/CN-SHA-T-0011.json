@@ -1,0 +1,87 @@
+{
+  "id": "pl_cd4cbae076",
+  "code": "CN-SHA-T-0011",
+  "city_id": "CN-SHA",
+  "slug": "xintiandi-station",
+  "kind": "transit",
+  "name_ko": "신톈디역",
+  "name_sub": "Xintiandi Station",
+  "name_local": "新天地站",
+  "lat": 31.21833,
+  "lng": 121.47,
+  "area": "황푸/신톈디",
+  "lead": "신톈디와 톈쯔팡 사이의 지하철역. 두 쇼핑 거리를 걸어서 오가기 좋아요.",
+  "facts": [
+    [
+      "노선",
+      "10·13호선"
+    ],
+    [
+      "위치",
+      "황푸 신톈디"
+    ],
+    [
+      "주변",
+      "신톈디 · 톈쯔팡"
+    ],
+    [
+      "특징",
+      "관광 동선 연결"
+    ]
+  ],
+  "origin": [
+    "신톈디역은 지하철 10호선과 13호선이 만나는 역이에요.",
+    "신톈디 상업 지구와 가깝고 톈쯔팡까지도 걸어갈 수 있어 쇼핑과 산책 동선에 편해요.",
+    "역 주변이 비교적 깔끔하고 출구도 알기 쉬워요.",
+    "낮에는 관광객, 밤에는 신톈디 바 구역을 찾는 사람이 이용해요."
+  ],
+  "practical": [
+    "13호선으로 난징둥루 방면 이동이 편해요",
+    "밤에는 바 구역 방향 출구가 붐벼요"
+  ],
+  "tip": "신톈디와 톈쯔팡을 함께 볼 때 이 역에 내리면 동선이 짧아요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "신톈디",
+    "환승",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "新天地站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Site_of_the_First_CPC_National_Congress_%C2%B7_Xintiandi_station",
+    "https://zh.wikipedia.org/wiki/%E4%B8%80%E5%A4%A7%E4%BC%9A%E5%9D%80%C2%B7%E6%96%B0%E5%A4%A9%E5%9C%B0%E7%AB%99"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 신톈디 쇼핑 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Site_of_the_First_CPC_National_Congress_%C2%B7_Xintiandi_station",
+        "https://zh.wikipedia.org/wiki/%E4%B8%80%E5%A4%A7%E4%BC%9A%E5%9D%80%C2%B7%E6%96%B0%E5%A4%A9%E5%9C%B0%E7%AB%99"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:26.968Z"
+}

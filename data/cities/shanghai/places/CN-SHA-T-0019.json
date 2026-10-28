@@ -1,0 +1,87 @@
+{
+  "id": "pl_c8abfac735",
+  "code": "CN-SHA-T-0019",
+  "city_id": "CN-SHA",
+  "slug": "bund-sightseeing-tunnel",
+  "kind": "transit",
+  "name_ko": "와이탄 관광터널",
+  "name_sub": "Bund Sightseeing Tunnel",
+  "name_local": "外滩观光隧道",
+  "lat": 31.24068,
+  "lng": 121.48956,
+  "area": "황푸/와이탄",
+  "lead": "와이탄과 푸둥을 잇는 관광용 터널. 조명 연출이 있는 케이블카로 강을 건너요.",
+  "facts": [
+    [
+      "구간",
+      "와이탄~푸둥"
+    ],
+    [
+      "성격",
+      "관광 터널"
+    ],
+    [
+      "요금",
+      "유료(추정)"
+    ],
+    [
+      "특징",
+      "조명 연출"
+    ]
+  ],
+  "origin": [
+    "와이탄 관광터널은 황푸강 아래로 와이탄과 푸둥을 잇는 관광용 터널이에요.",
+    "작은 케이블카를 타고 지나가며 조명 연출을 보는 방식이에요.",
+    "교통 수단이라기보다 체험 시설에 가까워 호불호가 갈려요.",
+    "아이와 함께라면 색다른 경험이 될 수 있어요."
+  ],
+  "practical": [
+    "요금과 운행 시간을 확인하세요",
+    "일부 구간은 사진 촬영이 제한될 수 있어요"
+  ],
+  "tip": "교통 목적이라면 지하철이 빠르고 저렴해요. 체험으로만 생각하세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "유료(추정)",
+  "must": 0,
+  "tags": [
+    "터널",
+    "체험",
+    "와이탄",
+    "교통"
+  ],
+  "art_key": "boat",
+  "local_search": "外滩观光隧道",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E9%9A%A7%E9%81%93",
+    "https://www.openstreetmap.org/way/39774420"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 와이탄 체험 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E9%9A%A7%E9%81%93",
+        "https://www.openstreetmap.org/way/39774420"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:41.448Z"
+}

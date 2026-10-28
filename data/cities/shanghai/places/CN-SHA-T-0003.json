@@ -1,0 +1,90 @@
+{
+  "id": "pl_b3be3c4307",
+  "code": "CN-SHA-T-0003",
+  "city_id": "CN-SHA",
+  "slug": "hongqiao-railway-station",
+  "kind": "transit",
+  "name_ko": "훙차오역(고속철)",
+  "name_sub": "Shanghai Hongqiao Railway Station",
+  "name_local": "上海虹桥站",
+  "lat": 31.19631,
+  "lng": 121.31614,
+  "area": "훙차오",
+  "lead": "상하이의 고속철 중심역. 항저우·쑤저우·베이징 방면 열차가 대부분 여기서 출발해요.",
+  "facts": [
+    [
+      "종류",
+      "고속철 터미널"
+    ],
+    [
+      "개장",
+      "2010년"
+    ],
+    [
+      "위치",
+      "훙차오 교통 허브"
+    ],
+    [
+      "연결",
+      "공항 · 지하철 2·10·17호선"
+    ]
+  ],
+  "origin": [
+    "훙차오역은 2010년 상하이 엑스포를 앞두고 문을 연 고속철 터미널이에요.",
+    "항저우와 쑤저우, 난징 등으로 가는 열차가 많이 출발해 근교 여행의 거점이 돼요.",
+    "공항과 지하철이 한 구역에 모여 있어 환승이 편해요.",
+    "역이 매우 넓어 출발 시간을 넉넉히 잡아야 해요."
+  ],
+  "practical": [
+    "신분증(여권)으로 승차해요",
+    "역 안 이동 거리가 길어 여유가 필요해요"
+  ],
+  "tip": "표는 12306 앱이나 역 창구에서 미리 예매하세요. 출발 30분 전 도착을 권해요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "구간별 상이",
+  "must": 0,
+  "tags": [
+    "기차역",
+    "고속철",
+    "환승",
+    "교통"
+  ],
+  "art_key": "train",
+  "local_search": "上海虹桥站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Hongqiao_railway_station",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A9%8B%E7%AB%99",
+    "https://www.openstreetmap.org/way/70364443"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 21,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 근교 여행 거점역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanghai_Hongqiao_railway_station",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A9%8B%E7%AB%99",
+        "https://www.openstreetmap.org/way/70364443"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:09.820Z"
+}

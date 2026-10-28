@@ -1,0 +1,84 @@
+{
+  "id": "pl_89899ddf27",
+  "code": "JP-KYO-T-0005",
+  "city_id": "JP-KYO",
+  "slug": "eizan-demachiyanagi",
+  "kind": "transit",
+  "name_ko": "에이잔 전철 데마치야나기역",
+  "name_sub": "Eizan Railway Demachiyanagi",
+  "name_local": "出町柳駅",
+  "lat": 35.03028,
+  "lng": 135.77278,
+  "area": "데마치야나기",
+  "lead": "구라마·기후네 방면으로 가는 에이잔 전철의 출발역. 가모강과 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "에이잔 전철"
+    ],
+    [
+      "위치",
+      "가모강 북쪽"
+    ],
+    [
+      "연결",
+      "구라마·기후네 방면"
+    ]
+  ],
+  "origin": [
+    "데마치야나기역은 교토 시내에서 구라마와 기후네 방면으로 가는 에이잔 전철의 출발역이에요.",
+    "역 앞으로 가모강과 강변 산책로가 이어져 현지인과 여행자가 함께 걷는 곳이에요.",
+    "구라마·기후네로 가려면 이 역에서 열차를 갈아타요.",
+    "주변에 작은 가게와 카페가 있어 출발 전에 쉬기 좋아요."
+  ],
+  "tip": "구라마·기후네 방면은 배차 간격이 길어 시간표를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "역",
+    "교통",
+    "구라마",
+    "기후네"
+  ],
+  "art_key": "station",
+  "local_search": "出町柳駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demachiyanagi_Station",
+    "https://ja.wikipedia.org/wiki/%E5%87%BA%E7%94%BA%E6%9F%B3%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E5%8F%A1%E5%B1%B1%E9%9B%BB%E9%89%84",
+    "https://ja.wikipedia.org/wiki/%E9%B4%A8%E5%B7%9D",
+    "https://www.openstreetmap.org/way/163155125"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 57,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 구라마·기후네 가는 길로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:57.449Z"
+}

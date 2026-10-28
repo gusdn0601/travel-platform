@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "marketplace in downtown Kyoto, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 시장 먹거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:21.535Z"
+  "sanitized_at": "2026-10-28T11:16:38.924Z",
+  "origin": [
+    "니시키 시장은 교토 시내 중심에 길게 이어진 좁은 시장 골목이에요.",
+    "오래전부터 생선과 채소, 절임을 다루는 가게가 모여 ‘교토의 부엌’이라 불려 왔어요.",
+    "지금은 절임과 어묵, 두부 간식, 꼬치를 그 자리에서 사 먹는 곳으로 인기가 많아요.",
+    "가게마다 파는 것이 달라 조금씩 나눠 먹으며 걷는 방식이 잘 맞아요."
+  ]
 }

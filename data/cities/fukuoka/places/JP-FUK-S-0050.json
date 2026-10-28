@@ -1,0 +1,83 @@
+{
+  "id": "pl_7a925275cd",
+  "code": "JP-FUK-S-0050",
+  "city_id": "JP-FUK",
+  "slug": "kokura-castle",
+  "kind": "sight",
+  "name_ko": "고쿠라성",
+  "name_sub": "Kokura Castle",
+  "name_local": "小倉城",
+  "lat": 33.88444,
+  "lng": 130.87426,
+  "area": "고쿠라",
+  "lead": "기타큐슈 고쿠라의 성. 성 안에 전시와 전망 시설이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "성"
+    ],
+    [
+      "특징",
+      "전시·전망"
+    ],
+    [
+      "위치",
+      "고쿠라"
+    ],
+    [
+      "접근",
+      "신칸센·JR 고쿠라역"
+    ]
+  ],
+  "origin": [
+    "고쿠라성은 기타큐슈 고쿠라 지역에 자리한 성이에요.",
+    "지금의 성은 재건된 것이지만 성 안에 역사 전시와 전망 시설이 있어요.",
+    "주변에 정원과 상점가가 이어져 함께 걷기 좋아요.",
+    "하카타에서 신칸센이나 JR로 이동해 당일치기로 다녀오기 좋아요."
+  ],
+  "tip": "성과 주변 정원을 함께 보려면 반나절을 잡으세요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 약 350엔(추정)",
+  "must": 0,
+  "tags": [
+    "성",
+    "역사",
+    "전망",
+    "교외"
+  ],
+  "art_key": "castle",
+  "local_search": "小倉城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kokura_Castle",
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E5%9F%8E",
+    "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82",
+    "https://www.openstreetmap.org/way/153209407"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 기타큐슈 당일치기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:56.739Z"
+}

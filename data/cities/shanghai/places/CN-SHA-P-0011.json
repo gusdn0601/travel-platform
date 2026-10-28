@@ -1,0 +1,92 @@
+{
+  "id": "pl_9cf6c9148c",
+  "code": "CN-SHA-P-0011",
+  "city_id": "CN-SHA",
+  "slug": "tianzifang",
+  "kind": "shop",
+  "name_ko": "톈쯔팡",
+  "name_sub": "Tianzifang",
+  "name_local": "田子坊",
+  "lat": 31.21001,
+  "lng": 121.46467,
+  "area": "황푸/다푸차오",
+  "lead": "좁은 석쿠먼 골목에 공방과 소품 가게, 카페가 빽빽한 예술 거리. 기념품 찾기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "골목 예술·소품 거리"
+    ],
+    [
+      "위치",
+      "타이캉루 일대"
+    ],
+    [
+      "접근",
+      "지하철 9호선 다푸차오역 도보"
+    ],
+    [
+      "특징",
+      "공방 · 수제품 · 카페"
+    ]
+  ],
+  "origin": [
+    "톈쯔팡은 1930년대 공장과 주거가 섞여 있던 골목을 예술가들이 작업실로 쓰면서 알려지기 시작했어요.",
+    "이후 작은 공방과 기념품점, 카페가 들어와 지금의 모습이 되었어요.",
+    "골목이 매우 좁고 복잡해서 천천히 걷는 재미가 있어요.",
+    "상하이 옛 생활 공간을 가까이서 볼 수 있는 몇 안 되는 곳이에요."
+  ],
+  "practical": [
+    "현금보다 위챗페이·알리페이가 편해요",
+    "좁은 골목이라 큰 캐리어는 불편해요"
+  ],
+  "tip": "평일 오전이 한적해요. 골목 안쪽으로 들어갈수록 개성 있는 가게가 많아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "골목",
+    "공방",
+    "기념품"
+  ],
+  "art_key": "street",
+  "local_search": "田子坊",
+  "photos": [
+    "CN-SHA-P-0011-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tianzifang",
+    "https://zh.wikipedia.org/wiki/%E7%94%B0%E5%AD%90%E5%9D%8A",
+    "https://www.openstreetmap.org/way/293829293"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 65,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 골목 쇼핑 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tianzifang",
+        "https://zh.wikipedia.org/wiki/%E7%94%B0%E5%AD%90%E5%9D%8A",
+        "https://www.openstreetmap.org/way/293829293"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.571Z"
+}

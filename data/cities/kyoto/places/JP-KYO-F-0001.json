@@ -37,7 +37,10 @@
   "tip": "오후 3~5시 사이가 비교적 한산해요.",
   "order": [
     "<b>天然とんこつラーメン</b> 기본 라멘",
-    "<b>替玉</b> 면 추가"
+    "<b>替玉</b> 면 추가",
+    "<b>天然とんこつラーメン</b> 기본 돈코츠 라멘",
+    "<b>半熟塩ゆでたまご</b> 반숙 계란",
+    "<b>明太子ごはん</b> 명란 밥"
   ],
   "open_hours": "24/7 (OSM)",
   "stay_min": 45,
@@ -56,7 +59,8 @@
   "verified_at": null,
   "sources": [
     "https://en.wikipedia.org/wiki/Ichiran",
-    "https://www.openstreetmap.org/node/2548425926"
+    "https://www.openstreetmap.org/node/2548425926",
+    "https://www.ichiran.co.jp/"
   ],
   "meta": {
     "priority": 3,
@@ -76,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:04.940Z"
 }

@@ -39,7 +39,11 @@
   "tip": "아이스크림은 계절 한정 맛이 있을 수 있어요.",
   "order": [
     "<b>冰淇淋</b> 아이스크림",
-    "<b>蟹粉小笼</b> 게살 샤오룽바오"
+    "<b>蟹粉小笼</b> 게살 샤오룽바오",
+    "<b>鲜肉月饼</b> 고기 월병",
+    "<b>酱鸭</b> 간장 오리",
+    "<b>熏鱼</b> 훈제 생선",
+    "<b>糟货</b> 주糟 절임"
   ],
   "open_hours": null,
   "stay_min": 60,
@@ -79,7 +83,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.075Z"
 }

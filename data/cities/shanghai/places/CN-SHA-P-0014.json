@@ -1,0 +1,86 @@
+{
+  "id": "pl_1b48aee02c",
+  "code": "CN-SHA-P-0014",
+  "city_id": "CN-SHA",
+  "slug": "sichuan-north-road",
+  "kind": "shop",
+  "name_ko": "쓰촨베이루",
+  "name_sub": "Sichuan North Road",
+  "name_local": "四川北路",
+  "lat": 31.27089,
+  "lng": 121.47642,
+  "area": "훙커우",
+  "lead": "훙커우의 옛 상업 거리. 관광지보다 현지인 생활 상점이 많은 동네예요.",
+  "facts": [
+    [
+      "성격",
+      "생활형 상업 거리"
+    ],
+    [
+      "위치",
+      "훙커우구"
+    ],
+    [
+      "접근",
+      "지하철 3·4·10호선"
+    ],
+    [
+      "특징",
+      "오래된 상점 · 시장"
+    ]
+  ],
+  "origin": [
+    "쓰촨베이루는 20세기 초 훙커우 지역이 번성하면서 상점이 늘어난 거리예요.",
+    "한때 백화점과 극장이 모여 번화했지만 이후 상권 중심이 옮겨 가면서 지금은 생활형 가게가 많아요.",
+    "오래된 건물과 시장 골목이 남아 상하이 서민 생활을 엿보기 좋아요.",
+    "관광객이 적어 조용히 걷기 좋은 곳이에요."
+  ],
+  "practical": [
+    "현지인 시장과 간식 가게가 저렴해요",
+    "야간에는 상점이 일찍 닫는 편이에요"
+  ],
+  "tip": "쇼핑보다는 동네 분위기를 보러 가는 곳이에요. 인근 훙커우 공원과 함께 둘러보세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "옛거리",
+    "생활상권"
+  ],
+  "art_key": "street",
+  "local_search": "四川北路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E5%8C%97%E8%B7%AF",
+    "https://www.openstreetmap.org/way/176025196"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 훙커우 생활 상권로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E5%8C%97%E8%B7%AF",
+        "https://www.openstreetmap.org/way/176025196"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.577Z"
+}

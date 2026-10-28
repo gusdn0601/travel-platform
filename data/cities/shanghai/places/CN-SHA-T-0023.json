@@ -1,0 +1,86 @@
+{
+  "id": "pl_8771d594e7",
+  "code": "CN-SHA-T-0023",
+  "city_id": "CN-SHA",
+  "slug": "shanghai-transport-card",
+  "kind": "transit",
+  "name_ko": "상하이 교통카드",
+  "name_sub": "Shanghai Public Transport Card",
+  "name_local": "上海公共交通卡",
+  "lat": null,
+  "lng": null,
+  "area": "상하이 전역",
+  "lead": "지하철·버스·페리에 쓸 수 있는 충전식 교통카드. 충전해서 쓰면 편해요.",
+  "facts": [
+    [
+      "성격",
+      "교통카드"
+    ],
+    [
+      "사용처",
+      "지하철 · 버스 · 페리"
+    ],
+    [
+      "충전",
+      "역 발매기 · 편의점"
+    ],
+    [
+      "대안",
+      "알리페이 · 위챗 QR"
+    ]
+  ],
+  "origin": [
+    "상하이 교통카드는 지하철과 버스, 페리 등에서 쓸 수 있는 충전식 카드예요.",
+    "지하철역 발매기나 편의점에서 충전할 수 있고, 여러 사람이 함께 쓰기보다 1인 1카드로 이용해요.",
+    "최근에는 알리페이나 위챗의 교통 QR 코드로 대신하는 여행자도 많아요.",
+    "카드가 익숙하지 않다면 앱 QR을 쓰는 편이 간단해요."
+  ],
+  "practical": [
+    "잔액 환불은 지정 창구에서만 가능할 수 있어요",
+    "카드 1장당 1인 이용이 원칙이에요"
+  ],
+  "tip": "알리페이·위챗 교통 QR을 등록하면 카드 없이 지하철을 탈 수 있어요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "충전식(보증금 별도 가능)",
+  "must": 0,
+  "tags": [
+    "교통카드",
+    "결제",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "上海公共交通卡",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1",
+    "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 대중교통 결제로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1",
+        "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:40:22.324Z"
+}

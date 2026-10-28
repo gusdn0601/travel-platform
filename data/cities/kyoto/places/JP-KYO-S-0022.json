@@ -62,7 +62,21 @@
     "addr_basis": null,
     "entity": "street in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 골목로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:15.983Z"
+  "sanitized_at": "2026-10-28T11:16:38.942Z",
+  "origin": [
+    "산넨자카는 기요미즈데라로 오르는 돌계단 골목이에요.",
+    "전통 가게와 간식집이 계단을 따라 이어져 걸으며 구경하기 좋아요.",
+    "돌길이 미끄러울 수 있어 신발을 확인하는 편이 좋아요.",
+    "아래쪽 니넨자카와 이어져 한 번에 걷는 코스로 인기가 많아요."
+  ]
 }

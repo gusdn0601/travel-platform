@@ -1,0 +1,81 @@
+{
+  "id": "pl_867e3f0132",
+  "code": "JP-KYO-S-0088",
+  "city_id": "JP-KYO",
+  "slug": "teradaya",
+  "kind": "sight",
+  "name_ko": "데라다야",
+  "name_sub": "Teradaya",
+  "name_local": "寺田屋",
+  "lat": 34.93029,
+  "lng": 135.75956,
+  "area": "후시미",
+  "lead": "후시미의 옛 여관 터. 사카모토 료마가 습격당한 곳으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "역사 유적"
+    ],
+    [
+      "특징",
+      "료마 관련"
+    ],
+    [
+      "위치",
+      "후시미"
+    ],
+    [
+      "분위기",
+      "옛 목조 건물"
+    ]
+  ],
+  "origin": [
+    "데라다야는 후시미 강가에 남아 있는 옛 여관이에요.",
+    "막부 말기에 사카모토 료마가 이곳에서 습격을 받은 일로 유명해요.",
+    "지금은 당시 방과 흔적을 볼 수 있는 전시 공간으로 열려 있어요.",
+    "후시미 이나리 신사와 함께 묶어 반나절 코스로 다녀오기 좋아요."
+  ],
+  "tip": "전시 공간이라 신발을 벗고 오르는 구간이 있어요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "입장료 약 400엔(추정)",
+  "must": 0,
+  "tags": [
+    "역사",
+    "유적",
+    "후시미",
+    "에도"
+  ],
+  "art_key": "building",
+  "local_search": "寺田屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%AF%BA%E7%94%B0%E5%B1%8B",
+    "https://www.openstreetmap.org/way/149171918",
+    "https://www.wikidata.org/wiki/Q123356815"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 막부 말기 역사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:17:57.544Z"
+}

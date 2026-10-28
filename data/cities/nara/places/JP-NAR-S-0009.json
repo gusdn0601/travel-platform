@@ -58,7 +58,21 @@
     "addr_basis": null,
     "entity": null,
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 골목 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:32.437Z"
+  "sanitized_at": "2026-10-28T11:17:02.731Z",
+  "origin": [
+    "나라마치는 옛 상인 마을의 골목이 남아 있는 지역이에요.",
+    "격자창이 있는 목조 건물이 이어져 옛 모습을 보여 줘요.",
+    "카페와 공방이 들어와 걷다 쉬기 좋아요.",
+    "간고지와 가까워 사찰과 함께 둘러보기 좋아요."
+  ]
 }

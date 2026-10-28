@@ -1,0 +1,84 @@
+{
+  "id": "pl_0005475894",
+  "code": "CN-SHA-P-0039",
+  "city_id": "CN-SHA",
+  "slug": "carrefour",
+  "kind": "shop",
+  "name_ko": "까르푸",
+  "name_sub": "Carrefour",
+  "name_local": "家乐福",
+  "lat": null,
+  "lng": null,
+  "area": "교외·도심",
+  "lead": "프랑스계 대형 마트. 과일과 물, 생활용품을 한 번에 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "대형 마트"
+    ],
+    [
+      "중국 진출",
+      "1995년"
+    ],
+    [
+      "소유",
+      "2019년 쑤닝에 매각"
+    ],
+    [
+      "접근",
+      "교외·도심 매장"
+    ]
+  ],
+  "origin": [
+    "까르푸는 1995년 중국에 진출해 한때 대형 마트의 대표로 자리 잡았어요.",
+    "2019년 중국 사업을 쑤닝에 매각한 뒤 매장 수가 줄었지만 상하이 곳곳에 여전히 매장이 남아 있어요.",
+    "과일과 생수, 생활용품을 저렴하게 살 수 있어 장기 체류 여행자에게 유용해요.",
+    "매장마다 규모와 영업 상태가 달라 방문 전에 확인하는 편이 좋아요."
+  ],
+  "practical": [
+    "매장별 영업 상태가 달라요",
+    "도심 매장은 택시로 이동하기 편해요"
+  ],
+  "tip": "여행 중 물과 과일을 대량으로 살 때 좋아요. 영업 여부를 지도 앱에서 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "장보기별 상이",
+  "must": 0,
+  "tags": [
+    "마트",
+    "장보기",
+    "생활용품"
+  ],
+  "art_key": "market",
+  "local_search": "家乐福",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carrefour",
+    "https://zh.wikipedia.org/wiki/%E5%AE%B6%E6%A8%82%E7%A6%8F"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 대형 마트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carrefour",
+        "https://zh.wikipedia.org/wiki/%E5%AE%B6%E6%A8%82%E7%A6%8F"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.951Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pl_8278721fc4",
+  "code": "JP-FUK-P-0019",
+  "city_id": "JP-FUK",
+  "slug": "donki-tenjin",
+  "kind": "shop",
+  "name_ko": "돈키호테 텐진점",
+  "name_sub": "Don Quijote Tenjin",
+  "name_local": "ドン・キホーテ",
+  "lat": 33.58637,
+  "lng": 130.39799,
+  "area": "텐진",
+  "lead": "텐진의 대형 잡화점. 늦은 시간까지 열려 마지막 쇼핑에 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "잡화·드럭스토어"
+    ],
+    [
+      "특징",
+      "늦은 영업"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "면세",
+      "여권 지참(조건 확인)"
+    ]
+  ],
+  "origin": [
+    "돈키호테는 식품과 화장품, 생활용품을 넓게 다루는 대형 잡화점이에요.",
+    "텐진 점포는 늦은 시간까지 열려 여행 마지막 쇼핑에 알맞아요.",
+    "과자와 기념품도 많아 선물을 한 번에 사기 좋아요.",
+    "면세 카운터는 대기할 수 있어 시간 여유를 두세요."
+  ],
+  "tip": "면세 카운터 대기 시간을 고려해 마감 전에 여유 있게 가세요.",
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 45,
+  "price_hint": "구매 별도",
+  "must": 0,
+  "tags": [
+    "드럭스토어",
+    "잡화",
+    "면세",
+    "야간"
+  ],
+  "art_key": "shop",
+  "local_search": "ドン・キホーテ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://www.openstreetmap.org/node/5239900707"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 마지막 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:12.568Z"
+}

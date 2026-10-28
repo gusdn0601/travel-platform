@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "bridge in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 중심로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:55.310Z"
+  "sanitized_at": "2026-10-28T11:16:38.934Z",
+  "origin": [
+    "도게쓰교는 가쓰라강을 가로지르는 나무색 난간의 다리예요.",
+    "아라시야마 관광의 중심에 있어 대나무 숲과 덴류지, 강변 산책로가 모두 이 다리를 기준으로 이어져요.",
+    "다리 위에서 보는 강과 산 풍경이 좋아 사진 명소로 꼽혀요.",
+    "봄 벚꽃과 가을 단풍철에는 사람이 매우 많아요."
+  ]
 }

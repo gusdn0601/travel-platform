@@ -37,7 +37,11 @@
   ],
   "tip": "아침 일정으로 넣으면 하루가 길게 느껴져요.",
   "order": [
-    "<b>朝粥</b> 아침 죽"
+    "<b>朝粥</b> 아침 죽",
+    "<b>瓢亭玉子</b> 효테이 타마고(반숙 달걀)",
+    "<b>朝粥</b> 아사가유(아침 죽)",
+    "<b>松花堂弁当</b> 쇼카도 벤토",
+    "<b>懐石コース</b> 가이세키 코스"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -55,7 +59,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/%E7%93%A2%E4%BA%AD"
+    "https://ja.wikipedia.org/wiki/%E7%93%A2%E4%BA%AD",
+    "https://www.hyotei.co.jp/",
+    "https://www.mapple.net/spot/26013040/"
   ],
   "meta": {
     "priority": 41,
@@ -75,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:06.122Z"
 }

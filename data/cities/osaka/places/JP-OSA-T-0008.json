@@ -1,0 +1,82 @@
+{
+  "id": "pl_3b79f80e8e",
+  "code": "JP-OSA-T-0008",
+  "city_id": "JP-OSA",
+  "slug": "namba-station",
+  "kind": "transit",
+  "name_ko": "난바역",
+  "name_sub": "Namba Station",
+  "name_local": "なんば駅",
+  "lat": 34.6636625,
+  "lng": 135.5017751,
+  "area": "난바",
+  "lead": "난바의 지하철 중심역. 도톤보리와 신사이바시가 걸어갈 거리에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "지하철역"
+    ],
+    [
+      "노선",
+      "미도스지·요쓰바시 등"
+    ],
+    [
+      "위치",
+      "난바"
+    ],
+    [
+      "연결",
+      "도톤보리 도보"
+    ]
+  ],
+  "origin": [
+    "난바역은 오사카 지하철의 주요 역으로 미도스지선과 요쓰바시선 등이 지나요.",
+    "도톤보리와 신사이바시, 난바 파크스가 걸어갈 거리에 있어 숙소를 이 근처에 잡으면 이동이 편해요.",
+    "역 안이 넓고 출구가 많아 처음에는 길을 잃기 쉬워요.",
+    "목적지에 맞는 출구를 미리 확인하면 시간을 아낄 수 있어요."
+  ],
+  "tip": "도톤보리 방향은 특정 출구로 나오면 바로 강변으로 이어져요. 안내 표지를 따라가세요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "역",
+    "환승",
+    "난바",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "なんば駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Namba_Station",
+    "https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2",
+    "https://www.openstreetmap.org/node/346685291"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "nominatim"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난바 숙소·이동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:14:17.912Z"
+}

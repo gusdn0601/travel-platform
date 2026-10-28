@@ -1,0 +1,81 @@
+{
+  "id": "pl_916da7bd66",
+  "code": "JP-FUK-P-0018",
+  "city_id": "JP-FUK",
+  "slug": "matsukiyo-tenjin",
+  "kind": "shop",
+  "name_ko": "마쓰모토키요시 텐진점",
+  "name_sub": "Matsumoto Kiyoshi",
+  "name_local": "マツモトキヨシ",
+  "lat": 33.58665,
+  "lng": 130.39877,
+  "area": "텐진",
+  "lead": "텐진의 드럭스토어. 화장품과 상비약을 사기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "드럭스토어"
+    ],
+    [
+      "특징",
+      "화장품·의약품"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "면세",
+      "여권 지참(조건 확인)"
+    ]
+  ],
+  "origin": [
+    "마쓰모토키요시는 일본의 대표 드럭스토어 체인이에요.",
+    "텐진 점포는 쇼핑 거리 안에 있어 여행 중 필요한 화장품과 상비약을 사기 좋아요.",
+    "면세 판매에는 여권과 구매 금액 조건이 있어요.",
+    "인기 상품은 품절되기 쉬워 다른 지점과 비교해 보세요."
+  ],
+  "tip": "약사 상담이 필요한 약은 직원에게 물어보세요.",
+  "open_hours": "Mo-Su,PH 09:00-23:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "구매 별도",
+  "must": 0,
+  "tags": [
+    "드럭스토어",
+    "화장품",
+    "약",
+    "면세"
+  ],
+  "art_key": "shop",
+  "local_search": "マツモトキヨシ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://www.openstreetmap.org/node/12269060697"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 드럭스토어로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:10.981Z"
+}

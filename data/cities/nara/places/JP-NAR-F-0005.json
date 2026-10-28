@@ -37,7 +37,11 @@
   ],
   "tip": "마지막 날 들러 사케를 사 가면 짐이 늘지 않아요.",
   "order": [
-    "<b>春鹿 純米吟醸</b> 준마이긴조 시음"
+    "<b>春鹿 純米吟醸</b> 준마이긴조 시음",
+    "<b>きき酒セット</b> 5종 시음 세트",
+    "<b>純米吟醸</b> 준마이긴조",
+    "<b>純米大吟醸</b> 준마이 다이긴조",
+    "<b>にごり酒</b> 니고리자케(탁주)"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -55,7 +59,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://www.openstreetmap.org/way/236802422"
+    "https://www.openstreetmap.org/way/236802422",
+    "https://www.harushika.com/",
+    "https://www.harushika.com/fs/harushika/c/type03"
   ],
   "meta": {
     "priority": 16,
@@ -75,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:32:53.354Z"
 }

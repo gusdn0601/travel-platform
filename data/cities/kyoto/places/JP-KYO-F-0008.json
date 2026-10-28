@@ -35,7 +35,11 @@
   ],
   "tip": "가볍게 쉬어 가는 용도로 좋아요.",
   "order": [
-    "<b>くずきり</b> 쿠즈키리"
+    "<b>くずきり</b> 쿠즈키리",
+    "<b>くずきり</b> 쿠즈키리(칡 국수)",
+    "<b>わらび餅</b> 와라비모치",
+    "<b>菊寿糖</b> 국화 모양 사탕",
+    "<b>抹茶</b> 말차"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -69,7 +73,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:14.481Z"
 }

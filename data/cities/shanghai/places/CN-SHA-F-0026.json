@@ -40,7 +40,11 @@
   "order": [
     "<b>黄鱼面</b> 황어 국수",
     "<b>虾仁面</b> 새우 국수",
-    "<b>葱油拌面</b> 파기름 비빔면"
+    "<b>葱油拌面</b> 파기름 비빔면",
+    "<b>黄鱼面</b> 황어 면",
+    "<b>辣肉面</b> 매운 고기 면",
+    "<b>大肠面</b> 돼지 대장 면",
+    "<b>素鸡面</b> 두부 면"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -77,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.368Z"
 }

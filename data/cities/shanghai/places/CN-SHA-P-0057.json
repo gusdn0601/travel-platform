@@ -1,0 +1,84 @@
+{
+  "id": "pl_a2b1a86c6c",
+  "code": "CN-SHA-P-0057",
+  "city_id": "CN-SHA",
+  "slug": "chenguang-stationery",
+  "kind": "shop",
+  "name_ko": "천광문구",
+  "name_sub": "M&G Stationery",
+  "name_local": "晨光文具",
+  "lat": null,
+  "lng": null,
+  "area": "도심 상가",
+  "lead": "중국 대표 문구 브랜드 매장. 한국보다 저렴한 필기구와 학용품을 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "문구 브랜드 매장"
+    ],
+    [
+      "창업",
+      "1989년"
+    ],
+    [
+      "상품",
+      "필기구 · 노트 · 학용품"
+    ],
+    [
+      "특징",
+      "저렴한 가격"
+    ]
+  ],
+  "origin": [
+    "천광문구는 1989년 중국에서 시작한 문구 브랜드예요.",
+    "필기구와 노트, 학용품을 저렴하게 팔아 학생과 직장인이 많이 찾아요.",
+    "상하이 곳곳에 매장이 있어 여행 중 기념품이나 필기구를 사기 좋아요.",
+    "브랜드 캐릭터 상품과 계절 한정 디자인도 나와요."
+  ],
+  "practical": [
+    "매장 규모가 작은 곳도 있어요",
+    "카드 결제와 앱 결제가 모두 가능해요"
+  ],
+  "tip": "가격이 저렴해 선물용 필기구를 넉넉히 사기 좋아요.",
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "문구",
+    "학용품",
+    "쇼핑"
+  ],
+  "art_key": "shop",
+  "local_search": "晨光文具",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E6%99%A8%E5%85%89%E8%82%A1%E4%BB%BD",
+    "https://map.baidu.com/search/%E6%99%A8%E5%85%89%E6%96%87%E5%85%B7%20%E4%B8%8A%E6%B5%B7"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 중국 문구 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E6%99%A8%E5%85%89%E8%82%A1%E4%BB%BD",
+        "https://map.baidu.com/search/%E6%99%A8%E5%85%89%E6%96%87%E5%85%B7%20%E4%B8%8A%E6%B5%B7"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.981Z"
+}

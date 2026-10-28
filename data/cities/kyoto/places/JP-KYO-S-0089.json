@@ -1,0 +1,82 @@
+{
+  "id": "pl_ccc74f963b",
+  "code": "JP-KYO-S-0089",
+  "city_id": "JP-KYO",
+  "slug": "otoyo-jinja",
+  "kind": "sight",
+  "name_ko": "오토요 신사",
+  "name_sub": "Otoyo-jinja",
+  "name_local": "大豊神社",
+  "lat": 35.01831,
+  "lng": 135.79633,
+  "area": "히가시야마",
+  "lead": "철학의 길 근처의 작은 신사. 쥐와 원숭이 조각으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "동물 조각"
+    ],
+    [
+      "위치",
+      "히가시야마"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "오토요 신사는 철학의 길과 가까운 골목에 자리한 작은 신사예요.",
+    "사자 대신 쥐 조각을 모신 곳으로 알려져 있어요.",
+    "경내가 작고 조용해 산책 중 잠깐 들르기 좋아요.",
+    "난젠지와 철학의 길 사이 코스에 넣기 좋아요."
+  ],
+  "tip": "골목 안쪽에 있어 지도로 위치를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "무료(경내)",
+  "must": 0,
+  "tags": [
+    "신사",
+    "조용",
+    "동물",
+    "산책"
+  ],
+  "art_key": "shrine",
+  "local_search": "大豊神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B1%8A%E7%A5%9E%E7%A4%BE",
+    "https://www.openstreetmap.org/way/684545282",
+    "https://www.wikidata.org/wiki/Q123114982"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 14,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 작은 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:17:59.144Z"
+}

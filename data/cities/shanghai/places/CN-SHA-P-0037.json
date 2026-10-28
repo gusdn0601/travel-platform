@@ -1,0 +1,84 @@
+{
+  "id": "pl_92f1308a1f",
+  "code": "CN-SHA-P-0037",
+  "city_id": "CN-SHA",
+  "slug": "watsons",
+  "kind": "shop",
+  "name_ko": "왓슨스",
+  "name_sub": "Watsons",
+  "name_local": "屈臣氏",
+  "lat": null,
+  "lng": null,
+  "area": "도심 전역",
+  "lead": "상하이 곳곳의 드럭스토어. 화장품과 마스크팩, 상비약을 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "드럭스토어 체인"
+    ],
+    [
+      "진출",
+      "중국에 1989년"
+    ],
+    [
+      "상품",
+      "화장품 · 생활용품 · 건강식품"
+    ],
+    [
+      "결제",
+      "위챗페이 · 알리페이"
+    ]
+  ],
+  "origin": [
+    "왓슨스는 홍콩 계열의 드럭스토어 체인으로, 중국 본토에는 1989년 진출했어요.",
+    "상하이의 쇼핑 거리와 지하철역 주변에 매장이 많아 여행 중 필요한 것을 사기 편해요.",
+    "마스크팩과 자외선 차단제, 세면도구, 간단한 상비약을 갖추고 있어요.",
+    "한국 브랜드 화장품도 일부 들어와 있어 비교해 보는 재미가 있어요."
+  ],
+  "practical": [
+    "면세 환급은 매장별로 확인하세요",
+    "할인 행사가 자주 있어요"
+  ],
+  "tip": "한국보다 저렴한 중국 브랜드 마스크팩을 찾아보세요. 상비약은 성분을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "드럭스토어",
+    "화장품",
+    "생활용품"
+  ],
+  "art_key": "shop",
+  "local_search": "屈臣氏",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Watsons",
+    "https://zh.wikipedia.org/wiki/%E5%B1%88%E8%87%A3%E6%B0%8F%E9%9B%86%E5%9C%98"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 드럭스토어로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Watsons",
+        "https://zh.wikipedia.org/wiki/%E5%B1%88%E8%87%A3%E6%B0%8F%E9%9B%86%E5%9C%98"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.946Z"
+}

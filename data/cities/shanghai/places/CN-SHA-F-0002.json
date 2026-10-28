@@ -89,7 +89,11 @@
   "order": [
     "<b>鲜肉小笼</b> 기본 돼지고기",
     "<b>蟹粉小笼</b> 게살, 가을이 제철",
-    "<b>蟹黄汤包</b> 빨대로 국물 마시는 큰 만두"
+    "<b>蟹黄汤包</b> 빨대로 국물 마시는 큰 만두",
+    "<b>小笼包</b> 샤오룽바오",
+    "<b>蟹粉小笼</b> 게살 샤오룽바오",
+    "<b>虾仁小笼</b> 새우 샤오룽바오",
+    "<b>灌汤包</b> 국물 만두"
   ],
   "kid": {
     "missions": [
@@ -115,7 +119,7 @@
   ],
   "open_hours": null,
   "stay_min": null,
-  "price_hint": null,
+  "price_hint": "1인 80~150위안 추정",
   "must": 0,
   "tags": [],
   "art_key": "basket",
@@ -126,6 +130,13 @@
   "status": "published",
   "version": 1,
   "verified_at": null,
-  "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%8D%97%E7%BF%94%E9%A6%92%E5%A4%B4%E5%BA%97",
+    "https://www.yugarden.com.cn/"
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
+  }
 }

@@ -37,7 +37,11 @@
   ],
   "tip": "숙소 냉장고에 넣어 두고 저녁에 먹기 좋아요.",
   "order": [
-    "<b>大仏プリン</b> 푸딩"
+    "<b>大仏プリン</b> 푸딩",
+    "<b>大仏プリン</b> 대불 푸딩",
+    "<b>カスタードプリン</b> 커스터드 푸딩",
+    "<b>抹茶プリン</b> 말차 푸딩",
+    "<b>いちごプリン</b> 딸기 푸딩"
   ],
   "open_hours": null,
   "stay_min": 15,
@@ -75,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:10.270Z"
 }

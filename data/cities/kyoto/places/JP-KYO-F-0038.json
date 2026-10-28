@@ -37,7 +37,10 @@
   ],
   "tip": "오전에 가면 자리를 잡기 쉬워요.",
   "order": [
-    "<b>カフェラテ</b> 카페라테"
+    "<b>カフェラテ</b> 카페라테",
+    "<b>ハンドドリップ</b> 핸드드립 커피",
+    "<b>ニューオーリンズ</b> 뉴올리언스(설탕 커피)",
+    "<b>ワッフル</b> 와플"
   ],
   "open_hours": "Th-Tu 10:00-19:00 (OSM)",
   "stay_min": 30,
@@ -75,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:24.865Z"
 }

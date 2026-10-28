@@ -1,0 +1,81 @@
+{
+  "id": "pl_b1a23c1829",
+  "code": "JP-KYO-P-0016",
+  "city_id": "JP-KYO",
+  "slug": "bic-camera-kyoto-station",
+  "kind": "shop",
+  "name_ko": "빅카메라 교토역점",
+  "name_sub": "Bic Camera Kyoto",
+  "name_local": "ビックカメラ",
+  "lat": 34.9852246,
+  "lng": 135.7582872,
+  "area": "교토역",
+  "lead": "교토역 앞의 가전 양판점. 면세와 통신 상품 상담이 가능해요.",
+  "facts": [
+    [
+      "종류",
+      "가전 양판점"
+    ],
+    [
+      "특징",
+      "면세·통신"
+    ],
+    [
+      "위치",
+      "교토역 앞"
+    ],
+    [
+      "상담",
+      "SIM·기기"
+    ]
+  ],
+  "origin": [
+    "빅카메라는 일본의 대형 가전 양판점으로, 교토역 주변에도 점포가 있어요.",
+    "카메라와 생활가전, 화장품, 장난감까지 폭넓게 다뤄요.",
+    "여행자에게는 면세 카운터와 SIM·통신 상품 상담이 유용해요.",
+    "교토역에서 가까워 이동 전후에 들르기 좋아요."
+  ],
+  "tip": "면세는 여권이 필요해요. SIM은 개통 조건을 직원에게 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "구매 별도",
+  "must": 0,
+  "tags": [
+    "가전",
+    "면세",
+    "SIM",
+    "쇼핑"
+  ],
+  "art_key": "shop",
+  "local_search": "ビックカメラ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bic_Camera",
+    "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E9%A7%85"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "nominatim"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 가전 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:14:17.914Z"
+}

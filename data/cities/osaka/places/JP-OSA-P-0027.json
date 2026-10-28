@@ -1,0 +1,80 @@
+{
+  "id": "pl_d0d7117d61",
+  "code": "JP-OSA-P-0027",
+  "city_id": "JP-OSA",
+  "slug": "namba-marui",
+  "kind": "shop",
+  "name_ko": "난바 마루이",
+  "name_sub": "Namba Marui",
+  "name_local": "なんばマルイ",
+  "lat": 34.66557,
+  "lng": 135.50106,
+  "area": "난바",
+  "lead": "난바역 앞의 쇼핑몰. 캐릭터숍과 잡화점이 모여 짧게 들르기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "캐릭터·잡화"
+    ],
+    [
+      "위치",
+      "난바역 앞"
+    ],
+    [
+      "규모",
+      "중형"
+    ]
+  ],
+  "origin": [
+    "난바 마루이는 난바역 앞에 자리한 중형 쇼핑몰이에요.",
+    "층별로 의류와 잡화, 캐릭터 상품 매장이 들어서 있어 짧게 둘러보기 좋아요.",
+    "도톤보리와 가까워 쇼핑 사이에 들르기 편해요.",
+    "매장 구성이 바뀌는 경우가 있어 방문 전에 층 안내를 보는 편이 좋아요."
+  ],
+  "tip": "난바역 지하와 이어져 비 오는 날 이동 동선으로 쓰기 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "캐릭터",
+    "잡화"
+  ],
+  "art_key": "mall",
+  "local_search": "なんばマルイ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%B0",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%A4",
+    "https://www.openstreetmap.org/node/13026741817"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난바 캐릭터 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:34.761Z"
+}

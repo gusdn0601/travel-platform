@@ -1,0 +1,89 @@
+{
+  "id": "pl_452c62d915",
+  "code": "JP-FUK-F-0029",
+  "city_id": "JP-FUK",
+  "slug": "hyoutan-sushi",
+  "kind": "food",
+  "name_ko": "효탄 스시",
+  "name_sub": "Hyoutan Sushi",
+  "name_local": "ひょうたん寿司",
+  "lat": 33.58963,
+  "lng": 130.39874,
+  "area": "텐진",
+  "lead": "텐진의 스시집. 현지 손님이 많은 곳으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "스시집"
+    ],
+    [
+      "특징",
+      "현지 손님"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "가격",
+      "시세·주문별"
+    ]
+  ],
+  "origin": [
+    "효탄 스시는 텐진에 있는 스시집이에요.",
+    "현지 손님이 많이 찾는 곳으로 알려져 있어요.",
+    "메뉴와 가격은 그날 재료에 따라 달라질 수 있어요.",
+    "텐진 쇼핑 후 저녁 식사로 들르기 좋아요."
+  ],
+  "tip": "가격과 재료는 주문 전에 확인하세요. 붐비는 시간은 피하는 편이 좋아요.",
+  "open_hours": "Mo-Su 11:30-14:30, 17:00-20:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "1인 2,000~4,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "스시",
+    "텐진",
+    "현지",
+    "해산물"
+  ],
+  "art_key": "food",
+  "local_search": "ひょうたん寿司",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8",
+    "https://www.openstreetmap.org/node/5742276921"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 스시로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:18.429Z",
+  "order": [
+    "<b>にぎり寿司</b> 니기리 초밥",
+    "<b>刺身盛り合わせ</b> 사시미 모둠",
+    "<b>海鮮丼</b> 해산물 덮밥",
+    "<b>巻き寿司</b> 김초밥"
+  ]
+}

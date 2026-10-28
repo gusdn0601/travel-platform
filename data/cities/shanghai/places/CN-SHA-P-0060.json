@@ -1,0 +1,85 @@
+{
+  "id": "pl_5321074fef",
+  "code": "CN-SHA-P-0060",
+  "city_id": "CN-SHA",
+  "slug": "fuzhou-road-culture-street",
+  "kind": "shop",
+  "name_ko": "푸저우루 문화거리",
+  "name_sub": "Fuzhou Road Culture Street",
+  "name_local": "福州路文化街",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/푸저우루",
+  "lead": "서점과 문구점이 이어지는 문화 거리. 상하이에서 책과 문구를 찾기 좋은 골목이에요.",
+  "facts": [
+    [
+      "성격",
+      "서점·문구 거리"
+    ],
+    [
+      "위치",
+      "황푸구 푸저우루"
+    ],
+    [
+      "접근",
+      "지하철 2·10호선 난징둥루역"
+    ],
+    [
+      "특징",
+      "서점 · 문구 · 인쇄"
+    ]
+  ],
+  "origin": [
+    "푸저우루는 20세기 초부터 서점과 인쇄소, 문구점이 모여든 거리예요.",
+    "지금도 외국어서점과 고서점, 문구점이 남아 있어 상하이의 문화 거리로 불려요.",
+    "난징둥루와 가까워 쇼핑 일정 중 잠깐 들르기 좋아요.",
+    "거리 자체는 화려하지 않지만 오래된 출판·인쇄 거리의 분위기가 남아 있어요."
+  ],
+  "practical": [
+    "일부 서점은 일찍 닫아요",
+    "문구점에서 기념품을 살 수 있어요"
+  ],
+  "tip": "서점 영업시간이 짧아 낮에 가는 편이 좋아요. 난징둥루와 함께 걸어 보세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "서점",
+    "문구",
+    "거리",
+    "문화"
+  ],
+  "art_key": "street",
+  "local_search": "福州路文化街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%B7%AF_(%E4%B8%8A%E6%B5%B7)",
+    "https://www.openstreetmap.org/search?query=%E7%A6%8F%E5%B7%9E%E8%B7%AF%20%E4%B8%8A%E6%B5%B7"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 문화 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E8%B7%AF_(%E4%B8%8A%E6%B5%B7)",
+        "https://www.openstreetmap.org/search?query=%E7%A6%8F%E5%B7%9E%E8%B7%AF%20%E4%B8%8A%E6%B5%B7"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.985Z"
+}

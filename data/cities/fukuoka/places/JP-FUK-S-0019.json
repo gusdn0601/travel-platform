@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Fukuoka Prefecture, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 큰 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:38.998Z"
+  "sanitized_at": "2026-10-28T11:17:31.908Z",
+  "origin": [
+    "하코자키 궁은 하카타 만 가까이에 있는 오래된 큰 신사예요.",
+    "넓은 경내와 오래된 나무가 차분한 분위기를 만들어요.",
+    "매년 가을 대제가 열려 지역 사람들이 많이 찾아요.",
+    "하카타역에서 걸어갈 수 있어 산책 코스로 넣기 좋아요."
+  ]
 }

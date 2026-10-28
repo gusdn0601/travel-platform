@@ -1,0 +1,87 @@
+{
+  "id": "pl_d46af2d1f1",
+  "code": "CN-SHA-P-0029",
+  "city_id": "CN-SHA",
+  "slug": "shanghai-village-outlet",
+  "kind": "shop",
+  "name_ko": "상하이 빌리지(비체스터) 아울렛",
+  "name_sub": "Shanghai Village (Bicester)",
+  "name_local": "比斯特上海购物村",
+  "lat": 31.14139,
+  "lng": 121.67587,
+  "area": "푸둥/디즈니",
+  "lead": "디즈니랜드 인근의 야외형 아울렛. 브랜드 할인 매장이 거리처럼 늘어서 있어요.",
+  "facts": [
+    [
+      "성격",
+      "야외형 아울렛"
+    ],
+    [
+      "위치",
+      "푸둥 디즈니랜드 인근"
+    ],
+    [
+      "접근",
+      "지하철 11호선 디즈니역에서 택시"
+    ],
+    [
+      "특징",
+      "브랜드 할인 · 야외 거리"
+    ]
+  ],
+  "origin": [
+    "상하이 빌리지 아울렛은 디즈니랜드 근처에 조성된 야외형 할인 매장 단지예요.",
+    "유럽 마을을 본뜬 거리를 따라 브랜드 아울렛이 이어져요.",
+    "디즈니랜드 방문 전후에 들르거나, 쇼핑 목적으로 반나절을 쓰는 사람이 많아요.",
+    "도심에서 거리가 있어 이동 시간을 넉넉히 잡아야 해요."
+  ],
+  "practical": [
+    "할인율과 재고는 매장마다 달라요",
+    "도심에서 택시로 40분 안팎 걸려요"
+  ],
+  "tip": "디즈니랜드 일정과 같은 날 묶으면 이동이 효율적이에요. 평일이 한적해요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "아울렛",
+    "디즈니",
+    "가족"
+  ],
+  "art_key": "shop",
+  "local_search": "比斯特上海购物村",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E6%AF%94%E6%96%AF%E7%89%B9%E4%B8%8A%E6%B5%B7%E8%B4%AD%E7%89%A9%E6%9D%91",
+    "https://www.openstreetmap.org/way/411234448"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 근교 아울렛로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E6%AF%94%E6%96%AF%E7%89%B9%E4%B8%8A%E6%B5%B7%E8%B4%AD%E7%89%A9%E6%9D%91",
+        "https://www.openstreetmap.org/way/411234448"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.606Z"
+}

@@ -295,5 +295,41 @@
     "credit": "Saigen Jiro · CC0 · Wikimedia Commons",
     "license": "CC0",
     "source_url": "https://commons.wikimedia.org/wiki/File:Horyuji_Station,_ekisha.jpg"
+  },
+  {
+    "id": "JP-NAR-S-0049-P1",
+    "place_id": "pl_d01cde239c",
+    "file": "photos/JP-NAR-S-0049/1.jpg",
+    "caption": "사이다이지 (서대사)",
+    "credit": "663highland · CC BY 2.5 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Saidai-ji_Nara_Japan08bs3.jpg"
+  },
+  {
+    "id": "JP-NAR-S-0058-P1",
+    "place_id": "pl_1e6b6b365a",
+    "file": "photos/JP-NAR-S-0058/1.jpg",
+    "caption": "나라현립미술관",
+    "credit": "Degueulasse · CC BY 3.0 · Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nara_Prefectural_Museum_of_Art_201409.jpg"
+  },
+  {
+    "id": "JP-NAR-S-0068-P1",
+    "place_id": "pl_85020295e0",
+    "file": "photos/JP-NAR-S-0068/1.jpg",
+    "caption": "야마토 문카칸",
+    "credit": "663highland · CC BY 2.5 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yamato_Bunkakan04n4592.jpg"
+  },
+  {
+    "id": "JP-NAR-S-0071-P1",
+    "place_id": "pl_904aecc74e",
+    "file": "photos/JP-NAR-S-0071/1.jpg",
+    "caption": "즈토 (두탑)",
+    "credit": "ja:User:Uxptr · Public domain · Wikimedia Commons",
+    "license": "Public domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Zuto_2022.jpg"
   }
 ]

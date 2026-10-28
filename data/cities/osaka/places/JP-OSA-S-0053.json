@@ -1,0 +1,81 @@
+{
+  "id": "pl_522699af87",
+  "code": "JP-OSA-S-0053",
+  "city_id": "JP-OSA",
+  "slug": "kishiwada-danjiri-kaikan",
+  "kind": "sight",
+  "name_ko": "기시와다 단지리 회관",
+  "name_sub": "Kishiwada Danjiri Kaikan",
+  "name_local": "岸和田だんじり会館",
+  "lat": 34.45908,
+  "lng": 135.36827,
+  "area": "기시와다",
+  "lead": "기시와다 단지리 축제를 보여 주는 전시관. 거대한 목조 수레의 규모를 직접 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "축제 전시관"
+    ],
+    [
+      "특징",
+      "단지리 수레 전시"
+    ],
+    [
+      "위치",
+      "기시와다"
+    ],
+    [
+      "접근",
+      "난카이선 기시와다역"
+    ]
+  ],
+  "origin": [
+    "기시와다 단지리 회관은 기시와다의 가을 축제에서 쓰는 거대한 목조 수레 단지리를 전시하는 곳이에요.",
+    "수레를 직접 만지고 올라가 볼 수 있게 꾸며 두어 축제 시기가 아니어도 규모를 느낄 수 있어요.",
+    "영상으로 축제의 속도감과 열기를 보여 주는 자료도 있어요.",
+    "오사카 시내에서 전철로 한 시간 안팎 걸려 반나절 코스로 알맞아요."
+  ],
+  "tip": "축제 기간에는 시내가 크게 붐비니 교통과 숙소를 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 약 600엔(추정)",
+  "must": 0,
+  "tags": [
+    "축제",
+    "박물관",
+    "전통",
+    "근교"
+  ],
+  "art_key": "museum",
+  "local_search": "岸和田だんじり会館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD",
+    "https://www.openstreetmap.org/way/302560039",
+    "https://www.wikidata.org/wiki/Q6416609"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 근교 축제로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:24.751Z"
+}

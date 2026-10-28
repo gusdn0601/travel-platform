@@ -1,0 +1,81 @@
+{
+  "id": "pl_1b6227b893",
+  "code": "JP-OSA-S-0047",
+  "city_id": "JP-OSA",
+  "slug": "nishinomaru-garden",
+  "kind": "sight",
+  "name_ko": "오사카성 니시노마루 정원",
+  "name_sub": "Nishinomaru Garden",
+  "name_local": "西の丸庭園",
+  "lat": 34.6871,
+  "lng": 135.52311,
+  "area": "오사카성",
+  "lead": "오사카성 천수각을 정면으로 바라보는 정원. 벚꽃 철과 야간 개장 때 특히 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "성곽 정원"
+    ],
+    [
+      "특징",
+      "천수각 조망"
+    ],
+    [
+      "위치",
+      "오사카성 서쪽"
+    ],
+    [
+      "야간",
+      "시기별 연장 운영"
+    ]
+  ],
+  "origin": [
+    "니시노마루 정원은 오사카성 서쪽에 조성된 정원으로, 잔디 너머로 천수각이 보이는 시야가 특징이에요.",
+    "벚꽃 철에는 정원 가득 꽃이 피어 사진을 찍는 사람이 많이 찾아요.",
+    "시기별로 야간 개장이 열려 조명을 켠 성과 꽃을 함께 볼 수 있어요.",
+    "공원 전체가 무료인 것과 달리 정원은 입장료가 있어요."
+  ],
+  "tip": "야간 개장 여부와 시간은 해마다 달라 공식 안내를 확인하세요.",
+  "open_hours": "Jan 04-Dec 28 09:00-17:30 (OSM)",
+  "stay_min": 50,
+  "price_hint": "입장료 약 350엔(추정)",
+  "must": 0,
+  "tags": [
+    "정원",
+    "벚꽃",
+    "성",
+    "야경"
+  ],
+  "art_key": "garden",
+  "local_search": "西の丸庭園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/159278501",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%9F%8E",
+    "https://en.wikipedia.org/wiki/Osaka_Castle"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[] (西の丸庭園 described within the Osaka Castle articles); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카성 벚꽃 사진로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:33.446Z"
+}

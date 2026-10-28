@@ -40,7 +40,11 @@
   "order": [
     "<b>虾饺</b> 새우 하가우",
     "<b>小笼包</b> 샤오룽바오",
-    "<b>担担面</b> 탄탄면"
+    "<b>担担面</b> 탄탄면",
+    "<b>虾饺</b> 하가우",
+    "<b>烧卖</b> 슈마이",
+    "<b>叉烧酥</b> 차슈 페이스트리",
+    "<b>流沙包</b> 소금노른자 번"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -77,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.364Z"
 }

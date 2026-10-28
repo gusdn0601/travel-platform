@@ -37,7 +37,9 @@
   ],
   "tip": "오후 간 시간대에 가면 한산해요.",
   "order": [
-    "<b>ケーキセット</b> 케이크 세트"
+    "<b>ケーキセット</b> 케이크 세트",
+    "<b>フランソアブレンド</b> 프랑수아 블렌드",
+    "<b>サンドイッチ</b> 샌드위치"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -71,7 +73,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:22.616Z"
 }

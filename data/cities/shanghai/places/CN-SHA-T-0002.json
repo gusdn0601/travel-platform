@@ -1,0 +1,90 @@
+{
+  "id": "pl_1a06a0dbf3",
+  "code": "CN-SHA-T-0002",
+  "city_id": "CN-SHA",
+  "slug": "hongqiao-airport",
+  "kind": "transit",
+  "name_ko": "훙차오국제공항",
+  "name_sub": "Shanghai Hongqiao International Airport",
+  "name_local": "上海虹桥国际机场",
+  "lat": 31.19806,
+  "lng": 121.33639,
+  "area": "창닝/훙차오",
+  "lead": "시내와 가까운 공항. 국내선과 일부 국제선이 이곳에서 출발해요.",
+  "facts": [
+    [
+      "종류",
+      "국제공항"
+    ],
+    [
+      "위치",
+      "시내 서쪽"
+    ],
+    [
+      "시내 접근",
+      "지하철 2·10호선"
+    ],
+    [
+      "연결",
+      "훙차오역(고속철)과 인접"
+    ]
+  ],
+  "origin": [
+    "훙차오국제공항은 상하이 서쪽에 있어 시내 접근이 비교적 편한 공항이에요.",
+    "국내선 비중이 높고 일부 국제선도 운항해요.",
+    "바로 옆에 훙차오 고속철역과 지하철역이 있어 다른 도시로 갈아타기 좋아요.",
+    "공항과 기차역이 가까워 환승 동선이 짧은 점이 장점이에요."
+  ],
+  "practical": [
+    "지하철 2·10호선으로 시내와 연결돼요",
+    "고속철 환승은 표와 시간을 미리 확인하세요"
+  ],
+  "tip": "국내선이나 근교 도시로 갈아탈 때 유용해요. 터미널과 기차역 사이 이동 시간을 고려하세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "교통편별 상이",
+  "must": 0,
+  "tags": [
+    "공항",
+    "국내선",
+    "교통",
+    "환승"
+  ],
+  "art_key": "plane",
+  "local_search": "上海虹桥国际机场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Hongqiao_International_Airport",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+    "https://www.openstreetmap.org/way/428121878"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 186,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 시내 접근 공항로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanghai_Hongqiao_International_Airport",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+        "https://www.openstreetmap.org/way/428121878"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:07.948Z"
+}

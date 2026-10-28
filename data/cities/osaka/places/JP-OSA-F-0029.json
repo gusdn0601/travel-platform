@@ -1,0 +1,91 @@
+{
+  "id": "pl_ab5be066e4",
+  "code": "JP-OSA-F-0029",
+  "city_id": "JP-OSA",
+  "slug": "richoen-ikuno",
+  "kind": "food",
+  "name_ko": "이초엔 (이쿠노)",
+  "name_sub": "Richoen",
+  "name_local": "李朝園",
+  "lat": 35.0099,
+  "lng": 135.74106,
+  "area": "이쿠노",
+  "lead": "이쿠노의 한국 요리점. 냉면과 구이 고기 같은 익숙한 메뉴를 찾을 때 들르기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "한국 요리점"
+    ],
+    [
+      "대표 메뉴",
+      "냉면·구이"
+    ],
+    [
+      "위치",
+      "이쿠노구"
+    ],
+    [
+      "분위기",
+      "동네 식당"
+    ]
+  ],
+  "origin": [
+    "이초엔은 오사카 이쿠노 지역에 있는 한국 요리점이에요.",
+    "냉면과 구이 고기, 국물 요리처럼 한국 여행자에게 익숙한 메뉴를 다뤄요.",
+    "관광지 식당보다 동네 손님 비중이 높아 조용히 식사하기 좋아요.",
+    "이쿠노는 재일 한국인 상점가가 모인 지역이라 식사와 거리 산책을 함께 하기 좋아요."
+  ],
+  "tip": "메뉴와 영업시간은 현장에서 확인하세요. 점심 시간대가 비교적 한산해요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,500~3,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "한국요리",
+    "냉면",
+    "이쿠노",
+    "한식"
+  ],
+  "art_key": "food",
+  "local_search": "李朝園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3",
+    "https://ja.wikipedia.org/wiki/%E7%84%BC%E8%82%89",
+    "https://en.wikipedia.org/wiki/Koreans_in_Japan",
+    "https://www.openstreetmap.org/node/4520313498"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 이쿠노 한식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:40.141Z",
+  "order": [
+    "<b>冷麺</b> 냉면",
+    "<b>カルビ</b> 갈비구이",
+    "<b>チヂミ</b> 전",
+    "<b>ビビンバ</b> 비빔밥",
+    "<b>キムチ</b> 김치"
+  ]
+}

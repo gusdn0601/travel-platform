@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Zen Buddhist temple in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 선종 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:30.929Z"
+  "sanitized_at": "2026-10-28T11:16:38.943Z",
+  "origin": [
+    "다이토쿠지는 여러 탑두 사찰이 모인 대형 선종 사찰이에요.",
+    "중심 가람보다 탑두의 정원이 볼거리로 꼽히고, 일부는 별도 입장료를 내고 공개해요.",
+    "경내가 넓어 조용히 걷기 좋아요.",
+    "금각사에서 가까워 함께 묶는 일정이 많아요."
+  ]
 }

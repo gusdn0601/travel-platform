@@ -1,0 +1,82 @@
+{
+  "id": "pl_a621a828eb",
+  "code": "JP-NAR-S-0062",
+  "city_id": "JP-NAR",
+  "slug": "dorogawa-onsen",
+  "kind": "sight",
+  "name_ko": "도로가와 온천",
+  "name_sub": "Dorogawa Onsen",
+  "name_local": "洞川温泉",
+  "lat": 34.26869,
+  "lng": 135.87986,
+  "area": "요시노/텐카와",
+  "lead": "오미네산 입구의 산간 온천 마을. 차를 타고 가는 숙박형 온천지예요.",
+  "facts": [
+    [
+      "종류",
+      "온천 마을"
+    ],
+    [
+      "특징",
+      "산간·계곡"
+    ],
+    [
+      "위치",
+      "텐카와촌"
+    ],
+    [
+      "숙박",
+      "여관 중심"
+    ]
+  ],
+  "origin": [
+    "도로가와 온천은 오미네산 등산 입구에 자리한 산간 온천 마을이에요.",
+    "계곡을 따라 여관과 작은 가게가 이어져 옛 온천 마을 분위기가 남아 있어요.",
+    "나라 시내에서 차로 한 시간 이상 걸려 숙박과 함께 계획하는 편이 좋아요.",
+    "여름에는 피서지로도 알려져 있어요."
+  ],
+  "tip": "대중교통이 적어 렌터카나 숙소 픽업을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "입욕료·숙박 별도(추정)",
+  "must": 0,
+  "tags": [
+    "온천",
+    "산간",
+    "숙박",
+    "교외"
+  ],
+  "art_key": "onsen",
+  "local_search": "洞川温泉",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B4%9E%E5%B7%9D%E6%B8%A9%E6%B3%89",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%AF%E5%B1%B1",
+    "https://www.openstreetmap.org/node/6702964112"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 377,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 산간 온천로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:52.780Z"
+}

@@ -43,7 +43,12 @@
   "order": [
     "<b>もつ鍋 味噌</b> 된장 전골",
     "<b>もつ鍋 醤油</b> 간장 전골",
-    "<b>ちゃんぽん麺</b> 마무리 면"
+    "<b>ちゃんぽん麺</b> 마무리 면",
+    "<b>もつ鍋(味噌)</b> 미소 모츠나베",
+    "<b>もつ鍋(醤油)</b> 간장 모츠나베",
+    "<b>酢もつ</b> 초모츠",
+    "<b>明太子</b> 명란",
+    "<b>ちゃんぽん麺</b> 마무리 짬뽕면"
   ],
   "open_hours": null,
   "stay_min": 80,
@@ -80,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:50.799Z"
 }

@@ -1,0 +1,84 @@
+{
+  "id": "pl_51b3ed992f",
+  "code": "CN-SHA-P-0038",
+  "city_id": "CN-SHA",
+  "slug": "sephora",
+  "kind": "shop",
+  "name_ko": "세포라",
+  "name_sub": "Sephora",
+  "name_local": "丝芙兰",
+  "lat": null,
+  "lng": null,
+  "area": "도심 몰 내",
+  "lead": "쇼핑몰 안의 뷰티 편집숍. 글로벌 브랜드와 중국 한정 제품을 함께 볼 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "뷰티 편집숍"
+    ],
+    [
+      "진출",
+      "중국에 2005년"
+    ],
+    [
+      "위치",
+      "주요 쇼핑몰 내"
+    ],
+    [
+      "상품",
+      "메이크업 · 스킨케어 · 향수"
+    ]
+  ],
+  "origin": [
+    "세포라는 2005년 중국 시장에 들어온 뷰티 편집숍이에요.",
+    "상하이의 주요 쇼핑몰에 매장을 두고 글로벌 브랜드와 중국 한정 제품을 함께 판매해요.",
+    "직원이 제품을 추천해 주고 테스트 공간이 있어 직접 써 보기 좋아요.",
+    "한국에서 보던 브랜드와 가격을 비교해 보는 재미가 있어요."
+  ],
+  "practical": [
+    "몰별 입점 위치가 달라요",
+    "세일 시즌에는 대기가 길어요"
+  ],
+  "tip": "면세 환급 가능 여부와 가격을 한국 면세점과 비교해 보세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "화장품",
+    "뷰티",
+    "몰"
+  ],
+  "art_key": "shop",
+  "local_search": "丝芙兰",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sephora",
+    "https://zh.wikipedia.org/wiki/%E4%B8%9D%E8%8A%99%E5%85%B0"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 뷰티 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sephora",
+        "https://zh.wikipedia.org/wiki/%E4%B8%9D%E8%8A%99%E5%85%B0"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.948Z"
+}

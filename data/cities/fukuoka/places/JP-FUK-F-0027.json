@@ -1,0 +1,91 @@
+{
+  "id": "pl_9f78c7c151",
+  "code": "JP-FUK-F-0027",
+  "city_id": "JP-FUK",
+  "slug": "shisan-udon",
+  "kind": "food",
+  "name_ko": "시산 우동",
+  "name_sub": "Shisan Udon",
+  "name_local": "資さんうどん",
+  "lat": 33.83739,
+  "lng": 130.90983,
+  "area": "후쿠오카",
+  "lead": "규슈에서 사랑받는 우동 체인. 부드러운 면과 국물이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "우동집"
+    ],
+    [
+      "특징",
+      "부드러운 면"
+    ],
+    [
+      "위치",
+      "후쿠오카·기타큐슈"
+    ],
+    [
+      "분위기",
+      "가족·현지"
+    ]
+  ],
+  "origin": [
+    "시산 우동은 규슈 지역에서 널리 알려진 우동 체인이에요.",
+    "부드러운 면과 진한 국물, 곁들임 메뉴가 특징이에요.",
+    "현지 가족 손님이 많아 편하게 식사하기 좋아요.",
+    "점포마다 영업시간이 달라 늦은 시간에는 확인이 필요해요."
+  ],
+  "tip": "인기 메뉴는 매장에 따라 다르니 메뉴판을 먼저 보세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 500~1,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "우동",
+    "현지",
+    "가족",
+    "24시간"
+  ],
+  "art_key": "food",
+  "local_search": "資さんうどん",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E8%B3%87%E3%81%95%E3%82%93%E3%81%86%E3%81%A9%E3%82%93",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+    "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E",
+    "https://www.openstreetmap.org/way/1347535223"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 17974,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 규슈 우동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:15.876Z",
+  "order": [
+    "<b>ごぼう天うどん</b> 우엉 튀김 우동",
+    "<b>肉ごぼう天うどん</b> 고기 우엉 우동",
+    "<b>かしわうどん</b> 닭고기 우동",
+    "<b>おにぎり</b> 주먹밥"
+  ]
+}

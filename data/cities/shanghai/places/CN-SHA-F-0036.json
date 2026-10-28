@@ -40,7 +40,10 @@
   "order": [
     "<b>豆浆</b> 두유",
     "<b>油条</b> 꽈배기",
-    "<b>粢饭团</b> 찹쌀 주먹밥"
+    "<b>粢饭团</b> 찹쌀 주먹밥",
+    "<b>油条</b> 유탸오(기름 튀김 반죽)",
+    "<b>咸豆花</b> 짠 두부푸딩",
+    "<b>生煎</b> 생젠"
   ],
   "open_hours": null,
   "stay_min": 30,
@@ -77,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.382Z"
 }

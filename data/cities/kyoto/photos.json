@@ -340,5 +340,68 @@
     "credit": "User:Sushiya · CC BY 3.0 · Wikimedia Commons",
     "license": "CC BY 3.0",
     "source_url": "https://commons.wikimedia.org/wiki/File:Keihan_Shijo_Minamiza.jpg"
+  },
+  {
+    "id": "JP-KYO-S-0070-P1",
+    "place_id": "pl_c25c3409c5",
+    "file": "photos/JP-KYO-S-0070/1.jpg",
+    "caption": "치온인",
+    "credit": "Lombroso · Public domain · Wikimedia Commons",
+    "license": "Public domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chion-in_(Mieido).jpg"
+  },
+  {
+    "id": "JP-KYO-S-0077-P1",
+    "place_id": "pl_d1b9ef4679",
+    "file": "photos/JP-KYO-S-0077/1.jpg",
+    "caption": "묘신지",
+    "credit": "Fg2 · Public domain · Wikimedia Commons",
+    "license": "Public domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Myoshinji-M9707.jpg"
+  },
+  {
+    "id": "JP-KYO-S-0080-P1",
+    "place_id": "pl_360e8ecd72",
+    "file": "photos/JP-KYO-S-0080/1.jpg",
+    "caption": "우지가미 신사",
+    "credit": "663highland · CC BY 2.5 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ujigami_jinja08s3s4500.jpg"
+  },
+  {
+    "id": "JP-KYO-S-0082-P1",
+    "place_id": "pl_3b1503f151",
+    "file": "photos/JP-KYO-S-0082/1.jpg",
+    "caption": "후나오카 온천",
+    "credit": "iloverjoa · CC BY 3.0 · Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E8%88%B9%E5%B2%A1%E6%B8%A9%E6%B3%89_Funaoka_hot_springs_-_panoramio.jpg"
+  },
+  {
+    "id": "JP-KYO-S-0086-P1",
+    "place_id": "pl_a0efca7709",
+    "file": "photos/JP-KYO-S-0086/1.jpg",
+    "caption": "롯카쿠도 (조보지)",
+    "credit": "W2z · CC0 · Wikimedia Commons",
+    "license": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rokkakudo_2025.jpg"
+  },
+  {
+    "id": "JP-KYO-S-0096-P1",
+    "place_id": "pl_30a4164365",
+    "file": "photos/JP-KYO-S-0096/1.jpg",
+    "caption": "호넨인",
+    "credit": "Mariemon at Japanese Wikipedia · CC BY 3.0 · Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hounenin5848.jpg"
+  },
+  {
+    "id": "JP-KYO-S-0097-P1",
+    "place_id": "pl_7cf6567c24",
+    "file": "photos/JP-KYO-S-0097/1.jpg",
+    "caption": "시센도",
+    "credit": "Fg2 · Public domain · Wikimedia Commons",
+    "license": "Public domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shisendo-M9537.jpg"
   }
 ]

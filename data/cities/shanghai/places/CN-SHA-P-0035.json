@@ -1,0 +1,84 @@
+{
+  "id": "pl_812d2e6b0a",
+  "code": "CN-SHA-P-0035",
+  "city_id": "CN-SHA",
+  "slug": "lawsons",
+  "kind": "shop",
+  "name_ko": "뤄썬 편의점",
+  "name_sub": "Lawson",
+  "name_local": "罗森",
+  "lat": null,
+  "lng": null,
+  "area": "도심 전역",
+  "lead": "상하이 곳곳에 있는 일본계 편의점. 도시락과 간식, 물을 사기 편해요.",
+  "facts": [
+    [
+      "성격",
+      "편의점 체인"
+    ],
+    [
+      "진출",
+      "1996년 상하이"
+    ],
+    [
+      "영업",
+      "24시간 매장이 많음"
+    ],
+    [
+      "결제",
+      "위챗페이 · 알리페이"
+    ]
+  ],
+  "origin": [
+    "뤄썬은 1996년 상하이에 들어온 일본계 편의점으로, 중국에서 가장 먼저 자리 잡은 편의점 체인 중 하나예요.",
+    "도시락과 빵, 음료, 생활용품을 갖춰 여행 중 급할 때 유용해요.",
+    "매장마다 규모가 다르지만 24시간 영업하는 곳이 많아요.",
+    "한국 편의점과 비슷한 느낌이라 익숙하게 이용할 수 있어요."
+  ],
+  "practical": [
+    "매장별 영업시간이 달라요",
+    "현금 없이 앱 결제가 일반적이에요"
+  ],
+  "tip": "따뜻한 도시락과 차(茶) 음료를 찾기 좋아요. 교통카드 충전도 가능한 매장이 있어요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "편의점",
+    "간식",
+    "생활용품"
+  ],
+  "art_key": "shop",
+  "local_search": "罗森",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lawson_(store)",
+    "https://zh.wikipedia.org/wiki/%E7%BE%85%E6%A3%AE_(%E4%BE%BF%E5%88%A9%E5%BA%97)"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 편의점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lawson_(store)",
+        "https://zh.wikipedia.org/wiki/%E7%BE%85%E6%A3%AE_(%E4%BE%BF%E5%88%A9%E5%BA%97)"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.616Z"
+}

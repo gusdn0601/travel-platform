@@ -1,0 +1,85 @@
+{
+  "id": "pl_5dfc3055b6",
+  "code": "CN-SHA-P-0053",
+  "city_id": "CN-SHA",
+  "slug": "duoyun-books",
+  "kind": "shop",
+  "name_ko": "둬윈서점 상하이타워점",
+  "name_sub": "Duoyun Books",
+  "name_local": "朵云书院 上海中心",
+  "lat": null,
+  "lng": null,
+  "area": "푸둥/루자쭈이",
+  "lead": "상하이타워 고층에 있는 서점. 책과 함께 루자쭈이 전망을 볼 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "고층 서점"
+    ],
+    [
+      "개장",
+      "2019년"
+    ],
+    [
+      "위치",
+      "상하이타워 52층"
+    ],
+    [
+      "특징",
+      "전망 · 카페 · 책"
+    ]
+  ],
+  "origin": [
+    "둬윈서점은 상하이타워 52층에 들어선 서점이에요.",
+    "2019년 문을 열면서 높은 곳에서 책을 읽는 경험으로 화제가 됐어요.",
+    "창가에서는 루자쭈이의 고층 빌딩과 황푸강이 내려다보여요.",
+    "책과 문구, 카페가 함께 있어 전망을 보며 쉬기 좋아요."
+  ],
+  "practical": [
+    "전망 구역은 소비 조건이 있을 수 있어요",
+    "고층이라 엘리베이터 대기 시간을 고려하세요"
+  ],
+  "tip": "예약이나 입장 대기가 있을 수 있어요. 일몰 시간대 전망이 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "서점",
+    "전망",
+    "카페",
+    "루자쭈이"
+  ],
+  "art_key": "building",
+  "local_search": "朵云书院 上海中心",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E4%B8%96%E7%BA%AA%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2",
+    "https://www.shanghaitower.com/"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 전망 서점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E4%B8%96%E7%BA%AA%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2",
+        "https://www.shanghaitower.com/"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.976Z"
+}

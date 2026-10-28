@@ -37,7 +37,11 @@
   ],
   "tip": "국물에 밥을 말아 먹는 방식도 현지에서 익숙해요.",
   "order": [
-    "<b>スタミナラーメン</b> 스타미나 라멘"
+    "<b>スタミナラーメン</b> 스타미나 라멘",
+    "<b>スタミナラーメン</b> 스태미나 라멘",
+    "<b>スタミナ焼肉</b> 스태미나 야키니쿠",
+    "<b>餃子</b> 교자",
+    "<b>焼き飯</b> 볶음밥"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -75,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:06.218Z"
 }

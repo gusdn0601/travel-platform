@@ -1,0 +1,81 @@
+{
+  "id": "pl_8a67a50dc2",
+  "code": "JP-FUK-S-0052",
+  "city_id": "JP-FUK",
+  "slug": "harazuru-onsen",
+  "kind": "sight",
+  "name_ko": "하라즈루 온천",
+  "name_sub": "Harazuru Onsen",
+  "name_local": "原鶴温泉",
+  "lat": 33.35173,
+  "lng": 130.78126,
+  "area": "아사쿠라",
+  "lead": "후쿠오카 남동쪽 강변의 온천 마을. 숙박과 함께 즐기는 온천지예요.",
+  "facts": [
+    [
+      "종류",
+      "온천 마을"
+    ],
+    [
+      "특징",
+      "강변 여관"
+    ],
+    [
+      "위치",
+      "아사쿠라"
+    ],
+    [
+      "숙박",
+      "여관 중심"
+    ]
+  ],
+  "origin": [
+    "하라즈루 온천은 후쿠오카 남동쪽 아사쿠라 지역의 강변 온천 마을이에요.",
+    "강을 따라 여관이 이어져 있어 숙박과 함께 온천을 즐기는 곳으로 알려져 있어요.",
+    "후쿠오카 시내에서 차로 이동해야 하지만 그만큼 조용해요.",
+    "당일 입욕을 받는 여관도 있어요."
+  ],
+  "tip": "당일 입욕 가능 여부와 시간은 여관마다 달라 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "입욕료·숙박 별도(추정)",
+  "must": 0,
+  "tags": [
+    "온천",
+    "숙박",
+    "강변",
+    "교외"
+  ],
+  "art_key": "onsen",
+  "local_search": "原鶴温泉",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8E%9F%E9%B6%B4%E6%B8%A9%E6%B3%89",
+    "https://ja.wikipedia.org/wiki/%E6%9C%9D%E5%80%89%E5%B8%82",
+    "https://www.openstreetmap.org/node/5576408468"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 근교 온천로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:10:59.115Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pl_0e7d939033",
+  "code": "JP-FUK-P-0020",
+  "city_id": "JP-FUK",
+  "slug": "bic-camera-tenjin",
+  "kind": "shop",
+  "name_ko": "빅카메라 텐진점",
+  "name_sub": "Bic Camera Tenjin",
+  "name_local": "ビックカメラ",
+  "lat": 33.5875734,
+  "lng": 130.3986797,
+  "area": "텐진",
+  "lead": "텐진의 가전 양판점. 면세와 통신 상품 상담을 함께 할 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "가전 양판점"
+    ],
+    [
+      "특징",
+      "면세·통신"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "상담",
+      "SIM·기기"
+    ]
+  ],
+  "origin": [
+    "빅카메라는 일본의 대형 가전 양판점으로, 텐진에도 점포가 있어요.",
+    "카메라와 생활가전, 화장품, 장난감까지 폭넓게 다뤄요.",
+    "여행자에게는 면세 카운터와 SIM·통신 상담이 유용해요.",
+    "텐진 쇼핑 동선 중간에 있어 들르기 편해요."
+  ],
+  "tip": "SIM 개통 조건과 면세 수속을 직원에게 확인하세요.",
+  "open_hours": "Mo-Su 10:00-21:00 (OSM)",
+  "stay_min": 50,
+  "price_hint": "구매 별도",
+  "must": 0,
+  "tags": [
+    "가전",
+    "면세",
+    "SIM",
+    "쇼핑"
+  ],
+  "art_key": "shop",
+  "local_search": "ビックカメラ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bic_Camera",
+    "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://www.openstreetmap.org/node/502929378"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "nominatim"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 가전 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:14:17.915Z"
+}

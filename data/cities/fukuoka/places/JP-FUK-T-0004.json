@@ -1,0 +1,83 @@
+{
+  "id": "pl_bb40ab7c41",
+  "code": "JP-FUK-T-0004",
+  "city_id": "JP-FUK",
+  "slug": "nishitetsu-fukuoka-tenjin",
+  "kind": "transit",
+  "name_ko": "니시테쓰 후쿠오카(텐진)역",
+  "name_sub": "Nishitetsu Fukuoka (Tenjin) Station",
+  "name_local": "西鉄福岡（天神）駅",
+  "lat": 33.58878,
+  "lng": 130.39989,
+  "area": "텐진",
+  "lead": "텐진의 니시테쓰 중심역. 다자이후·야나가와 방면으로 갈 때 이용해요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "니시테쓰"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "연결",
+      "지하철·버스"
+    ]
+  ],
+  "origin": [
+    "니시테쓰 후쿠오카역은 텐진에 있는 니시테쓰의 중심역이에요.",
+    "다자이후와 야나가와 방면으로 갈 때 이 역에서 열차를 타요.",
+    "지하철과 버스가 가까워 시내 이동의 거점으로 쓰기 좋아요.",
+    "역 주변에 백화점과 상점가가 이어져 있어요."
+  ],
+  "tip": "다자이후 방면은 열차 종류에 따라 정차역이 달라요. 시간표를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "역",
+    "교통",
+    "텐진",
+    "환승"
+  ],
+  "art_key": "station",
+  "local_search": "西鉄福岡（天神）駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nishitetsu_Fukuoka_(Tenjin)_Station",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84%E7%A6%8F%E5%B2%A1%EF%BC%88%E5%A4%A9%E7%A5%9E%EF%BC%89%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://www.openstreetmap.org/node/5206461805"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 68,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 교통 거점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:25.723Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "pl_641533e828",
+  "code": "CN-SHA-P-0054",
+  "city_id": "CN-SHA",
+  "slug": "zhongshuge",
+  "kind": "shop",
+  "name_ko": "중수거",
+  "name_sub": "Zhongshuge",
+  "name_local": "钟书阁",
+  "lat": null,
+  "lng": null,
+  "area": "송장·도심",
+  "lead": "거울 천장으로 유명한 디자인 서점. 책장이 끝없이 이어지는 듯한 공간이에요.",
+  "facts": [
+    [
+      "성격",
+      "디자인 서점"
+    ],
+    [
+      "창업",
+      "2013년 무렵"
+    ],
+    [
+      "위치",
+      "송장 등 상하이 여러 곳"
+    ],
+    [
+      "특징",
+      "거울 천장 · 사진 명소"
+    ]
+  ],
+  "origin": [
+    "중수거는 2013년 무렵 상하이 송장에서 시작한 서점 브랜드예요.",
+    "천장과 벽을 거울로 처리해 책장이 무한히 이어지는 듯한 공간으로 유명해졌어요.",
+    "이후 상하이 여러 곳에 지점을 열었고, 사진을 찍으러 오는 방문객이 많아요.",
+    "책과 문구도 함께 팔아 구경과 쇼핑을 같이 할 수 있어요."
+  ],
+  "practical": [
+    "지점 위치와 영업시간을 확인하세요",
+    "촬영 예절을 지켜 주세요"
+  ],
+  "tip": "사진 목적이면 개장 직후가 한적해요. 지점별로 분위기가 달라요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "서점",
+    "건축",
+    "사진",
+    "문구"
+  ],
+  "art_key": "building",
+  "local_search": "钟书阁",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E9%8D%BE%E6%9B%B8%E9%96%A3",
+    "https://map.baidu.com/search/%E9%92%9F%E4%B9%A6%E9%98%81%20%E4%B8%8A%E6%B5%B7"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 디자인 서점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E9%8D%BE%E6%9B%B8%E9%96%A3",
+        "https://map.baidu.com/search/%E9%92%9F%E4%B9%A6%E9%98%81%20%E4%B8%8A%E6%B5%B7"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.977Z"
+}

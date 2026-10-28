@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "shopping mall",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 대표 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:46.381Z"
+  "sanitized_at": "2026-10-28T11:17:31.892Z",
+  "origin": [
+    "캐널시티 하카타는 하카타역 가까이에 있는 대형 복합 상업시설이에요.",
+    "운하를 낀 구조로 지어져 분수 쇼와 공연이 열리는 광장이 중심이에요.",
+    "상점과 식당, 극장이 한곳에 모여 있어 반나절을 쓰기 좋아요.",
+    "하카타역에서 걸어갈 수 있어 도착 첫날 일정으로 넣기 편해요."
+  ]
 }

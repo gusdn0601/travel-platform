@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Higashiyama-ku, Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 야간 개장로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:01.228Z"
+  "sanitized_at": "2026-10-28T11:16:38.940Z",
+  "origin": [
+    "고다이지는 히가시야마에 자리한 사찰이에요.",
+    "도요토미 히데요시의 부인이 세웠다고 전해지고, 정원과 대나무 숲길이 이어져요.",
+    "계절에 따라 야간 특별 개장을 해 조명을 켠 정원을 볼 수 있어요.",
+    "기요미즈데라와 가까워 저녁 코스로 묶기 좋아요."
+  ]
 }

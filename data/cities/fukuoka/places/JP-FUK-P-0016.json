@@ -1,0 +1,82 @@
+{
+  "id": "pl_3ef6f3120d",
+  "code": "JP-FUK-P-0016",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-parco",
+  "kind": "shop",
+  "name_ko": "후쿠오카 파르코",
+  "name_sub": "Fukuoka Parco",
+  "name_local": "福岡パルコ",
+  "lat": 33.59086,
+  "lng": 130.39858,
+  "area": "텐진",
+  "lead": "텐진의 패션 쇼핑몰. 젊은 층을 겨냥한 매장과 전시 공간이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "패션·전시"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "분위기",
+      "젊은 층"
+    ]
+  ],
+  "origin": [
+    "후쿠오카 파르코는 텐진에 자리한 쇼핑몰이에요.",
+    "젊은 층을 겨냥한 패션 매장과 잡화점이 모여 있어요.",
+    "작은 전시나 팝업이 열리기도 해 쇼핑 외에 볼거리도 있어요.",
+    "텐진의 다른 상점가와 이어져 함께 돌기 좋아요."
+  ],
+  "tip": "팝업·전시 일정은 공식 안내를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "패션",
+    "텐진",
+    "문화"
+  ],
+  "art_key": "mall",
+  "local_search": "福岡パルコ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E3%83%91%E3%83%AB%E3%82%B3",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://www.openstreetmap.org/way/810621745"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 8,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 패션 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:08.795Z"
+}

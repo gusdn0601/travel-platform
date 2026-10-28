@@ -67,7 +67,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Kyoto Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 근교 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:57.931Z"
+  "sanitized_at": "2026-10-28T11:16:38.940Z",
+  "origin": [
+    "뵤도인은 우지에 자리한 사찰이에요.",
+    "연못 위에 날개를 편 듯한 봉황당이 상징이고, 10엔 동전 뒷면 그림으로도 알려져 있어요.",
+    "11세기에 지어진 아미타당이 지금도 남아 있어요.",
+    "우지 지역의 녹차 가게와 함께 반나절 코스로 다녀오기 좋아요."
+  ]
 }

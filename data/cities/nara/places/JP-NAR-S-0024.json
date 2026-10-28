@@ -60,7 +60,21 @@
     "addr_basis": null,
     "entity": "museum in Asuka, Nara, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 역사 시설로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:34.587Z"
+  "sanitized_at": "2026-10-28T11:17:02.741Z",
+  "origin": [
+    "나라현립 만요문화관은 만요슈 시대의 문화를 소개하는 시설이에요.",
+    "시가와 당시 생활을 전시와 영상으로 풀어내요.",
+    "아스카 지역 유적과 이어서 둘러보기 좋아요.",
+    "실내라 비 오는 날 일정으로도 괜찮아요."
+  ]
 }

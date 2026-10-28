@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "red-light district in Fukuoka, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 번화가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:46.666Z"
+  "sanitized_at": "2026-10-28T11:17:31.908Z",
+  "origin": [
+    "나카스는 강변을 따라 네온과 포장마차가 늘어선 번화가예요.",
+    "저녁에 가장 활기차고, 하카타 명물인 야타이(포장마차)가 강변에 모여 있어요.",
+    "술과 간단한 안주를 파는 좁은 가게가 이어져요.",
+    "하카타와 텐진 사이에 있어 밤 일정으로 많이 찾아요."
+  ]
 }

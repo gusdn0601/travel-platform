@@ -42,7 +42,10 @@
   "tip": "여럿이 가면 우동스키 코스에 덴푸라를 곁들이는 구성이 무난해요.",
   "order": [
     "<b>うどんすき</b> 우동스키",
-    "<b>天ぷら</b> 덴푸라"
+    "<b>天ぷら</b> 덴푸라",
+    "<b>きつねうどん</b> 유부 우동",
+    "<b>天ぷらうどん</b> 덴푸라 우동",
+    "<b>弁当</b> 도시락"
   ],
   "open_hours": null,
   "stay_min": 70,
@@ -82,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:24.907Z"
 }

@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "stadium",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 야구장로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:58.119Z"
+  "sanitized_at": "2026-10-28T11:17:31.904Z",
+  "origin": [
+    "후쿠오카 PayPay 돔은 프로야구 구단의 홈구장인 개폐식 돔이에요.",
+    "경기 일정에 맞춰 관람할 수 있고, 경기 전후로 주변 해변을 걷기 좋아요.",
+    "이벤트 공연도 열려 일정을 확인하고 방문하는 편이 좋아요.",
+    "모모치 지역이라 후쿠오카 타워와 함께 둘러보기 좋아요."
+  ]
 }

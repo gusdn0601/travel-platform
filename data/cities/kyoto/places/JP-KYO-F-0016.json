@@ -35,7 +35,11 @@
   ],
   "tip": "평일 이른 점심이 좋아요.",
   "order": [
-    "<b>牛かつ御膳</b> 규카츠 정식"
+    "<b>牛かつ御膳</b> 규카츠 정식",
+    "<b>牛カツ</b> 규카츠(소고기 카츠)",
+    "<b>牛カツ膳</b> 규카츠 정식",
+    "<b>黒毛和牛カツ</b> 흑모와규 카츠",
+    "<b>京カレー</b> 교토 카레"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -68,7 +72,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:24.044Z"
 }

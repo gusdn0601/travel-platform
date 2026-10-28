@@ -1,0 +1,81 @@
+{
+  "id": "pl_582fe20038",
+  "code": "JP-NAR-S-0063",
+  "city_id": "JP-NAR",
+  "slug": "souni-kogen",
+  "kind": "sight",
+  "name_ko": "소니 고원",
+  "name_sub": "Soni Highland",
+  "name_local": "曽爾高原",
+  "lat": 34.52022,
+  "lng": 136.16206,
+  "area": "소니/우다",
+  "lead": "나라 동쪽 국경의 고원. 가을 억새밭으로 알려진 산책지예요.",
+  "facts": [
+    [
+      "종류",
+      "고원"
+    ],
+    [
+      "특징",
+      "억새·완만한 산책로"
+    ],
+    [
+      "위치",
+      "소니촌"
+    ],
+    [
+      "시기",
+      "가을"
+    ]
+  ],
+  "origin": [
+    "소니 고원은 나라 동쪽 산간에 있는 완만한 고원이에요.",
+    "가을에는 억새밭이 은빛으로 물들어 사진 찍는 사람이 많이 찾아요.",
+    "산책로가 완만해 아이와 걷기도 좋아요.",
+    "나라 시내에서 차로 이동해야 해요."
+  ],
+  "tip": "대중교통이 적어 렌터카를 권해요. 가을에는 바람이 차가워요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(교통·식사 별도)",
+  "must": 0,
+  "tags": [
+    "고원",
+    "억새",
+    "산책",
+    "교외"
+  ],
+  "art_key": "nature",
+  "local_search": "曽爾高原",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%9B%BD%E7%88%BE%E9%AB%98%E5%8E%9F",
+    "https://ja.wikipedia.org/wiki/%E6%9B%BD%E7%88%BE%E6%9D%91",
+    "https://www.openstreetmap.org/relation/15084848"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 억새 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:54.586Z"
+}

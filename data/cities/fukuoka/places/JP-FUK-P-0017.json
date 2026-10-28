@@ -1,0 +1,83 @@
+{
+  "id": "pl_3188b05df7",
+  "code": "JP-FUK-P-0017",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-mitsukoshi",
+  "kind": "shop",
+  "name_ko": "후쿠오카 미쓰코시",
+  "name_sub": "Fukuoka Mitsukoshi",
+  "name_local": "福岡三越",
+  "lat": 33.58839,
+  "lng": 130.40019,
+  "area": "텐진",
+  "lead": "텐진의 백화점. 지하 식품관과 면세 카운터가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "지하 식품관"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "면세",
+      "카운터 운영(조건 확인)"
+    ]
+  ],
+  "origin": [
+    "후쿠오카 미쓰코시는 텐진에 자리한 백화점이에요.",
+    "지하 식품관에는 도시락과 과자, 기념품이 모여 있어요.",
+    "외국인 여행객을 위한 면세 카운터가 있어 구매 후 환급을 받을 수 있어요.",
+    "텐진 지하상가와 이어져 쇼핑 동선을 잇기 좋아요."
+  ],
+  "tip": "면세는 여권과 구매 조건이 필요해요. 폐점 시간을 확인하세요.",
+  "open_hours": "Mo-Su 10:00-20:00 (OSM)",
+  "stay_min": 80,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "면세",
+    "식품관",
+    "텐진"
+  ],
+  "art_key": "mall",
+  "local_search": "福岡三越",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E4%B8%89%E8%B6%8A",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%B6%8A",
+    "https://www.openstreetmap.org/node/1107261280"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 30,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 면세로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:10.379Z"
+}

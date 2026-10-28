@@ -37,7 +37,9 @@
   ],
   "tip": "점심 코스가 상대적으로 부담이 적어요.",
   "order": [
-    "<b>天ぷらコース</b> 덴푸라 코스"
+    "<b>天ぷらコース</b> 덴푸라 코스",
+    "<b>天丼</b> 덴동(튀김 덮밥)",
+    "<b>天ぷら定食</b> 덴푸라 정식"
   ],
   "open_hours": "Mo-Su 11:30-15:00, 17:00-22:00 (OSM)",
   "stay_min": 90,
@@ -75,7 +77,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:04.568Z"
 }

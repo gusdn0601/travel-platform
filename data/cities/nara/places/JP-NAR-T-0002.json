@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "railway station in Nara, Nara prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 JR 관문역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:59.847Z"
+  "sanitized_at": "2026-10-28T11:17:02.750Z",
+  "origin": [
+    "JR 나라역은 교토와 오사카 방면 JR 열차가 오가는 역이에요.",
+    "역에서 나라 공원까지 걸어갈 수 있어 관광지 접근이 좋아요.",
+    "교토에서 오갈 때 JR을 이용하면 환승이 적어 편해요.",
+    "역 앞에 버스가 모여 있어 교외 사찰로 이동하기 좋아요."
+  ]
 }

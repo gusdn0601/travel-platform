@@ -1,0 +1,90 @@
+{
+  "id": "pl_9ab169c641",
+  "code": "JP-FUK-F-0028",
+  "city_id": "JP-FUK",
+  "slug": "temujin-gyoza",
+  "kind": "food",
+  "name_ko": "테무진 (교자)",
+  "name_sub": "Temujin",
+  "name_local": "テムジン",
+  "lat": 33.57487,
+  "lng": 130.35518,
+  "area": "사와라/니시",
+  "lead": "후쿠오카의 교자 전문점. 한 입 크기 교자를 여러 개 시켜 먹는 방식이에요.",
+  "facts": [
+    [
+      "종류",
+      "교자집"
+    ],
+    [
+      "특징",
+      "한 입 교자"
+    ],
+    [
+      "위치",
+      "후쿠오카 서부"
+    ],
+    [
+      "분위기",
+      "현지·가족"
+    ]
+  ],
+  "origin": [
+    "테무진은 후쿠오카에서 교자를 전문으로 하는 가게예요.",
+    "작은 교자를 여러 개 구워 내는 방식으로 알려져 있어요.",
+    "현지 손님이 많아 가족이나 친구와 편하게 먹기 좋아요.",
+    "시내 중심에서 조금 떨어져 있어 이동 시간을 확인하세요."
+  ],
+  "tip": "저녁에는 대기가 생길 수 있어요. 영업시간을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 800~1,500엔(추정)",
+  "must": 0,
+  "tags": [
+    "교자",
+    "현지",
+    "야식",
+    "가족"
+  ],
+  "art_key": "food",
+  "local_search": "テムジン",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%A0%E3%82%B8%E3%83%B3",
+    "https://ja.wikipedia.org/wiki/%E9%A4%83%E5%AD%90",
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82",
+    "https://www.openstreetmap.org/node/11756931207"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 교자로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:17.298Z",
+  "order": [
+    "<b>焼き餃子</b> 군만두",
+    "<b>水餃子</b> 물만두",
+    "<b>焼売</b> 슈마이",
+    "<b>ビール</b> 맥주"
+  ]
+}

@@ -63,7 +63,21 @@
     "addr_basis": null,
     "entity": "Shinto shrine in Sakyō-ku, Kyōto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:23.462Z"
+  "sanitized_at": "2026-10-28T11:16:38.943Z",
+  "origin": [
+    "시모가모 신사는 가모강 하류에 자리한 오래된 신사예요.",
+    "경내 뒤로 원시림 같은 숲 타다스노모리가 이어져 서늘한 공기가 느껴져요.",
+    "숲길이 길지 않아 천천히 걸으며 쉬기 좋아요.",
+    "가미가모 신사와 함께 세계유산으로 묶여 있어 함께 도는 사람이 많아요."
+  ]
 }

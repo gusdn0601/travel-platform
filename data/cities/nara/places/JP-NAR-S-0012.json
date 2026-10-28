@@ -64,7 +64,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 근교 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:46.884Z"
+  "sanitized_at": "2026-10-28T11:17:02.733Z",
+  "origin": [
+    "하세데라는 나라 남동쪽 사쿠라이에 자리한 사찰이에요.",
+    "긴 회랑 계단을 올라 본당에 이르는 구조가 인상적이에요.",
+    "봄 모란과 가을 단풍이 유명해 계절에 맞춰 찾는 사람이 많아요.",
+    "긴테쓰 하세역에서 버스로 이동해 다녀오기 좋아요."
+  ]
 }

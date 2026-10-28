@@ -79,7 +79,11 @@
   "tip": "우전까지 2시간, 차에서 먹을 간식도 여기서 사 가세요.",
   "order": [
     "<b>葡式蛋挞</b> 포르투갈식",
-    "<b>焦糖蛋挞</b> 캐러멜"
+    "<b>焦糖蛋挞</b> 캐러멜",
+    "<b>葡式蛋挞</b> 포르투갈식 에그타르트",
+    "<b>原味蛋挞</b> 기본 에그타르트",
+    "<b>芝士蛋挞</b> 치즈 에그타르트",
+    "<b>冻柠茶</b> 아이스 레몬티"
   ],
   "kid": {
     "missions": [
@@ -100,7 +104,7 @@
   ],
   "open_hours": null,
   "stay_min": null,
-  "price_hint": null,
+  "price_hint": "1인 20~40위안 추정",
   "must": 0,
   "tags": [],
   "art_key": "tart",
@@ -113,5 +117,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  }
 }

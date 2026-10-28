@@ -40,7 +40,11 @@
   "order": [
     "<b>盐水鸭</b> 소금물 오리",
     "<b>鸭血粉丝汤</b> 오리피 당면 국",
-    "<b>小馄饨</b> 작은 완탕"
+    "<b>小馄饨</b> 작은 완탕",
+    "<b>鸭血粉丝汤</b> 오리 피 당면탕",
+    "<b>狮子头</b> 사자머리 완자",
+    "<b>糖芋苗</b> 단 토란",
+    "<b>赤豆元宵</b> 팥 소원자"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -80,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.369Z"
 }

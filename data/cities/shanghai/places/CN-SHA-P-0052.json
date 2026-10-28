@@ -1,0 +1,85 @@
+{
+  "id": "pl_748017cb49",
+  "code": "CN-SHA-P-0052",
+  "city_id": "CN-SHA",
+  "slug": "pop-mart-flagship",
+  "kind": "shop",
+  "name_ko": "팝마트 글로벌 플래그십",
+  "name_sub": "Pop Mart Global Flagship",
+  "name_local": "泡泡玛特全球旗舰店",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/난징둥루",
+  "lead": "중국 캐릭터 굿즈 브랜드 팝마트의 대형 매장. 피규어와 블라인드박스가 가득해요.",
+  "facts": [
+    [
+      "성격",
+      "캐릭터 굿즈 매장"
+    ],
+    [
+      "브랜드",
+      "2010년 창업"
+    ],
+    [
+      "위치",
+      "난징둥루 일대"
+    ],
+    [
+      "상품",
+      "피규어 · 블라인드박스"
+    ]
+  ],
+  "origin": [
+    "팝마트는 2010년 중국에서 시작한 캐릭터 굿즈 브랜드예요.",
+    "몰리와 라부부 같은 캐릭터로 알려지며 블라인드박스 문화를 중국에 퍼뜨렸어요.",
+    "난징둥루 일대의 대형 매장에는 피규어와 한정 상품이 진열되어 있어요.",
+    "한국에서도 인기를 얻은 캐릭터라 선물용으로 찾는 여행자가 많아요."
+  ],
+  "practical": [
+    "인기 캐릭터는 품절이 잦아요",
+    "면세 환급 여부를 확인하세요"
+  ],
+  "tip": "한정판은 오픈 직후 빠르게 팔려요. 블라인드박스는 중복이 나올 수 있어요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "상품별 상이",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "캐릭터",
+    "피규어",
+    "굿즈"
+  ],
+  "art_key": "shop",
+  "local_search": "泡泡玛特全球旗舰店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pop_Mart",
+    "https://zh.wikipedia.org/wiki/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 캐릭터 굿즈로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pop_Mart",
+        "https://zh.wikipedia.org/wiki/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.974Z"
+}

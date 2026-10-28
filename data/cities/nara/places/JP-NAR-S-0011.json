@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "imperial residence in the Japanese capital city Heijō-kyō (today's Nara), during most of the Nara period",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 역사 유적로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:44.447Z"
+  "sanitized_at": "2026-10-28T11:17:02.732Z",
+  "origin": [
+    "헤이조큐는 8세기 일본의 도읍 헤이조쿄 황궁 터예요.",
+    "복원된 대극전과 넓은 잔디 광장이 인상적이에요.",
+    "유적이 넓게 펼쳐져 있어 자전거를 빌려 돌아보는 사람도 많아요.",
+    "나라 시내에서 버스로 이동해 반나절 코스로 다녀오기 좋아요."
+  ]
 }

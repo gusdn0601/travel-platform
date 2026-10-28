@@ -1,0 +1,81 @@
+{
+  "id": "pl_457bbd8eac",
+  "code": "JP-OSA-P-0029",
+  "city_id": "JP-OSA",
+  "slug": "tempozan-marketplace",
+  "kind": "shop",
+  "name_ko": "덴포잔 마켓플레이스",
+  "name_sub": "Tempozan Marketplace",
+  "name_local": "天保山マーケットプレース",
+  "lat": 34.65597,
+  "lng": 135.4303,
+  "area": "오사카항/덴포잔",
+  "lead": "해유관 옆 상업시설. 식당가와 기념품점이 모여 가족 일정에 맞춰져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "상업시설"
+    ],
+    [
+      "특징",
+      "식당가·기념품"
+    ],
+    [
+      "위치",
+      "해유관 옆"
+    ],
+    [
+      "함께",
+      "관람차·크루즈"
+    ]
+  ],
+  "origin": [
+    "덴포잔 마켓플레이스는 오사카 해유관과 관람차 사이에 자리한 상업시설이에요.",
+    "식당가와 기념품점, 체험 시설이 모여 있어 가족 여행 동선에 넣기 좋아요.",
+    "항구 쪽이라 바람이 시원하고 바다를 보며 쉬기 좋아요.",
+    "해유관 관람 뒤 식사 장소로 많이 이용돼요."
+  ],
+  "tip": "해유관 관람 시간이 길어 식사 시간을 미리 정해 두면 편해요.",
+  "open_hours": "Mo-Su 11:00-20:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "먹거리",
+    "가족",
+    "항구"
+  ],
+  "art_key": "mall",
+  "local_search": "天保山マーケットプレース",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BF%9D%E5%B1%B1%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BF%9D%E5%B1%B1",
+    "https://www.openstreetmap.org/way/151816175"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 덴포잔 가족 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:37.008Z"
+}

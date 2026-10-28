@@ -1,0 +1,88 @@
+{
+  "id": "pl_d17986b299",
+  "code": "CN-SHA-P-0012",
+  "city_id": "CN-SHA",
+  "slug": "yuyuan-bazaar",
+  "kind": "shop",
+  "name_ko": "위위안 상성(예원 쇼핑가)",
+  "name_sub": "Yuyuan Bazaar",
+  "name_local": "豫园商城",
+  "lat": 31.22917,
+  "lng": 121.4875,
+  "area": "황푸/예원",
+  "lead": "예원 정원 앞에 펼쳐진 전통 상가. 차·과자·기념품과 길거리 간식이 모여 있어요.",
+  "facts": [
+    [
+      "성격",
+      "전통 상가 · 기념품"
+    ],
+    [
+      "위치",
+      "예원(豫园) 인근"
+    ],
+    [
+      "접근",
+      "지하철 10·14호선 위위안역"
+    ],
+    [
+      "대표",
+      "오향콩 · 차 · 전통과자"
+    ]
+  ],
+  "origin": [
+    "위위안 상성은 명나라 때 조성된 예원 정원과 성황묘를 찾는 사람들을 상대로 발달한 상가예요.",
+    "전통 건물을 흉내 낸 점포가 골목을 따라 이어지고, 상하이 간식과 차, 기념품을 팔아요.",
+    "명절이면 등불과 장식이 더해져 붐비고, 밤에는 건물 불빛이 예원 못에 비쳐요.",
+    "관광객이 많아 가격은 도심 다른 곳보다 높은 편이에요."
+  ],
+  "practical": [
+    "기념품은 흥정이 되는 곳도 있어요",
+    "명절 연휴에는 입장 통제가 있을 수 있어요"
+  ],
+  "tip": "오향콩과 전통과자는 상점마다 맛과 값이 달라 몇 곳을 비교해 보세요. 예원 입장은 별도예요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "기념품",
+    "전통",
+    "간식"
+  ],
+  "art_key": "market",
+  "local_search": "豫园商城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E8%B1%AB%E5%9B%AD",
+    "https://www.openstreetmap.org/way/62072391"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 101,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 전통 기념품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://zh.wikipedia.org/wiki/%E8%B1%AB%E5%9B%AD",
+        "https://www.openstreetmap.org/way/62072391"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.573Z"
+}

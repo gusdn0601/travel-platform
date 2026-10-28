@@ -1,0 +1,82 @@
+{
+  "id": "pl_2ac19c4753",
+  "code": "JP-NAR-P-0009",
+  "city_id": "JP-NAR",
+  "slug": "mi-nara",
+  "kind": "shop",
+  "name_ko": "미나라",
+  "name_sub": "Mi Nara",
+  "name_local": "ミ・ナーラ",
+  "lat": 34.68517,
+  "lng": 135.80217,
+  "area": "나라 시내",
+  "lead": "나라 시내의 쇼핑몰. 마트와 식당가가 있어 비 오는 날에도 편해요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "마트·식당가"
+    ],
+    [
+      "위치",
+      "나라 시내 남쪽"
+    ],
+    [
+      "장점",
+      "실내"
+    ]
+  ],
+  "origin": [
+    "미나라는 나라 시내 남쪽에 있는 쇼핑몰이에요.",
+    "슈퍼마켓과 잡화점, 식당가가 모여 있어 여행 중 필요한 것을 사기 좋아요.",
+    "나라 공원과 가까워 관광 후 들르기 편해요.",
+    "비 오는 날 실내 일정으로 활용할 수 있어요."
+  ],
+  "tip": "저녁에는 문 닫는 매장이 늘어요. 낮에 들르는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "마트",
+    "식당",
+    "실내"
+  ],
+  "art_key": "mall",
+  "local_search": "ミ・ナーラ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BB%E3%83%8A%E3%83%BC%E3%83%A9",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
+    "https://www.openstreetmap.org/way/209170957"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 7,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 생활 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:57.584Z"
+}

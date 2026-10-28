@@ -43,7 +43,10 @@
   "order": [
     "<b>味の明太子</b> 대표 명란",
     "<b>辛子明太子</b> 매운 명란",
-    "<b>明太子入りおにぎり</b> 명란 주먹밥"
+    "<b>明太子入りおにぎり</b> 명란 주먹밥",
+    "<b>明太子ごはん</b> 명란 밥",
+    "<b>明太マヨネーズ</b> 명란 마요",
+    "<b>明太子入り卵焼き</b> 명란 계란말이"
   ],
   "open_hours": null,
   "stay_min": 30,
@@ -63,7 +66,8 @@
   "sources": [
     "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8F%E3%82%84",
     "https://en.wikipedia.org/wiki/Mentaiko",
-    "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90"
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90",
+    "https://www.fukuya.com/"
   ],
   "meta": {
     "priority": 1,
@@ -81,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:47.893Z"
 }

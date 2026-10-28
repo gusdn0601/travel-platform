@@ -67,7 +67,21 @@
     "addr_basis": "osm-tags",
     "entity": "Buddhist temple in Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:46:26.710Z"
+  "sanitized_at": "2026-10-28T11:16:38.936Z",
+  "origin": [
+    "산주산겐도는 긴 본당 안에 천 체의 관음상을 모신 사찰이에요.",
+    "본당이 길게 이어지는 구조와 1,001체의 관음상이 압도적인 규모를 만들어요.",
+    "내부는 촬영이 안 되니 눈으로 천천히 보는 편이 좋아요.",
+    "기요미즈데라와 가까워 함께 둘러보는 일정이 많아요."
+  ]
 }

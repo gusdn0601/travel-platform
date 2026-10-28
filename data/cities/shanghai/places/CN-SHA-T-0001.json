@@ -1,0 +1,90 @@
+{
+  "id": "pl_48179db822",
+  "code": "CN-SHA-T-0001",
+  "city_id": "CN-SHA",
+  "slug": "pudong-airport",
+  "kind": "transit",
+  "name_ko": "푸동국제공항",
+  "name_sub": "Shanghai Pudong International Airport",
+  "name_local": "上海浦东国际机场",
+  "lat": 31.14333,
+  "lng": 121.80528,
+  "area": "푸둥/공항",
+  "lead": "상하이의 국제선 관문. 인천·김포에서 오는 직항편이 주로 이곳에 닿아요.",
+  "facts": [
+    [
+      "종류",
+      "국제공항"
+    ],
+    [
+      "위치",
+      "푸둥 신구 동쪽"
+    ],
+    [
+      "시내 접근",
+      "지하철 2호선 · 마그레브"
+    ],
+    [
+      "터미널",
+      "1·2터미널"
+    ]
+  ],
+  "origin": [
+    "푸동국제공항은 1999년 문을 연 상하이의 주 국제공항이에요.",
+    "시내에서 동쪽으로 떨어져 있어 지하철 2호선이나 자기부상열차, 택시로 이동해요.",
+    "1터미널과 2터미널이 떨어져 있어 항공사에 맞는 터미널을 확인해야 해요.",
+    "출국장에 면세점과 식당이 있어 탑승 전 쇼핑을 하기에도 좋아요."
+  ],
+  "practical": [
+    "터미널 간 이동은 무료 셔틀을 이용해요",
+    "지하철 2호선 막차 시간을 확인하세요"
+  ],
+  "tip": "시내까지 지하철로 1시간 안팎, 마그레브와 지하철을 갈아타면 조금 빠르게 갈 수 있어요. 탑승 수속 시간을 넉넉히 잡으세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "교통편별 상이",
+  "must": 0,
+  "tags": [
+    "공항",
+    "국제선",
+    "교통",
+    "면세"
+  ],
+  "art_key": "plane",
+  "local_search": "上海浦东国际机场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+    "https://www.openstreetmap.org/relation/19842271"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 129,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 국제선 관문로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+        "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+        "https://www.openstreetmap.org/relation/19842271"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:06.021Z"
+}

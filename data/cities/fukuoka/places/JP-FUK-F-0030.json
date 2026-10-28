@@ -1,0 +1,90 @@
+{
+  "id": "pl_8020cd056c",
+  "code": "JP-FUK-F-0030",
+  "city_id": "JP-FUK",
+  "slug": "tagyu-yakiniku",
+  "kind": "food",
+  "name_ko": "다규 (야키니쿠)",
+  "name_sub": "Tagyu",
+  "name_local": "焼肉 多牛",
+  "lat": 33.58569,
+  "lng": 130.42381,
+  "area": "하카타",
+  "lead": "하카타의 야키니쿠 가게. 한국식 구이 고기를 찾을 때 선택지가 되어요.",
+  "facts": [
+    [
+      "종류",
+      "야키니쿠"
+    ],
+    [
+      "특징",
+      "한국식 구이"
+    ],
+    [
+      "위치",
+      "하카타"
+    ],
+    [
+      "가격",
+      "부위별 상이"
+    ]
+  ],
+  "origin": [
+    "다규는 하카타 지역에 있는 야키니쿠 가게예요.",
+    "한국식 구이 고기와 곁들임 메뉴를 다뤄 여행 중 익숙한 맛을 찾을 때 좋아요.",
+    "부위와 가격은 매장 안내에 따라 달라요.",
+    "저녁에는 붐빌 수 있어 일찍 가는 편이 좋아요."
+  ],
+  "tip": "부위와 가격을 확인하고 주문하세요. 예약 가능 여부를 물어보세요.",
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "1인 2,000~4,000엔(추정)",
+  "must": 0,
+  "tags": [
+    "야키니쿠",
+    "한국식",
+    "하카타",
+    "고기"
+  ],
+  "art_key": "food",
+  "local_search": "焼肉 多牛",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%84%BC%E8%82%89",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A",
+    "https://www.openstreetmap.org/node/501782671"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 야키니쿠로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:19.673Z",
+  "order": [
+    "<b>焼肉盛り合わせ</b> 야키니쿠 모둠",
+    "<b>カルビ</b> 갈비",
+    "<b>タン塩</b> 소금 우설",
+    "<b>ハラミ</b> 하라미",
+    "<b>冷麺</b> 냉면"
+  ]
+}

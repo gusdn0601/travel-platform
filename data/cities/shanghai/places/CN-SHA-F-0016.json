@@ -42,7 +42,10 @@
   "order": [
     "<b>清蒸大闸蟹</b> 찐 대갈게",
     "<b>蟹粉豆腐</b> 게살 두부",
-    "<b>黄酒</b> 소흥주"
+    "<b>黄酒</b> 소흥주",
+    "<b>大闸蟹</b> 털게(가을 철)",
+    "<b>醉蟹</b> 술에 절인 게",
+    "<b>黄酒</b> 황주(중국술)"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -79,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.073Z"
 }

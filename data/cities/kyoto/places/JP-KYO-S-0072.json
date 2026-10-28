@@ -1,0 +1,82 @@
+{
+  "id": "pl_9e89729061",
+  "code": "JP-KYO-S-0072",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-national-museum",
+  "kind": "sight",
+  "name_ko": "교토 국립박물관",
+  "name_sub": "Kyoto National Museum",
+  "name_local": "京都国立博物館",
+  "lat": 34.98994,
+  "lng": 135.77311,
+  "area": "히가시야마",
+  "lead": "교토의 불교 미술과 문화재를 모은 국립박물관. 비 오는 날 일정으로 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "국립박물관"
+    ],
+    [
+      "특징",
+      "불교 미술·문화재"
+    ],
+    [
+      "위치",
+      "시치조"
+    ],
+    [
+      "장점",
+      "실내 관람"
+    ]
+  ],
+  "origin": [
+    "교토 국립박물관은 교토와 주변 지역의 불교 미술과 문화재를 모은 박물관이에요.",
+    "오래된 본관 건물과 새 전시관이 함께 있어 건축을 보는 재미도 있어요.",
+    "기획전은 시기마다 바뀌어 방문 전에 일정을 확인하는 편이 좋아요.",
+    "산주산겐도와 기온이 가까워 함께 둘러보기 좋아요."
+  ],
+  "tip": "기획전에 따라 입장료가 달라요. 월요일 휴관 여부를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 약 700엔(추정)",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "불교미술",
+    "실내",
+    "전시"
+  ],
+  "art_key": "museum",
+  "local_search": "京都国立博物館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyoto_National_Museum",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8",
+    "https://www.openstreetmap.org/way/31843043"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 23,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 실내 관광로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:20.279Z"
+}

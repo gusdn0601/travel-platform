@@ -67,7 +67,21 @@
     "addr_basis": "osm-tags",
     "entity": "park in Kyoto",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 가족 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "kyoto-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:47:39.252Z"
+  "sanitized_at": "2026-10-28T11:16:38.944Z",
+  "origin": [
+    "이와타야마 원숭이 공원은 아라시야마의 산 위에 있는 공원이에요.",
+    "정상까지 걸어 올라가면 야생 원숭이가 자유롭게 지내는 공간이 나와요.",
+    "전망대에서 교토 시내가 내려다보여 사진 찍기 좋아요.",
+    "오르는 길이 가파르니 편한 신발이 필요해요."
+  ]
 }

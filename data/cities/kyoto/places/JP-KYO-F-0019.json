@@ -37,7 +37,11 @@
   ],
   "tip": "점심 코스가 저녁보다 부담이 적어요.",
   "order": [
-    "<b>すき焼き</b> 스키야키"
+    "<b>すき焼き</b> 스키야키",
+    "<b>すき焼き(月コース)</b> 스키야키 월 코스",
+    "<b>オイル焼</b> 기름 구이",
+    "<b>水だき</b> 미즈다키(샤부샤부)",
+    "<b>昼コース</b> 점심 스키야키 코스"
   ],
   "open_hours": null,
   "stay_min": 90,
@@ -55,7 +59,9 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://www.openstreetmap.org/way/205862711"
+    "https://www.openstreetmap.org/way/205862711",
+    "https://www.mishima-tei.co.jp/",
+    "https://www.kyoto-kankou.or.jp/info_search/1084"
   ],
   "meta": {
     "priority": 7,
@@ -75,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:01.459Z"
 }

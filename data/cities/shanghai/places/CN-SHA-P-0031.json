@@ -1,0 +1,85 @@
+{
+  "id": "pl_18c48a8979",
+  "code": "CN-SHA-P-0031",
+  "city_id": "CN-SHA",
+  "slug": "freshippo",
+  "kind": "shop",
+  "name_ko": "허마셴성",
+  "name_sub": "Freshippo",
+  "name_local": "盒马鲜生",
+  "lat": null,
+  "lng": null,
+  "area": "도심 여러 곳",
+  "lead": "앱으로 주문하고 매장에서 받는 신선식품 마트. 해산물과 과일이 다양해요.",
+  "facts": [
+    [
+      "성격",
+      "신선식품 슈퍼"
+    ],
+    [
+      "출범",
+      "2016년"
+    ],
+    [
+      "접근",
+      "도심 곳곳에 매장"
+    ],
+    [
+      "특징",
+      "앱 주문 · 매장 조리"
+    ]
+  ],
+  "origin": [
+    "허마셴성은 알리바바 계열이 2016년 선보인 신선식품 슈퍼마켓이에요.",
+    "앱으로 주문하면 매장에서 바로 조리하거나 배달해 주는 방식으로 중국 장보기 문화를 바꿨어요.",
+    "매장 안에 수족관과 식당 공간이 있어 사 먹거나 바로 요리해 먹을 수 있어요.",
+    "한국 여행자에게는 과일과 간식, 물을 사기에 편한 곳이에요."
+  ],
+  "practical": [
+    "매장마다 규모와 상품이 달라요",
+    "늦은 밤에는 할인 상품이 나오기도 해요"
+  ],
+  "tip": "앱 설치와 결제가 매끄러워요. 여권 없이 위챗페이·알리페이로 결제할 수 있어요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "장보기별 상이",
+  "must": 0,
+  "tags": [
+    "마트",
+    "신선식품",
+    "장보기",
+    "앱"
+  ],
+  "art_key": "market",
+  "local_search": "盒马鲜生",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alibaba_Group",
+    "https://www.freshippo.com/"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 중국 신선식품 장보기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alibaba_Group",
+        "https://www.freshippo.com/"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.609Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pl_65b503c3c3",
+  "code": "JP-NAR-S-0073",
+  "city_id": "JP-NAR",
+  "slug": "futai-ji",
+  "kind": "sight",
+  "name_ko": "후타이지 (불퇴사)",
+  "name_sub": "Futai-ji",
+  "name_local": "不退寺",
+  "lat": 34.69478,
+  "lng": 135.81252,
+  "area": "나라 북부",
+  "lead": "나라 북쪽의 작은 사찰. 조용한 경내와 정원이 남아 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "작은 정원"
+    ],
+    [
+      "위치",
+      "나라 북부"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "후타이지는 나라 북쪽에 자리한 작은 사찰이에요.",
+    "경내와 정원이 조용하게 남아 있어 천천히 둘러보기 좋아요.",
+    "관광객이 적어 한적한 나라를 보고 싶을 때 알맞아요.",
+    "주변 사찰과 함께 반나절 코스로 묶기 좋아요."
+  ],
+  "tip": "개방 시간이 짧을 수 있어 오전 방문이 좋아요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "입장료 약 400엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "조용",
+    "역사",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "不退寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%B8%8D%E9%80%80%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
+    "https://www.openstreetmap.org/node/5826084453"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 4,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 숨은 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:15:21.583Z"
+}

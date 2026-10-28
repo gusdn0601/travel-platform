@@ -37,7 +37,10 @@
   ],
   "tip": "시장 구경 전후로 들르면 동선이 짧아요.",
   "order": [
-    "<b>きつねうどん</b> 유부 우동"
+    "<b>きつねうどん</b> 유부 우동",
+    "<b>うどんすき</b> 우동스키",
+    "<b>にしんそば</b> 청어 소바",
+    "<b>天ぷらうどん</b> 덴푸라 우동"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -75,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:13.419Z"
 }

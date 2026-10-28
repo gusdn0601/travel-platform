@@ -36,7 +36,11 @@
   ],
   "tip": "점심 세트에 소면이 함께 나와 든든해요.",
   "order": [
-    "<b>柿の葉すし定食</b> 카키노하즈시 정식"
+    "<b>柿の葉すし定食</b> 카키노하즈시 정식",
+    "<b>柿の葉すし</b> 감잎 초밥",
+    "<b>さば</b> 고등어 초밥",
+    "<b>鮭</b> 연어 초밥",
+    "<b>えび</b> 새우 초밥"
   ],
   "open_hours": null,
   "stay_min": 40,
@@ -74,7 +78,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:32:59.669Z"
 }

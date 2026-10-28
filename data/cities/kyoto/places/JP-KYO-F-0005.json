@@ -35,7 +35,12 @@
   ],
   "tip": "열차 시간 전 30분 여유면 충분해요.",
   "order": [
-    "<b>各店の看板ラーメン</b> 가게별 대표 라멘"
+    "<b>各店の看板ラーメン</b> 가게별 대표 라멘",
+    "<b>各店ラーメン</b> 입점 점포별 라멘",
+    "<b>豚骨ラーメン</b> 돈코츠 라멘",
+    "<b>醤油ラーメン</b> 쇼유 라멘",
+    "<b>つけ麺</b> 츠케멘",
+    "<b>餃子</b> 교자"
   ],
   "open_hours": "Mo-Su 11:00-22:00 (OSM)",
   "stay_min": 45,
@@ -77,7 +82,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:11.075Z"
 }

@@ -1,0 +1,82 @@
+{
+  "id": "pl_c76d88c4c8",
+  "code": "JP-NAR-S-0067",
+  "city_id": "JP-NAR",
+  "slug": "enjo-ji",
+  "kind": "sight",
+  "name_ko": "엔조지 (인욕산)",
+  "name_sub": "Enjō-ji",
+  "name_local": "円成寺",
+  "lat": 34.69583,
+  "lng": 135.91539,
+  "area": "나라 남부",
+  "lead": "나라 남쪽의 조용한 사찰. 정원과 오래된 불상으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "정원·불상"
+    ],
+    [
+      "위치",
+      "나라 남부"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "엔조지는 나라 남쪽에 자리한 작은 사찰이에요.",
+    "산기슭에 조성된 정원과 오래된 불상이 남아 있어요.",
+    "관광객이 적어 조용히 걷기 좋아요.",
+    "나라 시내에서 버스로 이동해 반나절 코스로 다녀오기 좋아요."
+  ],
+  "tip": "대중교통 배차가 길어 왕복 시간을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "조용",
+    "교외"
+  ],
+  "art_key": "garden",
+  "local_search": "円成寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%86%E6%88%90%E5%AF%BA_(%E5%A5%88%E8%89%AF%E5%B8%82)",
+    "https://www.openstreetmap.org/way/1512886663",
+    "https://www.wikidata.org/wiki/Q1088493"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 50,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 숨은 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:09.638Z"
+}

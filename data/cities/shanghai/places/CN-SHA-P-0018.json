@@ -1,0 +1,90 @@
+{
+  "id": "pl_152005756b",
+  "code": "CN-SHA-P-0018",
+  "city_id": "CN-SHA",
+  "slug": "jingan-kerry-centre",
+  "kind": "shop",
+  "name_ko": "징안자리센터",
+  "name_sub": "Jing An Kerry Centre",
+  "name_local": "静安嘉里中心",
+  "lat": 31.22448,
+  "lng": 121.45018,
+  "area": "징안/난징시루",
+  "lead": "징안사 옆의 세련된 복합 단지. 오피스와 호텔, 쇼핑몰이 한 블록에 모여 있어요.",
+  "facts": [
+    [
+      "개장",
+      "2013년"
+    ],
+    [
+      "성격",
+      "복합 상업 단지"
+    ],
+    [
+      "접근",
+      "지하철 2·7·14호선 징안사역"
+    ],
+    [
+      "특징",
+      "쇼핑몰 · 호텔 · 오피스"
+    ]
+  ],
+  "origin": [
+    "징안자리센터는 징안사 바로 옆 블록에 들어선 복합 개발 단지예요.",
+    "쇼핑몰과 오피스, 호텔이 이어져 있어 낮에는 직장인, 저녁에는 쇼핑객이 모여요.",
+    "실내가 비교적 한산하고 매장 구성이 차분해 천천히 둘러보기 좋아요.",
+    "징안사와 난징시루가 가까워 일정에 넣기 편해요."
+  ],
+  "practical": [
+    "건물 안 화장실과 휴게 공간이 깨끗해요",
+    "주변 난징시루와 도보로 이어져요"
+  ],
+  "tip": "징안사 관람 전후에 들르기 좋아요. 지하 식당가가 붐비지 않아 편해요.",
+  "open_hours": "10:00-22:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "몰",
+    "카페",
+    "오피스"
+  ],
+  "art_key": "mall",
+  "local_search": "静安嘉里中心",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jing_An_Kerry_Centre",
+    "https://zh.wikipedia.org/wiki/%E9%9D%99%E5%AE%89%E5%98%89%E9%87%8C%E4%B8%AD%E5%BF%83",
+    "https://www.openstreetmap.org/way/255636963"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 553,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 징안사 인근 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jing_An_Kerry_Centre",
+        "https://zh.wikipedia.org/wiki/%E9%9D%99%E5%AE%89%E5%98%89%E9%87%8C%E4%B8%AD%E5%BF%83",
+        "https://www.openstreetmap.org/way/255636963"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.586Z"
+}

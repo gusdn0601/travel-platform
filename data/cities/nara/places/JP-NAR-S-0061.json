@@ -1,0 +1,82 @@
+{
+  "id": "pl_27f533dec0",
+  "code": "JP-NAR-S-0061",
+  "city_id": "JP-NAR",
+  "slug": "byakugoji",
+  "kind": "sight",
+  "name_ko": "뱌쿠고지 (백호사)",
+  "name_sub": "Byakugo-ji",
+  "name_local": "白毫寺",
+  "lat": 34.67101,
+  "lng": 135.85121,
+  "area": "나라 남동",
+  "lead": "언덕 위의 사찰. 나라 시내를 내려다보는 조용한 경내가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "언덕·전망"
+    ],
+    [
+      "위치",
+      "나라 남동부"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "뱌쿠고지는 나라 남동쪽 언덕에 자리한 사찰이에요.",
+    "경내에서 나라 시내 방향이 내려다보여 전망 좋은 자리로 알려져 있어요.",
+    "관광객이 적어 조용히 걷기 좋아요.",
+    "나라마치에서 걸어 올라갈 수 있지만 비탈길이라 시간을 여유 있게 잡으세요."
+  ],
+  "tip": "오르막길이 있어 편한 신발이 좋아요. 봄·가을 풍경이 좋아요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "언덕",
+    "전망",
+    "조용"
+  ],
+  "art_key": "temple",
+  "local_search": "白毫寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%99%BD%E6%AF%AB%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
+    "https://www.openstreetmap.org/node/357837548"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 4,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 언덕 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:50.919Z"
+}

@@ -42,7 +42,9 @@
   ],
   "tip": "한 박스로 여러 명이 나눠 먹기 좋아요.",
   "order": [
-    "<b>焼きたてチーズケーキ</b> 갓 구운 치즈케이크"
+    "<b>焼きたてチーズケーキ</b> 갓 구운 치즈케이크",
+    "<b>アップルパイ</b> 애플파이",
+    "<b>プリン</b> 푸딩"
   ],
   "open_hours": null,
   "stay_min": 25,
@@ -84,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:19.773Z"
 }

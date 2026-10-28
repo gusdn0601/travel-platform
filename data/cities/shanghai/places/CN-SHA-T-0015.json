@@ -1,0 +1,90 @@
+{
+  "id": "pl_bdadfc3e1e",
+  "code": "CN-SHA-T-0015",
+  "city_id": "CN-SHA",
+  "slug": "longyang-road-station",
+  "kind": "transit",
+  "name_ko": "룽양루역",
+  "name_sub": "Longyang Road Station",
+  "name_local": "龙阳路站",
+  "lat": 31.20315,
+  "lng": 121.55686,
+  "area": "푸둥/룽양루",
+  "lead": "마그레브와 지하철 2호선이 만나는 환승역. 공항에서 시내로 갈아타는 지점이에요.",
+  "facts": [
+    [
+      "노선",
+      "2·7·16호선 · 마그레브"
+    ],
+    [
+      "위치",
+      "푸둥"
+    ],
+    [
+      "주변",
+      "신국제박람센터"
+    ],
+    [
+      "특징",
+      "공항 환승"
+    ]
+  ],
+  "origin": [
+    "룽양루역은 자기부상열차와 지하철 2·7·16호선이 만나는 푸둥의 환승 거점이에요.",
+    "푸동공항에서 마그레브를 타고 오면 이 역에서 지하철로 갈아타 시내로 들어가요.",
+    "인근에 상하이 신국제박람센터가 있어 전시회 기간에는 이용객이 크게 늘어요.",
+    "환승 동선이 비교적 명확해 이동하기 편해요."
+  ],
+  "practical": [
+    "마그레브와 지하철 표를 따로 사야 해요",
+    "전시회 기간에는 혼잡해요"
+  ],
+  "tip": "공항에서 마그레브를 탔다면 이 역에서 2호선으로 갈아타세요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "마그레브",
+    "환승",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "龙阳路站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longyang_Road_station",
+    "https://zh.wikipedia.org/wiki/%E9%BE%99%E9%98%B3%E8%B7%AF%E7%AB%99",
+    "https://www.openstreetmap.org/node/9851823366"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 54641,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 푸동공항 환승역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Longyang_Road_station",
+        "https://zh.wikipedia.org/wiki/%E9%BE%99%E9%98%B3%E8%B7%AF%E7%AB%99",
+        "https://www.openstreetmap.org/node/9851823366"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:37.144Z"
+}

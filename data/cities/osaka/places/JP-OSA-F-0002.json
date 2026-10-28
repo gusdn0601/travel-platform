@@ -44,7 +44,8 @@
   "order": [
     "<b>天然とんこつラーメン</b> 기본 돈코츠 라멘",
     "<b>替玉</b> 면 추가",
-    "<b>半熟塩ゆでたまご</b> 반숙 계란"
+    "<b>半熟塩ゆでたまご</b> 반숙 계란",
+    "<b>明太子ごはん</b> 명란 밥"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -69,7 +70,8 @@
     "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
     "https://en.wikipedia.org/wiki/Dōtonbori",
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
-    "https://www.openstreetmap.org/node/4488318892"
+    "https://www.openstreetmap.org/node/4488318892",
+    "https://www.ichiran.co.jp/"
   ],
   "meta": {
     "priority": 1,
@@ -89,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "web-verified; see sources[]",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:08.880Z"
 }

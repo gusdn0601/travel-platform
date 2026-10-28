@@ -37,7 +37,11 @@
   ],
   "tip": "기온 산책 중 손에 들고 먹기 좋아요.",
   "order": [
-    "<b>きなな</b> 키나코 아이스"
+    "<b>きなな</b> 키나코 아이스",
+    "<b>きななアイス</b> 키나나 아이스",
+    "<b>きなこパフェ</b> 콩가루 파르페",
+    "<b>黒蜜きなこ</b> 흑밀 콩가루",
+    "<b>抹茶きなな</b> 말차 키나나"
   ],
   "open_hours": null,
   "stay_min": 25,
@@ -71,7 +75,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:29.687Z"
 }

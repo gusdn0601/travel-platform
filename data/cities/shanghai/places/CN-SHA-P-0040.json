@@ -1,0 +1,86 @@
+{
+  "id": "pl_881bfb49fe",
+  "code": "CN-SHA-P-0040",
+  "city_id": "CN-SHA",
+  "slug": "rt-mart",
+  "kind": "shop",
+  "name_ko": "따룬파",
+  "name_sub": "RT-Mart",
+  "name_local": "大润发",
+  "lat": null,
+  "lng": null,
+  "area": "교외",
+  "lead": "중국계 대형 마트. 생활용품과 식품을 넉넉히 사기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "대형 마트"
+    ],
+    [
+      "중국 진출",
+      "1990년대 후반"
+    ],
+    [
+      "접근",
+      "교외 주요 지점"
+    ],
+    [
+      "특징",
+      "생활용품 · 식품"
+    ]
+  ],
+  "origin": [
+    "따룬파는 대만계 유통 기업이 중국에서 키운 대형 마트 브랜드예요.",
+    "1990년대 후반 상하이에 진출해 교외 주거 지역을 중심으로 매장을 늘렸어요.",
+    "식품과 생활용품, 가전을 함께 다뤄 현지 가족의 장보기 장소로 자리 잡았어요.",
+    "관광객보다 현지 생활자에게 맞는 곳이에요."
+  ],
+  "practical": [
+    "도심에서 거리가 있어요",
+    "주말에는 계산 대기가 길어요"
+  ],
+  "tip": "짧은 여행이라면 굳이 찾을 필요는 없어요. 교외 일정이 있을 때 들르세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "장보기별 상이",
+  "must": 0,
+  "tags": [
+    "마트",
+    "장보기",
+    "생활용품"
+  ],
+  "art_key": "market",
+  "local_search": "大润发",
+  "photos": [
+    "CN-SHA-P-0040-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mega_PX_Mart",
+    "https://www.rt-mart.com.cn/"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 중국 대형 마트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mega_PX_Mart",
+        "https://www.rt-mart.com.cn/"
+      ]
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:01.952Z"
+}

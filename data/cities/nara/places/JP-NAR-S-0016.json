@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "Primeval forest in Nara, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 숲 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:07.091Z"
+  "sanitized_at": "2026-10-28T11:17:02.736Z",
+  "origin": [
+    "가스가야마 원시림은 가스가타이샤 뒤쪽에 이어지는 신역 숲이에요.",
+    "오랫동안 벌채가 금지되어 원시림에 가까운 모습이 남아 있어요.",
+    "걷는 길이 한적하고 공기가 서늘해 여름 산책에 좋아요.",
+    "숲길을 따라 걸으면 가스가타이샤 안쪽으로 이어져요."
+  ]
 }

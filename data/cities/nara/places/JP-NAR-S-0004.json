@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 대표 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:12.192Z"
+  "sanitized_at": "2026-10-28T11:17:02.729Z",
+  "origin": [
+    "고후쿠지는 나라 공원 가까이에 자리한 사찰이에요.",
+    "7세기에 세워졌고, 경내 오층탑이 상징으로 꼽혀요.",
+    "국보관에는 오래된 불상과 유물이 전시되어 있어 함께 보기 좋아요.",
+    "공원에서 걸어갈 수 있어 도다이지와 함께 묶는 일정이 많아요."
+  ]
 }

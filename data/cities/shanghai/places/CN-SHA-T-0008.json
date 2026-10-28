@@ -1,0 +1,87 @@
+{
+  "id": "pl_5dcb690e05",
+  "code": "CN-SHA-T-0008",
+  "city_id": "CN-SHA",
+  "slug": "lujiazui-station",
+  "kind": "transit",
+  "name_ko": "루자쭈이역",
+  "name_sub": "Lujiazui Station",
+  "name_local": "陆家嘴站",
+  "lat": 31.2382,
+  "lng": 121.50226,
+  "area": "푸둥/루자쭈이",
+  "lead": "루자쭈이 고층 빌딩 지구의 지하철역. 전망대와 와이탄 산책의 출발점이에요.",
+  "facts": [
+    [
+      "노선",
+      "2호선"
+    ],
+    [
+      "위치",
+      "푸둥 루자쭈이"
+    ],
+    [
+      "주변",
+      "동방명주 · 상하이타워"
+    ],
+    [
+      "특징",
+      "관광객이 많은 역"
+    ]
+  ],
+  "origin": [
+    "루자쭈이역은 푸둥의 고층 빌딩 지구 한가운데 있는 지하철 2호선 역이에요.",
+    "동방명주와 상하이타워, 국제금융센터가 걸어갈 거리에 있어 전망대를 찾는 관광객이 많이 내려요.",
+    "역에서 나오면 바로 고층 빌딩 숲이 펼쳐져 사진 찍기 좋아요.",
+    "황푸강 건너 와이탄과는 도보로 이동하기 어려워 지하철이나 택시를 이용해요."
+  ],
+  "practical": [
+    "출구별로 주변 건물이 달라요",
+    "저녁에는 관광객으로 붐벼요"
+  ],
+  "tip": "전망대 예약 시간에 맞춰 나오세요. 와이탄 방면은 지하철 2호선으로 건너가세요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "루자쭈이",
+    "전망",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "陆家嘴站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lujiazui_station",
+    "https://zh.wikipedia.org/wiki/%E9%99%86%E5%AE%B6%E5%98%B4%E7%AB%99"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 루자쭈이 관광 교통로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lujiazui_station",
+        "https://zh.wikipedia.org/wiki/%E9%99%86%E5%AE%B6%E5%98%B4%E7%AB%99"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:21.599Z"
+}

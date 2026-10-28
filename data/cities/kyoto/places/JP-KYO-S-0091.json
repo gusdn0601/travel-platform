@@ -1,0 +1,82 @@
+{
+  "id": "pl_995d603a34",
+  "code": "JP-KYO-S-0091",
+  "city_id": "JP-KYO",
+  "slug": "genko-an",
+  "kind": "sight",
+  "name_ko": "겐코안",
+  "name_sub": "Genkō-an",
+  "name_local": "源光庵",
+  "lat": 35.05481,
+  "lng": 135.73172,
+  "area": "다카가미네",
+  "lead": "다카가미네의 작은 사찰. 창문 너머 정원과 조용한 경내가 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "창문 정원"
+    ],
+    [
+      "위치",
+      "다카가미네"
+    ],
+    [
+      "분위기",
+      "고요"
+    ]
+  ],
+  "origin": [
+    "겐코안은 교토 북서쪽 다카가미네 지역의 작은 사찰이에요.",
+    "방 안에서 창문 너머 정원을 바라보는 풍경이 유명해요.",
+    "관광객이 적어 조용히 앉아 쉬기 좋아요.",
+    "금각사와 료안지 사이 이동 중에 들르기 좋아요."
+  ],
+  "tip": "버스 배차가 길어 시간을 넉넉히 잡으세요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "조용",
+    "교외"
+  ],
+  "art_key": "garden",
+  "local_search": "源光庵",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%BA%90%E5%85%89%E5%BA%B5",
+    "https://www.openstreetmap.org/way/1312192381",
+    "https://www.wikidata.org/wiki/Q11564007"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 9,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 한적한 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:00.599Z"
+}

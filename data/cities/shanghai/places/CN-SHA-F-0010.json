@@ -40,7 +40,11 @@
   "tip": "바삭한 바닥이 매력이라 포장보다 현장에서 바로 먹는 것이 좋아요.",
   "order": [
     "<b>鲜肉生煎</b> 대표 메뉴",
-    "<b>大馄饨</b> 큰 완탕"
+    "<b>大馄饨</b> 큰 완탕",
+    "<b>生煎</b> 생젠(군만두)",
+    "<b>虾仁生煎</b> 새우 생젠",
+    "<b>咖喱牛肉汤</b> 카레 소고기탕",
+    "<b>小馄饨</b> 새우 소완탕"
   ],
   "open_hours": "Mo-Su 07:30-19:30 (OSM)",
   "stay_min": 30,
@@ -80,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.065Z"
 }

@@ -1,0 +1,82 @@
+{
+  "id": "pl_18adb7c430",
+  "code": "JP-FUK-P-0015",
+  "city_id": "JP-FUK",
+  "slug": "hakata-marui",
+  "kind": "shop",
+  "name_ko": "하카타 마루이",
+  "name_sub": "Hakata Marui",
+  "name_local": "博多マルイ",
+  "lat": 33.58889,
+  "lng": 130.41942,
+  "area": "하카타",
+  "lead": "하카타역 쪽 쇼핑몰. 캐릭터숍과 잡화점이 있어 짧게 들르기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "캐릭터·잡화"
+    ],
+    [
+      "위치",
+      "하카타역 앞"
+    ],
+    [
+      "연결",
+      "역·버스터미널"
+    ]
+  ],
+  "origin": [
+    "하카타 마루이는 하카타역 앞에 있는 쇼핑몰이에요.",
+    "캐릭터숍과 잡화점, 식당이 들어서 있어 짧게 둘러보기 좋아요.",
+    "역과 가까워 이동 전후에 들르기 편해요.",
+    "매장 구성이 바뀔 수 있어 층 안내를 확인하세요."
+  ],
+  "tip": "역 주변 다른 쇼핑 시설과 함께 비교하며 돌기 좋아요.",
+  "open_hours": "10:00-21:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "하카타역",
+    "캐릭터",
+    "잡화"
+  ],
+  "art_key": "mall",
+  "local_search": "博多マルイ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%9E%E3%83%AB%E3%82%A4",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%A7%85",
+    "https://www.openstreetmap.org/node/5891213258"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 27,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타역 캐릭터 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:11:06.786Z"
+}

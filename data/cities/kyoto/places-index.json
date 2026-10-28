@@ -308,6 +308,13 @@
     "name_ko": "그릴 고보"
   },
   {
+    "id": "pl_0d5ab48112",
+    "code": "JP-KYO-F-0046",
+    "slug": "nakamura-tokichi-uji",
+    "kind": "food",
+    "name_ko": "나카무라 도키치 우지 본점"
+  },
+  {
     "id": "pl_fced92f906",
     "code": "JP-KYO-P-0001",
     "slug": "nishiki-market",
@@ -397,6 +404,20 @@
     "slug": "kyoto-cube",
     "kind": "shop",
     "name_ko": "교토역 The CUBE"
+  },
+  {
+    "id": "pl_c242d5d7f7",
+    "code": "JP-KYO-P-0015",
+    "slug": "sugi-pharmacy-shijo",
+    "kind": "shop",
+    "name_ko": "스기약국 시조점"
+  },
+  {
+    "id": "pl_b1a23c1829",
+    "code": "JP-KYO-P-0016",
+    "slug": "bic-camera-kyoto-station",
+    "kind": "shop",
+    "name_ko": "빅카메라 교토역점"
   },
   {
     "id": "pl_a377d706b7",
@@ -861,11 +882,172 @@
     "name_ko": "쇼군즈카 세이료덴"
   },
   {
-    "id": "pl_a49ece7d48",
-    "code": "JP-KYO-S-0068",
-    "slug": "kodai-ji",
+    "id": "pl_9e89729061",
+    "code": "JP-KYO-S-0072",
+    "slug": "kyoto-national-museum",
     "kind": "sight",
-    "name_ko": "고다이지"
+    "name_ko": "교토 국립박물관"
+  },
+  {
+    "id": "pl_d9e74a44ee",
+    "code": "JP-KYO-S-0073",
+    "slug": "koryo-museum",
+    "kind": "sight",
+    "name_ko": "고려미술관"
+  },
+  {
+    "id": "pl_873adcd55b",
+    "code": "JP-KYO-S-0074",
+    "slug": "nishi-honganji",
+    "kind": "sight",
+    "name_ko": "니시혼간지"
+  },
+  {
+    "id": "pl_825fdbe6a7",
+    "code": "JP-KYO-S-0075",
+    "slug": "higashi-honganji",
+    "kind": "sight",
+    "name_ko": "히가시혼간지"
+  },
+  {
+    "id": "pl_d1b9ef4679",
+    "code": "JP-KYO-S-0077",
+    "slug": "myoshinji",
+    "kind": "sight",
+    "name_ko": "묘신지"
+  },
+  {
+    "id": "pl_4251e6dc27",
+    "code": "JP-KYO-S-0079",
+    "slug": "sanzenin",
+    "kind": "sight",
+    "name_ko": "산젠인"
+  },
+  {
+    "id": "pl_360e8ecd72",
+    "code": "JP-KYO-S-0080",
+    "slug": "ujigami-shrine",
+    "kind": "sight",
+    "name_ko": "우지가미 신사"
+  },
+  {
+    "id": "pl_565e106bd5",
+    "code": "JP-KYO-S-0081",
+    "slug": "kyoto-city-zoo",
+    "kind": "sight",
+    "name_ko": "교토시 동물원"
+  },
+  {
+    "id": "pl_3b1503f151",
+    "code": "JP-KYO-S-0082",
+    "slug": "funaoka-onsen",
+    "kind": "sight",
+    "name_ko": "후나오카 온천"
+  },
+  {
+    "id": "pl_868efd42af",
+    "code": "JP-KYO-S-0083",
+    "slug": "doshisha-yundongju-monument",
+    "kind": "sight",
+    "name_ko": "도시샤대학 윤동주 시비"
+  },
+  {
+    "id": "pl_5f6256933f",
+    "code": "JP-KYO-S-0084",
+    "slug": "tenzan-no-yu",
+    "kind": "sight",
+    "name_ko": "덴잔노유"
+  },
+  {
+    "id": "pl_0d2660cb88",
+    "code": "JP-KYO-S-0085",
+    "slug": "fuufu-no-yu-arashiyama",
+    "kind": "sight",
+    "name_ko": "아라시야마 온천 후후노유"
+  },
+  {
+    "id": "pl_a0efca7709",
+    "code": "JP-KYO-S-0086",
+    "slug": "rokkakudo",
+    "kind": "sight",
+    "name_ko": "롯카쿠도 (조보지)"
+  },
+  {
+    "id": "pl_842ac4c3b3",
+    "code": "JP-KYO-S-0087",
+    "slug": "inaba-do",
+    "kind": "sight",
+    "name_ko": "이나바도 (뵤도지)"
+  },
+  {
+    "id": "pl_867e3f0132",
+    "code": "JP-KYO-S-0088",
+    "slug": "teradaya",
+    "kind": "sight",
+    "name_ko": "데라다야"
+  },
+  {
+    "id": "pl_ccc74f963b",
+    "code": "JP-KYO-S-0089",
+    "slug": "otoyo-jinja",
+    "kind": "sight",
+    "name_ko": "오토요 신사"
+  },
+  {
+    "id": "pl_540ffacfd5",
+    "code": "JP-KYO-S-0090",
+    "slug": "goo-jinja",
+    "kind": "sight",
+    "name_ko": "고오 신사"
+  },
+  {
+    "id": "pl_995d603a34",
+    "code": "JP-KYO-S-0091",
+    "slug": "genko-an",
+    "kind": "sight",
+    "name_ko": "겐코안"
+  },
+  {
+    "id": "pl_53fc09c985",
+    "code": "JP-KYO-S-0092",
+    "slug": "jisso-in",
+    "kind": "sight",
+    "name_ko": "짓소인"
+  },
+  {
+    "id": "pl_14e6a13483",
+    "code": "JP-KYO-S-0093",
+    "slug": "manshu-in",
+    "kind": "sight",
+    "name_ko": "만슈인"
+  },
+  {
+    "id": "pl_63081162c0",
+    "code": "JP-KYO-S-0094",
+    "slug": "enko-ji",
+    "kind": "sight",
+    "name_ko": "엔코지"
+  },
+  {
+    "id": "pl_9d2dad4ccb",
+    "code": "JP-KYO-S-0095",
+    "slug": "kyocera-museum",
+    "kind": "sight",
+    "name_ko": "교토시 교세라 미술관"
+  },
+  {
+    "id": "pl_30a4164365",
+    "code": "JP-KYO-S-0096",
+    "slug": "honen-in",
+    "kind": "sight",
+    "name_ko": "호넨인"
+  },
+  {
+    "id": "pl_7cf6567c24",
+    "code": "JP-KYO-S-0097",
+    "slug": "shisen-do",
+    "kind": "sight",
+    "name_ko": "시센도"
   },
   {
     "id": "pl_44c62361ab",
@@ -894,5 +1076,12 @@
     "slug": "gion-shijo-station",
     "kind": "transit",
     "name_ko": "기온시조역"
+  },
+  {
+    "id": "pl_89899ddf27",
+    "code": "JP-KYO-T-0005",
+    "slug": "eizan-demachiyanagi",
+    "kind": "transit",
+    "name_ko": "에이잔 전철 데마치야나기역"
   }
 ]

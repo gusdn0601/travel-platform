@@ -1,0 +1,81 @@
+{
+  "id": "pl_3ecf20cd48",
+  "code": "JP-NAR-P-0008",
+  "city_id": "JP-NAR",
+  "slug": "ionmoru-nara-tomigaoka",
+  "kind": "shop",
+  "name_ko": "이온몰 나라 도미가오카",
+  "name_sub": "AEON Mall Nara Tomigaoka",
+  "name_local": "イオンモール奈良登美ヶ丘",
+  "lat": 34.72547,
+  "lng": 135.75019,
+  "area": "도미가오카",
+  "lead": "나라 북쪽의 대형 쇼핑몰. 마트와 식당가, 면세 매장이 함께 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "마트·식당가"
+    ],
+    [
+      "위치",
+      "도미가오카"
+    ],
+    [
+      "면세",
+      "일부 매장(조건 확인)"
+    ]
+  ],
+  "origin": [
+    "이온몰 나라 도미가오카는 나라 북쪽에 있는 대형 쇼핑몰이에요.",
+    "슈퍼마켓과 생활용품점, 식당가, 영화관이 한 건물에 모여 있어요.",
+    "여행 중 필요한 생활용품과 식료품을 사기에 편해요.",
+    "나라 시내에서 전철과 버스로 이동해야 해요."
+  ],
+  "tip": "면세 가능 매장과 조건은 매장별로 달라 안내를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "마트",
+    "가족",
+    "면세"
+  ],
+  "art_key": "mall",
+  "local_search": "イオンモール奈良登美ヶ丘",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%A5%88%E8%89%AF%E7%99%BB%E7%BE%8E%E3%83%B6%E4%B8%98",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB",
+    "https://www.openstreetmap.org/way/161731579"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 생활 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:55.799Z"
+}

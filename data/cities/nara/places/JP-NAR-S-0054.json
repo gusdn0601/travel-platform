@@ -1,0 +1,83 @@
+{
+  "id": "pl_3a8371dc74",
+  "code": "JP-NAR-S-0054",
+  "city_id": "JP-NAR",
+  "slug": "tamukeyama-hachimangu",
+  "kind": "sight",
+  "name_ko": "다무케야마 하치만구",
+  "name_sub": "Tamukeyama Hachimangu",
+  "name_local": "手向山八幡宮",
+  "lat": 34.68778,
+  "lng": 135.84472,
+  "area": "나라 공원",
+  "lead": "도다이지 동쪽 언덕의 신사. 가을 단풍과 조용한 경내로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "단풍·언덕"
+    ],
+    [
+      "위치",
+      "도다이지 동쪽"
+    ],
+    [
+      "분위기",
+      "조용"
+    ]
+  ],
+  "origin": [
+    "다무케야마 하치만구는 도다이지 동쪽 언덕에 자리한 신사예요.",
+    "도다이지를 지키는 신을 모신 곳으로 전해져요.",
+    "가을에는 경내의 단풍이 아름다워 사진 찍는 사람이 찾아요.",
+    "도다이지와 니가쓰도 사이에 있어 함께 둘러보기 좋아요."
+  ],
+  "tip": "언덕길이라 편한 신발이 좋아요. 봄·가을에 특히 아름다워요.",
+  "open_hours": "Mo-Su 07:00-16:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "단풍",
+    "나라공원",
+    "조용"
+  ],
+  "art_key": "shrine",
+  "local_search": "手向山八幡宮",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%90%91%E5%B1%B1%E5%85%AB%E5%B9%A1%E5%AE%AE",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%88%E5%A0%82",
+    "https://www.openstreetmap.org/way/1134669588"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 8,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도다이지 주변 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:09:39.196Z"
+}

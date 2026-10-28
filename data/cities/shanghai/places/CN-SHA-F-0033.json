@@ -39,7 +39,11 @@
   "tip": "당도·얼음 양을 조절할 수 있어요(少糖 / 少冰).",
   "order": [
     "<b>多肉葡萄</b> 포도 과일차",
-    "<b>芝芝莓莓</b> 딸기 치즈티"
+    "<b>芝芝莓莓</b> 딸기 치즈티",
+    "<b>多肉葡萄</b> 다육 포도(포도 과일차)",
+    "<b>芝芝莓莓</b> 치즈베리",
+    "<b>满杯红柚</b> 자몽 가득",
+    "<b>烤黑糖波波</b> 흑당 버블 밀크티"
   ],
   "open_hours": null,
   "stay_min": 20,
@@ -76,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.378Z"
 }

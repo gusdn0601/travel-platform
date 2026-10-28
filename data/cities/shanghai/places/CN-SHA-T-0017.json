@@ -1,0 +1,90 @@
+{
+  "id": "pl_88d0ab708c",
+  "code": "CN-SHA-T-0017",
+  "city_id": "CN-SHA",
+  "slug": "zhongshan-park-station",
+  "kind": "transit",
+  "name_ko": "중산공원역",
+  "name_sub": "Zhongshan Park Station",
+  "name_local": "中山公园站",
+  "lat": 31.21801,
+  "lng": 121.41574,
+  "area": "창닝/중산공원",
+  "lead": "중산공원과 쇼핑몰이 가까운 환승역. 2·3·4호선이 만나요.",
+  "facts": [
+    [
+      "노선",
+      "2·3·4호선"
+    ],
+    [
+      "위치",
+      "창닝"
+    ],
+    [
+      "주변",
+      "중산공원 · 쇼핑몰"
+    ],
+    [
+      "특징",
+      "공원 접근"
+    ]
+  ],
+  "origin": [
+    "중산공원역은 2·3·4호선이 만나는 창닝의 환승역이에요.",
+    "중산공원과 대형 쇼핑몰이 가까워 쇼핑과 산책을 함께 하기 좋아요.",
+    "훙차오 공항과 시내를 오가는 2호선 경로에 있어 이동 중 들르기도 편해요.",
+    "역 주변에 상가와 식당이 많아요."
+  ],
+  "practical": [
+    "출구별로 공원과 쇼핑몰 방향이 달라요",
+    "환승객이 많은 편이에요"
+  ],
+  "tip": "중산공원 산책과 쇼핑을 함께 하려면 이 역을 이용하세요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "운임 별도",
+  "must": 0,
+  "tags": [
+    "지하철",
+    "환승",
+    "공원",
+    "교통"
+  ],
+  "art_key": "station",
+  "local_search": "中山公园站",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zhongshan_Park_station_(Shanghai_Metro)",
+    "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD%E7%AB%99_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+    "https://www.openstreetmap.org/node/9121602909"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 543,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 창닝 환승·공원역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhongshan_Park_station_(Shanghai_Metro)",
+        "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E5%85%AC%E5%9B%AD%E7%AB%99_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+        "https://www.openstreetmap.org/node/9121602909"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:36:40.690Z"
+}

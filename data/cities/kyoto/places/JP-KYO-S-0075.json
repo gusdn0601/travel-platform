@@ -1,0 +1,82 @@
+{
+  "id": "pl_825fdbe6a7",
+  "code": "JP-KYO-S-0075",
+  "city_id": "JP-KYO",
+  "slug": "higashi-honganji",
+  "kind": "sight",
+  "name_ko": "히가시혼간지",
+  "name_sub": "Higashi Hongan-ji",
+  "name_local": "東本願寺",
+  "lat": 34.99102,
+  "lng": 135.75846,
+  "area": "교토역",
+  "lead": "교토역 앞의 큰 사찰. 넓은 경내와 거대한 문이 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "정토진종 사찰"
+    ],
+    [
+      "특징",
+      "거대한 문·경내"
+    ],
+    [
+      "위치",
+      "교토역 앞"
+    ],
+    [
+      "입장",
+      "무료"
+    ]
+  ],
+  "origin": [
+    "히가시혼간지는 교토역 앞에 자리한 정토진종 사찰이에요.",
+    "역에서 걸어갈 수 있는 거리라 여행 첫날이나 마지막 날 들르기 좋아요.",
+    "경내가 넓어 사람이 많아도 비교적 여유롭게 걸을 수 있어요.",
+    "무료로 열려 있어 짐을 맡기고 잠깐 쉬어 가기 좋아요."
+  ],
+  "tip": "역과 가까워 이동 전후 짧게 들르기 좋아요.",
+  "open_hours": "Mar-Oct Mo-Su 05:50-17:30; Nov-Feb Mo-Su 06:20-16:30 (OSM)",
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "무료",
+    "건축",
+    "역사"
+  ],
+  "art_key": "temple",
+  "local_search": "東本願寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Higashi_Hongan-ji",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9C%AC%E9%A1%98%E5%AF%BA",
+    "https://www.openstreetmap.org/way/619901207"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 24,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토역 근처 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:08:26.345Z"
+}

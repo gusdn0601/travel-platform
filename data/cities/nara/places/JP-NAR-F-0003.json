@@ -37,7 +37,11 @@
   "tip": "더울 때는 차가운 구즈모치를 추천해요.",
   "order": [
     "<b>くずもち</b> 구즈모치",
-    "<b>吉野本葛</b> 구즈키리"
+    "<b>吉野本葛</b> 구즈키리",
+    "<b>葛餅</b> 쿠즈모치",
+    "<b>葛切り</b> 쿠즈키리",
+    "<b>葛湯</b> 쿠즈유",
+    "<b>吉野葛スイーツ</b> 요시노 칡 디저트"
   ],
   "open_hours": null,
   "stay_min": 30,
@@ -75,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:32:50.787Z"
 }

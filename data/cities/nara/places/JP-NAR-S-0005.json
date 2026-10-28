@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 근교 필수로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:02:14.775Z"
+  "sanitized_at": "2026-10-28T11:17:02.730Z",
+  "origin": [
+    "호류지는 나라 남서쪽 이카루가 지역에 자리한 사찰이에요.",
+    "7세기에 세워졌고, 세계에서 가장 오래된 목조 건축군으로 알려져 있어요.",
+    "경내가 넓고 고요해 천천히 걸으며 볼 수 있어요.",
+    "나라 시내에서 전철과 버스로 이동해 반나절 코스로 다녀오기 좋아요."
+  ]
 }

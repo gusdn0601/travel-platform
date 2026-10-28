@@ -1,0 +1,81 @@
+{
+  "id": "pl_b96818d8b9",
+  "code": "JP-OSA-P-0028",
+  "city_id": "JP-OSA",
+  "slug": "matsukiyo-dotonbori",
+  "kind": "shop",
+  "name_ko": "마쓰모토키요시 도톤보리점",
+  "name_sub": "Matsumoto Kiyoshi",
+  "name_local": "マツモトキヨシ",
+  "lat": 34.66813,
+  "lng": 135.50327,
+  "area": "도톤보리",
+  "lead": "도톤보리의 드럭스토어. 화장품과 상비약을 한 번에 사기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "드럭스토어"
+    ],
+    [
+      "특징",
+      "화장품·의약품"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "면세",
+      "여권 지참(조건 확인)"
+    ]
+  ],
+  "origin": [
+    "마쓰모토키요시는 일본의 대표 드럭스토어 체인으로, 도톤보리 점포는 관광객이 많이 찾는 곳이에요.",
+    "화장품과 상비약, 건강식품, 과자까지 폭넓게 다뤄요.",
+    "면세 판매를 하려면 여권이 필요하고 구매 금액 조건이 있어요.",
+    "인기 상품은 품절되기 쉬우니 여러 지점을 비교해 보세요."
+  ],
+  "tip": "약사 상담이 필요한 약은 직원에게 물어보세요. 영수증과 여권을 함께 보관하세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "구매 별도",
+  "must": 0,
+  "tags": [
+    "드럭스토어",
+    "화장품",
+    "면세",
+    "약"
+  ],
+  "art_key": "shop",
+  "local_search": "マツモトキヨシ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2",
+    "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
+    "https://www.openstreetmap.org/node/11990197743"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 드럭스토어로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:07:35.930Z"
+}

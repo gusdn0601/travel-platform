@@ -61,7 +61,21 @@
     "addr_basis": null,
     "entity": "mountain in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 봄 벚꽃로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:15.508Z"
+  "sanitized_at": "2026-10-28T11:17:02.738Z",
+  "origin": [
+    "요시노야마는 나라 남쪽 요시노에 있는 산이에요.",
+    "산 전체에 벚나무가 퍼져 있어 봄이면 구역별로 시기를 달리해 꽃이 피어요.",
+    "산기슭부터 위쪽까지 꽃이 이어져 오랫동안 벚꽃을 볼 수 있어요.",
+    "봄철에는 사람이 매우 많아 이동 시간을 넉넉히 잡아야 해요."
+  ]
 }

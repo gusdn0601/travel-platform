@@ -35,7 +35,10 @@
   ],
   "tip": "파르페 줄이 길면 선물 코너부터 구경해도 좋아요.",
   "order": [
-    "<b>抹茶パフェ</b> 말차 파르페"
+    "<b>抹茶パフェ</b> 말차 파르페",
+    "<b>宇治抹茶生ゼリー</b> 우지 말차 생젤리",
+    "<b>抹茶そば</b> 말차 소바",
+    "<b>抹茶大福</b> 말차 대복"
   ],
   "open_hours": null,
   "stay_min": 50,
@@ -69,7 +72,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
+    "menu_collected_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:13.744Z"
 }

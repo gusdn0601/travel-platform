@@ -65,7 +65,21 @@
     "addr_basis": null,
     "entity": "Buddhist temple in Nara Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 오래된 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "nara-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:03:24.861Z"
+  "sanitized_at": "2026-10-28T11:17:02.740Z",
+  "origin": [
+    "간고지는 나라마치 안에 남아 있는 오래된 사찰이에요.",
+    "6세기 말에 세워졌다고 전해지고, 오래된 기와가 남아 있어요.",
+    "지붕 기와에 아스카 시대 자재가 쓰였다는 이야기가 전해져요.",
+    "나라마치 골목과 함께 걸으며 둘러보기 좋아요."
+  ]
 }

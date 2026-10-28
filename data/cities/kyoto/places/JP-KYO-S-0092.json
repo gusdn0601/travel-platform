@@ -1,0 +1,82 @@
+{
+  "id": "pl_53fc09c985",
+  "code": "JP-KYO-S-0092",
+  "city_id": "JP-KYO",
+  "slug": "jisso-in",
+  "kind": "sight",
+  "name_ko": "짓소인",
+  "name_sub": "Jissō-in",
+  "name_local": "実相院",
+  "lat": 35.07896,
+  "lng": 135.78148,
+  "area": "이와쿠라",
+  "lead": "이와쿠라의 사찰. 윤이 나는 마루에 비치는 정원으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "마루에 비치는 정원"
+    ],
+    [
+      "위치",
+      "이와쿠라"
+    ],
+    [
+      "분위기",
+      "한적"
+    ]
+  ],
+  "origin": [
+    "짓소인은 교토 북쪽 이와쿠라에 자리한 사찰이에요.",
+    "잘 닦인 마루에 정원이 비치는 모습이 알려져 있어요.",
+    "관람 시간이 짧고 조용해 천천히 둘러보기 좋아요.",
+    "구라마데라나 기후네 신사로 가는 길에 들르기 좋아요."
+  ],
+  "tip": "관람 시간이 정해져 있어 출발 전에 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "입장료 약 500엔(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "조용",
+    "교외"
+  ],
+  "art_key": "garden",
+  "local_search": "実相院",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%AE%9F%E7%9B%B8%E9%99%A2",
+    "https://www.openstreetmap.org/way/1162724307",
+    "https://www.wikidata.org/wiki/Q11452823"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 16,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 숨은 정원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T11:18:02.086Z"
+}

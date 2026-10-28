@@ -66,7 +66,21 @@
     "addr_basis": null,
     "entity": "railway station and metro station in Fukuoka, Fukuoka prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 중심역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "fukuoka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:45:53.601Z"
+  "sanitized_at": "2026-10-28T11:17:31.916Z",
+  "origin": [
+    "하카타역은 규슈 신칸센과 지하철이 모이는 후쿠오카의 중심 역이에요.",
+    "역 건물 안에 쇼핑몰과 식당이 있어 이동 중 쇼핑과 식사를 해결하기 좋아요.",
+    "공항에서 지하철로 짧게 이동할 수 있어 도착 첫날 기준점으로 삼기 좋아요.",
+    "시내 버스와 열차가 모여 교외로 나가기도 편해요."
+  ]
 }
