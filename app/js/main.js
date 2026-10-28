@@ -1,6 +1,7 @@
 // 여행책 앱 (정적, 서버 없음). 해시 라우터: #/  #/new  #/settings  #/trip/:id
 import { loadTheme, listThemes, dayColor, THEME_KEY } from './theme.js';
-import { mergeMeta, AREAS } from './placemeta.js';
+import { mergeMeta } from './placemeta.js';
+import { CITIES, CITY_ORDER, DEFAULT_CITY, cityDef, cityDir } from './cities.js';
 import { reflowDay, toMin, fromMin, travel, km as kmBetween } from './scheduler.js';
 import { encodeShare, decodeShare, shareUrl } from './share.js';
 import { savePack, deletePack, packMeta, fmtBytes } from './pack.js';
@@ -17,12 +18,12 @@ import { mapsAdapter } from './adapters/maps.js';
 import { authAdapter } from './adapters/auth.js';
 import { storage } from './adapters/storage.js';
 
-const CITY = '../data/cities/shanghai/';
+let CITY = cityDir(DEFAULT_CITY);
 const $app = document.getElementById('app');
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const KIND = { sight: '명소', food: '맛집', shop: '쇼핑' };
 const TYPES = ['관광', '미식', '역사', '휴양'], PARTY = ['가족', '커플', '친구', '혼자'];
-const state = { theme: null, city: null, places: [], byId: new Map(), photos: new Map(), kr: new Map(), shortNames: {}, db: storage.load(), day: 1, tab: 'plan', planView: 'cards', dayMode: 'compact', add: null, addKind: 'all', open: null, q: '' };
+const state = { theme: null, cityId: null, city: null, places: [], byId: new Map(), photos: new Map(), kr: new Map(), shortNames: {}, db: storage.load(), day: 1, tab: 'plan', planView: 'cards', dayMode: 'compact', add: null, addKind: 'all', open: null, q: '' };
 
 // 라인 아이콘 세트 (인라인 SVG, 24px 격자)
 const IC = {
@@ -56,14 +57,8 @@ async function boot() {
   state.themes = await listThemes();
   state.db.settings ||= {};
   await applyTheme(state.db.settings.theme_id);
-  const [city, index, photos, rm] = await Promise.all(['city.json', 'places-index.json', 'photos.json', 'route-map.json'].map((f) => fetch(CITY + f).then((r) => r.json())));
-  state.city = city; state.shortNames = rm.short_names || {};
-  const full = await Promise.all(index.map((i) => fetch(`${CITY}places/${i.code}.json`).then((r) => r.json())));
-  state.places = full.map((p) => normalizePlace(mergeMeta(p), { provider: 'local' }));
-  state.local = new LocalCuratedSource(state.places);
+  await loadCity(hashCityId() || DEFAULT_CITY);
   state.extras = [new RemotePlaceSource({ apiKey: state.db.settings.places_key || null })]; // 키 없으면 'unavailable' → 조용히 건너뜀
-  state.byId = new Map(state.places.map((p) => [p.id, p]));
-  for (const ph of photos) { if (!state.photos.has(ph.place_id)) state.photos.set(ph.place_id, []); state.photos.get(ph.place_id).push(ph); }
   state.countries = {};
   await Promise.all(['CN', 'JP'].map(async (cc) => {
     try {
@@ -71,9 +66,47 @@ async function boot() {
       state.countries[cc] = { info, proc, phrases };
     } catch { state.countries[cc] = null; }
   }));
-  window.addEventListener('hashchange', route);
-  route();
+  window.addEventListener('hashchange', () => { route(); });
+  await route();
   setupOffline();
+}
+
+/** 지금 해시가 가리키는 도시(?city= 또는 여행 id) — 없으면 null */
+function hashCityId() {
+  const [path, qs] = (location.hash || '').replace(/^#/, '').split('?');
+  const wanted = new URLSearchParams(qs || '').get('city');
+  if (wanted && CITIES[wanted]) return wanted;
+  const [, view, id] = path.split('/');
+  if (view === 'trip') return getTrip(id)?.city_id || null;
+  return null;
+}
+
+let cityReq = 0;
+const cityLoading = new Map();
+/** 도시 데이터(장소·사진·지도)를 바꿔 싣는다. 같은 도시면 그대로 둔다. */
+function loadCity(id) {
+  const def = cityDef(id);
+  if (state.cityId === def.id && state.city) return Promise.resolve();
+  if (cityLoading.has(def.id)) return cityLoading.get(def.id);
+  const p = loadCityNow(def).finally(() => cityLoading.delete(def.id));
+  cityLoading.set(def.id, p);
+  return p;
+}
+async function loadCityNow(def) {
+  const token = ++cityReq, dir = cityDir(def.id);
+  const [city, index, photos, rm] = await Promise.all([
+    ...['city.json', 'places-index.json', 'photos.json'].map((f) => fetch(dir + f).then((r) => { if (!r.ok) throw new Error(f + ' ' + r.status); return r.json(); })),
+    def.routeMap ? fetch(dir + 'route-map.json').then((r) => (r.ok ? r.json() : {})).catch(() => ({})) : Promise.resolve({}), // 근거리 이동 지도는 있는 도시만
+  ]);
+  const full = await Promise.all(index.map((i) => fetch(`${dir}places/${i.code}.json`).then((r) => r.json())));
+  if (token !== cityReq) return; // 그 사이 다른 도시를 고른 요청이 있으면 버린다
+  CITY = dir;
+  state.cityId = def.id; state.city = city; state.shortNames = rm.short_names || {};
+  state.places = full.map((p) => normalizePlace(mergeMeta(p), { provider: 'local' }));
+  state.local = new LocalCuratedSource(state.places);
+  state.byId = new Map(state.places.map((p) => [p.id, p]));
+  state.photos = new Map();
+  for (const ph of photos) { if (!state.photos.has(ph.place_id)) state.photos.set(ph.place_id, []); state.photos.get(ph.place_id).push(ph); }
 }
 
 // 오프라인: 서비스워커가 앱·데이터를 캐시해 두고, 연결이 끊기면 상단에 배지를 보여준다
@@ -82,7 +115,8 @@ function setupOffline() {
   window.addEventListener('online', upd); window.addEventListener('offline', upd); upd();
   if (!('serviceWorker' in navigator)) return;
   navigator.serviceWorker.register('./sw.js').then(() => navigator.serviceWorker.ready).then(() => { // 첫 방문에도 오프라인용 데이터를 미리 받아 둔다
-    const urls = ['city.json', 'places-index.json', 'photos.json', 'route-map.json', ...state.places.map((p) => `places/${p.code}.json`)].map((f) => CITY + f);
+    const base = ['city.json', 'places-index.json', 'photos.json', ...(Object.keys(state.shortNames || {}).length ? ['route-map.json'] : [])];
+    const urls = [...base, ...state.places.map((p) => `places/${p.code}.json`)].map((f) => CITY + f);
     for (const ph of [...state.photos.values()].flat()) urls.push(CITY + ph.file);
     for (const t of state.themes) urls.push('../data/themes/' + t.file);
     urls.push('../data/themes/index.json');
@@ -91,12 +125,22 @@ function setupOffline() {
   }).then(() => { document.documentElement.dataset.offlineReady = '1'; }).catch(() => {});
 }
 
-function route() {
-  const [, view, id] = location.hash.split('/');
+async function route() {
+  const [path, qs] = (location.hash || '').replace(/^#/, '').split('?');
+  const [, view, id] = path.split('/');
   document.getElementById('topTitle').textContent = '';
-  if (view === 'new') return viewNew();
+  if (view === 'new') {
+    const wanted = new URLSearchParams(qs || '').get('city');
+    const cityId = wanted && CITIES[wanted] ? wanted : null;
+    if (cityId) await loadCity(cityId).catch(() => {});
+    return viewNew(cityId);
+  }
   if (view === 'settings') return viewSettings();
-  if (view === 'trip') return viewTrip(id);
+  if (view === 'trip') {
+    const t = getTrip(id);
+    if (t?.city_id) await loadCity(t.city_id).catch(() => {});
+    return viewTrip(id);
+  }
   if (view === 'share') return viewShare(id);
   viewHome();
 }
@@ -162,15 +206,23 @@ function draftTrip() {
     opts: { dayStart: draft.o_start || DEFAULT_OPTS.dayStart, dayEnd: draft.o_end || DEFAULT_OPTS.dayEnd, checkin: draft.o_checkin === '' ? DEFAULT_OPTS.checkin : +draft.o_checkin, departBuffer: draft.o_dep === '' ? null : +draft.o_dep, arriveBuffer: null } });
 }
 const numOpts = (from, to, on) => Array.from({ length: to - from + 1 }, (_, i) => `<option value="${from + i}" ${from + i === on ? 'selected' : ''}>${from + i}</option>`).join('');
-function viewNew() {
-  if (location.hash === '#/new' && !draft.city) resetDraft();
+/** 도시를 바꾸면 그 도시 기본 공항·숙소 지역 선택을 다시 잡는다. */
+function applyDraftCity(id) {
+  const def = cityDef(id);
+  draft.city = def.id;
+  draft.a_ap = def.defaultAirport; draft.d_ap = def.defaultAirport;
+  draft.l_area = '';
+}
+function viewNew(cityId) {
+  if (!draft.city) resetDraft();
+  if (cityId && draft.city !== cityId) { applyDraftCity(cityId); draft.step = 1; }
   $app.innerHTML = draft.step === 1 ? regStep1() : regStep2();
   (draft.step === 1 ? wireStep1 : wireStep2)();
 }
 function regStep1() {
   return `<h1>여행 등록</h1>
   <form id="f1" class="card" novalidate>
-    <label class="f" for="city">도시</label><select id="city" name="city"><option value="CN-SHA">중국 · 상하이</option><option disabled>일본 · 오사카 (준비 중)</option><option disabled>태국 · 방콕 (준비 중)</option></select>
+    <label class="f" for="city">도시</label><select id="city" name="city">${CITY_ORDER.map((id) => `<option value="${id}" ${id === draft.city ? 'selected' : ''}>${esc(CITIES[id].countryLabel)} · ${esc(CITIES[id].name)}</option>`).join('')}</select>
     <div class="row" style="margin-top:16px"><div class="sp"><label class="f" for="a_date">시작일</label><input type="date" id="a_date" name="a_date" value="${draft.a_date}"></div><div class="sp"><label class="f" for="d_date">종료일</label><input type="date" id="d_date" name="d_date" value="${draft.d_date}"></div></div>
     <div id="period" class="period" aria-live="polite"></div><div id="derr" class="err" role="alert"></div>
     <div class="row"><div class="sp"><label class="f" for="adults">성인</label><select id="adults" name="adults">${numOpts(1, 8, +draft.adults)}</select></div><div class="sp"><label class="f" for="kids">아이</label><select id="kids" name="kids">${numOpts(0, 6, +draft.kids)}</select></div></div>
@@ -182,7 +234,8 @@ function regStep1() {
 function wireStep1() {
   const f = document.getElementById('f1'), next = document.getElementById('next');
   const sync = () => {
-    Object.assign(draft, { city: f.city.value, a_date: f.a_date.value, d_date: f.d_date.value, adults: f.adults.value, kids: f.kids.value });
+    if (f.city.value !== draft.city) applyDraftCity(f.city.value);
+    Object.assign(draft, { a_date: f.a_date.value, d_date: f.d_date.value, adults: f.adults.value, kids: f.kids.value });
     const n = f.a_date.value && f.d_date.value ? nights(f.a_date.value, f.d_date.value) : NaN;
     const err = !f.a_date.value || !f.d_date.value ? '날짜를 모두 입력해 주세요.' : n < 0 ? '종료일이 시작일보다 빨라요.' : n > 9 ? '최대 10일까지 만들 수 있어요.' : !draft.types.length ? '여행 유형을 하나 이상 골라 주세요.' : '';
     document.getElementById('period').textContent = err ? '' : periodText(n);
@@ -192,7 +245,13 @@ function wireStep1() {
   f.addEventListener('input', sync); f.addEventListener('change', sync);
   wireChips($app, () => sync());
   sync();
-  next.onclick = () => { sync(); if (!next.disabled) { draft.step = 2; viewNew(); window.scrollTo(0, 0); } };
+  next.onclick = async () => {
+    sync(); if (next.disabled) return;
+    const label = next.textContent;
+    next.disabled = true; next.textContent = '도시 정보 불러오는 중…';
+    try { await loadCity(draft.city); if (state.cityId !== draft.city) await loadCity(draft.city); } catch { next.disabled = false; next.textContent = label; toast('도시 정보를 불러오지 못했어요. 연결을 확인해 주세요'); return; }
+    draft.step = 2; viewNew(); window.scrollTo(0, 0);
+  };
 }
 function wireChips(root, onChange) {
   root.querySelectorAll('.chip[data-g]').forEach((c) => c.onclick = () => {
@@ -203,8 +262,13 @@ function wireChips(root, onChange) {
   });
 }
 function regStep2() {
-  const apItems = Object.entries(AIRPORTS).map(([k, a]) => [k, a.name]);
-  return `<h1>항공편 시간</h1><p class="muted">${dlabel(draft.a_date)} ~ ${dlabel(draft.d_date)} · ${periodText(nights(draft.a_date, draft.d_date))} · 시각을 넣으면 날짜별 쓸 수 있는 시간을 계산해요.</p>
+  const def = cityDef(draft.city), apKeys = def.airports.filter((k) => AIRPORTS[k]);
+  if (!apKeys.includes(draft.a_ap)) draft.a_ap = apKeys[0];
+  if (!apKeys.includes(draft.d_ap)) draft.d_ap = apKeys[0];
+  const apItems = apKeys.map((k) => [k, AIRPORTS[k].name]);
+  const areas = (state.city?.areas || []).filter((a) => a && a !== '기타');
+  if (!areas.includes(draft.l_area)) draft.l_area = '';
+  return `<h1>항공편 시간</h1><p class="muted">${esc(def.name)} · ${dlabel(draft.a_date)} ~ ${dlabel(draft.d_date)} · ${periodText(nights(draft.a_date, draft.d_date))} · 시각을 넣으면 날짜별 쓸 수 있는 시간을 계산해요.</p>
   <form id="f2" class="card" novalidate>
     <div class="row"><div class="sp"><label class="f" for="a_time">도착 시각</label><input id="a_time" name="a_time" inputmode="numeric" maxlength="5" placeholder="14:00" value="${draft.a_time}" autocomplete="off"></div><div class="sp"><label class="f" for="d_time">출발 시각</label><input id="d_time" name="d_time" inputmode="numeric" maxlength="5" placeholder="17:00" value="${draft.d_time}" autocomplete="off"></div></div>
     <div id="terr" class="err" role="alert"></div>
@@ -212,7 +276,7 @@ function regStep2() {
     <div class="f" id="ap2-l" style="margin:16px 0 8px">출발 공항</div>${chipGroup('d_ap', apItems, draft.d_ap, '출발 공항')}
     <div class="f" style="margin:16px 0 8px">구분</div>${chipGroup('intl', [['intl', '해외 (입국 90분 · 공항 180분 전)'], ['dom', '국내 (30분 · 90분 전)']], draft.intl, '해외 또는 국내')}
     <div class="f" style="margin:16px 0 8px">페이스</div>${chipGroup('pace', Object.entries(PACE).map(([k, v]) => [k, `${v.label} · 하루 ${paceMax(k, +draft.kids)}곳`]), draft.pace, '페이스')}
-    <label class="f" for="l_area" style="margin-top:16px">숙소 지역 (선택)</label><select id="l_area" name="l_area"><option value="">아직 안 정했어요</option>${Object.values(AREAS).filter((a) => a !== '기타').map((a) => `<option ${a === draft.l_area ? 'selected' : ''}>${a}</option>`).join('')}</select>
+    <label class="f" for="l_area" style="margin-top:16px">숙소 지역 (선택)</label><select id="l_area" name="l_area"><option value="">아직 안 정했어요</option>${areas.map((a) => `<option ${a === draft.l_area ? 'selected' : ''}>${esc(a)}</option>`).join('')}</select>
     <details class="adv"><summary id="advsum">시간 설정 · 하루 ${draft.o_start}–${draft.o_end} · 체크인 ${draft.o_checkin || 0}분 · 공항 여유 자동</summary>
       <div class="row"><div class="sp"><label class="f" for="o_start">하루 시작</label><input id="o_start" name="o_start" inputmode="numeric" maxlength="5" value="${draft.o_start}"></div><div class="sp"><label class="f" for="o_end">하루 끝</label><input id="o_end" name="o_end" inputmode="numeric" maxlength="5" value="${draft.o_end}"></div></div>
       <div class="row"><div class="sp"><label class="f" for="o_checkin">체크인·짐 (분)</label><input type="number" id="o_checkin" name="o_checkin" min="0" max="180" value="${draft.o_checkin}"></div><div class="sp"><label class="f" for="o_dep">공항 여유 (분, 비우면 자동)</label><input type="number" id="o_dep" name="o_dep" min="30" max="360" value="${draft.o_dep}"></div></div></details>
@@ -244,8 +308,8 @@ function wireStep2() {
   sync();
   go.onclick = () => {
     sync(); if (go.disabled) return;
-    const n = nights(draft.a_date, draft.d_date), days = n + 1, tr = draftTrip();
-    const trip = normalizeTrip({ id: uid(), country: 'CN', city_id: 'CN-SHA', title: `상하이 ${n}박 ${days}일`, start: draft.a_date, end: draft.d_date, days, arrive: tr.arrive, depart: tr.depart, domestic: tr.domestic,
+    const n = nights(draft.a_date, draft.d_date), days = n + 1, tr = draftTrip(), def = cityDef(draft.city);
+    const trip = normalizeTrip({ id: uid(), country: def.country, city_id: def.id, title: `${def.name} ${n}박 ${days}일`, start: draft.a_date, end: draft.d_date, days, arrive: tr.arrive, depart: tr.depart, domestic: tr.domestic,
       lodging: { name: draft.l_name.trim(), area: draft.l_area }, pace: draft.pace, adults: +draft.adults, kids: +draft.kids, party: draft.kids > 0 ? '가족' : '친구', types: draft.types, opts: tr.opts,
       plan: [], cover_layout: 'node', theme_id: state.theme.id, tips: [], created_at: new Date().toISOString() });
     trip.plan = dayWindows(trip).map((w) => ({ day_no: w.day_no, date: w.date, stops: [] }));
@@ -406,7 +470,7 @@ function planDay(trip, pane, wins, day, w) {
   const mt = pane.querySelector('[data-mode]'); if (mt) mt.onclick = () => { state.dayMode = mt.dataset.mode; viewTrip(trip.id); };
   $('[data-a=add]').onclick = () => { state.add = 'rec'; viewTrip(trip.id); };
   $('[data-a=fill]').onclick = () => {
-    const out = fillDay(state.places, state.byId, { stops, win: w, usedIds: usedIdsOf(trip), types: trip.types, kids, pace: trip.pace, base: tripBase(trip, state.places) });
+    const out = fillDay(state.places, state.byId, { stops, win: w, usedIds: usedIdsOf(trip), types: trip.types, kids, pace: trip.pace, base: tripBase(trip, state.places), cityName: cityDef(trip.city_id).name });
     if (out.length === stops.length) return toast('더 넣을 만한 곳이 없어요');
     commit(out, '이 날을 채웠어요');
   };

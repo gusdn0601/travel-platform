@@ -1,0 +1,173 @@
+/* 디자인 v2 — 4테마 토큰/컴포넌트. 색·서체·카드·커버 실루엣을 data-theme 으로 분리한다.
+   규칙: 컴포넌트 규칙에 hex 하드코딩 금지. 값은 각 테마 토큰에서만 온다.
+   토큰 원본: docs/design/themes/*.css (기획자2). 앱 기존 변수(--paper/--sky1/--sub/--r/--rb)는 별칭으로 함께 정의. */
+
+/* ---------- 1. 여행책 노랑 (기본) — 노란 종이, 검정 2px 테두리, 하드 오프셋 그림자 ---------- */
+[data-theme="travelbook"] {
+  --bg:#FFF6D6; --surface:#FFFFFF; --surface-2:#FFEFB0; --paper:#FFFFFF;
+  --primary:#FFC91F; --on-primary:#2B2200; --accent:#C2410C; --on-accent:#FFFFFF;
+  --ink:#2B2412; --ink-2:#5E5128; --ink-3:#6F6030; --sub:#5E5128; --sky1:#FFF1B8;
+  --line:#E6D79A; --line-strong:#2B2412; --ok:#2F7D32; --warn:#A34700; --danger:#B3261E;
+  --danger-soft:#FBE9E7; --warn-soft:#FFF3CC; --accent-soft:#FFE9B0;
+  --font-head:'Pretendard',system-ui,sans-serif; --font-body:'Pretendard',system-ui,sans-serif;
+  --font-title:'Pretendard',system-ui,sans-serif; --display-weight:800; --head-tracking:-.03em;
+  --r:10px; --rb:6px; --r-card:10px; --r-btn:8px;
+  --shadow:3px 3px 0 var(--line-strong);
+  --border-card:2px solid var(--line-strong);
+  --bg-texture:repeating-linear-gradient(0deg,transparent 0 31px,rgba(43,36,18,.07) 31px 32px);
+  --motion-ease:cubic-bezier(.3,0,.2,1); --motion-dur:140ms; --motion-style:snap;
+}
+/* ---------- 2. 리조트 — 선셋 샌드 + 야자 그린 + 코랄, 세리프 제목, 큰 라운드, 번지는 그림자 ---------- */
+[data-theme="resort"] {
+  --bg:#F7F0E4; --surface:#FFFCF7; --surface-2:#EFE3CF; --paper:#FFFCF7;
+  --primary:#1B6B58; --on-primary:#FFFFFF; --accent:#B94A32; --on-accent:#FFFFFF;
+  --ink:#1E2B27; --ink-2:#4B5B55; --ink-3:#566660; --sub:#4B5B55; --sky1:#E3EFE9;
+  --line:#E4D8C3; --line-strong:#8F7F63; --ok:#2E7D5B; --warn:#8A4B00; --danger:#A3311D;
+  --danger-soft:#F9E4DE; --warn-soft:#F7E8CE; --accent-soft:#FBE2D8;
+  --font-head:'Noto Serif KR',serif; --font-body:'Pretendard',system-ui,sans-serif;
+  --font-title:'Noto Serif KR',serif; --display-weight:600; --head-tracking:-.01em;
+  --r:24px; --rb:999px; --r-card:24px; --r-btn:999px;
+  --shadow:0 18px 40px -18px rgba(27,107,88,.35),0 2px 6px rgba(30,43,39,.06);
+  --border-card:1px solid var(--line);
+  --bg-texture:radial-gradient(1200px 500px at 85% -10%,rgba(232,150,110,.28),transparent 60%),radial-gradient(900px 400px at -10% 110%,rgba(27,107,88,.12),transparent 60%);
+  --motion-ease:cubic-bezier(.2,.7,.2,1); --motion-dur:420ms; --motion-style:float;
+}
+/* ---------- 3. 오션 — 딥 네이비 + 아쿠아, 유리 카드, 물결, 둥근 산세리프 ---------- */
+[data-theme="ocean"] {
+  --bg:#E6F4FA; --surface:#FFFFFF; --surface-2:#CDEAF5; --paper:#FFFFFF;
+  --primary:#0B67A8; --on-primary:#FFFFFF; --accent:#00A6C0; --on-accent:#00323A;
+  --ink:#0A2740; --ink-2:#3A5870; --ink-3:#49677F; --sub:#3A5870; --sky1:#D6EEF8;
+  --line:#BFDDEB; --line-strong:#4D88A8; --ok:#14804A; --warn:#8A4B00; --danger:#A3311D;
+  --danger-soft:#FBE6E2; --warn-soft:#FFF0D6; --accent-soft:#D2F0F7;
+  --font-head:'Gowun Dodum','Pretendard',sans-serif; --font-body:'Gowun Dodum','Pretendard',sans-serif;
+  --font-title:'Gowun Dodum','Pretendard',sans-serif; --display-weight:400; --head-tracking:0;
+  --r:18px; --rb:10px; --r-card:18px; --r-btn:14px;
+  --shadow:0 8px 24px -10px rgba(11,103,168,.35);
+  --border-card:1px solid rgba(255,255,255,.9);
+  --bg-texture:linear-gradient(180deg,#CBEBF7 0%,#E6F4FA 38%,#E6F4FA 100%);
+  --motion-ease:cubic-bezier(.45,.05,.55,.95); --motion-dur:560ms; --motion-style:wave;
+}
+/* ---------- 4. 일본 와후 — 와시 바탕 + 쪽빛 + 주홍 낙관, 명조 제목, 직각 + 가는 선 ---------- */
+[data-theme="wafu"] {
+  --bg:#F3EDE0; --surface:#FBF8F0; --surface-2:#E9E0CC; --paper:#FBF8F0;
+  --primary:#1F3A5F; --on-primary:#F8F3E7; --accent:#B3261E; --on-accent:#FFFFFF; --gold:#8A6D2F;
+  --ink:#1C1A17; --ink-2:#4A453C; --ink-3:#5D574B; --sub:#4A453C; --sky1:#E7E0D0;
+  --line:#D8CDB4; --line-strong:#1F3A5F; --ok:#3D6B3A; --warn:#8A5A12; --danger:#9E1F18;
+  --danger-soft:#F6E1DC; --warn-soft:#F4E7CB; --accent-soft:#EFE1D8;
+  --font-head:'Shippori Mincho','Noto Serif KR',serif; --font-body:'Pretendard',system-ui,sans-serif;
+  --font-title:'Shippori Mincho','Noto Serif KR',serif; --display-weight:700; --head-tracking:.04em;
+  --r:2px; --rb:2px; --r-card:2px; --r-btn:2px;
+  --shadow:none;
+  --border-card:1px solid var(--line-strong);
+  --bg-texture:radial-gradient(circle at 50% 100%,transparent 0 7px,rgba(31,58,95,.09) 7px 8px,transparent 8px 13px,rgba(31,58,95,.09) 13px 14px,transparent 14px) 0 0/28px 14px;
+  --motion-ease:cubic-bezier(.4,0,.1,1); --motion-dur:700ms; --motion-style:ink;
+}
+
+/* ---------- 공통: 테마 토큰을 기존 컴포넌트에 연결 ---------- */
+body { background:var(--bg); background-image:var(--bg-texture); background-attachment:fixed; }
+h1,h2,h3,.brand,.sec,.daycard .hd b,.avail .head b,.theme-card b { font-family:var(--font-title); font-weight:var(--display-weight); letter-spacing:var(--head-tracking, -.02em); }
+.card,.addp,.tl,.dl details.stop,.flight,.theme-card,.sheet-body { background:var(--surface); border:var(--border-card); border-radius:var(--r-card); }
+.card,.addp,.tl,.dl details.stop,.flight,.theme-card { box-shadow:var(--shadow); }
+.top { background:color-mix(in srgb, var(--bg) 92%, transparent); border-bottom:1px solid var(--line); }
+input, select, textarea { border:1px solid var(--line-strong); background:var(--surface); color:var(--ink); border-radius:var(--r-btn, 12px); }
+button, .btn { background:var(--primary); color:var(--on-primary); border-radius:var(--r-btn, 12px); }
+button.ghost, .btn.ghost { background:transparent; color:var(--ink); box-shadow:inset 0 0 0 1px var(--line-strong); }
+button.soft { background:var(--accent-soft); color:var(--ink); }
+button.danger { background:transparent; color:var(--danger); box-shadow:inset 0 0 0 1px var(--line-strong); }
+.chip, .tab { background:var(--surface); color:var(--ink); box-shadow:inset 0 0 0 1px var(--line-strong); border-radius:var(--rb); }
+.chip.on, .tab.on { background:var(--primary); color:var(--on-primary); box-shadow:none; }
+.seg { background:var(--surface-2); border-radius:var(--r-chip, 12px); }
+.seg button { color:var(--ink-2); }
+.seg button.on { background:var(--surface); color:var(--ink); box-shadow:var(--shadow); }
+.warn { background:var(--danger-soft); color:var(--danger); border-radius:var(--r-card); }
+.warn.soft { background:var(--warn-soft); color:var(--warn); }
+.info { background:var(--sky1); color:var(--ink-2); border-radius:var(--r-card); }
+.muted, .credit, .daycard .sub, .tl-row .t, .stay { color:var(--ink-3); }
+.tl-row .dot { background:var(--primary); }
+.tl-row.meal .dot { background:var(--accent); }
+.th .im, .rec .im { background-color:var(--surface-2); }
+.tip { border-left:3px solid var(--accent); }
+#toast { background:var(--ink); color:var(--surface); }
+.bar-track { background:var(--surface-2); }
+.bar-track i { background:var(--primary); }
+.dchip { background:var(--surface-2); color:var(--ink-2); }
+.pill { background:var(--surface-2); color:var(--ink-2); }
+.offbadge { background:var(--ink); color:var(--surface); }
+
+/* 테마별 질감/모션 */
+.enter { animation:in var(--motion-dur, 160ms) var(--motion-ease, ease) both; }
+@keyframes in { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:none; } }
+[data-theme="resort"] .enter { animation-name:floatIn; }
+@keyframes floatIn { from { opacity:0; transform:translateY(14px) scale(.99); } to { opacity:1; transform:none; } }
+[data-theme="ocean"] .enter { animation-name:waveIn; }
+@keyframes waveIn { from { opacity:0; transform:translateY(6px) skewY(.4deg); } to { opacity:1; transform:none; } }
+[data-theme="wafu"] .enter { animation-name:inkIn; }
+@keyframes inkIn { from { opacity:0; filter:blur(2px); } to { opacity:1; filter:none; } }
+@media (prefers-reduced-motion:reduce) { .enter { animation:none; } }
+
+/* ---------- 테마별 카드/버튼/타임라인 구분 ---------- */
+/* 여행책: 노란 면은 반드시 진한 테두리 동반, 하드 그림자 */
+[data-theme="travelbook"] .card { box-shadow:3px 3px 0 var(--line-strong); }
+[data-theme="travelbook"] .cta { border:2px solid var(--line-strong); box-shadow:3px 3px 0 var(--line-strong); }
+[data-theme="travelbook"] .tl-row .dot { border:1.5px solid var(--line-strong); }
+[data-theme="travelbook"] .brand::before { background:var(--primary); box-shadow:0 0 0 1.5px var(--line-strong); }
+/* 리조트: 테두리 없이 그림자만, 캡슐 버튼 */
+[data-theme="resort"] .card, [data-theme="resort"] .addp, [data-theme="resort"] .tl, [data-theme="resort"] .dl details.stop { border:0; box-shadow:var(--shadow); }
+[data-theme="resort"] h1 { font-size:24px; }
+[data-theme="resort"] .cta { border:0; }
+[data-theme="resort"] .chip.on, [data-theme="resort"] .tab.on { background:var(--primary); color:var(--on-primary); }
+/* 오션: 유리 카드 + 아쿠아는 채움 전용(텍스트 금지) */
+[data-theme="ocean"] .card, [data-theme="ocean"] .addp, [data-theme="ocean"] .tl, [data-theme="ocean"] .dl details.stop {
+  background:rgba(255,255,255,.78); backdrop-filter:blur(10px); border:1px solid rgba(255,255,255,.9);
+}
+[data-theme="ocean"] .tl-row .dot { box-shadow:0 0 0 3px rgba(0,166,192,.18); }
+[data-theme="ocean"] .cta { background:var(--primary); color:var(--on-primary); }
+/* 와후: 직각·가는 선·이중 액자 */
+[data-theme="wafu"] .card, [data-theme="wafu"] .addp, [data-theme="wafu"] .tl, [data-theme="wafu"] .dl details.stop { box-shadow:inset 0 0 0 3px var(--surface), inset 0 0 0 4px var(--line); border:1px solid var(--line-strong); }
+[data-theme="wafu"] h1, [data-theme="wafu"] h2 { letter-spacing:.04em; }
+[data-theme="wafu"] .cta { background:var(--primary); color:var(--on-primary); }
+[data-theme="wafu"] .brand::before { background:var(--accent); border-radius:0; }
+
+/* ---------- 표지: 테마가 기본 실루엣을 정한다 (design-spec-v2 §4) ---------- */
+.cover-frame { position:relative; overflow:hidden; background:var(--surface); }
+.cover-frame .cover-svg { display:block; width:100%; height:auto; position:relative; z-index:1; }
+[data-theme="travelbook"] .cover-frame { border:2px solid var(--line-strong); border-radius:6px 14px 14px 6px; box-shadow:6px 6px 0 var(--line-strong); padding-left:18px; background:var(--primary); }
+[data-theme="travelbook"] .cover-frame::before { content:""; position:absolute; left:0; top:0; bottom:0; width:18px; background:var(--ink); box-shadow:inset -3px 0 0 rgba(255,255,255,.18); z-index:2; }
+[data-theme="resort"] .cover-frame { border-radius:200px 200px 28px 28px; box-shadow:var(--shadow); background:linear-gradient(180deg,#F6C79A 0%,#F08E6A 38%,#C8523A 62%,#1B6B58 62.2%,#14503F 100%); padding:16px 16px 16px; }
+[data-theme="resort"] .cover-frame .cover-svg { border-radius:180px 180px 18px 18px; }
+[data-theme="ocean"] .cover-frame { border-radius:22px; box-shadow:var(--shadow); background:linear-gradient(180deg,#7FD3EA 0%,#0B67A8 55%,#0A2740 100%); padding:12px; }
+[data-theme="ocean"] .cover-frame .cover-svg { border-radius:16px; }
+[data-theme="ocean"] .cover-frame::after { content:""; position:absolute; left:0; right:0; bottom:-1px; height:34px; background:radial-gradient(40px 18px at 40px 100%,var(--bg) 98%,transparent 100%) 0 100%/80px 34px repeat-x; z-index:2; }
+[data-theme="wafu"] .cover-frame { border:1px solid var(--line-strong); box-shadow:inset 0 0 0 6px var(--surface), inset 0 0 0 7px var(--line-strong); padding:10px; background:var(--surface); }
+[data-theme="wafu"] .cover-frame::after { content:"旅"; position:absolute; right:22px; bottom:20px; width:42px; height:42px; display:grid; place-items:center; background:var(--accent); color:var(--on-accent); font-family:var(--font-head); font-size:20px; border-radius:2px; transform:rotate(3deg); z-index:3; }
+
+/* ---------- 제휴 카드 (AC-AF-01) — 타임라인 밖, 링크는 /go/{partner} 경유 ---------- */
+.affiliate { margin:16px 0 8px; padding:16px; border-radius:var(--r-card); border:1px dashed var(--line-strong); background:var(--surface-2); }
+.affiliate .af-hd { display:flex; align-items:center; gap:8px; font-weight:700; font-family:var(--font-title); }
+.affiliate .af-tag { font-size:12px; font-weight:700; padding:2px 8px; border-radius:var(--rb); background:var(--accent); color:var(--on-accent); }
+.affiliate p { margin:8px 0; font-size:13px; color:var(--ink-3); line-height:1.5; }
+.affiliate a.af-link { display:inline-flex; align-items:center; min-height:44px; font-weight:600; color:var(--ink); }
+
+/* ---------- 오프라인 팩 (AC-OFF-04) ---------- */
+.pack { margin:12px 0; padding:12px 16px; border-radius:var(--r-card); border:1px solid var(--line); background:var(--surface); }
+.pack .pg { height:8px; border-radius:4px; background:var(--surface-2); overflow:hidden; margin:8px 0; }
+.pack .pg i { display:block; height:100%; background:var(--primary); width:0; transition:width .2s; }
+.pack .meta { font-size:13px; color:var(--ink-3); }
+
+/* ---------- 공통 보조 컴포넌트 ---------- */
+.im.ill { background:linear-gradient(135deg,var(--surface-2),var(--accent-soft)); display:grid; place-items:center; }
+.im.ill span { font-family:var(--font-title); font-weight:700; font-size:22px; color:var(--ink-2); }
+.steps { margin:8px 0 8px; padding-left:20px; }
+.steps li { display:flex; justify-content:space-between; gap:12px; align-items:center; min-height:32px; font-size:15px; }
+.steps li + li { border-top:1px solid var(--line); }
+.steps li b { flex:none; font-variant-numeric:tabular-nums; color:var(--ink-2); }
+.src { margin:8px 0; font-size:13px; color:var(--ink-3); }
+.src a { color:var(--ink); min-height:44px; display:inline-flex; align-items:center; }
+.phrase { padding:8px 0; border-top:1px solid var(--line); }
+.phrase b { display:block; font-size:15px; }
+.phrase .say { display:block; font-size:24px; line-height:1.45; color:var(--ink); }
+
+/* 접힌 상세 카드 높이 56px 유지 (AC-LEN-03): 테두리는 inset 그림자로 대체 */
+.dl details.stop { border:0; }
+[data-theme="travelbook"] .dl details.stop { box-shadow:inset 0 0 0 2px var(--line-strong); }
+[data-theme="wafu"] .dl details.stop { box-shadow:inset 0 0 0 1px var(--line-strong),inset 0 0 0 4px var(--surface),inset 0 0 0 5px var(--line); }

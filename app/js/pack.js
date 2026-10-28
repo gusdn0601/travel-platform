@@ -1,10 +1,11 @@
 // 오프라인 팩 (AC-OFF-04/05). 일정에 필요한 데이터·사진을 Cache Storage 에 저장한다.
 // 서비스워커는 caches.match() 로 모든 캐시를 조회하므로 별도 캐시에 넣어도 오프라인에서 열린다.
+import { cityDir } from './cities.js';
 const META_KEY = 'travel_packs_v1';
 const cacheName = (id) => `tp-pack-${id}`;
 
 export const packUrls = (trip, places) => {
-  const city = '../data/cities/shanghai/';
+  const city = cityDir(trip.city_id);
   const ids = new Set(trip.plan.flatMap((d) => d.stops.map((s) => s.place_id)).filter(Boolean));
   const codes = [...ids].map((id) => places.find((p) => p.id === id)?.code).filter(Boolean);
   const cc = trip.country || 'CN';

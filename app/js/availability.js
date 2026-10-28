@@ -5,6 +5,9 @@ import { hoursWarning } from './sources/model.js';
 export const AIRPORTS = {
   PVG: { name: '푸동공항', lat: 31.1443, lng: 121.8083 },
   SHA: { name: '훙차오공항', lat: 31.1979, lng: 121.3363 },
+  KIX: { name: '간사이공항', lat: 34.4347, lng: 135.2440 },
+  ITM: { name: '이타미공항', lat: 34.7855, lng: 135.4382 },
+  FUK: { name: '후쿠오카공항', lat: 33.5859, lng: 130.4507 },
 };
 // 입국·수하물 / 공항 도착 여유 (flows.md §1): 해외 90·180분, 국내 30·90분
 export const BUFFERS = { intl: { entry: 90, airport: 180 }, domestic: { entry: 30, airport: 90 } };
@@ -143,6 +146,7 @@ export function recommend(places, byId, ctx) {
   const res = [];
   for (const p of places) {
     if (usedIds.has(p.id)) continue;
+    if (p.kind === 'transit') continue; // 공항·역은 일정 장소로 추천하지 않는다(검색으로는 추가 가능)
     if (kind === 'all' ? p.kind === 'food' : p.kind !== kind) continue;
     const f = fit(p, cur, win, kids); if (!f.ok) continue;
     const reasons = []; let s = score(p, { types, kids }), d = null, tr = null;
@@ -193,7 +197,7 @@ export function firstMeal(places, trip, win) {
  * 이 날 자동 채우기. 빈 날이면 새로 구성(식사 포함), 이미 일정이 있으면 뒤에 이어 붙임.
  * 반환: 새 stops (호출자가 day.stops 에 대입)
  */
-export function fillDay(places, byId, { stops = [], win, usedIds = new Set(), types = [], kids = 0, pace = 'normal', base = null }) {
+export function fillDay(places, byId, { stops = [], win, usedIds = new Set(), types = [], kids = 0, pace = 'normal', base = null, cityName = '상하이' }) {
   const max = paceMax(pace, kids), used = new Set(usedIds), cap = win.min * PACE_CAP;
   let cur = dayCursor(stops, byId, win);
   // 빈 날은 식사 블록(win.meal)을 따로 확보하므로 관광 창을 그만큼 줄여 후보를 고른다
@@ -211,17 +215,25 @@ export function fillDay(places, byId, { stops = [], win, usedIds = new Set(), ty
   }
   if (!stops.length) {
     if (!picked.length) return [];
-    const foods = places.filter((p) => p.kind === 'food' && !used.has(p.id));
-    const near = (slot) => foods.filter((f) => f.meal === slot).sort((a, b) => km(picked[0], a) - km(picked[0], b))[0];
-    const meals = { lunch: near('lunch'), dinner: near('dinner') };
-    const mk = (list) => buildTimeline(win.day_no, orderDay(list, kids, win.start), meals, kids, win.start);
+    const foods = places.filter((p) => p.kind === 'food' && !used.has(p.id) && p.lat != null);
+    // 도시 데이터에 점심/저녁 표시(meal)가 없어도 가까운 식당을 넣는다. 한 곳을 두 끼에 쓰지 않는다.
+    let pool = [...foods].sort((a, b) => km(picked[0], a) - km(picked[0], b));
+    const take = (slot) => {
+      const i = pool.findIndex((f) => f.meal === slot);
+      const k = i >= 0 ? i : pool.findIndex((f) => !f.meal);
+      return k < 0 ? undefined : pool.splice(k, 1)[0];
+    };
+    // 늦게 시작한 날(도착일 등)엔 점심을 끼워 넣지 않는다
+    const skipLunch = win.start > LUNCH[1] + 60;
+    const meals = { lunch: skipLunch ? undefined : take('lunch'), dinner: take('dinner') };
+    const mk = (list) => buildTimeline(win.day_no, orderDay(list, kids, win.start), meals, kids, win.start, { skipLunch });
     // 근교 당일치기: 현지 식사, 왕복 이동 블록만 (식당 목록으로 이어붙이면 장거리 '이동'이 생긴다)
     if (picked.length === 1 && picked[0].dayTrip) {
       const p = picked[0], s0 = Math.max(win.start + p.tripMin, openRange(p)[0]), e0 = s0 + p.stay_min;
       return [
-        { type: 'move', label: '상하이 → ' + p.name_ko, start_time: fromMin(s0 - p.tripMin), end_time: fromMin(s0), note: '근교 이동' },
+        { type: 'move', label: cityName + ' → ' + p.name_ko, start_time: fromMin(s0 - p.tripMin), end_time: fromMin(s0), note: '근교 이동' },
         { type: 'place', place_id: p.id, label: p.name_ko, start_time: fromMin(s0), end_time: fromMin(e0), note: '점심은 현지에서' },
-        { type: 'move', label: p.name_ko + ' → 상하이', start_time: fromMin(e0), end_time: fromMin(e0 + p.tripMin), note: '근교 이동' },
+        { type: 'move', label: p.name_ko + ' → ' + cityName, start_time: fromMin(e0), end_time: fromMin(e0 + p.tripMin), note: '근교 이동' },
       ].map((x, k) => ({ id: rid(), day_no: win.day_no, order: k + 1, ...x }));
     }
     const list = [...picked]; let out = mk(list);

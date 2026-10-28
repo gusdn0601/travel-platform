@@ -65,7 +65,7 @@ export function orderDay(items, kids, t0 = DAY_START) {
 }
 
 // 순서가 정해진 장소에 시각·이동·식사 블록을 입힘 (식사 11:30~13:30 / 18:00~20:00)
-export function buildTimeline(day_no, ordered, meals, kids, t0 = DAY_START) {
+export function buildTimeline(day_no, ordered, meals, kids, t0 = DAY_START, opts = {}) {
   const stops = [];
   let cur = null, t = t0, lunch = false, dinner = false;
   const push = (o) => stops.push({ id: sid(), day_no, order: stops.length + 1, ...o });
@@ -92,15 +92,15 @@ export function buildTimeline(day_no, ordered, meals, kids, t0 = DAY_START) {
   };
   for (const p of ordered) {
     const start = Math.max(t + (cur ? travel(cur, p, kids).min : 0), open(p)[0]);
-    if (!lunch && (start >= LUNCH[0] || (start + p.stay_min > LUNCH[1] && start >= 660))) doMeal('lunch', LUNCH);
-    if (!dinner && (start >= DINNER[0] || (start + p.stay_min > DINNER[1] && start >= 1020))) doMeal('dinner', DINNER);
+    if (!opts.skipLunch && !lunch && t < LUNCH[1] + 30 && (start >= LUNCH[0] || (start + p.stay_min > LUNCH[1] && start >= 660))) doMeal('lunch', LUNCH);
+    if (!opts.skipDinner && !dinner && (start >= DINNER[0] || (start + p.stay_min > DINNER[1] && start >= 1020))) doMeal('dinner', DINNER);
     if (cur) move(cur, p);
     const s0 = Math.max(t, open(p)[0]);
     place(p, s0);
     if (s0 + p.stay_min > open(p)[1]) stops[stops.length - 1].note = '영업시간 확인 필요';
   }
-  if (!lunch && t > 660) doMeal('lunch', LUNCH);
-  if (!dinner && t > 1020) doMeal('dinner', DINNER);
+  if (!opts.skipLunch && !lunch && t > 660 && t <= LUNCH[1]) doMeal('lunch', LUNCH); // 늦게 시작한 날엔 점심을 넣지 않는다
+  if (!opts.skipDinner && !dinner && t > 1020) doMeal('dinner', DINNER);
   return stops;
 }
 

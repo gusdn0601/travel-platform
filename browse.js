@@ -1,7 +1,10 @@
-// 둘러보기 — 첫 화면: 전체 장소 목록 + 검색. 정적 사이트(site/)에서 상대경로로 동작.
-// 데이터: ./data/browse-index.json (build-site.mjs 파생), 상세: ./data/cities/<도시>/places/<코드>.json
+// 둘러보기 — 홈: 도시 먼저 → 카테고리 카드 격자 → 목록(도시·종류로 미리 걸러진 기존 둘러보기).
+// 정적 사이트(site/)에서 상대경로로 동작. 데이터: ./data/browse-index.json (build-site.mjs 파생).
 import { iconSvg, KIND_ICON } from './place-icons.js';
-const KIND = { sight: '관광', food: '식당', shop: '쇼핑', transit: '교통' };
+import { ads } from './ads-config.js';
+import { chipsHtml, lodgingHtml, transitHtml, guideSummary } from './guide.js';
+
+const KIND = { sight: '관광', food: '맛집', shop: '쇼핑', transit: '교통', activity: '액티비티' };
 const KIND_ORDER = ['sight', 'food', 'shop', 'transit'];
 const TYPE_LABEL = {
   entry: '입국', visa: '비자·체류', app: '필수 앱', customs: '세관', exchange: '환전·결제',
@@ -9,6 +12,9 @@ const TYPE_LABEL = {
 };
 const TYPE_ORDER = ['entry', 'visa', 'app', 'exchange', 'sim', 'transport', 'power', 'customs', 'emergency', 'exit'];
 const PAGE = 40;
+// 상단 도시 세그먼트 순서 — 대표님 지시(10/29): 상하이·오사카·교토·나라·후쿠오카
+const CITY_ORDER = ['CN-SHA', 'JP-OSA', 'JP-KYO', 'JP-NAR', 'JP-FUK'];
+const CAL_ICON = '<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18M8 15h3M8 18h3M14 15h2"/></svg>';
 
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -21,14 +27,14 @@ const rich = (s) => esc(s).replace(/&lt;(\/?)(b|strong|br|span)([^&]*?)&gt;/g, (
   }
   return `<${close}${tag}>`;
 });
-const norm = (s) => String(s || '').toLowerCase().normalize('NFKC').replace(/[\s ]+/g, '').replace(/[·・,，.。:;'"“”‘’()（）\[\]{}<>!?~\-_/\\|]/g, '');
+const norm = (s) => String(s || '').toLowerCase().normalize('NFKC').replace(/[\s ]+/g, '').replace(/[·・,，.。:;'"“”‘’()（）\[\]{}<>!?~\-_/\\|]/g, '');
 const fmtNum = (n) => Number(n || 0).toLocaleString('ko-KR');
 const fmtMB = (b) => (b / 1048576).toFixed(b > 10485760 ? 0 : 1);
 
 const state = {
   data: null, countries: null, photos: {}, cityDir: {},
-  tab: 'list', city: 'all', kind: 'all', cats: new Set(), q: '', photoOnly: false, verifiedOnly: false,
-  sort: 'rec', limit: PAGE, offlineCity: 'CN-SHA', topOnly: false,
+  view: 'home', city: 'CN-SHA', kind: 'all', cats: new Set(), acts: new Set(), area: '', q: '',
+  photoOnly: false, verifiedOnly: false, sort: 'rec', limit: PAGE, topOnly: false, guideType: 'all', guideCity: '',
 };
 const els = {};
 
@@ -36,10 +42,13 @@ init();
 
 async function init() {
   els.q = $('#q'); els.cards = $('#cards'); els.count = $('#count'); els.empty = $('#empty');
-  els.cityChips = $('#cityChips'); els.kindChips = $('#kindChips'); els.foodChips = $('#foodChips');
-  els.catWrap = $('#foodCatWrap'); els.detail = $('#detail'); els.toast = $('#toast');
-  els.moreWrap = $('#moreWrap'); els.offlineBtn = $('#offlineBtn');
-  setupFont(); setupOfflineBar(); setupSearch();
+  els.citySeg = $('#citySeg'); els.kindChips = $('#kindChips');
+  els.subWrap = $('#subWrap'); els.subHead = $('#subHead'); els.subChips = $('#subChips');
+  els.guideWrap = $('#guideWrap'); els.listHead = $('#listHead');
+  els.homeView = $('#homeView'); els.listView = $('#listView'); els.guideView = $('#guideView'); els.countryView = $('#countryView');
+  els.detail = $('#detail'); els.toast = $('#toast');
+  els.moreWrap = $('#moreWrap'); els.offlineBtn = $('#offlineBtn'); els.sortBtn = $('#sortBtn');
+  setupFont(); setupOfflineBar(); setupSearch(); setupDelegates();
   try {
     const [idx, countries, photos] = await Promise.all([
       fetch('./data/browse-index.json', { cache: 'no-cache' }).then((r) => { if (!r.ok) throw new Error('index ' + r.status); return r.json(); }),
@@ -48,14 +57,28 @@ async function init() {
     ]);
     state.data = idx; state.countries = countries; state.photos = photos;
     for (const c of idx.cities) state.cityDir[c.id] = c.dir;
-    renderChips(); renderList();
+    state.city = resolveCity();
+    renderChips();
     route(true);
     setupSW();
   } catch (e) {
-    els.cards.innerHTML = `<p class="empty">데이터를 불러오지 못했어요.<br><b>인터넷 연결</b> 후 다시 열어 주세요.<br><span class="muted">${esc(e.message)}</span></p>`;
+    els.homeView.innerHTML = `<p class="empty">데이터를 불러오지 못했어요.<br><b>인터넷 연결</b> 후 다시 열어 주세요.<br><span class="muted">${esc(e.message)}</span></p>`;
   }
   window.addEventListener('hashchange', () => route(false));
   window.addEventListener('popstate', () => route(false));
+}
+
+function resolveCity() {
+  const saved = localStorage.getItem('tp-city');
+  if (saved && state.cityDir[saved]) return saved;
+  if (state.cityDir['CN-SHA']) return 'CN-SHA';
+  return state.data.cities[0].id;
+}
+function cityObj() { return state.data.cities.find((c) => c.id === state.city) || state.data.cities[0]; }
+function setCity(id) {
+  if (!state.cityDir[id] || id === state.city) return;
+  state.city = id; state.area = ''; state.limit = PAGE;
+  try { localStorage.setItem('tp-city', id); } catch { }
 }
 
 /* ---------------- 검색·필터 ---------------- */
@@ -65,77 +88,102 @@ function setupSearch() {
   els.q.addEventListener('input', () => {
     $('#clearQ').hidden = !els.q.value;
     clearTimeout(t);
-    t = setTimeout(() => { state.q = els.q.value.trim(); state.limit = PAGE; renderList(); }, 90);
+    t = setTimeout(() => {
+      state.q = els.q.value.trim(); state.limit = PAGE;
+      if (state.view === 'list') { syncListHash(true); renderList(); }
+      else if (state.data) location.hash = `/list/${encodeURIComponent(state.city)}/all${state.q ? `?q=${encodeURIComponent(state.q)}` : ''}`;
+    }, 90);
   });
-  $('#clearQ').addEventListener('click', () => { els.q.value = ''; state.q = ''; $('#clearQ').hidden = true; state.limit = PAGE; renderList(); els.q.focus(); });
-  $('#sortBtn').addEventListener('click', () => {
+  $('#clearQ').addEventListener('click', () => {
+    els.q.value = ''; state.q = ''; $('#clearQ').hidden = true; state.limit = PAGE;
+    if (state.view === 'list') { syncListHash(true); renderList(); }
+    els.q.focus();
+  });
+  els.sortBtn.addEventListener('click', () => {
     const order = ['rec', 'name', 'city'];
     const labels = { rec: '추천순', name: '이름순', city: '도시순' };
     state.sort = order[(order.indexOf(state.sort) + 1) % order.length];
-    $('#sortBtn').textContent = labels[state.sort];
+    els.sortBtn.textContent = labels[state.sort];
     renderList();
   });
-  els.offlineBtn.addEventListener('click', saveOffline);
   $('#fontBtn').addEventListener('click', cycleFont);
 }
 
-// 선택된 필터(도시·종류·토글)를 반영한 개수 — 위에서 도시를 고르면 아래 종류·음식 개수가 따라 바뀐다
-function facet(items, { city = true, kind = true } = {}) {
-  return items.filter((i) => (!city || state.city === 'all' || i.city === state.city)
-    && (!kind || state.kind === 'all' || i.k === state.kind)
-    && (!state.photoOnly || i.ph) && (!state.verifiedOnly || i.v) && (!state.topOnly || i.p <= 2));
+function syncListHash(replace) {
+  const q = state.area ? `?area=${encodeURIComponent(state.area)}${state.q ? `&q=${encodeURIComponent(state.q)}` : ''}` : state.q ? `?q=${encodeURIComponent(state.q)}` : '';
+  const h = `#/list/${encodeURIComponent(state.city)}/${state.kind}${q}`;
+  try { history[replace ? 'replaceState' : 'pushState'](null, '', h); } catch { }
 }
 
-function renderChips() {
-  const d = state.data;
-  const foodTab = state.tab === 'food';
-  const base = facet(foodTab ? d.items.filter((i) => i.k === 'food') : d.items, { city: false, kind: !foodTab });
-  const perCity = {};
-  for (const i of base) perCity[i.city] = (perCity[i.city] || 0) + 1;
-  const cityChips = [{ id: 'all', name: '전체', count: base.length }, ...d.cities.map((c) => ({ id: c.id, name: c.name, count: perCity[c.id] || 0 }))];
-  els.cityChips.innerHTML = '<span class="rowlab">도시</span>' + cityChips.map((c) => `<button class="chip${state.city === c.id ? ' on' : ''}" data-city="${esc(c.id)}" aria-pressed="${state.city === c.id}">${esc(c.name)} <span class="n">${c.count}</span></button>`).join('');
-  const kindBase = facet(d.items, { kind: false });
-  const perKind = {};
-  for (const i of kindBase) perKind[i.k] = (perKind[i.k] || 0) + 1;
-  const kindChips = [{ id: 'all', name: '전체', count: kindBase.length }, ...KIND_ORDER.map((k) => ({ id: k, name: KIND[k], count: perKind[k] || 0 }))];
-  const toggles = `<button class="chip${state.photoOnly ? ' on' : ''}" data-photo="1" aria-pressed="${state.photoOnly}">사진 있음</button>` +
-    `<button class="chip${state.verifiedOnly ? ' on' : ''}" data-verified="1" aria-pressed="${state.verifiedOnly}">검증됨</button>` +
-    `<button class="chip${state.topOnly ? ' on' : ''}" data-top="1" aria-pressed="${state.topOnly}">우선순위 1~2</button>`;
-  els.kindChips.innerHTML = foodTab
-    ? `<span class="rowlab">필터</span>${toggles}`
-    : '<span class="rowlab">종류</span>' + kindChips.map((c) => `<button class="chip${state.kind === c.id ? ' on' : ''}" data-kind="${c.id}" aria-pressed="${state.kind === c.id}">${esc(c.name)} <span class="n">${c.count}</span></button>`).join('') + toggles;
-  els.cityChips.onclick = (e) => {
+function setupDelegates() {
+  els.citySeg.addEventListener('click', (e) => {
     const b = e.target.closest('[data-city]'); if (!b) return;
-    state.city = b.dataset.city; state.limit = PAGE; renderChips(); renderList();
-  };
-  els.kindChips.onclick = (e) => {
+    const id = b.dataset.city;
+    if (id === state.city) { window.scrollTo({ top: 0, behavior: 'smooth' }); return; }
+    setCity(id);
+    renderCitySeg();
+    const q = state.q ? `?q=${encodeURIComponent(state.q)}` : '';
+    if (state.view === 'list') location.hash = `/list/${encodeURIComponent(id)}/${state.kind}${q}`;
+    else if (state.view === 'guide') location.hash = `/guide/${encodeURIComponent(id)}/lodging`;
+    else if (state.view === 'country') { renderCountry(); }
+    else { renderHome(); window.scrollTo({ top: 0 }); }
+  });
+  els.kindChips.addEventListener('click', (e) => {
     const top = e.target.closest('[data-top]');
     if (top) { state.topOnly = !state.topOnly; state.limit = PAGE; renderChips(); renderList(); return; }
     if (e.target.closest('[data-photo]')) { state.photoOnly = !state.photoOnly; state.limit = PAGE; renderChips(); renderList(); return; }
     if (e.target.closest('[data-verified]')) { state.verifiedOnly = !state.verifiedOnly; state.limit = PAGE; renderChips(); renderList(); return; }
     const b = e.target.closest('[data-kind]'); if (!b) return;
-    state.kind = b.dataset.kind; state.limit = PAGE; renderChips(); renderList();
-  };
+    const q = state.q ? `?q=${encodeURIComponent(state.q)}` : '';
+    location.hash = `/list/${encodeURIComponent(state.city)}/${b.dataset.kind}${q}`;
+  });
+  const skip = $('.skip');
+  if (skip) skip.addEventListener('click', (e) => { e.preventDefault(); $('#view').focus(); $('#view').scrollIntoView(); });
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('[data-offline]')) { saveOffline(); return; }
+    const r = e.target.closest('[data-reset]');
+    if (r) {
+      state.q = ''; state.cats.clear(); state.acts.clear(); state.area = '';
+      state.photoOnly = state.verifiedOnly = state.topOnly = false; state.limit = PAGE;
+      els.q.value = ''; $('#clearQ').hidden = true;
+      location.hash = `/list/${encodeURIComponent(state.city)}/all`;
+    }
+  });
 }
 
-function renderFoodChips() {
-  const show = state.tab === 'food' || (state.kind === 'food' && state.tab === 'list');
-  els.catWrap.hidden = !show;
-  if (!show) return;
-  const foods = facet(state.data.items.filter((i) => i.k === 'food'), { kind: false });
-  const perCat = {};
-  for (const i of foods) for (const c of i.fc || []) perCat[c] = (perCat[c] || 0) + 1;
-  const cats = state.data.categories.map((c) => ({ ...c, count: perCat[c.id] || 0 })).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'ko'));
-  const total = foods.length;
-  els.foodChips.innerHTML = `<button class="chip${state.cats.size ? '' : ' on'}" data-cat="" aria-pressed="${!state.cats.size}">전체 <span class="n">${total}</span></button>` +
-    cats.map((c) => `<button class="chip${state.cats.has(c.id) ? ' on' : ''}" data-cat="${esc(c.id)}" aria-pressed="${state.cats.has(c.id)}">${esc(c.label)} <span class="n">${c.count}</span></button>`).join('');
-  els.foodChips.onclick = (e) => {
-    const b = e.target.closest('[data-cat]'); if (!b) return;
-    const id = b.dataset.cat;
-    if (!id) state.cats.clear();
-    else if (state.cats.has(id)) state.cats.delete(id); else state.cats.add(id);
-    state.limit = PAGE; renderFoodChips(); renderList();
-  };
+// 선택된 필터를 반영한 개수 — 도시를 고르면 아래 종류·하위 분류 개수가 따라 바뀐다
+function cityItems(city = state.city) { return state.data.items.filter((i) => i.city === city); }
+
+function renderCitySeg() {
+  const rank = (id) => { const i = CITY_ORDER.indexOf(id); return i < 0 ? 99 : i; };
+  const cities = [...state.data.cities].sort((a, b) => rank(a.id) - rank(b.id));
+  els.citySeg.innerHTML = cities.map((c) =>
+    `<button class="chip${state.city === c.id ? ' on' : ''}" type="button" data-city="${esc(c.id)}" aria-pressed="${state.city === c.id}">${esc(c.name)}</button>`).join('');
+}
+
+function renderChips() {
+  const items = cityItems();
+  const perKind = {};
+  for (const i of items) perKind[i.k] = (perKind[i.k] || 0) + 1;
+  const actSet = new Set(items.filter((i) => (i.ac || []).length).map((i) => i.c));
+  const chips = [
+    { id: 'all', name: '전체', count: items.length },
+    ...KIND_ORDER.map((k) => ({ id: k, name: KIND[k], count: perKind[k] || 0 })),
+    { id: 'activity', name: '액티비티', count: actSet.size },
+  ];
+  const toggles = `<button class="chip${state.photoOnly ? ' on' : ''}" type="button" data-photo="1" aria-pressed="${state.photoOnly}">사진 있음</button>` +
+    `<button class="chip${state.verifiedOnly ? ' on' : ''}" type="button" data-verified="1" aria-pressed="${state.verifiedOnly}">검증됨</button>` +
+    `<button class="chip${state.topOnly ? ' on' : ''}" type="button" data-top="1" aria-pressed="${state.topOnly}">우선순위 1~2</button>`;
+  els.kindChips.innerHTML = '<span class="rowlab">종류</span>' + chips.map((c) => {
+    const on = state.kind === c.id;
+    return `<button class="chip${on ? ' on' : ''}" type="button" data-kind="${c.id}" aria-pressed="${on}">${esc(c.name)} <span class="n">${fmtNum(c.count)}</span></button>`;
+  }).join('') + toggles;
+  // 고른 종류가 칩 줄 밖에 있으면 보이게 스크롤(예: 액티비티·교통)
+  const on = els.kindChips.querySelector('[data-kind].on');
+  if (on) {
+    const box = els.kindChips.getBoundingClientRect(), r = on.getBoundingClientRect();
+    if (r.left < box.left || r.right > box.right) els.kindChips.scrollLeft += (r.left - box.left) - 24;
+  }
 }
 
 function matchedCategories(q) {
@@ -146,21 +194,23 @@ function matchedCategories(q) {
 function filtered() {
   const q = state.q.trim();
   const terms = q ? q.split(/\s+/).map(norm).filter(Boolean) : [];
-  const foodTab = state.tab === 'food';
-  const catCat = new Set(state.cats);
+  const useCats = state.kind === 'all' || state.kind === 'food';
+  const catCat = new Set(useCats ? state.cats : []);
   // 검색어가 음식 카테고리와 정확히 맞으면 그 카테고리도 후보에 넣는다(예: 꿔바로우·소룡포·라멘)
-  for (const c of matchedCategories(q)) catCat.add(c.id);
+  if (useCats) for (const c of matchedCategories(q)) catCat.add(c.id);
   const out = state.data.items.filter((i) => {
-    if (foodTab && i.k !== 'food') return false;
-    if (state.city !== 'all' && i.city !== state.city) return false;
-    if (state.kind !== 'all' && i.k !== state.kind) return false;
+    if (i.city !== state.city) return false;
+    if (state.kind === 'activity') {
+      if (!(i.ac || []).length) return false;
+      if (state.acts.size && !i.ac.some((a) => state.acts.has(a))) return false;
+    } else if (state.kind !== 'all' && i.k !== state.kind) return false;
+    if (state.area && i.a !== state.area) return false;
     if (state.photoOnly && !i.ph) return false;
     if (state.verifiedOnly && !i.v) return false;
     if (state.topOnly && !(i.p <= 2)) return false;
-    if (catCat.size && i.k === 'food' && !i.fc.some((c) => catCat.has(c))) return false;
-    if (catCat.size && i.k !== 'food' && !foodTab) {
-      // 음식 카테고리를 골랐는데 비-식당이면 식당만 보여 준다
-      return false;
+    if (catCat.size) {
+      if (i.k !== 'food') return false;
+      if (!i.fc.some((c) => catCat.has(c))) return false;
     }
     if (terms.length && !terms.every((t) => i.s2.includes(t))) return false;
     return true;
@@ -176,23 +226,166 @@ function filtered() {
   return out.sort(cmp);
 }
 
+/* ---------------- 홈 ---------------- */
+function cityCounts(c) {
+  const items = cityItems(c.id);
+  const per = {};
+  for (const i of items) per[i.k] = (per[i.k] || 0) + 1;
+  const act = new Set(items.filter((i) => (i.ac || []).length).map((i) => i.c));
+  const country = countryForCity(c.id);
+  const richAreas = c.guides && c.guides.lodging && c.guides.lodging.rich && Array.isArray(c.guides.lodging.rich.areas) ? c.guides.lodging.rich.areas.length : 0;
+  return {
+    all: items.length, sight: per.sight || 0, food: per.food || 0, shop: per.shop || 0, transit: per.transit || 0,
+    activity: act.size,
+    lodging: richAreas || ((c.guides && c.guides.lodging && c.guides.lodging.items) || []).length,
+    country: (country && country.counts && country.counts.procedures) || 0,
+  };
+}
+
+function tileHtml({ cls, href, icon, name, sub, count, unit }) {
+  return `<a class="tile ${cls}" href="${href}">
+    <span class="tic" aria-hidden="true">${iconSvg(icon)}</span>
+    <span class="tname">${esc(name)}</span>
+    <span class="tsub">${esc(sub)}</span>
+    <span class="tcount"><b>${fmtNum(count)}</b>${esc(unit)}</span>
+    <span class="go" aria-hidden="true">›</span></a>`;
+}
+
+function adSlotHtml() {
+  // 웹(PWA) 단계는 광고 0건 → DOM 자체를 만들지 않는다(AC-AD-01/AC-HOME-04).
+  if (!ads.enabled) return '';
+  return `<aside class="ad-slot" data-ad="1" data-ad-slot="${esc(ads.slot)}" aria-label="${esc(ads.label)} 자리">
+    <span class="adlab">${esc(ads.label)}</span><span>파트너 자리 · 앱 단계에서만 표시</span></aside>`;
+}
+
+function renderHome() {
+  const c = cityObj();
+  if (!c) return;
+  state.view = 'home';
+  const n = cityCounts(c);
+  const id = encodeURIComponent(c.id);
+  const tiles = [
+    tileHtml({ cls: 't-transit', href: `#/list/${id}/transit`, icon: 'train', name: '교통', sub: '공항·역·노선', count: n.transit, unit: '곳' }),
+    tileHtml({ cls: 't-lodging', href: `#/guide/${id}/lodging`, icon: 'bed', name: '숙박', sub: '지역별로 고르기', count: n.lodging, unit: '지역' }),
+    tileHtml({ cls: 't-food', href: `#/list/${id}/food`, icon: 'bowl', name: '맛집', sub: '음식 종류로 찾기', count: n.food, unit: '곳' }),
+    tileHtml({ cls: 't-sight', href: `#/list/${id}/sight`, icon: 'sight', name: '관광', sub: '명소·산책', count: n.sight, unit: '곳' }),
+    tileHtml({ cls: 't-shop', href: `#/list/${id}/shop`, icon: 'bag', name: '쇼핑', sub: '시장·백화점', count: n.shop, unit: '곳' }),
+    tileHtml({ cls: 't-activity', href: `#/list/${id}/activity`, icon: 'themepark', name: '액티비티', sub: '체험·온천·야경', count: n.activity, unit: '곳' }),
+  ].join('');
+  const countryWide = `<a class="tile wide t-country" href="#/country">
+    <span class="tic" aria-hidden="true">${iconSvg('airport')}</span>
+    <span class="tw"><span class="tname">입국·국가정보</span><span class="tsub">입국·환전·통신·회화</span></span>
+    <span class="tcount"><b>${fmtNum(n.country)}</b>항목</span>
+    <span class="go" aria-hidden="true">›</span></a>`;
+  els.homeView.innerHTML = `<div class="home">
+    <div class="home-head"><h1>${esc(c.name)}</h1><span class="loc">${esc(c.name_local || '')}</span><span class="hs">${fmtNum(n.all)}곳</span></div>
+    <a class="cta" href="./app/#/new?city=${id}" data-builder>
+      <span class="ci" aria-hidden="true">${CAL_ICON}</span>
+      <span class="ct"><b>일정 만들기</b><span>${esc(c.name)}로 바로 시작 · 3박 4일부터</span></span>
+      <span class="go" aria-hidden="true">→</span>
+    </a>
+    <div class="tiles" aria-label="${esc(c.name)} 분류 카드">${tiles}${countryWide}</div>
+    ${adSlotHtml()}
+  </div>`;
+  document.body.dataset.view = 'home';
+  document.body.dataset.tab = 'home';
+  setTab('home');
+  showOnly('home');
+  renderCitySeg();
+  updateOfflineLabel();
+}
+
+/* ---------------- 목록 ---------------- */
+function renderListHead() {
+  const c = cityObj();
+  const label = state.kind === 'all' ? '전체' : (KIND[state.kind] || state.kind);
+  const dirty = state.q || state.area
+    || (state.kind === 'activity' && state.acts.size)
+    || ((state.kind === 'all' || state.kind === 'food') && state.cats.size)
+    || state.photoOnly || state.verifiedOnly || state.topOnly;
+  els.listHead.innerHTML = `<a class="lback" href="#/">← 홈</a><span class="lcrumbs">${esc(c.name)} · ${esc(label)}</span>` +
+    (dirty ? '<button class="tool" type="button" data-reset style="margin-left:auto">초기화</button>' : '');
+}
+
+function renderSub() {
+  const c = cityObj();
+  if (state.kind === 'food') {
+    els.subWrap.hidden = false;
+    els.subHead.textContent = '음식 종류 · 여러 개 고를 수 있어요';
+    const foods = cityItems().filter((i) => i.k === 'food');
+    const perCat = {};
+    for (const i of foods) for (const cat of i.fc || []) perCat[cat] = (perCat[cat] || 0) + 1;
+    const cats = state.data.categories.map((x) => ({ ...x, count: perCat[x.id] || 0 })).filter((x) => x.count > 0).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'ko'));
+    els.subChips.innerHTML = `<button class="chip${state.cats.size ? '' : ' on'}" type="button" data-cat="" aria-pressed="${!state.cats.size}">전체 <span class="n">${fmtNum(foods.length)}</span></button>` +
+      cats.map((x) => `<button class="chip${state.cats.has(x.id) ? ' on' : ''}" type="button" data-cat="${esc(x.id)}" aria-pressed="${state.cats.has(x.id)}">${esc(x.label)} <span class="n">${fmtNum(x.count)}</span></button>`).join('');
+    els.subChips.onclick = (e) => {
+      const b = e.target.closest('[data-cat]'); if (!b) return;
+      const id = b.dataset.cat;
+      if (!id) state.cats.clear();
+      else if (state.cats.has(id)) state.cats.delete(id); else state.cats.add(id);
+      state.limit = PAGE; renderSub(); renderList();
+    };
+    return;
+  }
+  if (state.kind === 'activity') {
+    els.subWrap.hidden = false;
+    els.subHead.textContent = '액티비티 주제 · 여러 개 고를 수 있어요';
+    const items = cityItems();
+    const acts = (state.data.activities || []).map((a) => ({ ...a, count: items.filter((i) => (i.ac || []).includes(a.id)).length }))
+      .filter((a) => a.count > 0).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'ko'));
+    const total = items.filter((i) => (i.ac || []).length).length;
+    els.subChips.innerHTML = `<button class="chip${state.acts.size ? '' : ' on'}" type="button" data-act="" aria-pressed="${!state.acts.size}">전체 <span class="n">${fmtNum(total)}</span></button>` +
+      acts.map((a) => `<button class="chip${state.acts.has(a.id) ? ' on' : ''}" type="button" data-act="${esc(a.id)}" aria-pressed="${state.acts.has(a.id)}">${esc(a.label)} <span class="n">${fmtNum(a.count)}</span></button>`).join('');
+    els.subChips.onclick = (e) => {
+      const b = e.target.closest('[data-act]'); if (!b) return;
+      const id = b.dataset.act;
+      if (!id) state.acts.clear();
+      else if (state.acts.has(id)) state.acts.delete(id); else state.acts.add(id);
+      state.limit = PAGE; renderSub(); renderList();
+    };
+    return;
+  }
+  els.subWrap.hidden = true;
+  els.subChips.innerHTML = '';
+  els.subChips.onclick = null;
+}
+
+function renderGuide() {
+  const c = cityObj();
+  const g = c && c.guides && c.guides.transit;
+  if (state.kind !== 'transit' || !g || !(g.items || []).length) { els.guideWrap.innerHTML = ''; return; }
+  els.guideWrap.innerHTML = `<section class="guidebox" aria-label="교통 노선 요약">
+    <div class="gh"><b>${esc(g.title || '교통·노선')}</b><span class="muted">주요 ${g.items.length}곳 · 눌러서 상세</span></div>
+    <p class="gintro">${esc(g.intro || '')}</p>
+    <div class="gitems">${g.items.map((it) => `<a class="gitem" href="#/p/${encodeURIComponent(it.code)}">
+      <span class="gi" aria-hidden="true">${iconSvg('train')}</span>
+      <span class="gt"><b>${esc(it.name)}</b><span>${esc([it.area, it.note].filter(Boolean).join(' · '))}</span></span>
+      <span class="go" aria-hidden="true">›</span></a>`).join('')}</div>
+    <a class="gmore" href="#/guide/${encodeURIComponent(c.id)}/transit">노선·공항·패스 가이드 더 보기 →</a>
+  </section>`;
+}
+
 function renderList() {
   if (!state.data) return;
-  renderFoodChips();
+  renderListHead();
+  renderChips();
+  renderSub();
+  renderGuide();
   const list = filtered();
   const shown = list.slice(0, state.limit);
-  els.count.innerHTML = `<b>${fmtNum(list.length)}</b>곳${state.q ? ` · ‘${esc(state.q)}’` : ''}`;
+  els.count.innerHTML = `<b>${fmtNum(list.length)}</b>곳${state.q ? ` · ‘${esc(state.q)}’` : ''}${state.area ? ` · ${esc(state.area)}` : ''}`;
   els.empty.hidden = list.length > 0;
   if (!list.length) {
     const cats = matchedCategories(state.q).filter((c) => !c.count);
     els.empty.innerHTML = state.q
-      ? `‘${esc(state.q)}’ 에 맞는 장소가 없어요.${cats.length ? `<br>‘<b>${esc(cats[0].label)}</b>’ 카테고리 식당은 아직 수집되지 않았습니다.<br><span class="muted">데이터가 늘면 다시 빌드해 목록이 채워집니다.</span>` : ''}<br><span class="muted">다른 말로 검색해 보세요 (예: 샤오룽바오, 라멘, 성황묘).</span>`
+      ? `‘${esc(state.q)}’ 에 맞는 장소가 없어요.${cats.length ? `<br>‘<b>${esc(cats[0].label)}</b>’ 카테고리 식당은 아직 수집되지 않았습니다.` : ''}<br><span class="muted">다른 말로 검색해 보세요 (예: 샤오룽바오, 라멘, 성황묘).</span>`
       : '고른 필터에 맞는 장소가 없어요. 필터를 풀어 보세요.';
   }
-  const html = shown.map(cardHtml).join('');
-  els.cards.innerHTML = html;
+  els.cards.innerHTML = shown.map(cardHtml).join('');
   els.moreWrap.hidden = list.length <= state.limit;
   $('#moreBtn').onclick = () => { state.limit += PAGE; renderList(); };
+  els.adWrap = els.adWrap || $('#adWrap');
+  els.adWrap.innerHTML = adSlotHtml();
   renderSummary(list);
   updateOfflineLabel();
 }
@@ -201,14 +394,14 @@ function renderSummary(list) {
   const box = $('#activeInfo');
   const bits = [];
   if (state.q) bits.push(`검색: ${state.q}`);
-  if (state.city !== 'all') bits.push(state.data.cities.find((c) => c.id === state.city)?.name || '');
-  if (state.kind !== 'all') bits.push(KIND[state.kind]);
-  if (state.cats.size) bits.push([...state.cats].map((id) => state.data.categories.find((c) => c.id === id)?.label || id).join('·'));
+  if (state.area) bits.push(state.area);
+  if (state.kind === 'activity' && state.acts.size) bits.push([...state.acts].map((id) => ((state.data.activities || []).find((a) => a.id === id) || {}).label || id).join('·'));
+  if ((state.kind === 'all' || state.kind === 'food') && state.cats.size) bits.push([...state.cats].map((id) => (state.data.categories.find((c) => c.id === id) || {}).label || id).join('·'));
   if (state.photoOnly) bits.push('사진 있음');
   if (state.verifiedOnly) bits.push('검증됨');
   if (state.topOnly) bits.push('우선순위 1~2');
-  box.innerHTML = bits.filter(Boolean).length
-    ? `<div class="filtersum" aria-label="적용된 필터">${bits.filter(Boolean).map((b) => `<span class="p">${esc(b)}</span>`).join('')}</div>` : '';
+  box.innerHTML = bits.length
+    ? `<div class="filtersum" aria-label="적용된 필터">${bits.map((b) => `<span class="p">${esc(b)}</span>`).join('')}</div>` : '';
 }
 
 function cardHtml(i) {
@@ -219,6 +412,12 @@ function cardHtml(i) {
   const tags = [];
   if (i.p < 90) tags.push(`<span class="badge rec">추천 ${i.p}</span>`);
   tags.push(`<span class="badge ${i.k}">${esc(KIND[i.k] || i.k)}</span>`);
+  if (state.kind === 'activity' && (i.ac || []).length) {
+    for (const id of i.ac.slice(0, 2)) {
+      const a = (state.data.activities || []).find((x) => x.id === id);
+      if (a) tags.push(`<span class="badge act">${esc(a.label)}</span>`);
+    }
+  }
   if (i.v) tags.push('<span class="badge ok">검증</span>');
   if (i.k === 'food' && i.fc.length) for (const c of i.fc.slice(0, 2)) {
     const cat = state.data.categories.find((x) => x.id === c); if (cat && c !== 'other') tags.push(`<span class="badge food">${esc(cat.label)}</span>`);
@@ -234,24 +433,147 @@ function cardHtml(i) {
     </span></a>`;
 }
 
+/* ---------------- 가이드(숙박) ---------------- */
+function showGuide(cityId, type) {
+  if (state.cityDir[cityId]) setCity(cityId);
+  state.view = 'guide'; state.kind = 'all';
+  document.body.dataset.view = 'guide';
+  document.body.dataset.tab = 'home';
+  setTab('home');
+  showOnly('guide');
+  renderCitySeg();
+  const c = cityObj();
+  const g = c && c.guides && c.guides[type];
+  const box = els.guideView;
+  if (!g) {
+    box.innerHTML = `<div class="listhead"><a class="lback" href="#/">← 홈</a><span class="lcrumbs">${esc(c.name)}</span></div><p class="empty">가이드가 아직 없어요.</p>`;
+    return;
+  }
+  const rich = g.rich; // 구역·노선·공항·패스 상세(guide.js 렌더)
+  // 다른 도시로 넘어가면 여행자 유형 선택은 초기화한다(도시마다 해당 구역이 다름).
+  if (state.guideCity !== cityId) { state.guideCity = cityId; state.guideType = 'all'; }
+  const items = (g.items || []).slice(0, 4);
+  const cards = type === 'lodging'
+    ? items.map((it) => `<a class="gcard" href="#/list/${encodeURIComponent(c.id)}/all?area=${encodeURIComponent(it.area || it.name)}">
+        <b>${esc(it.name || it.area)}</b>
+        <span class="gmeta">${String(it.note || '').split(' · ').filter(Boolean).map((x) => `<span>${esc(x)}</span>`).join('')}</span>
+        <span class="gsub">이 지역 장소 보기 →</span></a>`).join('')
+    : items.map((it) => `<a class="gitem" href="#/p/${encodeURIComponent(it.code)}">
+        <span class="gi" aria-hidden="true">${iconSvg('train')}</span>
+        <span class="gt"><b>${esc(it.name)}</b><span>${esc([it.area, it.note].filter(Boolean).join(' · '))}</span></span>
+        <span class="go" aria-hidden="true">›</span></a>`).join('');
+  const switchChips = `<div class="chips gswitch" role="group" aria-label="가이드 종류">
+    <a class="chip${type === 'lodging' ? ' on' : ''}" href="#/guide/${encodeURIComponent(c.id)}/lodging"${type === 'lodging' ? ' aria-current="page"' : ''}>숙박</a>
+    <a class="chip${type === 'transit' ? ' on' : ''}" href="#/guide/${encodeURIComponent(c.id)}/transit"${type === 'transit' ? ' aria-current="page"' : ''}>교통</a></div>`;
+  let body;
+  if (rich && type === 'lodging') {
+    body = `<div class="chips lgtypes" id="lgTypes" role="group" aria-label="여행자 유형">${chipsHtml(state.guideType)}</div>
+      <div id="lgBody">${lodgingHtml(rich, state.guideType)}</div>`;
+  } else if (rich && type === 'transit') {
+    body = transitHtml(rich);
+  } else {
+    body = type === 'lodging' ? `<div class="gcards">${cards}</div>` : `<section class="guidebox">${cards}</section>`;
+  }
+  box.innerHTML = `<div class="listhead"><a class="lback" href="#/">← 홈</a><span class="lcrumbs">${esc(c.name)} · ${esc(g.title || '')}</span></div>
+    <div class="vhead"><h1>${esc(g.title || '')}</h1>${rich ? `<p class="gsumline">${guideSummary(rich, type)}</p>` : `<p>${esc(g.intro || '')}</p>`}</div>
+    ${switchChips}
+    ${body}
+    ${!rich && g.note ? `<p class="gnote">${esc(g.note)}</p>` : ''}
+    <a class="bigbtn" href="#/list/${encodeURIComponent(c.id)}/all">${esc(c.name)} 전체 ${fmtNum(c.count)}곳 보기 →</a>`;
+  // 여행자 유형 칩 — 다시 그릴 때도 이벤트가 살아 있도록 컨테이너에 한 번만 건다.
+  const types = box.querySelector('#lgTypes');
+  if (types) {
+    types.onclick = (e) => {
+      const b = e.target.closest('[data-gtype]'); if (!b) return;
+      state.guideType = b.dataset.gtype;
+      types.innerHTML = chipsHtml(state.guideType);
+      box.querySelector('#lgBody').innerHTML = lodgingHtml(rich, state.guideType);
+    };
+  }
+  window.scrollTo({ top: 0 });
+}
+
 /* ---------------- 상세 ---------------- */
 function route(first = false) {
-  const h = location.hash.replace(/^#/, '');
-  if (h.startsWith('/p/')) {
-    const code = decodeURIComponent(h.slice(3));
-    openDetail(code, first);
+  if (!state.data) return;
+  const raw = location.hash.replace(/^#/, '');
+  const [pathPart, qs] = raw.split('?');
+  const path = pathPart.replace(/\/+$/, '') || '/';
+  const params = new URLSearchParams(qs || '');
+  if (path.startsWith('/p/')) {
+    state.view = 'detail';
+    openDetail(decodeURIComponent(path.slice(3)), first);
     return;
   }
   els.detail.hidden = true; document.body.style.overflow = '';
-  const tab = h === '/food' ? 'food' : h === '/country' ? 'country' : 'list';
-  state.tab = tab;
-  document.body.dataset.tab = tab;
-  $$('.tab').forEach((a) => { const on = a.dataset.tab === tab; a.classList.toggle('on', on); if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
-  $('#listView').hidden = tab === 'country';
-  $('#countryView').hidden = tab !== 'country';
-  if (tab === 'country') renderCountry();
-  else { if (tab === 'food' && state.kind !== 'food') state.kind = 'all'; renderChips(); renderList(); }
-  window.scrollTo({ top: state.tab === 'list' && first ? 0 : window.scrollY });
+  if (path === '/country') return showCountry();
+  if (path.startsWith('/guide/')) {
+    const seg = path.split('/');
+    return showGuide(seg[2] || state.city, seg[3] || 'lodging');
+  }
+  if (path === '/food') {
+    state.kind = 'food'; state.area = ''; state.limit = PAGE; state.acts.clear();
+    return showList();
+  }
+  if (path.startsWith('/list/')) {
+    const seg = path.split('/');
+    if (seg[2] && state.cityDir[seg[2]]) setCity(seg[2]);
+    const kind = seg[3] || 'all';
+    state.kind = kind === 'activity' || KIND[kind] ? kind : 'all';
+    if (state.kind !== 'activity') state.acts.clear();
+    if (state.kind !== 'all' && state.kind !== 'food') state.cats.clear();
+    state.area = params.get('area') || '';
+    state.q = params.get('q') || '';
+    state.limit = PAGE;
+    return showList();
+  }
+  return showHome();
+}
+
+function showHome() {
+  els.q.value = ''; $('#clearQ').hidden = true;
+  state.q = ''; state.kind = 'all'; state.area = ''; state.limit = PAGE; state.cats.clear(); state.acts.clear();
+  renderHome();
+  window.scrollTo({ top: 0 });
+}
+
+function showList() {
+  state.view = 'list';
+  document.body.dataset.view = 'list';
+  document.body.dataset.tab = state.kind === 'food' ? 'food' : 'home';
+  setTab(state.kind === 'food' ? 'food' : 'home');
+  showOnly('list');
+  els.q.value = state.q; $('#clearQ').hidden = !state.q;
+  renderCitySeg();
+  renderList();
+  els.sortBtn.textContent = { rec: '추천순', name: '이름순', city: '도시순' }[state.sort];
+  window.scrollTo({ top: 0 });
+}
+
+function showCountry() {
+  state.view = 'country';
+  document.body.dataset.view = 'country';
+  document.body.dataset.tab = 'country';
+  setTab('country');
+  showOnly('country');
+  renderCitySeg();
+  renderCountry();
+  window.scrollTo({ top: 0 });
+}
+
+function showOnly(which) {
+  els.homeView.hidden = which !== 'home';
+  els.listView.hidden = which !== 'list';
+  els.guideView.hidden = which !== 'guide';
+  els.countryView.hidden = which !== 'country';
+}
+
+function setTab(name) {
+  $$('.tab').forEach((a) => {
+    const on = a.dataset.tab === name;
+    a.classList.toggle('on', on);
+    if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+  });
 }
 
 async function openDetail(code, first) {
@@ -397,26 +719,39 @@ async function sharePlace(p) {
   catch { toast(url); }
 }
 
-/* ---------------- 국가 정보 ---------------- */
+/* ---------------- 국가 정보: 핵심만 앞에, 나머지는 접기 ---------------- */
+function countryForCity(cityId) {
+  const c = state.data.cities.find((x) => x.id === cityId);
+  const code = c && (c.country || c.country_code);
+  return (state.countries || []).find((x) => x.code === code) || null;
+}
+
 function renderCountry() {
-  const box = $('#countryView');
+  const box = els.countryView;
   if (!state.countries || !state.countries.length) { box.innerHTML = '<p class="empty">국가 정보를 불러오지 못했어요.</p>'; return; }
-  const html = state.countries.map((c) => {
-    const pro = [...(c.procedures || [])].sort((a, b) => TYPE_ORDER.indexOf(a.type) - TYPE_ORDER.indexOf(b.type));
-    const groups = [];
-    for (const t of TYPE_ORDER) {
-      const list = pro.filter((p) => p.type === t);
-      if (list.length) groups.push([t, list]);
-    }
-    return `<div class="cview">
-      <div class="cvp"><h3>${esc(c.name_ko)} <span class="muted">${esc(c.name_local)}</span></h3>
-        <div class="ci"><span>통화 ${esc(c.currency)}</span><span>플러그 ${esc(c.plug)}</span><span>${esc(c.timezone)}</span></div></div>
-      <div class="cwarn">입국·환전·통신 규정은 수시로 바뀝니다. 이 카드는 수집 시점 기준이며 <b>공식 발표로 재확인</b>이 필요합니다.</div>
-      ${groups.map(([t, list]) => `<div class="grp">${esc(TYPE_LABEL[t] || t)}</div>${list.map(procHtml).join('')}`).join('')}
-      ${(c.phrases || []).length ? `<div class="grp">여행 회화</div><div class="cpro">${(c.phrases || []).map((p) => `<div class="phrase"><span class="l">${esc(p.title)}</span><span class="r">${esc(p.body_md)}</span></div>`).join('')}</div>` : ''}
-    </div>`;
-  }).join('');
-  box.innerHTML = html;
+  const selected = countryForCity(state.city);
+  const others = state.countries.filter((c) => c !== selected);
+  box.innerHTML = `<div class="cview">${selected ? countryHtml(selected) : ''}
+    ${others.map((c) => `<details class="adv"><summary>${esc(c.name_ko)} 정보 <span class="muted">펼치기</span></summary><div class="in">${countryHtml(c, true)}</div></details>`).join('')}
+  </div>`;
+}
+
+function countryHtml(c, nested = false) {
+  const pro = [...(c.procedures || [])].sort((a, b) => TYPE_ORDER.indexOf(a.type) - TYPE_ORDER.indexOf(b.type));
+  const groups = [];
+  for (const t of TYPE_ORDER) {
+    const list = pro.filter((p) => p.type === t);
+    if (list.length) groups.push([t, list]);
+  }
+  const key = groups.filter(([t]) => t === 'entry' || t === 'exit');
+  const rest = groups.filter(([t]) => t !== 'entry' && t !== 'exit');
+  const restCount = rest.reduce((n, [, l]) => n + l.length, 0);
+  return `<div class="cvp"><h3>${esc(c.name_ko)} <span class="muted">${esc(c.name_local)}</span></h3>
+      <div class="ci"><span>통화 ${esc(c.currency)}</span><span>플러그 ${esc(c.plug)}</span><span>${esc(c.timezone)}</span></div></div>
+    ${nested ? '' : '<div class="cwarn">입국·환전·통신 규정은 수시로 바뀝니다. 수집 시점 기준이며 <b>공식 발표로 재확인</b>하세요.</div>'}
+    ${key.map(([t, list]) => `<div class="grp">${esc(TYPE_LABEL[t] || t)}</div>${list.map(procHtml).join('')}`).join('')}
+    ${restCount ? `<details class="adv"><summary>그 밖의 정보 <span class="muted">${restCount}개 · 펼치기</span></summary><div class="in">${rest.map(([t, list]) => `<div class="grp">${esc(TYPE_LABEL[t] || t)}</div>${list.map(procHtml).join('')}`).join('')}</div></details>` : ''}
+    ${(c.phrases || []).length ? `<details class="adv"><summary>여행 회화 <span class="muted">${c.phrases.length}개 · 펼치기</span></summary><div class="in"><div class="cpro">${c.phrases.map((p) => `<div class="phrase"><span class="l">${esc(p.title)}</span><span class="r">${esc(p.body_md)}</span></div>`).join('')}</div></div></details>` : ''}`;
 }
 
 function procHtml(p) {
@@ -437,20 +772,22 @@ function setupOfflineBar() {
 }
 
 function offlineTargetCity() {
-  if (state.city !== 'all') return state.city;
-  return 'CN-SHA';
+  return state.cityDir[state.city] ? state.city : 'CN-SHA';
 }
 
 function updateOfflineLabel() {
-  if (!('serviceWorker' in navigator)) { els.offlineBtn.hidden = true; return; }
-  els.offlineBtn.hidden = false;
+  if (!state.data) return;
   const city = offlineTargetCity();
   const c = state.data.cities.find((x) => x.id === city);
   if (!c) return;
   const saved = localStorage.getItem('tp-offline:' + city);
-  const bytes = c.photoBytes || 0;
-  els.offlineBtn.textContent = saved ? `${c.name} 저장됨 ✓` : `${c.name} 오프라인 저장`;
-  els.offlineBtn.title = saved ? '저장 시각 ' + new Date(+saved).toLocaleString('ko-KR') : `사진 포함 약 ${fmtMB(bytes)}MB`;
+  const label = saved ? `${c.name} 저장됨 ✓` : `${c.name} 오프라인 저장`;
+  const title = saved ? '저장 시각 ' + new Date(+saved).toLocaleString('ko-KR') : `사진 포함 약 ${fmtMB(c.photoBytes || 0)}MB`;
+  const hasSW = 'serviceWorker' in navigator;
+  for (const b of $$('[data-offline]')) {
+    b.textContent = label; b.title = title;
+    b.hidden = !hasSW;
+  }
 }
 
 async function saveOffline() {
@@ -458,6 +795,7 @@ async function saveOffline() {
   const city = offlineTargetCity();
   const c = state.data.cities.find((x) => x.id === city);
   if (!c) return;
+  if (!('serviceWorker' in navigator)) { toast('이 브라우저는 오프라인 저장을 지원하지 않아요'); return; }
   const items = state.data.items.filter((i) => i.city === city);
   const urls = [
     './data/browse-index.json', './data/photos-index.json', './data/countries.json',
@@ -465,8 +803,8 @@ async function saveOffline() {
     ...items.map((i) => `./data/cities/${c.dir}/places/${encodeURIComponent(i.c)}.json`),
     ...items.flatMap((i) => (state.photos[i.c] || []).flatMap((ph) => [ph.f, ph.t])),
   ];
-  els.offlineBtn.classList.add('busy');
-  els.offlineBtn.textContent = '저장 중…';
+  const btns = $$('[data-offline]');
+  for (const b of btns) { b.classList.add('busy'); b.textContent = '저장 중…'; }
   try {
     const reg = await navigator.serviceWorker.ready;
     await new Promise((resolve, reject) => {
@@ -475,19 +813,19 @@ async function saveOffline() {
       ch.port1.onmessage = (e) => {
         const m = e.data || {};
         if (m.type === 'progress') {
-          els.offlineBtn.textContent = `${Math.round((m.done / m.total) * 100)}% 저장`;
+          for (const b of btns) b.textContent = `${Math.round((m.done / m.total) * 100)}% 저장`;
           if (m.done % 10 === 0) toast(`${c.name} 저장 중 ${m.done}/${m.total}`);
         } else if (m.type === 'done') { clearTimeout(timer); resolve(m); }
       };
       (reg.active || navigator.serviceWorker.controller).postMessage({ type: 'prefetch', urls, label: c.name }, [ch.port2]);
     }).then((m) => {
-      localStorage.setItem('tp-offline:' + city, String(Date.now()));
-      els.offlineBtn.classList.remove('busy');
+      try { localStorage.setItem('tp-offline:' + city, String(Date.now())); } catch { }
+      for (const b of btns) b.classList.remove('busy');
       updateOfflineLabel();
       toast(m && m.failed ? `${c.name} 저장 완료 (${m.failed}개 실패)` : `${c.name} 오프라인 저장 완료 · 비행기 모드에서도 열려요`);
     });
   } catch (e) {
-    els.offlineBtn.classList.remove('busy');
+    for (const b of btns) b.classList.remove('busy');
     updateOfflineLabel();
     toast('저장하지 못했어요: ' + e.message);
   }
