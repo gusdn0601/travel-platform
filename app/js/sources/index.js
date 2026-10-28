@@ -11,10 +11,16 @@ const distKm = (a, b) => { if (b.lat == null) return 1e9; const h = Math.sin(rad
 export class LocalCuratedSource extends PlaceSource {
   constructor(places) { super('local'); this.places = places; }
   async search(query = '', { bias = null, limit = 50 } = {}) {
-    const q = query.trim().toLowerCase();
+    const terms = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const label = { sight: '명소 관광', food: '맛집 식당', shop: '쇼핑 카페' };
-    const hit = this.places.filter((p) => !q || [p.name_ko, p.name_local, p.area, label[p.kind], ...(p.tagList || [])].some((s) => String(s || '').toLowerCase().includes(q)));
-    if (bias) hit.sort((a, b) => distKm(bias, a) - distKm(bias, b));
+    // 모든 텍스트 필드 LIKE 검색(공백 구분 단어는 모두 포함) — 이름 일치는 앞쪽으로
+    const SKIP = new Set(['id', 'code', 'provider', 'external_id', 'source', 'sources', 'photo', 'photos', 'thumb', 'url', 'kind', '_hay']);
+    const flat = (v) => v == null ? '' : typeof v === 'object' ? Object.entries(v).filter(([k]) => !SKIP.has(k)).map(([, x]) => flat(x)).join(' ') : typeof v === 'string' ? v : '';
+    const hay = (p) => (p._hay ||= (flat(p) + ' ' + (label[p.kind] || '')).toLowerCase());
+    const hit = this.places.filter((p) => terms.every((t) => hay(p).includes(t)));
+    const nameHit = (p) => terms.every((t) => [p.name_ko, p.name_local].some((s) => String(s || '').toLowerCase().includes(t))) ? 0 : 1;
+    hit.sort((a, b) => nameHit(a) - nameHit(b));
+    if (bias) hit.sort((a, b) => (nameHit(a) - nameHit(b)) || (distKm(bias, a) - distKm(bias, b)));
     return hit.slice(0, limit);
   }
   async details(id) { return this.places.find((p) => p.id === id) || null; }
