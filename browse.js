@@ -151,9 +151,12 @@ function filtered() {
     if (terms.length && !terms.every((t) => i.s2.includes(t))) return false;
     return true;
   });
+  // 검색어가 있으면 제목 유사도(완전일치 > 앞부분 일치 > 제목 포함 > 본문만 일치)를 먼저, 그다음 정렬 기준
+  const qn = terms.join('');
+  const rel = (i) => { if (!qn) return 0; const n = norm(i.n); return n === qn ? 0 : n.startsWith(qn) ? 1 : terms.every((t) => n.includes(t)) ? 2 : 3; };
   const cmp = {
-    rec: (a, b) => (a.p - b.p) || (a.co - b.co) || a.n.localeCompare(b.n, 'ko'),
-    name: (a, b) => a.n.localeCompare(b.n, 'ko'),
+    rec: (a, b) => (rel(a) - rel(b)) || (a.p - b.p) || (a.co - b.co) || a.n.localeCompare(b.n, 'ko'),
+    name: (a, b) => (rel(a) - rel(b)) || a.n.localeCompare(b.n, 'ko'),
     city: (a, b) => (a.co - b.co) || (a.p - b.p) || a.n.localeCompare(b.n, 'ko'),
   }[state.sort];
   return out.sort(cmp);
