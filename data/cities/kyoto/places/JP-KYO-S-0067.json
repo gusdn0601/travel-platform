@@ -1,0 +1,74 @@
+{
+  "id": "pl_0bd7cafd29",
+  "code": "JP-KYO-S-0067",
+  "city_id": "JP-KYO",
+  "slug": "shogunzuka-seiryoen",
+  "kind": "sight",
+  "name_ko": "쇼군즈카 세이료덴",
+  "name_sub": "Shogunzuka Seiryo-den",
+  "name_local": "将軍塚 青龍殿",
+  "lat": null,
+  "lng": null,
+  "area": "히가시야마",
+  "lead": "교토 시내를 내려다보는 전망대. 야경 명소로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "전망대·사찰"
+    ],
+    [
+      "특징",
+      "교토 시내 조망"
+    ],
+    [
+      "위치",
+      "히가시야마 산기슭"
+    ]
+  ],
+  "origin": [
+    "쇼군즈카는 교토 분지를 한눈에 내려다보는 언덕이에요.",
+    "위쪽에 있는 청룡전은 큰 전각과 넓은 마루로 알려져 있어요.",
+    "해 질 무렵부터 시내 불빛이 보여 야경을 보러 오는 사람이 많아요.",
+    "차나 버스로 올라가는 편이 일반적이에요."
+  ],
+  "practical": [
+    "귀갓길 교통 확인",
+    "야간 운행 여부"
+  ],
+  "tip": "일몰 시간에 맞춰 올라가면 낮과 밤을 함께 볼 수 있어요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 소액(추정)",
+  "must": 0,
+  "tags": [
+    "야경",
+    "전망",
+    "사찰"
+  ],
+  "art_key": "temple",
+  "local_search": "将軍塚 青龍殿",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 52,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 야경로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:26.065Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_880206fed0",
+  "code": "JP-KYO-P-0008",
+  "city_id": "JP-KYO",
+  "slug": "yodobashi-kyoto",
+  "kind": "shop",
+  "name_ko": "요도바시 카메라 교토",
+  "name_sub": "Yodobashi Camera Kyoto",
+  "name_local": "ヨドバシカメラ 京都",
+  "lat": null,
+  "lng": null,
+  "area": "교토역",
+  "lead": "교토역 남쪽의 대형 전자제품 매장. 면세 구매로 들르는 사람이 많아요.",
+  "facts": [
+    [
+      "종류",
+      "전자제품점"
+    ],
+    [
+      "특징",
+      "면세·대형 매장"
+    ],
+    [
+      "위치",
+      "교토역 남쪽"
+    ]
+  ],
+  "origin": [
+    "요도바시 카메라 교토는 교토역 남쪽에 있는 대형 전자제품 매장이에요.",
+    "카메라와 생활가전, 장난감까지 종류가 많아요.",
+    "여권을 내면 면세로 살 수 있어 여행자에게 알려져 있어요.",
+    "역에서 걸어서 갈 수 있는 거리예요."
+  ],
+  "practical": [
+    "여권 필요(면세)",
+    "영업시간 확인"
+  ],
+  "tip": "면세 계산대 위치를 먼저 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "전자제품",
+    "면세",
+    "교토역"
+  ],
+  "art_key": "shop",
+  "local_search": "ヨドバシカメラ 京都",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 45,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 전자제품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:16.111Z"
+}

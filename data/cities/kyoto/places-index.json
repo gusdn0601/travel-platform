@@ -191,9 +191,9 @@
   {
     "id": "pl_5d9f5ae739",
     "code": "JP-KYO-F-0028",
-    "slug": "gontaro",
+    "slug": "gontaro-okazaki",
     "kind": "food",
-    "name_ko": "곤타로 본점"
+    "name_ko": "곤타로 오카자키점"
   },
   {
     "id": "pl_a4963b140f",
@@ -341,6 +341,62 @@
     "slug": "aritsugu-nishiki",
     "kind": "shop",
     "name_ko": "아리쓰구 (니시키 칼가게)"
+  },
+  {
+    "id": "pl_394eb9a630",
+    "code": "JP-KYO-P-0006",
+    "slug": "kyoto-isetan",
+    "kind": "shop",
+    "name_ko": "이세탄 교토점"
+  },
+  {
+    "id": "pl_c3c0743747",
+    "code": "JP-KYO-P-0007",
+    "slug": "kyoto-porta",
+    "kind": "shop",
+    "name_ko": "포르타 지하가"
+  },
+  {
+    "id": "pl_880206fed0",
+    "code": "JP-KYO-P-0008",
+    "slug": "yodobashi-kyoto",
+    "kind": "shop",
+    "name_ko": "요도바시 카메라 교토"
+  },
+  {
+    "id": "pl_406dbc50df",
+    "code": "JP-KYO-P-0009",
+    "slug": "takashimaya-kyoto",
+    "kind": "shop",
+    "name_ko": "다카시마야 교토점"
+  },
+  {
+    "id": "pl_9531142f12",
+    "code": "JP-KYO-P-0010",
+    "slug": "fujii-daimaru",
+    "kind": "shop",
+    "name_ko": "후지이 다이마루"
+  },
+  {
+    "id": "pl_9ff332392c",
+    "code": "JP-KYO-P-0011",
+    "slug": "arashiyama-shotengai",
+    "kind": "shop",
+    "name_ko": "아라시야마 상점가"
+  },
+  {
+    "id": "pl_cafbbf898b",
+    "code": "JP-KYO-P-0012",
+    "slug": "aeon-mall-kyoto",
+    "kind": "shop",
+    "name_ko": "이온몰 KYOTO"
+  },
+  {
+    "id": "pl_cec09c795b",
+    "code": "JP-KYO-P-0013",
+    "slug": "kyoto-cube",
+    "kind": "shop",
+    "name_ko": "교토역 The CUBE"
   },
   {
     "id": "pl_a377d706b7",
@@ -798,10 +854,45 @@
     "name_ko": "후시미 모모야마 성"
   },
   {
+    "id": "pl_0bd7cafd29",
+    "code": "JP-KYO-S-0067",
+    "slug": "shogunzuka-seiryoen",
+    "kind": "sight",
+    "name_ko": "쇼군즈카 세이료덴"
+  },
+  {
+    "id": "pl_a49ece7d48",
+    "code": "JP-KYO-S-0068",
+    "slug": "kodai-ji",
+    "kind": "sight",
+    "name_ko": "고다이지"
+  },
+  {
     "id": "pl_44c62361ab",
     "code": "JP-KYO-T-0001",
     "slug": "kyoto-station",
     "kind": "transit",
     "name_ko": "교토역"
+  },
+  {
+    "id": "pl_eb7e38bdc3",
+    "code": "JP-KYO-T-0002",
+    "slug": "hankyu-kawaramachi",
+    "kind": "transit",
+    "name_ko": "한큐 가와라마치역"
+  },
+  {
+    "id": "pl_f9fe30e9f1",
+    "code": "JP-KYO-T-0003",
+    "slug": "karasuma-shijo-station",
+    "kind": "transit",
+    "name_ko": "가라스마 시조역"
+  },
+  {
+    "id": "pl_90714fad82",
+    "code": "JP-KYO-T-0004",
+    "slug": "gion-shijo-station",
+    "kind": "transit",
+    "name_ko": "기온시조역"
   }
 ]

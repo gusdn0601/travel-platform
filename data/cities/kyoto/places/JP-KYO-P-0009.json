@@ -1,0 +1,74 @@
+{
+  "id": "pl_406dbc50df",
+  "code": "JP-KYO-P-0009",
+  "city_id": "JP-KYO",
+  "slug": "takashimaya-kyoto",
+  "kind": "shop",
+  "name_ko": "다카시마야 교토점",
+  "name_sub": "Takashimaya Kyoto",
+  "name_local": "京都高島屋",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "시조 가와라마치의 백화점. 식품관 과자 종류가 많아요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "식품관"
+    ],
+    [
+      "위치",
+      "시조 가와라마치"
+    ]
+  ],
+  "origin": [
+    "다카시마야 교토점은 시조와 가와라마치가 만나는 지점에 있는 백화점이에요.",
+    "지하 식품관에서 교토 과자와 차를 고르기 좋아요.",
+    "시내 관광 중 들르기 쉬운 위치예요.",
+    "주말 오후에는 매장이 붐벼요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "면세 카운터"
+  ],
+  "tip": "선물용 차와 과자는 식품관에서 한 번에 살 수 있어요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "식품관",
+    "시조"
+  ],
+  "art_key": "shop",
+  "local_search": "京都高島屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 38,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 백화점 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:18.002Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_cafbbf898b",
+  "code": "JP-KYO-P-0012",
+  "city_id": "JP-KYO",
+  "slug": "aeon-mall-kyoto",
+  "kind": "shop",
+  "name_ko": "이온몰 KYOTO",
+  "name_sub": "AEON MALL KYOTO",
+  "name_local": "イオンモールKYOTO",
+  "lat": null,
+  "lng": null,
+  "area": "미나미구",
+  "lead": "도지 남쪽의 대형 쇼핑몰. 식당가와 영화관이 함께 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "식당가·영화관"
+    ],
+    [
+      "위치",
+      "도지 인근"
+    ]
+  ],
+  "origin": [
+    "이온몰 KYOTO는 도지 근처에 있는 대형 쇼핑몰이에요.",
+    "식당가와 영화관, 생활용품점이 모여 있어요.",
+    "비 오는 날이나 저녁 시간을 보내기 좋아요.",
+    "관광지 느낌은 덜하지만 실용적이에요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "도지에서 도보 거리 있음"
+  ],
+  "tip": "도지 관람 후 저녁 식사 장소로 쓸 수 있어요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "식당가",
+    "비 오는 날"
+  ],
+  "art_key": "shop",
+  "local_search": "イオンモールKYOTO",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 59,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "실내 대안 코스(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:22.256Z"
+}

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F6F2">
+<meta name="description" content="상하이·후쿠오카·교토·나라·오사카 여행 장소를 이름·메뉴로 찾아보는 둘러보기">
+<title>여행책 둘러보기</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231F2328'/%3E%3Ccircle cx='32' cy='32' r='12' fill='%23F2B705'/%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preload" href="app/fonts/PretendardVariable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="browse.css">
+</head>
+<body>
+<a class="skip" href="#view">목록으로 건너뛰기</a>
+
+<header class="top">
+  <div class="brandrow">
+    <a class="brand" href="./#/">여행책 <span class="bsub">둘러보기</span></a>
+    <a class="guide" href="https://gusdn0601.github.io/shanghai-guide/" target="_blank" rel="noopener">상하이 가이드북 <span aria-hidden="true">↗</span></a>
+    <button id="fontBtn" class="iconbtn" type="button" aria-label="글씨 크기 바꾸기" title="글씨 크기">가</button>
+  </div>
+  <form class="search" role="search" onsubmit="return false">
+    <svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+    <input id="q" type="search" enterkeyhint="search" autocomplete="off" placeholder="장소·메뉴 검색  예: 샤오룽바오, 라멘" aria-label="장소·메뉴 검색">
+    <button id="clearQ" class="clearbtn" type="button" aria-label="검색어 지우기" hidden>✕</button>
+  </form>
+  <div class="filterbar">
+    <div class="chips" id="cityChips" role="group" aria-label="도시 필터"></div>
+    <div class="chips" id="kindChips" role="group" aria-label="종류 필터"></div>
+  </div>
+</header>
+
+<div id="offlineBar" class="offbar" role="status" hidden>오프라인 — 저장된 내용만 보여요</div>
+
+<main id="view" tabindex="-1">
+  <section id="listView" aria-label="장소 목록">
+    <div class="toolbar">
+      <p id="count" class="count" role="status" aria-live="polite"></p>
+      <div class="toolbtns">
+        <button id="sortBtn" class="tool" type="button" aria-label="정렬 바꾸기">추천순</button>
+        <button id="offlineBtn" class="tool" type="button" hidden>오프라인 저장</button>
+      </div>
+    </div>
+    <div id="foodCatWrap" class="catWrap" hidden>
+      <div class="cathead">음식 카테고리 <span class="muted">(여러 개 선택 가능)</span></div>
+      <div class="chips" id="foodChips" role="group" aria-label="음식 카테고리 필터"></div>
+    </div>
+    <div id="activeInfo"></div>
+    <div id="cards" class="cards"></div>
+    <div id="moreWrap" class="morewrap" hidden><button id="moreBtn" class="more" type="button">더 보기</button></div>
+    <p id="empty" class="empty" hidden></p>
+  </section>
+
+  <section id="countryView" aria-label="국가 정보" hidden></section>
+</main>
+
+<nav class="tabs" aria-label="주요 화면">
+  <a class="tab on" href="#/" data-tab="list" aria-current="page"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg><span>둘러보기</span></a>
+  <a class="tab" href="#/food" data-tab="food"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v8a2 2 0 0 0 4 0V3M7 11v10M16 3c-1.5 2-2 4-2 6s.5 3 2 3 2-1 2-3-.5-4-2-6zM16 12v9"/></svg><span>음식</span></a>
+  <a class="tab" href="#/country" data-tab="country"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 3 2.5 15 0 18M12 3c-2.5 3-2.5 15 0 18"/></svg><span>국가정보</span></a>
+  <a class="tab" href="./app/"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M8 3v4M16 3v4M3 11h18"/></svg><span>일정표</span></a>
+</nav>
+
+<div id="detail" class="detail" hidden></div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script type="module" src="browse.js"></script>
+</body>
+</html>

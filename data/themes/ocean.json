@@ -1,0 +1,140 @@
+{
+  "id": "ocean-blue",
+  "name": "바다",
+  "isDefault": false,
+  "isPaid": false,
+  "colors": {
+    "bg": "#EDF5F9",
+    "ink": "#12365A",
+    "accent": "#6CC3E8",
+    "sky1": "#D4EEF8",
+    "paper": "#FFFFFF",
+    "line": "#D5E6EF",
+    "ok": "#2E9E86",
+    "warn": "#E2604D"
+  },
+  "dayColors": {
+    "d1": "#7CC6E8",
+    "d2": "#A8E6CF",
+    "d3": "#FFD1A9",
+    "d4": "#B8C4F2",
+    "d5": "#F4B6C2"
+  },
+  "font": {
+    "title": "Pretendard",
+    "display": "Pretendard",
+    "body": "Pretendard",
+    "displayWeight": 800,
+    "fallback": "Pretendard, 'Noto Sans KR', system-ui, -apple-system, 'Malgun Gothic', sans-serif"
+  },
+  "iconSet": "marine",
+  "icons": {
+    "stamp": [
+      {
+        "color": "#7cc6e8",
+        "svg_path": "<circle cx=\"12\" cy=\"5\" r=\"2\"/><path d=\"M12 7v14M6 12H4c0 5 4 9 8 9s8-4 8-9h-2M8 11h8\"/>"
+      },
+      {
+        "color": "#a8e6cf",
+        "svg_path": "<path d=\"M3 12c4-6 11-6 15 0-4 6-11 6-15 0zM18 12l4-4v8zM8 11h.01\"/>"
+      },
+      {
+        "color": "#ffd1a9",
+        "svg_path": "<path d=\"M2 9c3-3 5 3 8 0s5 3 8 0 3 0 4 0M2 15c3-3 5 3 8 0s5 3 8 0 3 0 4 0\"/>"
+      },
+      {
+        "color": "#b8c4f2",
+        "svg_path": "<path d=\"M12 21C6 21 3 16 4 11c3 1 5 0 8-6 3 6 5 7 8 6 1 5-2 10-8 10zM12 21V9\"/>"
+      }
+    ],
+    "viewBox": "0 0 24 24",
+    "stroke": "currentColor",
+    "strokeWidth": 1.6
+  },
+  "routeMap": {
+    "layout": "snake-3col",
+    "jitter": true,
+    "stroke": "#1B6CA8",
+    "strokeWidth": 3,
+    "dash": "8 6",
+    "nodeRadius": 14,
+    "nodeShape": "circle",
+    "viewBox": [
+      320,
+      560
+    ]
+  },
+  "cover": {
+    "art": "marine-line",
+    "stamp": true,
+    "texture": "wave",
+    "titleSize": 30,
+    "chipRadius": 10,
+    "tape": "#7CC6E8",
+    "frame": {
+      "radius": 18,
+      "width": 2.5,
+      "inner": 7
+    },
+    "pattern": {
+      "w": 28,
+      "h": 16,
+      "opacity": 0.6,
+      "svg": "<path d=\"M0 8c3.5-5 7 5 14 0s10.5 5 14 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\"/>"
+    },
+    "decor": [
+      {
+        "svg": "<circle cx=\"12\" cy=\"5\" r=\"2\"/><path d=\"M12 7v14M6 12H4c0 5 4 9 8 9s8-4 8-9h-2M8 11h8\"/>",
+        "at": [
+          0.9,
+          0.04
+        ],
+        "size": 30,
+        "rot": 12,
+        "color": "#1B6CA8",
+        "opacity": 0.5
+      },
+      {
+        "svg": "<path d=\"M3 12c4-6 11-6 15 0-4 6-11 6-15 0zM18 12l4-4v8zM8 11h.01\"/>",
+        "at": [
+          0.9,
+          0.955
+        ],
+        "size": 40,
+        "rot": -8,
+        "color": "#2E9E86",
+        "opacity": 0.65
+      },
+      {
+        "svg": "<path d=\"M3 12c4-6 11-6 15 0-4 6-11 6-15 0zM18 12l4-4v8zM8 11h.01\"/>",
+        "at": [
+          0.2,
+          0.97
+        ],
+        "size": 24,
+        "rot": 170,
+        "color": "#E2604D",
+        "opacity": 0.55
+      },
+      {
+        "svg": "<path d=\"M2 9c3-3 5 3 8 0s5 3 8 0 3 0 4 0M2 15c3-3 5 3 8 0s5 3 8 0 3 0 4 0\"/>",
+        "at": [
+          0.55,
+          0.972
+        ],
+        "size": 36,
+        "rot": 0,
+        "color": "#1B6CA8",
+        "opacity": 0.55
+      }
+    ]
+  },
+  "ui": {
+    "radius": 16,
+    "btnRadius": 999
+  },
+  "art": {
+    "keysFrom": "place.art_key",
+    "note": "SVG illustrations are theme assets, not place data"
+  }
+}

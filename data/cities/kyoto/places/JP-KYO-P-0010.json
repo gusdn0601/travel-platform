@@ -1,0 +1,74 @@
+{
+  "id": "pl_9531142f12",
+  "code": "JP-KYO-P-0010",
+  "city_id": "JP-KYO",
+  "slug": "fujii-daimaru",
+  "kind": "shop",
+  "name_ko": "후지이 다이마루",
+  "name_sub": "Fujii Daimaru",
+  "name_local": "藤井大丸",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "시조에 있는 규모가 작은 백화점. 잡화와 패션 매장이 중심이에요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "소규모·잡화"
+    ],
+    [
+      "위치",
+      "시조 거리"
+    ]
+  ],
+  "origin": [
+    "후지이 다이마루는 시조 거리에 있는 작은 백화점이에요.",
+    "큰 백화점보다 매장 수가 적지만 잡화와 패션 편집숍이 알차요.",
+    "가와라마치 쪽 쇼핑과 이어서 보기 좋아요.",
+    "시간이 많지 않을 때 들르기 좋은 규모예요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "규모 작음"
+  ],
+  "tip": "가와라마치 거리 쇼핑과 함께 묶으세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "패션",
+    "소품"
+  ],
+  "art_key": "shop",
+  "local_search": "藤井大丸",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 47,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "소규모 쇼핑(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:19.459Z"
+}

@@ -55,18 +55,16 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/%E7%93%A2%E4%BA%AD",
-    "https://www.openstreetmap.org/way/301527780"
+    "https://ja.wikipedia.org/wiki/%E7%93%A2%E4%BA%AD"
   ],
   "meta": {
     "priority": 41,
     "expansion": "kyoto-2026-10-28",
-    "verification": "coord_conflict",
+    "verification": "single_source",
     "coord_sources": [
-      "wikipedia",
-      "osm"
+      "wikipedia"
     ],
-    "coord_delta_m": 4679,
+    "coord_delta_m": null,
     "hours_basis": "unknown",
     "stay_basis": "estimated",
     "price_basis": "estimated",

@@ -1,0 +1,140 @@
+{
+  "id": "kyoto-washi",
+  "name": "일본 전통 (교토·화지)",
+  "isDefault": false,
+  "isPaid": false,
+  "colors": {
+    "bg": "#F4EFE6",
+    "ink": "#2B2623",
+    "accent": "#EFBFB5",
+    "sky1": "#D9E2E8",
+    "paper": "#FFFFFF",
+    "line": "#E4DACA",
+    "ok": "#5E8C61",
+    "warn": "#B5352B"
+  },
+  "dayColors": {
+    "d1": "#E8C170",
+    "d2": "#AFC9A4",
+    "d3": "#F2B8C0",
+    "d4": "#B7C4DE",
+    "d5": "#CDBBDB"
+  },
+  "font": {
+    "title": "Pretendard",
+    "display": "Pretendard",
+    "body": "Pretendard",
+    "displayWeight": 800,
+    "fallback": "Pretendard, 'Noto Sans KR', system-ui, -apple-system, 'Malgun Gothic', sans-serif"
+  },
+  "iconSet": "wafu",
+  "icons": {
+    "stamp": [
+      {
+        "color": "#b5352b",
+        "svg_path": "<path d=\"M3 6c6 1 12 1 18 0M5 9h14M7 6v15M17 6v15M7 14h10\"/>"
+      },
+      {
+        "color": "#f2b8c0",
+        "svg_path": "<path d=\"M12 12C10 8 10 4 12 2c2 2 2 6 0 10zM12 12c4-2 8-2 10 0-2 3-6 3-10 0zM12 12c3 3 5 7 3 10-3-1-5-5-3-10zM12 12c-3 3-5 7-3 10 3-1 5-5 3-10zM12 12C8 10 4 10 2 12c2 3 6 3 10 0z\"/>"
+      },
+      {
+        "color": "#afc9a4",
+        "svg_path": "<path d=\"M12 22V8M12 14c-4 0-6-3-6-7 4 0 6 3 6 7zM12 17c4 0 6-3 6-7-4 0-6 3-6 7z\"/>"
+      },
+      {
+        "color": "#e8c170",
+        "svg_path": "<circle cx=\"12\" cy=\"12\" r=\"8\"/>"
+      }
+    ],
+    "viewBox": "0 0 24 24",
+    "stroke": "currentColor",
+    "strokeWidth": 1.5
+  },
+  "routeMap": {
+    "layout": "snake-3col",
+    "jitter": true,
+    "stroke": "#B5352B",
+    "strokeWidth": 2.5,
+    "dash": "1 7",
+    "nodeRadius": 14,
+    "nodeShape": "square",
+    "viewBox": [
+      320,
+      560
+    ]
+  },
+  "cover": {
+    "art": "wafu-line",
+    "stamp": true,
+    "texture": "washi",
+    "titleSize": 27,
+    "chipRadius": 3,
+    "tape": "#B5352B",
+    "frame": {
+      "radius": 3,
+      "width": 2,
+      "inner": 6
+    },
+    "pattern": {
+      "w": 24,
+      "h": 12,
+      "opacity": 0.5,
+      "svg": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\".8\"><path d=\"M2 12a10 10 0 0 1 20 0M6 12a6 6 0 0 1 12 0M10 12a2 2 0 0 1 4 0\"/><path d=\"M-10 6a10 10 0 0 1 20 0M-6 6a6 6 0 0 1 12 0M14 6a10 10 0 0 1 20 0M18 6a6 6 0 0 1 12 0\"/></g>"
+    },
+    "decor": [
+      {
+        "svg": "<circle cx=\"12\" cy=\"12\" r=\"8\"/>",
+        "at": [
+          0.88,
+          0.05
+        ],
+        "size": 34,
+        "rot": 0,
+        "color": "#B5352B",
+        "opacity": 0.55
+      },
+      {
+        "svg": "<path d=\"M3 6c6 1 12 1 18 0M5 9h14M7 6v15M17 6v15M7 14h10\"/>",
+        "at": [
+          0.9,
+          0.95
+        ],
+        "size": 50,
+        "rot": 0,
+        "color": "#B5352B",
+        "opacity": 0.5
+      },
+      {
+        "svg": "<path d=\"M12 12C10 8 10 4 12 2c2 2 2 6 0 10zM12 12c4-2 8-2 10 0-2 3-6 3-10 0zM12 12c3 3 5 7 3 10-3-1-5-5-3-10zM12 12c-3 3-5 7-3 10 3-1 5-5 3-10zM12 12C8 10 4 10 2 12c2 3 6 3 10 0z\"/>",
+        "at": [
+          0.12,
+          0.96
+        ],
+        "size": 30,
+        "rot": 15,
+        "color": "#E48CA0",
+        "opacity": 0.75
+      },
+      {
+        "svg": "<path d=\"M12 12C10 8 10 4 12 2c2 2 2 6 0 10zM12 12c4-2 8-2 10 0-2 3-6 3-10 0zM12 12c3 3 5 7 3 10-3-1-5-5-3-10zM12 12c-3 3-5 7-3 10 3-1 5-5 3-10zM12 12C8 10 4 10 2 12c2 3 6 3 10 0z\"/>",
+        "at": [
+          0.4,
+          0.975
+        ],
+        "size": 18,
+        "rot": -20,
+        "color": "#E48CA0",
+        "opacity": 0.65
+      }
+    ]
+  },
+  "ui": {
+    "radius": 4,
+    "btnRadius": 6
+  },
+  "art": {
+    "keysFrom": "place.art_key",
+    "note": "SVG illustrations are theme assets, not place data"
+  }
+}

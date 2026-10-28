@@ -1,0 +1,168 @@
+[
+  {
+    "id": "CN-entry-001",
+    "country_code": "CN",
+    "type": "entry",
+    "title": "중국 입국 절차",
+    "body_md": "한국 여권은 단기 관광 시 무비자 입국 가능(2026-12-31까지 시행으로 보도, 연장 여부는 공식 발표 확인 필요). 전자 입국카드를 사전 작성하면 편리합니다.",
+    "source_url": "https://en.nia.gov.cn/",
+    "verified_at": null,
+    "steps": [
+      {
+        "text": "항공기 하차·입국심사장 이동",
+        "minutes": 10
+      },
+      {
+        "text": "입국심사: 여권·지문/얼굴 촬영",
+        "minutes": 30
+      },
+      {
+        "text": "수하물 수취",
+        "minutes": 15
+      },
+      {
+        "text": "세관 통과(신고 대상 있으면 적색 통로)",
+        "minutes": 10
+      },
+      {
+        "text": "공항→시내 이동",
+        "minutes": 60
+      }
+    ],
+    "total_min": 125,
+    "unverified": true
+  },
+  {
+    "id": "CN-visa-001",
+    "country_code": "CN",
+    "type": "visa",
+    "title": "중국 비자·체류기간",
+    "body_md": "한국 국적 관광·방문 등 목적 무비자 최대 30일(중국 정부 일방 무비자 정책, 2026-12-31까지로 알려짐). 30일 초과·취업·학업은 비자 필요. 시행 기한은 출발 전 주한 중국대사관 공고에서 재확인.",
+    "source_url": "https://kr.china-embassy.gov.cn/",
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-app-001",
+    "country_code": "CN",
+    "type": "app",
+    "title": "중국 전자 입국카드·필수 앱",
+    "body_md": "국가이민관리국(NIA) 앱/공식 미니프로그램으로 전자 입국카드를 작성(시행 시점·방식은 미확인). 현지 결제는 Alipay/WeChat Pay 해외카드 등록, 지도는 Amap/바이두 지도 권장, 구글 서비스 차단.",
+    "source_url": "https://en.nia.gov.cn/",
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-customs-001",
+    "country_code": "CN",
+    "type": "customs",
+    "title": "중국 세관 신고",
+    "body_md": "현금 2만 위안 상당 초과·외화 5천 달러 초과 시 신고(기준 변경 가능, 미확인). 육류·유제품·식물 반입 제한, 마약·출판물 일부 금지.",
+    "source_url": "http://english.customs.gov.cn/",
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-exit-001",
+    "country_code": "CN",
+    "type": "exit",
+    "title": "중국 출국 절차",
+    "body_md": "국제선 출발 3시간 전 공항 도착 권장(상하이·베이징 대형 공항은 혼잡 고려). 중국은 출국세 없음(별도 공항세는 항공권에 포함).",
+    "source_url": "http://english.customs.gov.cn/",
+    "verified_at": null,
+    "steps": [
+      {
+        "text": "체크인·수하물 위탁",
+        "minutes": 30
+      },
+      {
+        "text": "(환급 시) 세관·환급 창구",
+        "minutes": 20
+      },
+      {
+        "text": "보안검색",
+        "minutes": 20
+      },
+      {
+        "text": "출국심사",
+        "minutes": 25
+      },
+      {
+        "text": "탑승구 이동·대기",
+        "minutes": 30
+      }
+    ],
+    "total_min": 125,
+    "arrive_before_min": 180,
+    "unverified": true
+  },
+  {
+    "id": "CN-exit-002",
+    "country_code": "CN",
+    "type": "exit",
+    "title": "중국 택스리펀드",
+    "body_md": "외국인 구매 환급(출국 시 환급점 제도, 일부 점포는 즉시환급). 최소 구매액(예: 동일 점포 500위안 이상)과 출국일 기준은 변경되어 미확인 — 구매 점포 안내와 공항 환급창구 확인.",
+    "source_url": "http://english.customs.gov.cn/",
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-exit-003",
+    "country_code": "CN",
+    "type": "exit",
+    "title": "중국 반입금지·기내 규정",
+    "body_md": "리튬 보조배터리는 제조사 표기 3C 인증/용량 표기 필요(미표기 반입 제한 사례 보도, 세부 규정 미확인). 액체류 100ml 이하.",
+    "source_url": "https://www.caac.gov.cn/",
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-exchange-001",
+    "country_code": "CN",
+    "type": "exchange",
+    "title": "중국 환전·결제",
+    "body_md": "통화 위안(CNY). 대부분 Alipay/WeChat Pay 사용, 외국 카드 연동 가능(수수료·한도 확인). 일부 현금 거절 가게는 법적으로 현금 수취 의무 — 소량 현금 휴대.",
+    "source_url": null,
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-sim-001",
+    "country_code": "CN",
+    "type": "sim",
+    "title": "중국 SIM/eSIM",
+    "body_md": "중국 본토 데이터 로밍은 구글·카카오 등이 차단될 수 있어 로밍·eSIM(홍콩 경유 라우팅 상품 등) 여부를 사전 확인. 실명 등록형 현지 SIM은 여권 필요.",
+    "source_url": null,
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-transport-001",
+    "country_code": "CN",
+    "type": "transport",
+    "title": "중국 교통 결제",
+    "body_md": "대도시 지하철은 Alipay/WeChat 교통 QR 또는 도시별 교통카드. 택시는 DiDi 앱 이용 가능(해외 카드 연동).",
+    "source_url": null,
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-power-001",
+    "country_code": "CN",
+    "type": "power",
+    "title": "중국 콘센트",
+    "body_md": "전압 220V, 플러그 A/C/I형. 한국 220V 기기 대체로 사용 가능(플러그 형태 확인).",
+    "source_url": null,
+    "verified_at": null,
+    "unverified": true
+  },
+  {
+    "id": "CN-emergency-001",
+    "country_code": "CN",
+    "type": "emergency",
+    "title": "중국 비상연락",
+    "body_md": "경찰 110, 구급 120, 화재 119. 외교부 영사콜센터 +82-2-3210-0404(24시간). 주중 한국대사관·영사관 연락처는 영사콜센터 안내.",
+    "source_url": "https://www.0404.go.kr/",
+    "verified_at": "2026-10-28"
+  }
+]

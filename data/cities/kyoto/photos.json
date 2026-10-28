@@ -322,5 +322,23 @@
     "credit": "Fg2 · Public domain · Wikimedia Commons",
     "license": "Public domain",
     "source_url": "https://commons.wikimedia.org/wiki/File:AdashinoNembutsuji.jpg"
+  },
+  {
+    "id": "JP-KYO-T-0003-P1",
+    "place_id": "pl_f9fe30e9f1",
+    "file": "photos/JP-KYO-T-0003/1.jpg",
+    "caption": "가라스마 시조역",
+    "credit": "NatsuTV · CC0 · Wikimedia Commons",
+    "license": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E5%B8%82%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%9B%9B%E6%9D%A1%E9%A7%85%E5%8C%97%E6%94%B9%E6%9C%AD%E5%8F%A3.jpg"
+  },
+  {
+    "id": "JP-KYO-T-0004-P1",
+    "place_id": "pl_90714fad82",
+    "file": "photos/JP-KYO-T-0004/1.jpg",
+    "caption": "기온시조역",
+    "credit": "User:Sushiya · CC BY 3.0 · Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Keihan_Shijo_Minamiza.jpg"
   }
 ]

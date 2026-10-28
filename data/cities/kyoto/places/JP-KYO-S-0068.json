@@ -1,0 +1,79 @@
+{
+  "id": "pl_a49ece7d48",
+  "code": "JP-KYO-S-0068",
+  "city_id": "JP-KYO",
+  "slug": "kodai-ji",
+  "kind": "sight",
+  "name_ko": "고다이지",
+  "name_sub": "Kōdai-ji",
+  "name_local": "高台寺",
+  "lat": 35.00076,
+  "lng": 135.78111,
+  "area": "히가시야마",
+  "lead": "도요토미 히데요시의 부인 네네가 세운 사찰로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "정원·대나무길"
+    ],
+    [
+      "위치",
+      "히가시야마"
+    ]
+  ],
+  "origin": [
+    "고다이지는 도요토미 히데요시의 부인 네네가 남편을 기리기 위해 세운 사찰로 전해져요.",
+    "정원과 대나무길이 이어져 기온 주변 산책 코스로 알려져 있어요.",
+    "봄·가을에는 야간 특별관람을 해 조명이 켜진 정원을 볼 수 있어요.",
+    "연간 관람 일정은 해마다 달라 확인이 필요해요."
+  ],
+  "practical": [
+    "야간 특별관람 기간 확인",
+    "계단·경사"
+  ],
+  "tip": "기온 산책 후 저녁에 들르면 동선이 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "야간 특별관람"
+  ],
+  "art_key": "temple",
+  "local_search": "高台寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/K%C5%8Ddai-ji",
+    "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%8F%B0%E5%AF%BA"
+  ],
+  "meta": {
+    "priority": 33,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 기온 사찰·야간 관람로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:28.654Z"
+}

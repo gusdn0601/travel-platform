@@ -1,0 +1,74 @@
+{
+  "id": "pl_c3c0743747",
+  "code": "JP-KYO-P-0007",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-porta",
+  "kind": "shop",
+  "name_ko": "포르타 지하가",
+  "name_sub": "Kyoto Porta",
+  "name_local": "京都駅前地下街ポルタ",
+  "lat": null,
+  "lng": null,
+  "area": "교토역",
+  "lead": "교토역 앞 지하 상점가. 비 오는 날 이동로로도 쓸 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "지하 상점가"
+    ],
+    [
+      "특징",
+      "역과 지하로 연결"
+    ],
+    [
+      "위치",
+      "교토역 앞"
+    ]
+  ],
+  "origin": [
+    "포르타는 교토역 앞 지하에 이어지는 상점가예요.",
+    "옷가게와 잡화점, 식당이 모여 있어요.",
+    "지하철과 버스 정류장이 연결되어 비가 와도 우산 없이 이동할 수 있어요.",
+    "저녁에는 식당가에 대기가 생기기도 해요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "지하 연결"
+  ],
+  "tip": "비 오는 날 일정을 옮길 때 유용해요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "지하가",
+    "쇼핑",
+    "비 오는 날"
+  ],
+  "art_key": "shop",
+  "local_search": "京都駅前地下街ポルタ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 44,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "실내 동선(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:14.433Z"
+}

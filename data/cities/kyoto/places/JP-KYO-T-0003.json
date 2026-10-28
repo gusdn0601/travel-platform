@@ -1,0 +1,81 @@
+{
+  "id": "pl_f9fe30e9f1",
+  "code": "JP-KYO-T-0003",
+  "city_id": "JP-KYO",
+  "slug": "karasuma-shijo-station",
+  "kind": "transit",
+  "name_ko": "가라스마 시조역",
+  "name_sub": "Karasuma Shijō Station",
+  "name_local": "四条駅",
+  "lat": 35.0025,
+  "lng": 135.75972,
+  "area": "시조/가와라마치",
+  "lead": "교토 시영 지하철 가라스마선의 역. 시내 중심 이동에 편해요.",
+  "facts": [
+    [
+      "종류",
+      "지하철역"
+    ],
+    [
+      "노선",
+      "가라스마선"
+    ],
+    [
+      "특징",
+      "한큐선 환승"
+    ]
+  ],
+  "origin": [
+    "가라스마 시조역은 시내 중심을 남북으로 잇는 가라스마선의 역이에요.",
+    "한큐 가와라마치역과 지하 통로로 이어져 환승이 편해요.",
+    "교토역이나 기타야마 방면으로 이동할 때 자주 쓰여요.",
+    "지하 통로가 넓어 비 오는 날에도 편해요."
+  ],
+  "practical": [
+    "환승 통로 이동 있음",
+    "1일권 활용"
+  ],
+  "tip": "지하철 1일권을 쓰면 시내 이동이 편해요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "구간 요금",
+  "must": 0,
+  "tags": [
+    "교통",
+    "지하철",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "四条駅",
+  "photos": [
+    "JP-KYO-T-0003-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shij%C5%8D_Station",
+    "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%9D%A1%E9%A7%85"
+  ],
+  "meta": {
+    "priority": 42,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "시내 이동 동선(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:34.794Z"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CN-phrase-001",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "고수 빼주세요",
+    "body_md": "不要香菜 (부야오 샹차이)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-002",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "맵지 않게 해주세요 (아이용)",
+    "body_md": "不要辣 (부야오 라)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-003",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "조금만 맵게",
+    "body_md": "微辣 (웨이 라)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-004",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "계산할게요",
+    "body_md": "买单 (마이딴)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-005",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "얼마예요?",
+    "body_md": "多少钱? (뚜어샤오 치엔)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-006",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "미터기 켜 주세요",
+    "body_md": "请打表 (칭 다비아오)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-007",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "여기서 세워 주세요",
+    "body_md": "就在这里停 (지우 짜이 쩌리 팅)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-008",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "화장실 어디예요?",
+    "body_md": "洗手间在哪里? (시쇼우지엔 짜이 나리)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-009",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "포장해 주세요",
+    "body_md": "可以打包吗? (커이 다빠오 마)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-010",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "따뜻한 물 주세요",
+    "body_md": "请给我热水 (칭 게이워 러슈이)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-011",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "사진 찍어 주실래요?",
+    "body_md": "可以帮我们拍张照吗? (커이 빵워먼 파이 짱 짜오 마)",
+    "source_url": null,
+    "verified_at": null
+  },
+  {
+    "id": "CN-phrase-012",
+    "country_code": "CN",
+    "type": "phrase",
+    "title": "고맙습니다",
+    "body_md": "谢谢 (씨에씨에)",
+    "source_url": null,
+    "verified_at": null
+  }
+]

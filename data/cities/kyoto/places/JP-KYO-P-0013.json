@@ -1,0 +1,74 @@
+{
+  "id": "pl_cec09c795b",
+  "code": "JP-KYO-P-0013",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-cube",
+  "kind": "shop",
+  "name_ko": "교토역 The CUBE",
+  "name_sub": "The CUBE",
+  "name_local": "京都駅ビル専門店街 The CUBE",
+  "lat": null,
+  "lng": null,
+  "area": "교토역",
+  "lead": "교토역 빌딩 안의 전문점 거리. 기념품과 잡화가 모여 있어요.",
+  "facts": [
+    [
+      "종류",
+      "역내 상점가"
+    ],
+    [
+      "특징",
+      "기념품·잡화"
+    ],
+    [
+      "위치",
+      "교토역 빌딩"
+    ]
+  ],
+  "origin": [
+    "The CUBE는 교토역 빌딩 안에 있는 전문점 거리예요.",
+    "기념품과 잡화, 식당이 층별로 나뉘어 있어요.",
+    "기차 시간 전에 짧게 둘러보기 좋아요.",
+    "역 안이라 짐을 들고도 편하게 볼 수 있어요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "역내"
+  ],
+  "tip": "기차 타기 30분 전에 들러 기념품을 정리하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "기념품",
+    "교토역"
+  ],
+  "art_key": "shop",
+  "local_search": "京都駅ビル専門店街 The CUBE",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 40,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "역내 쇼핑(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:23.552Z"
+}

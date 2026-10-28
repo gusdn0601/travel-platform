@@ -1,0 +1,123 @@
+{
+  "id": "yellow-travelbook",
+  "name": "노란 여행책",
+  "isDefault": true,
+  "isPaid": false,
+  "colors": {
+    "bg": "#F7F6F2",
+    "ink": "#1F2328",
+    "accent": "#F2B705",
+    "sky1": "#E4EDF4",
+    "paper": "#FFFFFF",
+    "line": "#E7E4DB",
+    "ok": "#3E9B6B",
+    "warn": "#D64545"
+  },
+  "dayColors": {
+    "d1": "#F4D738",
+    "d2": "#BFE3CF",
+    "d3": "#F8C7D6",
+    "d4": "#C7DEF4",
+    "d5": "#E8D3F2"
+  },
+  "font": {
+    "title": "Pretendard",
+    "display": "Pretendard",
+    "body": "Pretendard",
+    "displayWeight": 800,
+    "fallback": "Pretendard, 'Noto Sans KR', system-ui, -apple-system, 'Malgun Gothic', sans-serif"
+  },
+  "iconSet": "handdrawn",
+  "icons": {
+    "stamp": [
+      {
+        "color": "#f4d738",
+        "svg_path": "<path d=\"M4 6h16v14H4zM4 10h16M9 3v5M15 3v5\"/>"
+      },
+      {
+        "color": "#bfe3cf",
+        "svg_path": "<path d=\"M3 20l6-12 4 7 3-4 5 9z\"/>"
+      },
+      {
+        "color": "#f8c7d6",
+        "svg_path": "<circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 21c1-5 15-5 16 0\"/>"
+      },
+      {
+        "color": "#c7def4",
+        "svg_path": "<circle cx=\"12\" cy=\"12\" r=\"8\"/><path d=\"M12 7v5l3 2\"/>"
+      }
+    ],
+    "viewBox": "0 0 24 24",
+    "stroke": "currentColor",
+    "strokeWidth": 1.8
+  },
+  "routeMap": {
+    "layout": "snake-3col",
+    "jitter": true,
+    "stroke": "#D9534F",
+    "strokeWidth": 3,
+    "dash": "6 5",
+    "nodeRadius": 14,
+    "viewBox": [
+      320,
+      560
+    ],
+    "coordsFrom": "data/cities/{city}/route-map.json",
+    "nodeShape": "circle"
+  },
+  "cover": {
+    "art": "hand-illustration",
+    "stamp": true,
+    "texture": "paper",
+    "titleSize": 28,
+    "chipRadius": 9,
+    "tape": "#F4D738",
+    "frame": {
+      "radius": 14,
+      "width": 2
+    },
+    "decor": [
+      {
+        "svg": "<circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v3M12 19v3M2 12h3M19 12h3M5 5l2 2M17 17l2 2M19 5l-2 2M7 17l-2 2\"/>",
+        "at": [
+          0.1,
+          0.04
+        ],
+        "size": 30,
+        "rot": 0,
+        "color": "#E8A317",
+        "opacity": 0.6
+      },
+      {
+        "svg": "<path d=\"M3 20l6-12 4 7 3-4 5 9z\"/>",
+        "at": [
+          0.9,
+          0.955
+        ],
+        "size": 40,
+        "rot": 0,
+        "color": "#6BAF7B",
+        "opacity": 0.55
+      },
+      {
+        "svg": "<path d=\"M21 3L3 11l7 3 3 7z\"/>",
+        "at": [
+          0.12,
+          0.965
+        ],
+        "size": 28,
+        "rot": -10,
+        "color": "#D9534F",
+        "opacity": 0.5
+      }
+    ]
+  },
+  "art": {
+    "keysFrom": "place.art_key",
+    "note": "SVG illustrations are theme assets, not place data"
+  },
+  "ui": {
+    "radius": 14,
+    "btnRadius": 999
+  }
+}

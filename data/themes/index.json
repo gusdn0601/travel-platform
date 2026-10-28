@@ -1,0 +1,18 @@
+[
+  {
+    "id": "yellow-travelbook",
+    "file": "default-yellow.json"
+  },
+  {
+    "id": "resort-coral",
+    "file": "resort.json"
+  },
+  {
+    "id": "ocean-blue",
+    "file": "ocean.json"
+  },
+  {
+    "id": "kyoto-washi",
+    "file": "kyoto.json"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "id": "pl_eb7e38bdc3",
+  "code": "JP-KYO-T-0002",
+  "city_id": "JP-KYO",
+  "slug": "hankyu-kawaramachi",
+  "kind": "transit",
+  "name_ko": "한큐 가와라마치역",
+  "name_sub": "Hankyu Kyoto-Kawaramachi Station",
+  "name_local": "京都河原町駅",
+  "lat": 35.00375,
+  "lng": 135.76872,
+  "area": "시조/가와라마치",
+  "lead": "한큐선 종점역. 오사카 우메다로 바로 갈 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "한큐 교토선"
+    ],
+    [
+      "특징",
+      "오사카 우메다 직결"
+    ]
+  ],
+  "origin": [
+    "가와라마치역은 한큐 교토선의 종점으로, 오사카 우메다와 직결돼요.",
+    "시조·가와라마치 상점가와 바로 이어져 있어 쇼핑 동선에 좋아요.",
+    "긴테쓰·지하철역과는 조금 떨어져 있어 환승 시 도보가 필요해요.",
+    "저녁 시간대에는 붐벼요."
+  ],
+  "practical": [
+    "환승 도보 필요",
+    "러시아워 혼잡"
+  ],
+  "tip": "오사카로 돌아갈 때 마지막 쇼핑을 여기서 마무리하기 좋아요.",
+  "open_hours": null,
+  "stay_min": 10,
+  "price_hint": "구간 요금",
+  "must": 0,
+  "tags": [
+    "교통",
+    "한큐",
+    "오사카"
+  ],
+  "art_key": "train",
+  "local_search": "京都河原町駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA%E9%A7%85"
+  ],
+  "meta": {
+    "priority": 36,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "오사카 이동 동선(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:42:30.528Z"
+}

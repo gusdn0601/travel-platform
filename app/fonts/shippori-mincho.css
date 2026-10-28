@@ -1,0 +1,9 @@
+/* Shippori Mincho 600 — @fontsource, OFL-1.1. 원본: https://cdn.jsdelivr.net/npm/@fontsource/shippori-mincho@5.0.0 */
+/* shippori-mincho-latin-600-normal */
+@font-face {
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-display: var(--fontsource-display, swap);
+  font-weight: 600;
+  src: url(shippori-mincho/shippori-mincho-latin-600-normal.woff2) format('woff2');
+}
