@@ -60,6 +60,7 @@ async function init() {
 /* ---------------- 검색·필터 ---------------- */
 function setupSearch() {
   let t = 0;
+  els.q.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); els.q.blur(); } });
   els.q.addEventListener('input', () => {
     $('#clearQ').hidden = !els.q.value;
     clearTimeout(t);

@@ -550,7 +550,7 @@ function wireAdd(trip, pane, w, day, commit) {
         + `<div class="rec"><div class="b"><b>${hits.length ? '찾는 곳이 없나요?' : '직접 입력으로 추가'}</b><div class="why">'${esc(state.q)}' 을(를) 직접 입력해서 넣을 수 있어요</div></div><button class="sm ghost" data-goman>직접 입력으로 추가</button></div>`;
       bind(out); out.querySelector('[data-goman]').onclick = () => { state.add = 'manual'; viewTrip(trip.id); };
     };
-    pane.querySelector('#qb').onclick = run; q.oninput = debounce(run, 300); q.onkeydown = (e) => e.key === 'Enter' && (e.preventDefault(), run());
+    pane.querySelector('#qb').onclick = run; q.oninput = debounce(run, 300); q.onkeydown = (e) => e.key === 'Enter' && (e.preventDefault(), run(), q.blur());
     if (state.q) run();
   }
   const mf = pane.querySelector('#mf');
