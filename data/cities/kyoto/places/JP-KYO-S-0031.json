@@ -57,6 +57,20 @@
     "https://ja.wikipedia.org/wiki/%E5%BB%BA%E4%BB%81%E5%AF%BA",
     "https://www.openstreetmap.org/way/760889100"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "온전한 교토 (기요미즈데라, 겐닌지, Good good not bad Kyoto, 우지, 가모강, LE LABO KYOTO MACHIYA)",
+      "url": "https://blog.naver.com/mingdu0102/224442326258",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토여행 ep 2. 교토 맛따라 멋따라👩‍❤️‍👩 청수사 기요미즈데라 👹•겐닌지 서래원•기념품 쇼핑(APFR Kyoto)•맛집 이자카야 🍢",
+      "url": "https://www.youtube.com/watch?v=OxAXaSFQncA",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:14.288Z"
 }

@@ -53,6 +53,14 @@
     "https://www.openstreetmap.org/way/32560852",
     "https://www.usj.co.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 유니버설 스튜디오 재팬 후기｜입장권, 확약권, 간사이조이패스 구매 이용 후기 ☆",
+      "url": "https://blog.naver.com/mariorent/224456707123",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +82,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.633Z",
   "origin": [

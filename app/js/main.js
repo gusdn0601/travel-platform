@@ -21,7 +21,7 @@ const $app = document.getElementById('app');
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const KIND = { sight: '명소', food: '맛집', shop: '쇼핑' };
 const TYPES = ['관광', '미식', '역사', '휴양'], PARTY = ['가족', '커플', '친구', '혼자'];
-const state = { theme: null, city: null, places: [], byId: new Map(), photos: new Map(), shortNames: {}, db: storage.load(), day: 1, tab: 'plan', planView: 'cards', dayMode: 'compact', add: null, addKind: 'all', open: null, q: '' };
+const state = { theme: null, city: null, places: [], byId: new Map(), photos: new Map(), kr: new Map(), shortNames: {}, db: storage.load(), day: 1, tab: 'plan', planView: 'cards', dayMode: 'compact', add: null, addKind: 'all', open: null, q: '' };
 
 // 라인 아이콘 세트 (인라인 SVG, 24px 격자)
 const IC = {
@@ -460,6 +460,27 @@ function histSection(p) {
     ${items.map((it) => `<div class="hist-i">${it.title ? `<b>${esc(it.title)}</b>` : ''}<p>${esc(it.story)}</p></div>`).join('')}</details>`;
 }
 
+// 한국 후기·영상 링크 — 장소 JSON 을 처음 펼칠 때 한 번만 가져와 캐시한다.
+// (places-index.json 에는 링크가 없어 상세 파일을 지연 로드; 오프라인 팩에 포함된 파일이라 끊겨도 열린다)
+function krSection(p, trip) {
+  if (!p || p.custom || !p.code) return '';
+  const refs = state.kr.get(p.code);
+  if (refs === undefined) {
+    state.kr.set(p.code, null);
+    fetch(`${CITY}places/${encodeURIComponent(p.code)}.json`, { cache: 'force-cache' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((j) => {
+        const list = (j && Array.isArray(j.kr_refs) ? j.kr_refs : []).filter((x) => x && x.url && x.title);
+        state.kr.set(p.code, list.length ? list : null);
+        if (list.length) viewTrip(trip.id); // 링크가 있으면 한 번 다시 그려서 섹션을 붙인다
+      })
+      .catch(() => { });
+    return '';
+  }
+  if (!refs || !refs.length) return '';
+  return `<div class="krrefs"><b>한국 후기·영상</b>${refs.map((r) => `<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer"><span class="krt ${esc(r.type)}">${r.type === 'youtube' ? '유튜브' : '블로그'}</span><span>${esc(r.title)}</span></a>`).join('')}</div>`;
+}
+
 // 상세 보기: 접힌 카드는 한 줄(56px). 펼치면 사진·설명·팁·편집
 function detailList(trip, stops, w) {
   return `<div class="dl">${stops.map((s) => {
@@ -467,7 +488,7 @@ function detailList(trip, stops, w) {
     const p = state.byId.get(s.place_id), ph = p && state.photos.get(p.id)?.[0], open = state.open === s.id;
     return `<details class="stop" data-sid="${s.id}" ${open ? 'open' : ''}><summary class="srow"><span class="kind ${stopKind(s)}">${kindTag(s)}</span><b class="n">${esc(s.label)}</b><span class="t">${s.start_time}–${s.end_time}</span></summary>
       <div class="sbody">${s.note ? `<div class="muted">${esc(s.note)}</div>` : ''}
-        ${p && !p.custom ? `<p>${esc(p.lead || '')}</p>${ph ? `<img class="photo" loading="lazy" src="${CITY}${ph.file}" alt="${esc(ph.caption)}"><div class="credit">${esc(ph.credit)}</div>` : ''}${p.tip ? `<p>${esc(p.tip)}</p>` : ''}${(p.practical || []).map((x) => `<p>• ${esc(x)}</p>`).join('')}${histSection(p)}` : ''}
+        ${p && !p.custom ? `<p>${esc(p.lead || '')}</p>${ph ? `<img class="photo" loading="lazy" src="${CITY}${ph.file}" alt="${esc(ph.caption)}"><div class="credit">${esc(ph.credit)}</div>` : ''}${p.tip ? `<p>${esc(p.tip)}</p>` : ''}${(p.practical || []).map((x) => `<p>• ${esc(x)}</p>`).join('')}${krSection(p, trip)}${histSection(p)}` : ''}
         ${p ? `<a class="maplink" href="${mapsAdapter.link(p)}" target="_blank" rel="noopener">${ic('pin', 'sm')} 지도에서 보기</a>` : ''}
         ${open ? `<div class="tl-act" data-act-for="${s.id}"></div>` : ''}</div></details>`;
   }).join('')}</div>`;

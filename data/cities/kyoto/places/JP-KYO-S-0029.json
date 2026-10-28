@@ -51,6 +51,20 @@
     "https://www.openstreetmap.org/way/859305371",
     "https://www.eikando.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "가을 교토의 절정, 3천 그루 붉은 파노라마 에이칸도 단풍 완벽 가이드",
+      "url": "https://blog.naver.com/laobear/224442338071",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "🍁교토 최고의 단풍명소 에이칸도 젠린지(구독♡좋아요) #교토단풍 #교토여행 #교토브이로그",
+      "url": "https://www.youtube.com/watch?v=zgmcpGODuI4",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -72,7 +86,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.944Z",
   "origin": [

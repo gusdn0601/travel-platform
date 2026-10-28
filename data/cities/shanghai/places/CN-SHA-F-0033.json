@@ -56,7 +56,9 @@
   ],
   "art_key": "tart",
   "local_search": "喜茶 上海",
-  "photos": [],
+  "photos": [
+    "CN-SHA-F-0033-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

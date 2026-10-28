@@ -65,6 +65,20 @@
     "https://en.wikipedia.org/wiki/Shanghai_cuisine",
     "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 맛집 5곳, 라오정싱 자자탕바오 현지 평가와 여행자 평가 비교",
+      "url": "https://blog.naver.com/cha_ebi/224443805812",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이 난징동루 미슐랭 1스타 상해요리 라오정싱 Lao Zheng Xing 老正兴",
+      "url": "https://www.youtube.com/watch?v=QjwEalFAC6Y",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -83,7 +97,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.072Z"
 }

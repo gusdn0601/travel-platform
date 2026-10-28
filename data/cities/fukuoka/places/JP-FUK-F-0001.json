@@ -70,6 +70,20 @@
     "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
     "https://www.ichiran.co.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 이치란 라멘 본점 | 웨이팅 40분 | 어린이 라멘 무료 쿠폰 받는법",
+      "url": "https://blog.naver.com/pineapple_1/224455326179",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 이치란라멘🩷 #주부브이로그 #먹방 #주부일상 #이치란라멘 #후쿠오카 #후쿠오카브이로그 #라면 #일본여행 #꿀팁 #웨이팅맛집 #후쿠오카맛집 #웨이팅필수",
+      "url": "https://www.youtube.com/watch?v=SuJe135R_rk",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -90,7 +104,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "web-verified; see sources[]",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:36.834Z"
 }

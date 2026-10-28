@@ -51,6 +51,20 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "퍼스트애로우즈 교토점, 신쿄고쿠에서 만나는 하라주쿠 실버 액세서리",
+      "url": "https://blog.naver.com/dyrown/224444706642",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토의 전통과 현대를 만나는 곳, 테라마치 상점가 탐방테라마치 상점가는 교토의 대표적인 아케이드형 쇼핑 거리로, 전통과 현대가 조화롭게 어우러진 곳입니다.",
+      "url": "https://www.youtube.com/watch?v=-dXwuMXGsdI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "kyoto-2026-10-28",
@@ -67,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:41.473Z"
 }

@@ -60,6 +60,14 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%82%E5%9F%8E",
     "https://www.openstreetmap.org/way/35457792"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 여행 코스 오사카성 공원 둘러보기 먹거리 자판기 거리 공연까지 솔직 후기",
+      "url": "https://blog.naver.com/ljy030203/224443905234",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -79,7 +87,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:13.350Z"
 }

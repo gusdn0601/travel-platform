@@ -55,6 +55,20 @@
     "https://www.openstreetmap.org/way/105817561",
     "https://www.shokoku-ji.jp/ginkakuji/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 교토 긴카쿠지 은각사(銀閣寺)와 철학자의 길, 히가시야마 지쇼지, 지쇼지, 긴샤단 은사탄",
+      "url": "https://blog.naver.com/viewport_/224395253734",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 은각사 근처 인생 냉우동 맛집 #교토여행 #오멘긴카쿠지",
+      "url": "https://www.youtube.com/watch?v=MRVD63sv_EA",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.933Z",
   "origin": [

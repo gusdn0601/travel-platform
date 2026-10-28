@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/way/31842037",
     "http://www.sanjusangendo.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 가볼만한 곳 : 산주산겐도(三十三間堂)와 호주지(法住寺)",
+      "url": "https://blog.naver.com/nisa9163/224455649662",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "★ #여행유튜브 엉터리여행기 #교토 편 예고입니다. 많은 구독과 관심 부탁드려요! #kyoto #교토 #일본 #JAPAN #일본여행 #교토여행 #산주산겐도 #렌겐오인",
+      "url": "https://www.youtube.com/watch?v=z3GsXmb3WwQ",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.936Z",
   "origin": [

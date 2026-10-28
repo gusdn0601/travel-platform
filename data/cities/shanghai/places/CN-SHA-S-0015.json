@@ -106,7 +106,9 @@
   "tags": [],
   "art_key": "tower",
   "local_search": "上海马戏城",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0015-P1"
+  ],
   "status": "published",
   "version": 1,
   "verified_at": null,

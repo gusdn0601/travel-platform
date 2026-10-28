@@ -64,6 +64,20 @@
     "https://en.wikipedia.org/wiki/Uji",
     "https://www.openstreetmap.org/node/12030526504"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "우지여행 나카무라 도키치 혼텐과 뵤도인",
+      "url": "https://blog.naver.com/lovelyjjan/224153692162",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "VLOG)7박8일일본여행 #교토브이로그 2편/소도시‘우지‘여행, 뵤도인,나카무라토키치,oumiya seiuemon,마루키베이커리,굿맨로스터교토,히가시혼간지,Roe’s kitchen",
+      "url": "https://www.youtube.com/watch?v=w9S5XAW2_oY",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -85,7 +99,9 @@
     "photo": "commons",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:13.009Z"
 }

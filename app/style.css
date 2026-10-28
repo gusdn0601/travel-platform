@@ -167,6 +167,12 @@ label.inl { font-size:13px; color:var(--sub); font-weight:600; }
 .dl .sbody { padding:0 16px 16px; }
 .dl .sbody .tl-act { padding:8px 0 0; border:0; }
 /* 역사 이야기: story 가 있는 장소만, 기본 접힘 */
+.krrefs { display:flex; flex-direction:column; gap:8px; margin-top:12px; border-top:1px solid var(--line); padding-top:10px; }
+.krrefs > b { display:block; font-size:13px; color:var(--sub); margin-bottom:0; }
+.krrefs a { display:flex; align-items:center; gap:8px; min-height:44px; padding:6px 0; margin:0; font-size:14px; line-height:1.4; color:var(--ink); text-decoration:none; overflow-wrap:anywhere; }
+.krrefs a:hover { text-decoration:underline; }
+.krt { flex:none; font-size:10.5px; font-weight:800; padding:3px 7px; border-radius:6px; background:var(--sky1); color:#2E4B66; }
+.krt.youtube { background:#FFE3E3; color:#9B1C1C; }
 .hist { margin-top:12px; border-top:1px solid var(--line); }
 .hist summary { display:flex; align-items:center; gap:8px; min-height:44px; cursor:pointer; list-style:none; }
 .hist summary::-webkit-details-marker { display:none; }

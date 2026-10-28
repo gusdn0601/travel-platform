@@ -352,6 +352,11 @@ function detailHtml(p, item) {
   h += `<p class="muted">검증: ${p.verified_at ? esc(p.verified_at) + ' · ' + esc((p.meta && p.meta.verification) || '') : '미검증(수집가 1차 자료)'}${p.meta && p.meta.verified_scope ? ' · ' + esc(p.meta.verified_scope) : ''}</p>`;
   if (p.meta && p.meta.hours_basis) h += `<p class="muted">영업시간 근거: ${esc(p.meta.hours_basis)} · 가격 근거: ${esc(p.meta.price_basis || '-')}</p>`;
   h += `</div>`;
+  if (p.kr_refs && p.kr_refs.length) {
+    h += sec('한국 후기·영상', '새 탭에서 열려요');
+    h += `<div class="card-blk krrefs">${p.kr_refs.map((r) => `<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer"><span class="krt ${esc(r.type)}">${r.type === 'youtube' ? '유튜브' : '블로그'}</span><span>${esc(r.title)}</span></a>`).join('')}</div>`;
+    h += `<p class="muted krnote">한국어 블로그·영상 링크만 모았습니다(본문·자막은 옮기지 않음). 작성 시점 기준이니 방문 전 최신 정보를 확인하세요.</p>`;
+  }
   if (p.sources && p.sources.length) {
     h += sec('출처');
     h += `<div class="srcs">${p.sources.map((u) => `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">↗ ${esc(shortUrl(u))}</a>`).join('')}</div>`;

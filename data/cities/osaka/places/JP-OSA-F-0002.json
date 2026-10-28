@@ -73,6 +73,20 @@
     "https://www.openstreetmap.org/node/4488318892",
     "https://www.ichiran.co.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 이치란 도톤보리점 별관 후기 : 본관 문 닫음 웨이팅 주문용지 식권 제출 순서 돈코츠라멘 맵기 1/2단계 2단계 반숙란 추가",
+      "url": "https://blog.naver.com/stay_calm__/224440182067",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "[🇯🇵] 이치란 라멘 먹으러 일본가기 | 24시간 오사카 여행 | 가족과 첫 해외여행",
+      "url": "https://www.youtube.com/watch?v=kTQCPzECMcE",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -93,7 +107,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "web-verified; see sources[]",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:08.880Z"
 }

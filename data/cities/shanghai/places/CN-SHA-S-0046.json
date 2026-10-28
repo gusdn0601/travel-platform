@@ -46,7 +46,9 @@
   ],
   "art_key": "street",
   "local_search": "淮海中路",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0046-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

@@ -58,6 +58,20 @@
   "sources": [
     "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%8E%E3%82%A2%E3%82%B7%E3%83%86%E3%82%A3%E7%A6%8F%E5%B2%A1"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 쇼핑몰 마리노아시티 | 현재는 폐점한 추억의 후쿠오카 아울렛",
+      "url": "https://blog.naver.com/dduni_c/224244532264",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카vlog)마리노아시티아울렛.하카타역.일루미네이션.후쿠오카",
+      "url": "https://www.youtube.com/watch?v=_vgrnFDDWtY",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:23.568Z"
 }

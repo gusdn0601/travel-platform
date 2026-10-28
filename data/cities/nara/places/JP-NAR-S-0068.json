@@ -59,6 +59,14 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E6%96%87%E8%8F%AF%E9%A4%A8",
     "https://www.openstreetmap.org/node/1423057512"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[나라 야마토 순례 스탬프 랠리(奈良大和巡礼スタンプラリー)] 아베몬쥬인/아베문수원 (安倍文殊院)",
+      "url": "https://blog.naver.com/stratosphere33/224038033215",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "nara-2026-10-28",
@@ -78,7 +86,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:15:14.540Z"
 }

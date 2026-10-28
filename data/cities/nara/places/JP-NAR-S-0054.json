@@ -58,6 +58,20 @@
     "https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%88%E5%A0%82",
     "https://www.openstreetmap.org/way/1134669588"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "나라 사슴공원 3탄 이월당 하치만구 후기 오사카 근교 당일치기 여행 코스 추천",
+      "url": "https://blog.naver.com/kaneru_blog/224214281888",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "이토 히로부미와 인연이 있는 시모노세키의 카메야마 하치만구 신사! #여행 #기타큐슈 #시모노세키 #일본 #일본여행",
+      "url": "https://www.youtube.com/watch?v=sdDWX29kjY4",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "nara-2026-10-28",
@@ -77,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:09:39.196Z"
 }

@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/Togetsukyo_Bridge",
     "https://www.openstreetmap.org/way/519319727"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 아라시야마 료칸 도게쓰테이, 아이랑 기모노 입고 도게쓰교 건너는 가족여행 숙소 정리",
+      "url": "https://blog.naver.com/todals1/224456166514",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "여름 교토 | 오타기 넨부쓰지 | 치쿠린 | 기모노 숲 | 도게쓰교 | 가와라마치 | 디즈니스토어 | 사이구 옛터 | 아라시야마",
+      "url": "https://www.youtube.com/watch?v=3GPXeCiSNz8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.934Z",
   "origin": [

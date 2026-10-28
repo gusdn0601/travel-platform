@@ -47,7 +47,9 @@
   ],
   "art_key": "neon",
   "local_search": "外滩观光隧道",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0025-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

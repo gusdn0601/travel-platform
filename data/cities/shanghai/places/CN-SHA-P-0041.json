@@ -60,6 +60,20 @@
     "https://zh.wikipedia.org/wiki/%E8%99%B9%E6%B3%89%E8%B7%AF",
     "https://www.openstreetmap.org/way/240826953"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[China] Shanghai, 광푸린 문화 전시관(廣富林文化遺址) 에서 도심으로 돌아오는 길에 방문해 라면과 김밥 먹고 온다.... \"홍취안루(虹泉路) 한인타운\"_20250505",
+      "url": "https://blog.naver.com/antaregu/223856301312",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "[Vlog#11] 상하이 호텔 격리 해제, 1년 7개월 컴백홈, 홍첸루 일상, 한인마트, 집 청소 시작 #상해격리생활 #상하이일상 #상하이라이프",
+      "url": "https://www.youtube.com/watch?v=pCiM3ilXkG8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +95,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.953Z"
 }

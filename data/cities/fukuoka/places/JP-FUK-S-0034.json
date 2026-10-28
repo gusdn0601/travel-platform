@@ -61,6 +61,20 @@
     "https://www.openstreetmap.org/node/9079593377",
     "https://ja.wikipedia.org/wiki/%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 후쿠오카 [모지코 레트로] 볼거리 총정리 | 시모노세키 배편·프린세스 피피·관광 코스",
+      "url": "https://blog.naver.com/better_zip/224455144127",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "🍥로또들고 떠난 마지막 나혼자 후쿠오카여행 브이로그+작두탄 맛집들+모지코 고쿠라 기타규슈 당일치기",
+      "url": "https://www.youtube.com/watch?v=Ol8ETUbR780",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -78,7 +92,9 @@
     },
     "photo": "null",
     "collected_at": "2026-10-28",
-    "flag": "wikipedia/OSM matched wrong entity (7.6km); coords left null"
+    "flag": "wikipedia/OSM matched wrong entity (7.6km); coords left null",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:37.482Z"
 }

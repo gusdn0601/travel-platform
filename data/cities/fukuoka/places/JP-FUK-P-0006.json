@@ -58,6 +58,20 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E5%9C%B0%E4%B8%8B%E8%A1%97",
     "https://www.openstreetmap.org/way/843356420"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 후쿠오카 텐진 지하상가 칼디(KALDI) 쇼핑리스트 추천템 유명템 포션커피 스프레드",
+      "url": "https://blog.naver.com/ourdaylog_hi/224452872852",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 텐진 지하상가는 이대로 다녀오세요🇯🇵🛍️ 쇼핑&간식 필수코스",
+      "url": "https://www.youtube.com/watch?v=DVOlqBjA0fo",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:27.161Z"
 }

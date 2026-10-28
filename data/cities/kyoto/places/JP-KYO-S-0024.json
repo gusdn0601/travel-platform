@@ -50,6 +50,20 @@
     "https://www.openstreetmap.org/way/98106488",
     "https://www.shimogamo-jinja.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토(2)] 시모가모 신사 1",
+      "url": "https://blog.naver.com/toads/224404163146",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "44. 카모강변을 달려 교토의 고신사 시모가모신사 가기(교토 신사 탐방2)",
+      "url": "https://www.youtube.com/watch?v=0N7cvdQrK6Q",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -71,7 +85,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.943Z",
   "origin": [

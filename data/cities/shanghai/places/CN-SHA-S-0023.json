@@ -47,7 +47,9 @@
   ],
   "art_key": "park",
   "local_search": "世纪公园",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0023-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

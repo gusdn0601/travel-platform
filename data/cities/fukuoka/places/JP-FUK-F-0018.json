@@ -68,6 +68,20 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE",
     "https://en.wikipedia.org/wiki/Kengo_Kuma"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[다자이후] 스타벅스 다자이후 오모테산도점 : 쿠마 켄고 건축 후쿠오카 이색 카페 일본 목조 스타벅스 여름 한정 메뉴",
+      "url": "https://blog.naver.com/wi_sh_list/224436707738",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "[v._.log] 후쿠오카 ep.2 | 다자이후 200% 즐기기 | 다자이후 텐만구 | 우메가에 모찌 | 운세뽑기 | 나미만 | 소바맛집 | 부타망 | 스타벅스 오모테산도점",
+      "url": "https://www.youtube.com/watch?v=JaXn9aUsKkI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -88,7 +102,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:02.867Z"
 }

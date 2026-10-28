@@ -52,7 +52,9 @@
   ],
   "art_key": "market",
   "local_search": "文庙旧书市场",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0045-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

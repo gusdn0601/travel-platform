@@ -51,7 +51,9 @@
   ],
   "art_key": "street",
   "local_search": "四川北路",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0014-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

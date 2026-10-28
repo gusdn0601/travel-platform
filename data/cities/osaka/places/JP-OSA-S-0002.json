@@ -51,6 +51,20 @@
     "https://www.openstreetmap.org/node/4029007869",
     "http://www.dotonbori.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 오사카 여행 도톤보리 유니버셜 재팬",
+      "url": "https://blog.naver.com/leelee9707/224450308143",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "[Vlog.] 오사카 브이로그 ep.1🇯🇵 • 도톤보리 맛집 🍣• 여행추천템 • 난바 • 규카츠 • 쿠시카츠 • 장어덮밥 • 편의점투어🍜",
+      "url": "https://www.youtube.com/watch?v=YCquJBpJjDI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -72,7 +86,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.628Z",
   "origin": [

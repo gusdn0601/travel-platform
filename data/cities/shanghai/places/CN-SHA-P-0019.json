@@ -60,6 +60,14 @@
     "https://en.wikipedia.org/wiki/HKRI_Taikoo_Hui",
     "https://www.openstreetmap.org/way/1157366233"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[상하이 여행] 요즘 가장 핫한 상하이 명소 BEST 3 완벽 정복! 싱예타이구후이 루이호부터 천안천수까지 (+쇼핑 성지 꿀팁)",
+      "url": "https://blog.naver.com/q3857/224345107052",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -82,7 +90,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.589Z"
 }

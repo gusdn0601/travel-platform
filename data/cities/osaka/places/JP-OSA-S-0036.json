@@ -60,6 +60,14 @@
     "https://ja.wikipedia.org/wiki/%E6%9C%89%E9%A6%AC%E6%B8%A9%E6%B3%89%E9%A7%85",
     "https://www.openstreetmap.org/node/5160251359"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "아리마 온천, 금탕과 은탕 효능부터 오사카·고베 가는 법까지 정리했습니다",
+      "url": "https://blog.naver.com/creamystar/224450939110",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -79,7 +87,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:36.524Z"
 }

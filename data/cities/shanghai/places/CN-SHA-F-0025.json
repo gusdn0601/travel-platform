@@ -67,6 +67,14 @@
     "https://zh.wikipedia.org/wiki/%E7%82%B9%E5%BF%83",
     "https://www.openstreetmap.org/node/12531618780"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "《구석구석 상하이》 위위엔 루(愚园路) 따라 천천히 걸어 찾아간 명실상부한 맛집 디엔두더(점도덕点都德)롱즈먼점",
+      "url": "https://blog.naver.com/nonocon1/224455802967",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -87,7 +95,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.366Z"
 }

@@ -72,6 +72,20 @@
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
     "https://www.openstreetmap.org/way/222964062"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 도톤보리 맛집 킨류라멘 솔직후기",
+      "url": "https://blog.naver.com/2323sz/224443668150",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "#일상브이로그 #먹방브이로그 #먹방 #쇼츠 #short #메뉴추천 #뭐먹지 #오사카여행 #오사카브이로그 #도톤보리 #킨류라멘 #라멘맛집 #오사카맛집 #추천#mukbang",
+      "url": "https://www.youtube.com/watch?v=e70_1Z8lkKo",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -92,7 +106,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:08.881Z"
 }

@@ -52,7 +52,9 @@
   ],
   "art_key": "mall",
   "local_search": "环球港",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0021-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

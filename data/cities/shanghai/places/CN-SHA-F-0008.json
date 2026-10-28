@@ -57,7 +57,9 @@
   ],
   "art_key": "basket",
   "local_search": "佳家汤包 黄河路",
-  "photos": [],
+  "photos": [
+    "CN-SHA-F-0008-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,
@@ -66,6 +68,15 @@
     "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%AC%BC%E5%8C%85",
     "https://www.openstreetmap.org/node/4543454589"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국/상하이/佳家汤包(자자탕바오)",
+      "url": "https://blog.naver.com/for40/224323541074",
+      "source": "blog.naver.com"
+    }
+  ],
+  "sanitized_at": "2026-10-28T09:59:19.060Z",
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -86,7 +97,8 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
-  },
-  "sanitized_at": "2026-10-28T09:59:19.060Z"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

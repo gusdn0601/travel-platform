@@ -55,6 +55,20 @@
     "https://www.openstreetmap.org/way/772670439",
     "https://www.fukuokatower.co.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카타워 버스로 가는 법｜W1 타고 직접 다녀온 가족여행 후기",
+      "url": "https://blog.naver.com/bygoeum/224442127905",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 여행 브이로그ㅣ실패없이 다녀온 맛집 여행 코스🍜, 이동하기 좋은 숙소 추천, 캐널시티, 나카스강, 찐 현지인 우동맛집, 오호리공원, 후쿠오카 타워, 모모치해변",
+      "url": "https://www.youtube.com/watch?v=8zMLGNC1N_M",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.901Z",
   "origin": [

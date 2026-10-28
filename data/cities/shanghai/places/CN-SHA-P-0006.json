@@ -46,7 +46,9 @@
   ],
   "art_key": "market",
   "local_search": "七浦路服装批发市场",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0006-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

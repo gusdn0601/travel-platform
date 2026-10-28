@@ -51,6 +51,20 @@
     "https://www.openstreetmap.org/relation/3389505",
     "http://www.skybldg.co.jp/skybldg/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 우메다 스카이빌딩 공중정원 전망대 입장료 운영시간 야경 그랑프론트 코스",
+      "url": "https://blog.naver.com/jinsdiary-/224417755711",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "🇯🇵 \"첫 일본여행\" 벌써 마지막날ㅠㅠ 오사카성이랑 우메다 스카이빌딩 갔다옴!! [일본 브이로그 3편]",
+      "url": "https://www.youtube.com/watch?v=HxuhrCsEG4s",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -72,7 +86,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.630Z",
   "origin": [

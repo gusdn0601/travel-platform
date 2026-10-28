@@ -57,6 +57,14 @@
     "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%8E%9B%E4%B8%8D%E5%8B%95%E5%B0%8A",
     "https://www.openstreetmap.org/way/222477978"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 난바 오코노미야키 호젠지 산페이 40분 웨이팅 후기",
+      "url": "https://blog.naver.com/psps1108/224454993641",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:30.198Z"
 }

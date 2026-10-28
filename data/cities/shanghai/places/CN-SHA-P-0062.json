@@ -52,7 +52,9 @@
   ],
   "art_key": "tea",
   "local_search": "天山茶城",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0062-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

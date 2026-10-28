@@ -55,6 +55,20 @@
     "https://www.openstreetmap.org/way/409723494",
     "https://www.tenryuji.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 교토 여행 코스 텐류지 덴류지 가는법 입장료 아라시야마 치쿠린 대나무숲 가볼만한곳 추천",
+      "url": "https://blog.naver.com/yomo__/224439596426",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "일본 교토 아라시야마 산책 코스 | 대나무숲·덴류지 정원·도게츠교 강변",
+      "url": "https://www.youtube.com/watch?v=j8fhvyBIcdU",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.934Z",
   "origin": [

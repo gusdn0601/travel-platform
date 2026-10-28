@@ -52,7 +52,9 @@
   ],
   "art_key": "mall",
   "local_search": "环贸iapm",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0020-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

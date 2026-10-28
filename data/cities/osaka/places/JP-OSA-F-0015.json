@@ -68,6 +68,20 @@
     "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD",
     "https://www.openstreetmap.org/node/4590084890"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 리쿠로 오지상 치즈케이크 / 난바 본점 상세 후기! (기내 반입, 보관 방법, 다른 빵 종류)",
+      "url": "https://blog.naver.com/trip_julee/224437612783",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "4박 5일 일본 여행 브이로그🇯🇵| 3일차 오사카🔆| 단독숙소✨️|리쿠로 오지상 치즈케이크🎅🧀🥞|오사카성🏯| 구리코상🙆‍♂️|회전초밥🍣|소라니와 온센♨️|야식 파티🥡🍜🥗🎇",
+      "url": "https://www.youtube.com/watch?v=yj44JYlpumI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -88,7 +102,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:19.773Z"
 }

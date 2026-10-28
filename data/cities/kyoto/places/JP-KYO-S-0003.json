@@ -53,6 +53,20 @@
     "https://www.openstreetmap.org/way/98115917",
     "https://www.shokoku-ji.jp/kinkakuji/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 금각사 킨카쿠지 사찰 입장료 가는법",
+      "url": "https://blog.naver.com/alal_0604/224437106892",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 금각사☺️ #교토 #금각사 #교토여행 #travel #kyoto #kinkakujitemple #킨카쿠지 #templeofthegoldenpavilion",
+      "url": "https://www.youtube.com/watch?v=DzGSrFSTWMQ",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.932Z",
   "origin": [

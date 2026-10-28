@@ -57,6 +57,20 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%AE%89%E5%AF%BA",
     "https://www.openstreetmap.org/way/239435287"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "이소노가미 신궁, 다이안지.",
+      "url": "https://blog.naver.com/r2sonance/224448316126",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "백제대사(百濟大寺)였던 다이안지(大安寺)ㅣ일본 왕가 최초의 절 이름에 붙은 '백제'ㅣ087",
+      "url": "https://www.youtube.com/watch?v=VJ89lLKWwEg",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "nara-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:09:29.697Z"
 }

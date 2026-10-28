@@ -68,6 +68,20 @@
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
     "https://www.openstreetmap.org/node/2345132061"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본/오사카] 도톤보리 타코야키 추천 쿠쿠루 | 40분 기다려 먹어본 후기",
+      "url": "https://blog.naver.com/daaassom/224422461632",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "30분 줄서서 먹는 오사카 명물 #쿠쿠루 #타코야키",
+      "url": "https://www.youtube.com/watch?v=H4TAR3ixzl8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -88,7 +102,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:08.882Z"
 }

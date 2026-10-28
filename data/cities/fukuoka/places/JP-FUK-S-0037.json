@@ -60,6 +60,14 @@
     "https://en.wikipedia.org/wiki/Itoshima",
     "https://ja.wikipedia.org/wiki/%E7%B3%B8%E5%B3%B6%E5%B8%82"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 후쿠오카 여자혼자 해외여행 이토시마 당일치기 버스투어 사쿠라이 후타미가우라 부부바위",
+      "url": "https://blog.naver.com/zinizio/224412059426",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -78,7 +86,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:42.807Z"
 }

@@ -60,6 +60,20 @@
     "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86",
     "https://www.openstreetmap.org/node/7701623523"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 돈키호테 나카스점 쇼핑리스트｜추천템·가격·할인쿠폰",
+      "url": "https://blog.naver.com/kimkm-1990/224455759909",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 1일차✈️ 쇼핑부터 먹방까지 행복했던 하루#후쿠오카 #일본여행 #브이로그 #텐진 #나카스강 #카와미야 #돈키호테 #은별",
+      "url": "https://www.youtube.com/watch?v=wqVAfe-heRM",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -77,7 +91,9 @@
     },
     "photo": "null",
     "collected_at": "2026-10-28",
-    "flag": "wikipedia matched company HQ (Tokyo); coords left null"
+    "flag": "wikipedia matched company HQ (Tokyo); coords left null",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:33.415Z"
 }

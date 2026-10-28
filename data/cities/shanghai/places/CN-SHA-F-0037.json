@@ -48,7 +48,9 @@
   ],
   "art_key": "street",
   "local_search": "黄河路美食街",
-  "photos": [],
+  "photos": [
+    "CN-SHA-F-0037-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

@@ -57,6 +57,20 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E9%A7%85",
     "https://www.openstreetmap.org/way/1313244351"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 우메다 맛집 추천 | 이즈모루쿠아 우나규타마동 1시간 웨이팅 아깝지 않은 나의 인생 장어덮밥집",
+      "url": "https://blog.naver.com/upgrademing/224449211116",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 3박 4일 여행 EP.1 | 라피트, 루쿠아몰 장어덮밥, 지브리, 햅파이브, 이자카야, 돈키호테 쇼핑 털기 ✈️",
+      "url": "https://www.youtube.com/watch?v=YLzDBLQpsSQ",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:40.097Z"
 }

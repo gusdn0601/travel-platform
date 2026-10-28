@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/way/619903245",
     "http://www.heianjingu.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 헤이안 신궁의 반전 역사, 두 아들과 함께한 뜻깊은 교토 여행",
+      "url": "https://blog.naver.com/nabe132436/224354965306",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 여행 브이로그! ep.2 하루 이만보 코스 :: 은각사 철학의길 에이칸도 젠린지 오므라이스 라멘 난젠지 수로각 산몬 헤이안신궁 카츠 가와라마치 야사카신사",
+      "url": "https://www.youtube.com/watch?v=gItKNqajJSk",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.937Z",
   "origin": [

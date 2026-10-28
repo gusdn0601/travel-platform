@@ -62,6 +62,14 @@
     "https://en.wikipedia.org/wiki/Beppu",
     "https://www.openstreetmap.org/way/417893209"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 겨울여행 벳푸 지옥순례 후쿠오카 겨울여행 우미지옥 후기",
+      "url": "https://blog.naver.com/smallonetamna/224449512276",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -81,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:28.531Z"
 }

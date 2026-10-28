@@ -53,6 +53,20 @@
     "https://www.openstreetmap.org/way/759391880",
     "https://www.kodaiji.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 고다이지 가는 법과 입장료, 12월 초 단풍 후기와 2026 라이트업 정보",
+      "url": "https://blog.naver.com/sunnie9/224450586076",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "237년 만에 돌아온 교토의 연회 공간｜고다이지 여름 특별 공개",
+      "url": "https://www.youtube.com/watch?v=huo3enOpthE",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.940Z",
   "origin": [

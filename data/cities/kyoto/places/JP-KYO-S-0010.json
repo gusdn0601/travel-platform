@@ -49,6 +49,20 @@
     "https://en.wikipedia.org/wiki/Gion",
     "https://www.openstreetmap.org/relation/9541222"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토] 기온코모리 :: 분위기 좋은 뷰맛집 디저트 카페, 말차빙수 와라비모찌 호불호.. 내돈내산 찐후기",
+      "url": "https://blog.naver.com/jewelry0822/224456634518",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 여행 브이로그 🇯🇵 일본 감성 200% 가득한 교토 기온거리와 폰토초 이자카야⛩️🍺 가와라마치 가성비 숙소 추천까지!",
+      "url": "https://www.youtube.com/watch?v=sWvw4OkXvBk",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -70,7 +84,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.936Z",
   "origin": [

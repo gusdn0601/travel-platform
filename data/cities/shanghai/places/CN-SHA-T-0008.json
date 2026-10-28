@@ -60,6 +60,14 @@
     "https://en.wikipedia.org/wiki/Lujiazui_station",
     "https://zh.wikipedia.org/wiki/%E9%99%86%E5%AE%B6%E5%98%B4%E7%AB%99"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[금융가] 상하이 루자쭈이역",
+      "url": "https://blog.naver.com/icao0312/224423433535",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +89,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:21.599Z"
 }

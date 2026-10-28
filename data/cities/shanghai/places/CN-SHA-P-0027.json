@@ -52,7 +52,9 @@
   ],
   "art_key": "mall",
   "local_search": "美罗城",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0027-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

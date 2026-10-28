@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/way/336641107",
     "http://www.kiyomizudera.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본] 교토 여행 교토 가볼만곳 추천 청수사 기요미즈데라🤗",
+      "url": "https://blog.naver.com/mi--mi/224449685798",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 기요미즈데라는 가을에 야간개장을 하는데요, 저녁에 가면 이런 아름다운 풍경을 볼 수 있답니다 🥹 #일본여행 #교토 #교토여행 #vlog #kyoto #japan #브이로그",
+      "url": "https://www.youtube.com/watch?v=PagwheaHICI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.932Z",
   "origin": [

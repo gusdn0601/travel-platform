@@ -53,6 +53,14 @@
     "https://www.openstreetmap.org/way/900420523",
     "https://www.marizon-kankyo.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[후쿠오카] 시사이드 모모치 해변공원 & 후쿠오카 타워 : 오호리 공원에서 가는 방법부터 노을 야경 명소 포토스팟까지 후쿠오카 여행 코스 추천",
+      "url": "https://blog.naver.com/wi_sh_list/224446026544",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +82,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.902Z",
   "origin": [

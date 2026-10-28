@@ -47,7 +47,9 @@
   ],
   "art_key": "bund",
   "local_search": "外白渡桥",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0055-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

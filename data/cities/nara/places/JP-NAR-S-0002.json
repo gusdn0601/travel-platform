@@ -49,6 +49,20 @@
     "https://en.wikipedia.org/wiki/Nara_Park",
     "http://nara-park.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "아이 둘과 다녀온 일본 나라공원, 사슴공원은 정말 아이들이 좋아할까?",
+      "url": "https://blog.naver.com/designinsu/224413400696",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 2박 3일 🇯🇵 태풍 뚫고 사슴한테 맞고 온 200% 최강 효율 코스 (USJ, 나라공원, 인생 맛집, 야키니쿠 맛집, 나카자키초)",
+      "url": "https://www.youtube.com/watch?v=f3G-7DwB7O8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -69,7 +83,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "nara-2026-10-28"
+    "expansion": "nara-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:02.728Z",
   "origin": [

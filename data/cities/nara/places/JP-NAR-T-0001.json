@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/Kintetsu_Nara_Station",
     "https://www.kintetsu.co.jp/station/station_info/station03023.html"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 나라공원 후기｜긴테쓰니폰바시역에서 나라 가는 법과 사슴 먹이주기 체험",
+      "url": "https://blog.naver.com/littlehaker/224454190484",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "2024.04.26 긴테츠 나라역 근처(近鉄奈良駅の近所) 맛집추천#일본여행 #오사카여행 #나라현여행 #나라현맛집추천 #日本旅行 #大阪旅行 #奈良県旅行",
+      "url": "https://www.youtube.com/watch?v=v6qoYKs_FN8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -73,7 +87,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "nara-2026-10-28"
+    "expansion": "nara-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:02.750Z",
   "origin": [

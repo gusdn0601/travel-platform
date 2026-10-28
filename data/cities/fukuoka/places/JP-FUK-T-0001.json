@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/Hakata_Station",
     "https://www.openstreetmap.org/node/13365956443"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "하카타역에서 후쿠오카공항 버스 타는 곳, 위치와 시간표",
+      "url": "https://blog.naver.com/review-blog-/224445119328",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "시청자 피드백을 반영한 하카타역 완벽 공략집 처음 후쿠오카 하카타역에 도착해도 헤메지 않고 오히려 즐겁게 즐기고 갈 수 있는 후쿠오카 여행에 도움이 되는 고생 담은 동영상",
+      "url": "https://www.youtube.com/watch?v=ZeJnmh2A0O8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.916Z",
   "origin": [

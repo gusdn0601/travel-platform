@@ -52,7 +52,9 @@
   ],
   "art_key": "street",
   "local_search": "南京东路步行街",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0009-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",
@@ -61,6 +63,7 @@
     "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E8%B7%AF_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
     "https://www.openstreetmap.org/node/476779776"
   ],
+  "sanitized_at": "2026-10-28T11:36:01.566Z",
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -85,6 +88,5 @@
     },
     "photo": "null",
     "collected_at": "2026-10-28"
-  },
-  "sanitized_at": "2026-10-28T11:36:01.566Z"
+  }
 }

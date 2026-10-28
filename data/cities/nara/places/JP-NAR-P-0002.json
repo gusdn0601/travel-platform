@@ -58,6 +58,20 @@
     "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
     "https://www.openstreetmap.org/way/158015550"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "<나라> 나라 여행 후기 - 사슴공원, 히가시무키 상점가, 요시키엔 정원",
+      "url": "https://blog.naver.com/2relove/224434351531",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "일본여행 _ 나라 히가시무키상점가 귀여운 사슴인형 지름신 못 참지 🦌🛍️",
+      "url": "https://www.youtube.com/watch?v=qKQZGjieEn0",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "nara-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:09:58.982Z"
 }

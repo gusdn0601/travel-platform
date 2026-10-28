@@ -93,7 +93,9 @@
   "tags": [],
   "art_key": "ship",
   "local_search": null,
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0002-P1"
+  ],
   "status": "published",
   "version": 1,
   "verified_at": null,

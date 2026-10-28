@@ -63,6 +63,20 @@
     "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%9C%88%E5%A0%82",
     "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%80%9A%E3%82%8A%E3%82%82%E3%82%93"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본과자 하카타 메이게츠도우 토리몬",
+      "url": "https://blog.naver.com/ghjj83/130182460229",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "하카타토리몬 후쿠오카명물만쥬",
+      "url": "https://www.youtube.com/watch?v=JnkRO9NW9TA",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -81,7 +95,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:12.396Z"
 }

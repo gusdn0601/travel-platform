@@ -69,6 +69,20 @@
     "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90",
     "https://www.fukuya.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠야(ふくや), 일본 명란젓의 원조",
+      "url": "https://blog.naver.com/insight432/223848028598",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "현지인 추천! 후쿠오카에서 사갈 거 하나 더 추가! 후쿠야 밥도둑 명란 #후쿠오카",
+      "url": "https://www.youtube.com/watch?v=_745vcufNi4",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -87,7 +101,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "web-verified; see sources[]",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:47.893Z"
 }

@@ -57,6 +57,14 @@
     "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92",
     "https://www.openstreetmap.org/way/1454256057"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[제목] 오사카 근교 나라(Nara) 여행 코스 추천! 고즈넉한 '히무로 신사'와 감성 카페 거리 산책",
+      "url": "https://blog.naver.com/domestictravel/224434201649",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "nara-2026-10-28",
@@ -76,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:09:37.473Z"
 }

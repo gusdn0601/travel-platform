@@ -46,7 +46,9 @@
   ],
   "art_key": "street",
   "local_search": "多伦路文化名人街",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0035-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

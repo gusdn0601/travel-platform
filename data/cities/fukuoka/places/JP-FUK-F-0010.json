@@ -69,6 +69,20 @@
     "https://en.wikipedia.org/wiki/Motsunabe",
     "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A4%E9%8D%8B"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[마에다야 모츠나베] 일본 후쿠오카 모츠나베 마에다야 하카타 웨이팅, 맛 후기",
+      "url": "https://blog.naver.com/mmeeee-/224443444217",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 가면 무조건 먹어야 하는 모츠나베 | #FUKUOKA Food #후쿠오카 #마에다야 #maesaya #후쿠오카모츠나베",
+      "url": "https://www.youtube.com/watch?v=RFiqpqGLTyI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -87,7 +101,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:49.911Z"
 }

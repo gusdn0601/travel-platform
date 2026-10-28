@@ -46,7 +46,9 @@
   ],
   "art_key": "museum",
   "local_search": "上海天文馆",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0054-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

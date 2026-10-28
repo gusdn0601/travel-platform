@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/Kushida_Shrine",
     "https://www.openstreetmap.org/way/45779975"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[후쿠오카 여행] 구시다 신사 방문 후기 | 하카타 주위 가볼 만한 곳",
+      "url": "https://blog.naver.com/degulxx/224448179644",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 3박 4일 ep2. 이토시마 뚜벅이 투어🐾느좋 구시다&스미요시 신사✨오호리 공원 야경 구경⭐️약간의 오타쿠 투어",
+      "url": "https://www.youtube.com/watch?v=C4NtHBiVhm4",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.901Z",
   "origin": [

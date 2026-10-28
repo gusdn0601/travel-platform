@@ -47,7 +47,9 @@
   ],
   "art_key": "temple",
   "local_search": "龙华寺",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0031-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

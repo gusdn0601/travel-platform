@@ -46,7 +46,9 @@
   ],
   "art_key": "museum",
   "local_search": "龙美术馆(西岸馆)",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0053-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

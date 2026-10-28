@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/relation/9436735",
     "https://www.kansai-airport.or.jp/en/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 간사이공항에서 시내 가는 법, 난바·우메다 교통편과 요금 (2026)",
+      "url": "https://blog.naver.com/bk_us_travel/224453579272",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "2026 최신 반영✈️ 간사이공항 교통 가이드! 간사이 공항에서 오사카 시내(오사카 난바, 오사카성), 유니버셜 스튜디오, 나라, 고베까지 가는 방법 총정리",
+      "url": "https://www.youtube.com/watch?v=nFlW_L2E-JY",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.646Z",
   "origin": [

@@ -44,6 +44,20 @@
   "sources": [
     "https://www.openstreetmap.org/way/685140843"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 철학의 길 카페 추천 BAMBI 방문 후기 은각사 근처 쉬어가기 좋은 곳 현금결제 팁까지",
+      "url": "https://blog.naver.com/asso_o/224442569161",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "일본일상 브이로그│ 나홀로 교토여행 │ 철학의길",
+      "url": "https://www.youtube.com/watch?v=IeZWUWlC6YU",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -64,7 +78,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.945Z",
   "origin": [

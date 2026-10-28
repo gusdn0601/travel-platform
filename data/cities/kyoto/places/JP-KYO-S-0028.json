@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/way/1343714212",
     "http://www.monkeypark.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 아라시야마 가볼만한 곳 <몽키파크 이와타야마> 추천 후기",
+      "url": "https://blog.naver.com/mdd_diary/224450268118",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토(京都;Kyoto) 아라시야마(嵐山) 원숭이 공원(岩田山モンキーパーク;Iwatayama Monkey Park)",
+      "url": "https://www.youtube.com/watch?v=hrqhzyOvKkc",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.944Z",
   "origin": [

@@ -57,6 +57,20 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E",
     "https://www.openstreetmap.org/node/5239900707"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "돈키호테 쇼핑리스트 후쿠오카 텐진 니시도리점 일본 추천템 의약품 면세 쇼핑",
+      "url": "https://blog.naver.com/wltn3292/224454170141",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "이 영상 하나로 후쿠오카 여행 텐진 공략 끝｜텐진 이동부터 지하상가 미로 탈출·디저트·원 후쿠오카 빌딩·돈키호테·시내버스 타는 법까지｜길 안 잃는 후쿠오카 텐진 필수 영상",
+      "url": "https://www.youtube.com/watch?v=_MfTRNgIfMs",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:11:12.568Z"
 }

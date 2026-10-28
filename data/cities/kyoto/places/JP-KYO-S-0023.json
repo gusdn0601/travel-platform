@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/way/98106482",
     "https://www.kamigamojinja.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[2026.10. 교토여행 ②] 8번째쯤 되는 교토, ⛩️가미가모 신사⛩️교토 빵 페스티벌🥪완판속에서 건진 華ぜる 샌드위치🥪",
+      "url": "https://blog.naver.com/junseiaoi/224448325089",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 산책 추천코스 가미가모신사 #교토여행 #교토 #kyoto #japan",
+      "url": "https://www.youtube.com/watch?v=rdVpgC5n-vM",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.942Z",
   "origin": [

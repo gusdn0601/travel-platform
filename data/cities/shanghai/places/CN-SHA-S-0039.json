@@ -47,7 +47,9 @@
   ],
   "art_key": "water",
   "local_search": "朱家角古镇",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0039-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",
@@ -56,6 +58,21 @@
     "https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%AE%B6%E8%A7%92%E9%95%87",
     "https://www.openstreetmap.org/relation/21610209"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "​[상하이 수향마을] 상하이 주자자오(朱家角, 주가각): 역사적 배경, 이색 볼거리와 먹거리 체험기",
+      "url": "https://blog.naver.com/tourbell99/224384682314",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "고민되는 상하이근교 수향마을 비교‼️",
+      "url": "https://www.youtube.com/watch?v=Ow3yxjCl5Fs",
+      "source": "youtube.com"
+    }
+  ],
+  "sanitized_at": "2026-10-28T10:00:57.945Z",
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -75,7 +92,8 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
-  },
-  "sanitized_at": "2026-10-28T10:00:57.945Z"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

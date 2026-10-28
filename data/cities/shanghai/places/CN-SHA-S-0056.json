@@ -46,7 +46,9 @@
   ],
   "art_key": "street",
   "local_search": "外滩源",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0056-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

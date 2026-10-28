@@ -45,6 +45,14 @@
   "sources": [
     "https://www.openstreetmap.org/way/411095063"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 난바 야키니쿠 맛집 와비사비 호젠지 요코초 본점 내돈내산 후기",
+      "url": "https://blog.naver.com/kelly6223/224444558779",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -65,7 +73,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.642Z",
   "origin": [

@@ -48,6 +48,20 @@
     "https://www.openstreetmap.org/relation/19383249",
     "http://www.nakasukankou.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 나카스포장마차 거리 후기 오뎅맛집",
+      "url": "https://blog.naver.com/hayannny/224454446714",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "2박3일 무계획 후쿠오카 여행 브이로그 | 나카스강 포장마차 | 모모치 해변 | 하카타 | 텐진",
+      "url": "https://www.youtube.com/watch?v=yvT1T1L33I8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -69,7 +83,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.908Z",
   "origin": [

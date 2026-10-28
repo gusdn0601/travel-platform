@@ -51,6 +51,20 @@
     "https://www.openstreetmap.org/way/34619038",
     "http://www.osakacastle.net/english/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카성 볼거리 총정리 입장료 주유패스 뚜벅이 반나절 코스",
+      "url": "https://blog.naver.com/binnal_/224441873917",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 성 뷰 집부터 120억 맨션까지 보고 온 오사카 부동산 투어",
+      "url": "https://www.youtube.com/watch?v=jHXHZYmIfUs",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -72,7 +86,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.628Z",
   "origin": [

@@ -52,7 +52,9 @@
   ],
   "art_key": "mall",
   "local_search": "上海第一百货商业中心",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0046-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

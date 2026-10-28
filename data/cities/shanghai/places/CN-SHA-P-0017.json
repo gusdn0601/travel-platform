@@ -52,7 +52,9 @@
   ],
   "art_key": "mall",
   "local_search": "港汇恒隆广场",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0017-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

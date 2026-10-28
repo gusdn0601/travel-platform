@@ -59,6 +59,20 @@
     "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%A9%8B%E9%A7%85",
     "https://www.openstreetmap.org/way/232166923"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "로컬여행, 일본 한인타운 오사카 츠루하시 이쿠노 코리아타운",
+      "url": "https://blog.naver.com/bintorynim/224424236716",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "Japan vlog. 오사카 코리아타운 츠루하시 다녀온 일본 유학생 일상 브이로그. MOning vlog",
+      "url": "https://www.youtube.com/watch?v=kx0I4t6yNBY",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -78,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:51:26.447Z"
 }

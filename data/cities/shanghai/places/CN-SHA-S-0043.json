@@ -46,7 +46,9 @@
   ],
   "art_key": "water",
   "local_search": "山塘街",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0043-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

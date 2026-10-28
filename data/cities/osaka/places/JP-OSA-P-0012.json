@@ -58,6 +58,20 @@
     "https://en.wikipedia.org/wiki/Dōtonbori",
     "https://www.openstreetmap.org/way/161880871"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 돈키호테 쇼핑리스트 추천템 돈키호테 도톤보리점 할인쿠폰",
+      "url": "https://blog.naver.com/h_ana_24/224448281458",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 도톤보리 돈키호테 쇼핑 브이로그 🛍 일본 여행 필수코스",
+      "url": "https://www.youtube.com/watch?v=6J9r0oD0RXI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:38.599Z"
 }

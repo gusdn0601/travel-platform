@@ -66,6 +66,14 @@
     "https://en.wikipedia.org/wiki/Chinese_mitten_crab",
     "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E7%BB%92%E8%9E%AF%E8%9F%B9"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국 상하이 맛집 왕보화(王宝和/왕바오허/王寶和/wangbaohe) 따자씨에(大闸蟹/대갑해/dazhaxie)양청호(阳澄湖/양등호/yangchenghu) 털게",
+      "url": "https://blog.naver.com/mooel777/220870649331",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -84,7 +92,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.073Z"
 }

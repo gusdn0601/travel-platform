@@ -58,7 +58,9 @@
   ],
   "art_key": "tart",
   "local_search": "沈大成 南京东路",
-  "photos": [],
+  "photos": [
+    "CN-SHA-F-0018-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

@@ -69,6 +69,20 @@
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
     "https://www.openstreetmap.org/way/219869422"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본:오사카] 오사카 명물 551 HORAI 본점 테이크아웃 난바 광장에서 먹는 부타만【웨이팅 후기 부타망 새우 슈마이】",
+      "url": "https://blog.naver.com/ajrqod/224392803503",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "✨ 오사카 난바“551 호라이 본점 만두·교자 내돈내산 후기” #내돈내산 #551호라이#551호라이만두 #오사카맛집#난바맛집 #오사카여행",
+      "url": "https://www.youtube.com/watch?v=2EUdgLg5FXA",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
@@ -89,7 +103,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:18.269Z"
 }

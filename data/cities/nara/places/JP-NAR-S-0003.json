@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/Kasuga-taisha",
     "https://www.kasugataisha.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "가스가타이샤는 몇 살일까? 20년마다 고쳐도 같은 신사인 이유",
+      "url": "https://blog.naver.com/moontrip5/224441196076",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "쉬고 싶을때 , 가볼만한 힐링여행!! 3000개의 빛과 함께하는 나라 가스가타이샤",
+      "url": "https://www.youtube.com/watch?v=wHl-uXMPbks",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -73,7 +87,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "nara-2026-10-28"
+    "expansion": "nara-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:02.729Z",
   "origin": [

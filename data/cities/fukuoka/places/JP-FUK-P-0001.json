@@ -54,6 +54,20 @@
     "https://www.openstreetmap.org/way/751001483",
     "https://canalcity.co.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 오니츠카 타이거 쇼핑 팁 코스｜캐널시티 하카타 위치와 가는 방법",
+      "url": "https://blog.naver.com/ckm0058/224455234602",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "🇯🇵 무계획이지만 웨이팅은 또 싫은 .. P들의 후쿠오카 여행 3박 4일 먹방여행 | 코코호텔 텐진.캐널시티 하카타.맛집 카페 추천.이토시마 버스투어.돈키호테.편의점 털기",
+      "url": "https://www.youtube.com/watch?v=irANXZPTKh8",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.892Z",
   "origin": [

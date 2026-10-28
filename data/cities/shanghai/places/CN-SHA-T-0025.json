@@ -60,6 +60,20 @@
     "https://en.wikipedia.org/wiki/Shanghai%E2%80%93Hangzhou_high-speed_railway",
     "https://zh.wikipedia.org/wiki/%E6%B2%AA%E6%9D%AD%E5%AE%A2%E8%BF%90%E4%B8%93%E7%BA%BF"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국 고속철도(高铁) 인기 노선과 예매 방법",
+      "url": "https://blog.naver.com/pagoda_chailang/224390990260",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "중국 고속철: 북경에서 상해 구간 #베이징 #상하이 #여행 #short 【영상원본 시청은 아래의 『▶제작 소스』 클릭】",
+      "url": "https://www.youtube.com/watch?v=S8yqWm2jLMI",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -79,7 +93,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:50.213Z"
 }

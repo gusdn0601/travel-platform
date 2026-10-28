@@ -52,6 +52,20 @@
     "https://www.openstreetmap.org/node/8484186712",
     "https://www.ohorikouen.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 오호리공원 가서 뭐하지? 즐길거리 6가지 추천",
+      "url": "https://blog.naver.com/space_1spoon/224441502348",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "일본 후쿠오카 여행 브이로그 🇯🇵 | DAY 1 | 하타카, 오호리공원, 나카스",
+      "url": "https://www.youtube.com/watch?v=GjAn-m_0cq4",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -73,7 +87,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.899Z",
   "origin": [

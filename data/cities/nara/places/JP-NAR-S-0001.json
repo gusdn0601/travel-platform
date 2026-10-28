@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/T%C5%8Ddai-ji",
     "http://www.todaiji.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "나라여행 - 나라공원, 도다이지, 도다이지 이월당(니가쓰도)",
+      "url": "https://blog.naver.com/hyjhs/224442671367",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 근교 여행 l 사슴의 도시 나라 l 도다이지 l 일본 브이로그",
+      "url": "https://www.youtube.com/watch?v=gP6ShIJVT0g",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -73,7 +87,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "nara-2026-10-28"
+    "expansion": "nara-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:02.726Z",
   "origin": [

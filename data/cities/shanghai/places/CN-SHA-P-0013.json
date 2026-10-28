@@ -52,7 +52,9 @@
   ],
   "art_key": "street",
   "local_search": "五角场",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0013-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

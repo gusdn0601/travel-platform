@@ -46,6 +46,20 @@
   "sources": [
     "https://www.wikidata.org/wiki/Q11274524"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "나라여행 - 나라마치 오무라이스 맛집 유키정, 하루시카 사케 양조장",
+      "url": "https://blog.naver.com/hyjhs/224450302258",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "나라의 오래된 골목, 나라마치 산책 🇯🇵 | Naramachi, Nara #shorts",
+      "url": "https://www.youtube.com/watch?v=0U1hGupLt1g",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -66,7 +80,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "nara-2026-10-28"
+    "expansion": "nara-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:02.731Z",
   "origin": [

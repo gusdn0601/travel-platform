@@ -47,6 +47,14 @@
     "https://www.openstreetmap.org/way/187296989",
     "https://www.abenoharukas-300.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 아베노 하루카스300 후기｜노을·야경·입장권·가는법",
+      "url": "https://blog.naver.com/yeonwoo_trip/224451509131",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -68,7 +76,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.632Z",
   "origin": [

@@ -52,6 +52,20 @@
     "https://www.openstreetmap.org/way/98103477",
     "http://www.ryoanji.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "어쩌다보니 다시 교토, 고베. 료안지. 아라시야마",
+      "url": "https://blog.naver.com/xochwkd/224425252124",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토에서 제일 좋았던 곳 중 하나인 료안지 #료안지 #ryoanji #kyoto #교토여행 #일본여행 #kyototrip #ootd #ejdailylook",
+      "url": "https://www.youtube.com/watch?v=7WgLdSVnbU0",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -73,7 +87,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.939Z",
   "origin": [

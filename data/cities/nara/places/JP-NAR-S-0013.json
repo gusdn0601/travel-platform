@@ -52,6 +52,14 @@
     "https://en.wikipedia.org/wiki/Mur%C5%8D-ji",
     "http://www.murouji.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "가을 이세 나라 4일 여행 단풍 명소 추천 무로지",
+      "url": "https://blog.naver.com/aaerm/224418118313",
+      "source": "blog.naver.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -72,7 +80,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "nara-2026-10-28"
+    "expansion": "nara-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:02.733Z",
   "origin": [

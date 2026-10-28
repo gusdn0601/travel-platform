@@ -57,6 +57,14 @@
     "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
     "https://www.openstreetmap.org/way/209170957"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "브이로그 #미나라 똥머리#Shorts",
+      "url": "https://www.youtube.com/watch?v=PZKPMdBCRA0",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "nara-2026-10-28",
@@ -76,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:09:57.584Z"
 }

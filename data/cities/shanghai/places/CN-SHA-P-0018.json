@@ -52,7 +52,9 @@
   ],
   "art_key": "mall",
   "local_search": "静安嘉里中心",
-  "photos": [],
+  "photos": [
+    "CN-SHA-P-0018-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

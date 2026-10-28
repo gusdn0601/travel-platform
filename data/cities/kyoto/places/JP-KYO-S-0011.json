@@ -53,6 +53,20 @@
     "https://en.wikipedia.org/wiki/Ponto-ch%C5%8D",
     "https://www.openstreetmap.org/relation/11576233"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 이자카야 총정리 2026 - 폰토초·기야마치·교토역 술집 골목 위치, 영업시간, 자릿세",
+      "url": "https://blog.naver.com/dance_dna/224428023095",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 폰토초 80년 전통 스키야키집🥩 #교토여행 #일본여행 #교토브이로그 #스키야키 #京都 #先斗町 #すきやき",
+      "url": "https://www.youtube.com/watch?v=qoJuK4tSk9k",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "kyoto-2026-10-28"
+    "expansion": "kyoto-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:16:38.936Z",
   "origin": [

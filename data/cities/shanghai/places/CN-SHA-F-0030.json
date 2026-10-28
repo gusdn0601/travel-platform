@@ -56,7 +56,9 @@
   ],
   "art_key": "roastery",
   "local_search": "Manner Coffee 江阴路",
-  "photos": [],
+  "photos": [
+    "CN-SHA-F-0030-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,
@@ -65,6 +67,15 @@
     "https://zh.wikipedia.org/wiki/%E5%92%96%E5%95%A1",
     "https://www.openstreetmap.org/node/11786752321"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "(중국 베이징 여행) 중국 대표 바리스타 카페 <매너 커피 Manner Coffee) 방문 후기/ 싱글 오리진 커피가 있는 곳/ 메뉴 및 가격 정보",
+      "url": "https://blog.naver.com/happyjworld/224444942150",
+      "source": "blog.naver.com"
+    }
+  ],
+  "sanitized_at": "2026-10-28T09:59:19.373Z",
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -85,7 +96,8 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
-  },
-  "sanitized_at": "2026-10-28T09:59:19.373Z"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

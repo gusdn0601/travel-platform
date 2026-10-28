@@ -47,6 +47,20 @@
     "https://www.wikidata.org/wiki/Q11479119",
     "https://kawabatadori.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 나카스 이자카야 사케키타루, 가와바타 상점가 가성비 술집",
+      "url": "https://blog.naver.com/jetjung74/224454259910",
+      "source": "blog.naver.com"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 여행 중에 이 거리 상점가에 가는 이유. #후쿠오카 #카와바타거리 #감성여행 #나홀로여행 #동네활력충전소",
+      "url": "https://www.youtube.com/watch?v=hdMftkIbj_I",
+      "source": "youtube.com"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -67,7 +81,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 2 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.894Z",
   "origin": [

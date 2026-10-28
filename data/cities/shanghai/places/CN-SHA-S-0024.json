@@ -47,7 +47,9 @@
   ],
   "art_key": "bund",
   "local_search": "和平饭店",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0024-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": "2026-10-28",

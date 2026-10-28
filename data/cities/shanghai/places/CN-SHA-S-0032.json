@@ -47,7 +47,9 @@
   ],
   "art_key": "temple",
   "local_search": "徐家汇天主堂",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0032-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,

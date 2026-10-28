@@ -46,7 +46,9 @@
   ],
   "art_key": "garden",
   "local_search": "宋庆龄故居",
-  "photos": [],
+  "photos": [
+    "CN-SHA-S-0038-P1"
+  ],
   "status": "drafted",
   "version": 1,
   "verified_at": null,
