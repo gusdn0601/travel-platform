@@ -66,7 +66,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "theme park in Osaka, Japan",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 테마파크 필수로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:04.308Z"
+  "sanitized_at": "2026-10-28T10:45:55.633Z",
+  "origin": [
+    "유니버설 스튜디오 재팬은 2001년 오사카항 인근에 문을 연 테마파크예요.",
+    "영화와 게임을 소재로 한 구역이 나뉘어 있고, 해리 포터 구역과 닌텐도 월드가 특히 인기예요.",
+    "하루로는 부족할 만큼 규모가 커서 방문 전에 동선과 대기 시간을 확인하는 편이 좋아요.",
+    "한국 여행객이 오사카에서 가장 많이 찾는 목적지 중 하나예요."
+  ]
 }

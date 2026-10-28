@@ -1,0 +1,88 @@
+{
+  "id": "pl_c60f4ed3ce",
+  "code": "JP-OSA-F-0018",
+  "city_id": "JP-OSA",
+  "slug": "imai-dotonbori",
+  "kind": "food",
+  "name_ko": "도톤보리 이마이 본점",
+  "name_sub": "Dotonbori Imai",
+  "name_local": "道頓堀 今井 本店",
+  "lat": 34.66856,
+  "lng": 135.50271,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리의 우동 노포. 유부를 넣은 기쓰네 우동과 부드러운 국물로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "우동"
+    ],
+    [
+      "대표",
+      "기쓰네 우동"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "분위기",
+      "오래된 우동집"
+    ]
+  ],
+  "origin": [
+    "도톤보리 이마이는 도톤보리에서 오래전부터 우동을 내온 가게로 소개돼요.",
+    "달지 않은 간사이식 국물에 유부를 얹은 기쓰네 우동이 대표 메뉴예요.",
+    "도톤보리의 번잡한 거리 안에 있으면서도 차분한 좌석이 있어 쉬어 가기 좋아요.",
+    "한국 여행객 후기에도 도톤보리에서 따뜻한 국물을 찾을 때 자주 나와요."
+  ],
+  "practical": [
+    "점심 피크에는 대기",
+    "우동과 덮밥 세트 가능"
+  ],
+  "tip": "도톤보리 산책 중간에 앉아 쉬기 좋아요.",
+  "order": [
+    "<b>きつねうどん</b> 기쓰네 우동",
+    "<b>親子丼</b> 오야코동"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,000~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "기쓰네",
+    "노포"
+  ],
+  "art_key": "noodle",
+  "local_search": "道頓堀 今井 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Udon",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+    "https://www.openstreetmap.org/way/222964052"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 우동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:23.389Z"
+}

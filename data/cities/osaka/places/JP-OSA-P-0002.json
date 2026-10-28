@@ -59,7 +59,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "shopping arcade in Shinsaibashi, Osaka",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 쇼핑 상점가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:11.240Z"
+  "sanitized_at": "2026-10-28T10:45:55.621Z",
+  "origin": [
+    "신사이바시스지는 신사이바시를 남북으로 잇는 지붕 있는 상점가예요.",
+    "오래전부터 상업의 중심지로 번성해 지금도 의류·잡화·약국·식당이 길게 이어져요.",
+    "지붕이 있어 비가 오는 날에도 쇼핑하기 편한 점이 여행자에게 특히 유용해요.",
+    "도톤보리와 가까워 두 거리를 함께 걷는 코스가 많아요."
+  ]
 }

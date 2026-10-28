@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "park in Suita, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 3,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 근교 공원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:38.522Z"
+  "sanitized_at": "2026-10-28T10:45:55.635Z",
+  "origin": [
+    "만국박람회 기념공원은 1970년 오사카 만국박람회가 열린 터에 조성된 공원이에요.",
+    "행사 후 부지를 공원으로 바꾸어 지금은 넓은 잔디밭과 정원이 이어져요.",
+    "오카모토 타로의 태양의 탑이 상징물로 남아 있어요.",
+    "스이타 쪽에 있어 오사카 시내에서 전철로 이동해 반나절 코스로 다녀오기 좋아요."
+  ]
 }

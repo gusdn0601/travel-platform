@@ -60,7 +60,7 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E5%258D%2583%25E6%2588%25BF",
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%88%BF",
     "https://en.wikipedia.org/wiki/Okonomiyaki",
     "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
     "https://www.openstreetmap.org/node/2332951165"
@@ -85,5 +85,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.885Z"
+  "sanitized_at": "2026-10-28T10:47:10.704Z"
 }

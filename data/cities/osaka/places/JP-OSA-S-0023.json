@@ -63,7 +63,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "Ferris wheel in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 항구 관람차로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:20.107Z"
+  "sanitized_at": "2026-10-28T10:45:55.640Z",
+  "origin": [
+    "덴포잔 대관람차는 오사카항 근처에 세워진 대형 관람차예요.",
+    "바퀴에 타고 오르면 오사카 만과 해유관, 덴포잔 일대가 내려다보여요.",
+    "해유관과 가까워 두 곳을 함께 묶는 코스가 많아요.",
+    "날씨가 맑은 날에는 바다 건너편까지 시야가 트여요."
+  ]
 }

@@ -1,0 +1,81 @@
+{
+  "id": "pl_64baff7f15",
+  "code": "JP-OSA-P-0011",
+  "city_id": "JP-OSA",
+  "slug": "tenjinbashisuji",
+  "kind": "shop",
+  "name_ko": "덴진바시스지 상점가",
+  "name_sub": "Tenjinbashisuji Shotengai",
+  "name_local": "天神橋筋商店街",
+  "lat": 34.71024,
+  "lng": 135.51129,
+  "area": "덴진바시",
+  "lead": "일본에서 가장 긴 상점가로 알려진 거리. 간식과 생활용품을 파는 현지 가게가 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "상점가"
+    ],
+    [
+      "특징",
+      "길이가 매우 긴 것으로 알려짐"
+    ],
+    [
+      "위치",
+      "덴진바시"
+    ],
+    [
+      "분위기",
+      "현지인 중심"
+    ]
+  ],
+  "origin": [
+    "덴진바시스지 상점가는 덴진바시 일대를 남북으로 길게 잇는 상점가예요.",
+    "관광지보다 생활 상점이 많아 현지 사람들의 일상 분위기를 볼 수 있어요.",
+    "길 중간중간 간식집과 오래된 가게가 있어 천천히 걷는 코스로 좋아요.",
+    "오사카 쿠라시노 콘지칸과 이어져 함께 둘러보는 사람이 많아요."
+  ],
+  "tip": "전체를 걷기엔 길어요. 보고 싶은 구간을 정하고 전철역을 기준으로 움직이세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "상점가",
+    "로컬",
+    "먹거리",
+    "산책"
+  ],
+  "art_key": "street",
+  "local_search": "天神橋筋商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E6%A9%8B%E7%AD%8B%E5%95%86%E5%BA%97%E8%A1%97",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%BA%80",
+    "https://www.openstreetmap.org/node/14100992603"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 로컬 상점가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:38.596Z"
+}

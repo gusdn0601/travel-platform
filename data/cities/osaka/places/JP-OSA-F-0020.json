@@ -1,0 +1,88 @@
+{
+  "id": "pl_74306efbc5",
+  "code": "JP-OSA-F-0020",
+  "city_id": "JP-OSA",
+  "slug": "kiji-umeda",
+  "kind": "food",
+  "name_ko": "오코노미야키 키지 본점",
+  "name_sub": "Okonomiyaki Kiji",
+  "name_local": "お好み焼 きじ 本店",
+  "lat": 34.70351,
+  "lng": 135.49791,
+  "area": "우메다",
+  "lead": "우메다 빌딩 지하의 작은 오코노미야키집. 현지인 비율이 높고 반죽 맛이 진한 것으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "오코노미야키"
+    ],
+    [
+      "위치",
+      "우메다"
+    ],
+    [
+      "특징",
+      "작은 매장, 현지인 다수"
+    ],
+    [
+      "대표",
+      "돼지고기 오코노미야키"
+    ]
+  ],
+  "origin": [
+    "키지는 우메다의 빌딩 지하에서 작은 매장을 운영하는 오코노미야키집으로 소개돼요.",
+    "관광지보다 동네 식당에 가까운 분위기라 현지 손님이 많고, 반죽을 두툼하게 구워 속이 촉촉한 스타일이 특징이에요.",
+    "좌석이 적어 식사 시간에는 줄이 길어질 수 있어요.",
+    "우메다 쇼핑 중 현지 분위기를 느끼고 싶을 때 찾기 좋아요."
+  ],
+  "practical": [
+    "좌석이 적어 대기 필수",
+    "연기와 냄새가 옷에 밸 수 있음"
+  ],
+  "tip": "개점 시간에 맞춰 가면 대기가 짧아요.",
+  "order": [
+    "<b>豚玉</b> 돼지고기 오코노미야키",
+    "<b>すじ焼</b> 소힘줄 오코노미야키"
+  ],
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "1인 1,200~2,200엔 추정",
+  "must": 0,
+  "tags": [
+    "오코노미야키",
+    "우메다",
+    "현지인"
+  ],
+  "art_key": "okonomiyaki",
+  "local_search": "お好み焼 きじ 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
+    "https://www.openstreetmap.org/node/4574423289"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우메다 현지인 오코노미야키로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:24.908Z"
+}

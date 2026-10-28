@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "museum in Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 3,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나카노시마 미술관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:26.733Z"
+  "sanitized_at": "2026-10-28T10:45:55.634Z",
+  "origin": [
+    "국립국제미술관은 나카노시마에 있는 현대미술 중심의 국립 미술관이에요.",
+    "지하에 전시 공간을 두고 지상은 공원처럼 열어 둔 구조가 특징이에요.",
+    "기획전과 현대미술 컬렉션을 함께 다루며, 건축 자체를 보러 오는 사람도 많아요.",
+    "나카노시마 미술관 산책 코스의 한 곳으로 들르기 좋아요."
+  ]
 }

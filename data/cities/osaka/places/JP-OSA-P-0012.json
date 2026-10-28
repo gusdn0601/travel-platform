@@ -1,0 +1,82 @@
+{
+  "id": "pl_f63b5f2722",
+  "code": "JP-OSA-P-0012",
+  "city_id": "JP-OSA",
+  "slug": "don-quijote-dotonbori",
+  "kind": "shop",
+  "name_ko": "돈키호테 도톤보리점",
+  "name_sub": "Don Quijote Dotonbori",
+  "name_local": "ドン・キホーテ 道頓堀店",
+  "lat": 34.66929,
+  "lng": 135.50273,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리 강변의 대형 할인점. 건물 옆 관람차와 늦은 밤까지 여는 매장으로 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "종합 할인점"
+    ],
+    [
+      "특징",
+      "건물 붙은 관람차"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "영업",
+      "늦은 밤까지"
+    ]
+  ],
+  "origin": [
+    "돈키호테 도톤보리점은 도톤보리 강변에 있는 대형 할인점이에요.",
+    "과자와 화장품, 생활용품을 한 번에 살 수 있어 여행 마지막 날 쇼핑 코스로 많이 찾아요.",
+    "건물에 붙은 타원형 관람차가 상징이고, 밤늦게까지 영업해 일정이 늦어도 들를 수 있어요.",
+    "면세 계산대가 있어 여권을 챙겨야 해요."
+  ],
+  "tip": "계산 줄이 길어요. 면세는 여권과 함께 별도 카운터에서 처리하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "기념품",
+    "과자",
+    "관람차"
+  ],
+  "art_key": "shop",
+  "local_search": "ドン・キホーテ 道頓堀店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Don_Quijote_(store)",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86_(%E4%BC%81%E6%A5%AD)",
+    "https://en.wikipedia.org/wiki/Dōtonbori",
+    "https://www.openstreetmap.org/way/161880871"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 기념품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:38.599Z"
+}

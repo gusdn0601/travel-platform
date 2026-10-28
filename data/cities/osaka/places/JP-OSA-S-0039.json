@@ -1,0 +1,83 @@
+{
+  "id": "pl_c1e408adad",
+  "code": "JP-OSA-S-0039",
+  "city_id": "JP-OSA",
+  "slug": "kobe-harborland",
+  "kind": "sight",
+  "name_ko": "고베 하버랜드",
+  "name_sub": "Kobe Harborland",
+  "name_local": "神戸ハーバーランド",
+  "lat": 34.67906,
+  "lng": 135.18181,
+  "area": "근교(고베)",
+  "lead": "고베항을 따라 쇼핑몰과 관람차, 레스토랑이 이어지는 항구 지구. 저녁 조명이 특히 예뻐요.",
+  "facts": [
+    [
+      "종류",
+      "항구 쇼핑 지구"
+    ],
+    [
+      "특징",
+      "관람차·쇼핑몰"
+    ],
+    [
+      "위치",
+      "고베항"
+    ],
+    [
+      "야경",
+      "저녁 조명"
+    ]
+  ],
+  "origin": [
+    "고베 하버랜드는 고베항 주변을 재개발해 만든 쇼핑·레저 지구예요.",
+    "대형 쇼핑몰과 관람차, 레스토랑이 바닷가를 따라 이어져 산책하기 좋아요.",
+    "해질 무렵부터 항구와 다리의 조명이 켜져 야경 명소로도 알려져 있어요.",
+    "오사카에서 전철로 갈 수 있어 저녁 식사와 야경을 함께 보는 근교 코스로 인기가 있어요."
+  ],
+  "tip": "관람차는 날씨 영향을 받으니 바람이 강한 날은 운행 여부를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "산책 무료(시설별 상이)",
+  "must": 0,
+  "tags": [
+    "근교",
+    "야경",
+    "항구",
+    "쇼핑"
+  ],
+  "art_key": "harbor",
+  "local_search": "神戸ハーバーランド",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Harborland",
+    "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+    "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC",
+    "https://www.openstreetmap.org/node/5638327221"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 149,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 고베 야경 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:36.533Z"
+}

@@ -66,7 +66,21 @@
     "addr_basis": "osm-tags",
     "entity": null,
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 가전·잡화 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:31.405Z"
+  "sanitized_at": "2026-10-28T10:45:55.625Z",
+  "origin": [
+    "요도바시 우메다는 오사카역 앞에서 가전제품과 생활용품을 파는 대형 매장이에요.",
+    "카메라와 면도기 같은 전자제품부터 화장품, 완구, 식품까지 폭넓게 다뤄요.",
+    "면세 카운터가 있어 한국 여행객이 많이 찾고, 늦은 시간까지 영업해 일정 마무리에 들르기 좋아요.",
+    "층별로 상품이 나뉘어 있어 필요한 것을 미리 정해 가면 빠르게 볼 수 있어요."
+  ]
 }

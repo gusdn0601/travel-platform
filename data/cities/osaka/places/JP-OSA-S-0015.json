@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "art museum in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 3,
+    "popularity": {
+      "note": "한국어 여행 정보에서 도자기 미술관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:31.492Z"
+  "sanitized_at": "2026-10-28T10:45:55.635Z",
+  "origin": [
+    "오사카시립 동양도자미술관은 동아시아 도자기를 모은 미술관이에요.",
+    "중국과 한국, 일본의 도자기를 시대별로 볼 수 있고 한국 도자 컬렉션도 포함되어 있어요.",
+    "나카노시마 공원 안에 있어 산책과 함께 둘러보기 좋아요.",
+    "규모가 크지 않아 다른 미술관과 함께 보기 편해요."
+  ]
 }

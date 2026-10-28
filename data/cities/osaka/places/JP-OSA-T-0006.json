@@ -64,7 +64,21 @@
     "addr_basis": "osm-tags",
     "entity": "airport in Hyogo and Osaka prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 3,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 국내선 공항로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:51:11.366Z"
+  "sanitized_at": "2026-10-28T10:45:55.646Z",
+  "origin": [
+    "오사카 이타미 공항은 오사카 시내에서 가까운 국내선 중심 공항이에요.",
+    "주로 일본 국내선이 오가고, 도쿄 방면 노선이 많아요.",
+    "시내 접근이 빨라 국내선 이동 때 편리해요.",
+    "국제선은 간사이 국제공항을 이용해야 해요."
+  ]
 }

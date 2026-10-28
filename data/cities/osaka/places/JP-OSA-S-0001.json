@@ -64,7 +64,21 @@
     "addr_basis": "osm-tags",
     "entity": "Japanese castle in Chūō-ku, Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 대표 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:48:59.010Z"
+  "sanitized_at": "2026-10-28T10:45:55.628Z",
+  "origin": [
+    "오사카성은 도요토미 히데요시가 1583년에 축성을 시작한 성으로 알려져 있어요.",
+    "이후 전쟁과 화재로 건물이 소실되었고, 지금의 천수각은 20세기에 재건된 것이에요.",
+    "넓은 공원 안에 해자와 거대한 돌담이 남아 있어 성의 규모를 짐작하게 해요.",
+    "봄에는 벚꽃 명소로도 유명해 한국 여행객이 계절에 맞춰 찾아요."
+  ]
 }

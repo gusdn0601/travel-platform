@@ -1,0 +1,84 @@
+{
+  "id": "pl_33db04705e",
+  "code": "JP-OSA-P-0019",
+  "city_id": "JP-OSA",
+  "slug": "tsuruhashi-koreatown",
+  "kind": "shop",
+  "name_ko": "츠루하시 코리아타운",
+  "name_sub": "Tsuruhashi Korea Town",
+  "name_local": "御幸通商店街",
+  "lat": 34.66051,
+  "lng": 135.53507,
+  "area": "츠루하시",
+  "lead": "오사카의 한국인 상점가. 김치와 반찬, 한국 식재료를 파는 가게가 골목을 따라 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "상점가·시장"
+    ],
+    [
+      "특징",
+      "한국 식재료·반찬"
+    ],
+    [
+      "위치",
+      "츠루하시역 동쪽"
+    ],
+    [
+      "분위기",
+      "재일 한국인 상점가"
+    ]
+  ],
+  "origin": [
+    "츠루하시 코리아타운은 오사카에서 한국 문화가 가장 짙게 남은 동네예요.",
+    "재일 한국인들이 모여 살며 자리 잡은 상점가로, 김치와 반찬, 양념, 한국 과자를 파는 가게가 골목에 이어져요.",
+    "구이 고기와 냉면 같은 식당도 많아 한국 여행자가 익숙한 맛을 찾을 때 들러요.",
+    "일본 안에서 한국의 생활 분위기를 만나는 장소라 여행 코스로도 자주 소개돼요."
+  ],
+  "tip": "골목이 좁고 붐비니 가벼운 가방으로 가세요. 반찬은 포장해 숙소에서 먹기 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(식사·구매 별도)",
+  "must": 0,
+  "tags": [
+    "코리아타운",
+    "시장",
+    "먹거리",
+    "한국음식"
+  ],
+  "art_key": "market",
+  "local_search": "御幸通商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ikuno-ku%2C_Osaka",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%A9%8B",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E6%A9%8B%E9%A7%85",
+    "https://www.openstreetmap.org/way/232166923"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 948,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 한국인 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:51:26.447Z"
+}

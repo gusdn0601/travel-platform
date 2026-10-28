@@ -64,7 +64,21 @@
     "addr_basis": "osm-tags",
     "entity": "Shinto shrine in Osaka Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 대표 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:01.610Z"
+  "sanitized_at": "2026-10-28T10:45:55.630Z",
+  "origin": [
+    "스미요시 타이샤는 전국 스미요시 신사의 총본사로 알려진 신사예요.",
+    "3세기 무렵 항해와 조선의 신을 모시기 위해 세워졌다는 전승이 전해져요.",
+    "경내로 이어지는 둥글게 휜 붉은 다리와 돌등롱이 상징적인 풍경을 만들어요.",
+    "도심에서 조금 떨어져 있어 한적하게 걷기 좋고, 신년 참배 때는 크게 붐벼요."
+  ]
 }

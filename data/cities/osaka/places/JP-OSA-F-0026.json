@@ -1,0 +1,89 @@
+{
+  "id": "pl_ba93070853",
+  "code": "JP-OSA-F-0026",
+  "city_id": "JP-OSA",
+  "slug": "mitsuya-shinsaibashi",
+  "kind": "food",
+  "name_ko": "미츠야 신사이바시",
+  "name_sub": "Mitsuya",
+  "name_local": "心斎橋ミツヤ",
+  "lat": 34.66975,
+  "lng": 135.50142,
+  "area": "신사이바시",
+  "lead": "신사이바시의 과일 파르페 전문점. 큰 잔에 과일을 쌓아 올린 파르페가 대표예요.",
+  "facts": [
+    [
+      "종류",
+      "과일 파르페"
+    ],
+    [
+      "대표",
+      "믹스 파르페"
+    ],
+    [
+      "위치",
+      "신사이바시"
+    ],
+    [
+      "분위기",
+      "대중적인 찻집"
+    ]
+  ],
+  "origin": [
+    "미츠야는 신사이바시에서 과일 디저트로 이름을 얻은 찻집이에요.",
+    "큰 유리잔에 아이스크림과 과일을 층층이 쌓은 파르페가 대표 메뉴로 소개돼요.",
+    "쇼핑 거리 한복판에 있어 잠깐 앉아 쉬기 좋고, 한국 여행객도 신사이바시 코스에서 자주 들러요.",
+    "계절 과일을 쓰는 메뉴가 바뀌는 점도 특징이에요."
+  ],
+  "practical": [
+    "점심 이후 붐빔",
+    "양이 많아 나눠 먹기 좋음"
+  ],
+  "tip": "파르페 하나를 둘이 나눠 먹어도 충분해요.",
+  "order": [
+    "<b>ミックスパフェ</b> 믹스 파르페",
+    "<b>フルーツサンド</b> 과일 샌드"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 800~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "파르페",
+    "과일",
+    "신사이바시"
+  ],
+  "art_key": "dessert",
+  "local_search": "心斎橋ミツヤ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Parfait",
+    "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%95%E3%82%A7",
+    "https://www.openstreetmap.org/node/2345134863"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 신사이바시 파르페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:28.460Z"
+}

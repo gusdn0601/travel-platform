@@ -1,0 +1,80 @@
+{
+  "id": "pl_5c4f9f570a",
+  "code": "JP-OSA-S-0033",
+  "city_id": "JP-OSA",
+  "slug": "soraniwa-onsen",
+  "kind": "sight",
+  "name_ko": "소라니와 온천",
+  "name_sub": "Soraniwa Onsen",
+  "name_local": "空庭温泉 OSAKA BAY TOWER",
+  "lat": 34.67022,
+  "lng": 135.45985,
+  "area": "오사카코/벤텐초",
+  "lead": "벤텐초의 대형 온천 시설. 복고 거리 분위기의 실내와 노천탕, 먹거리 공간을 함께 갖췄어요.",
+  "facts": [
+    [
+      "종류",
+      "온천 테마 시설"
+    ],
+    [
+      "특징",
+      "복고 거리 재현"
+    ],
+    [
+      "위치",
+      "벤텐초"
+    ],
+    [
+      "이용",
+      "입욕료 별도, 수건 대여"
+    ]
+  ],
+  "origin": [
+    "소라니와 온천은 오사카만 쪽 벤텐초에 있는 대형 온천 시설이에요.",
+    "천연 온천수 목욕탕과 함께 옛 거리 분위기의 실내 공간, 먹거리 코너를 갖춰 반나절을 보내기 좋아요.",
+    "가족 단위 이용객이 많고, 유니버설 스튜디오나 해유관 일정 후 피로를 풀러 오는 코스로 소개돼요.",
+    "문신·수영복 착용 등 이용 규칙은 방문 전에 확인해야 해요."
+  ],
+  "tip": "저녁 시간대가 붐비니 오후 이른 시간에 가면 여유로워요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "입욕료 2,000~3,000엔 추정",
+  "must": 0,
+  "tags": [
+    "온천",
+    "실내",
+    "복고",
+    "가족"
+  ],
+  "art_key": "onsen",
+  "local_search": "空庭温泉 OSAKA BAY TOWER",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%BC%81%E5%A4%A9%E7%94%BA%E9%A7%85",
+    "https://www.openstreetmap.org/node/6728547932"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 온천 시설로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:33.534Z"
+}

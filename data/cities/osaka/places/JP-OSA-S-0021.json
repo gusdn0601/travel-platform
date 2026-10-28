@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "Park in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 덴노지 산책 공원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:04.027Z"
+  "sanitized_at": "2026-10-28T10:45:55.638Z",
+  "origin": [
+    "덴노지 공원은 덴노지역 근처에 조성된 도심 공원이에요.",
+    "동물원과 미술관, 일본정원이 함께 있어 한 곳에서 여러 코스를 즐길 수 있어요.",
+    "잔디밭과 나무 그늘이 있어 걷다 쉬기 좋아요.",
+    "아베노 하루카스와 가까워 전망대와 함께 둘러보는 일정이 많아요."
+  ]
 }

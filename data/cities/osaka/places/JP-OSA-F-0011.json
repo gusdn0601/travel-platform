@@ -62,7 +62,7 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2581%258B%25E3%2581%25AB%25E9%2581%2593%25E6%25A5%25BD",
+    "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AB%E9%81%93%E6%A5%BD",
     "https://en.wikipedia.org/wiki/Crab",
     "https://en.wikipedia.org/wiki/Dōtonbori",
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
@@ -88,5 +88,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.887Z"
+  "sanitized_at": "2026-10-28T10:47:13.782Z"
 }

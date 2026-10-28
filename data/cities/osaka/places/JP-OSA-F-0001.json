@@ -63,7 +63,22 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": null,
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 시장 먹거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:00.569Z"
+  "sanitized_at": "2026-10-28T10:45:55.613Z",
+  "origin": [
+    "구로몬 시장은 오사카의 부엌으로 불려 온 시장이에요.",
+    "에도시대부터 어시장으로 시작해 지금은 관광객이 해산물과 과일을 사 먹는 거리로 자리 잡았어요.",
+    "참치와 성게, 복어 같은 해산물 꼬치와 과일 컵이 대표 간식이에요.",
+    "좁은 아케이드 안에 가게가 빽빽해 서서 먹으며 걷는 방식이 흔해요.",
+    "값이 가게마다 다르니 몇 곳을 비교해 보는 편이 좋아요."
+  ]
 }

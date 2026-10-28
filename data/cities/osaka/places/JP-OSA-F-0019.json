@@ -1,0 +1,88 @@
+{
+  "id": "pl_c570b1fe54",
+  "code": "JP-OSA-F-0019",
+  "city_id": "JP-OSA",
+  "slug": "mimiu-honten",
+  "kind": "food",
+  "name_ko": "미미우 본점",
+  "name_sub": "Mimiu",
+  "name_local": "美々卯 本店",
+  "lat": 34.68712,
+  "lng": 135.49873,
+  "area": "나카노시마",
+  "lead": "우동을 전골처럼 끓여 먹는 우동스키로 알려진 오사카의 오랜 요리집.",
+  "facts": [
+    [
+      "종류",
+      "우동 요리"
+    ],
+    [
+      "대표",
+      "우동스키"
+    ],
+    [
+      "위치",
+      "나카노시마 인근"
+    ],
+    [
+      "분위기",
+      "룸 중심"
+    ]
+  ],
+  "origin": [
+    "미미우는 오사카에서 우동 요리를 전문으로 해 온 가게로 소개돼요.",
+    "우동을 전골 국물에 넣어 채소·고기와 함께 끓여 먹는 우동스키가 대표 메뉴예요.",
+    "방으로 나뉜 좌석이 많아 가족이나 접대 식사로 찾는 사람이 많아요.",
+    "나카노시마와 가까워 미술관 관람 후 식사 코스로 묶기 좋아요."
+  ],
+  "practical": [
+    "코스는 예약 권장",
+    "인원수와 예산을 미리 알리기"
+  ],
+  "tip": "여럿이 가면 우동스키 코스에 덴푸라를 곁들이는 구성이 무난해요.",
+  "order": [
+    "<b>うどんすき</b> 우동스키",
+    "<b>天ぷら</b> 덴푸라"
+  ],
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "1인 2,500~5,000엔 추정",
+  "must": 0,
+  "tags": [
+    "우동스키",
+    "회석",
+    "접대"
+  ],
+  "art_key": "hotpot",
+  "local_search": "美々卯 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Udon",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+    "https://www.openstreetmap.org/way/241555439"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 우동스키로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:24.907Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pl_120a736382",
+  "code": "JP-OSA-S-0042",
+  "city_id": "JP-OSA",
+  "slug": "namba-grand-kagura",
+  "kind": "sight",
+  "name_ko": "난바 그랜드 카가쿠",
+  "name_sub": "Namba Grand Kagura",
+  "name_local": "なんばグランド花月",
+  "lat": 34.66494,
+  "lng": 135.50372,
+  "area": "난바/도톤보리",
+  "lead": "오사카 웃음 문화의 중심 극장. 일본어 코미디 공연을 매일 여러 차례 올려요.",
+  "facts": [
+    [
+      "종류",
+      "코미디 극장"
+    ],
+    [
+      "특징",
+      "일본어 만담·코미디"
+    ],
+    [
+      "위치",
+      "센니치마에"
+    ],
+    [
+      "관람",
+      "공연별 좌석·요금"
+    ]
+  ],
+  "origin": [
+    "난바 그랜드 카가쿠는 오사카의 코미디 공연을 대표하는 극장이에요.",
+    "만담과 콩트, 신인 공연까지 하루에 여러 번 무대에 올라요.",
+    "일본어를 몰라도 몸짓과 분위기로 웃음이 전해지는 공연이 있어 여행자도 찾아요.",
+    "도톤보리와 가까워 저녁 일정 전후로 넣기 좋아요."
+  ],
+  "tip": "좌석은 공연마다 다르니 예매 전에 시간과 등급을 확인하세요. 사진 촬영은 공연 중 제한돼요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "공연별 1,000~5,000엔 추정",
+  "must": 0,
+  "tags": [
+    "공연",
+    "코미디",
+    "극장",
+    "실내"
+  ],
+  "art_key": "building",
+  "local_search": "なんばグランド花月",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%93%E3%81%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E8%8A%B1%E6%9C%88",
+    "https://ja.wikipedia.org/wiki/%E5%90%89%E6%9C%AC%E8%88%88%E6%A5%AD",
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A5%E5%89%8D",
+    "https://www.openstreetmap.org/node/447585568"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 3,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 코미디 공연로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:51:26.454Z"
+}

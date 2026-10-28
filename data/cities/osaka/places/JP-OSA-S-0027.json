@@ -57,7 +57,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 골목 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:38.859Z"
+  "sanitized_at": "2026-10-28T10:45:55.642Z",
+  "origin": [
+    "호젠지 요코초는 호젠지 사찰 앞에 이어지는 좁은 골목이에요.",
+    "석판길 양옆으로 오래된 음식점과 술집이 늘어서 있어 도톤보리와 다른 조용한 분위기를 만들어요.",
+    "골목 이름은 인근 사찰에서 왔고, 밤에는 낮은 조명이 켜져 산책하기 좋아요.",
+    "도톤보리 바로 옆이라 잠깐 들르기 좋아요."
+  ]
 }

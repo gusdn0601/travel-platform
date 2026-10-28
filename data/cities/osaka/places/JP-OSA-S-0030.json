@@ -1,0 +1,82 @@
+{
+  "id": "pl_12caa56a2a",
+  "code": "JP-OSA-S-0030",
+  "city_id": "JP-OSA",
+  "slug": "hozenji",
+  "kind": "sight",
+  "name_ko": "호젠지",
+  "name_sub": "Hozenji Temple",
+  "name_local": "法善寺",
+  "lat": 34.66786,
+  "lng": 135.50264,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리 옆 골목의 작은 사찰. 물을 끼얹어 기도하는 불상이 이끼로 덮여 있어 독특한 풍경을 만들어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "이끼 덮인 부동명왕상"
+    ],
+    [
+      "위치",
+      "호젠지 요코초"
+    ],
+    [
+      "입장",
+      "무료"
+    ]
+  ],
+  "origin": [
+    "호젠지는 도톤보리 번화가 바로 옆 골목에 자리한 작은 사찰이에요.",
+    "경내 부동명왕상에 물을 끼얹으며 소원을 비는 풍습이 전해져, 오랜 세월 물을 맞은 불상이 이끼로 덮여 있어요.",
+    "사찰 앞 골목인 호젠지 요코초에는 조명이 낮게 깔린 음식점들이 이어져 밤 분위기가 좋아요.",
+    "도톤보리의 화려함과 대비되는 조용한 장면을 찍으려는 여행자가 많이 찾아요."
+  ],
+  "tip": "불상에 물을 끼얹을 때는 주변 사람에게 튀지 않게 조심하세요.",
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "이끼불상",
+    "골목"
+  ],
+  "art_key": "temple",
+  "local_search": "法善寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%96%84%E5%AF%BA",
+    "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%96%84%E5%AF%BA%E6%A8%AA%E4%B8%81",
+    "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%8E%9B%E4%B8%8D%E5%8B%95%E5%B0%8A",
+    "https://www.openstreetmap.org/way/222477978"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 3,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 근처 조용한 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:30.198Z"
+}

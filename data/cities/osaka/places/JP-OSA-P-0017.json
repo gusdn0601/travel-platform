@@ -1,0 +1,84 @@
+{
+  "id": "pl_97ada68c90",
+  "code": "JP-OSA-P-0017",
+  "city_id": "JP-OSA",
+  "slug": "harukas-kintetsu",
+  "kind": "shop",
+  "name_ko": "아베노 하루카스 긴테츠 본점",
+  "name_sub": "Abeno Harukas Kintetsu",
+  "name_local": "あべのハルカス近鉄本店",
+  "lat": 34.646,
+  "lng": 135.51339,
+  "area": "덴노지",
+  "lead": "일본 최고층급 빌딩 아베노 하루카스의 백화점. 전망대와 미술관이 함께 있어요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "초고층 빌딩 입점"
+    ],
+    [
+      "위치",
+      "덴노지"
+    ],
+    [
+      "함께",
+      "전망대·미술관"
+    ]
+  ],
+  "origin": [
+    "아베노 하루카스 긴테츠 본점은 덴노지역 위에 세워진 초고층 빌딩의 백화점이에요.",
+    "건물 안에 전망대와 미술관, 호텔이 함께 있어 쇼핑 외에도 볼거리가 많아요.",
+    "덴노지 동물원과 공원이 가까워 가족 여행 코스로 묶기 좋아요.",
+    "백화점 지하 식품관은 저녁에 할인 상품이 나오는 때가 있어요."
+  ],
+  "tip": "전망대와 쇼핑을 함께 하려면 오후에 가서 해질 무렵 전망대에 올라가세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "전망대",
+    "덴노지"
+  ],
+  "art_key": "tower",
+  "local_search": "あべのハルカス近鉄本店",
+  "photos": [
+    "JP-OSA-P-0017-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abeno_Harukas",
+    "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B9%E3%81%AE%E3%83%8F%E3%83%AB%E3%82%AB%E3%82%B9%E8%BF%91%E9%89%84%E6%9C%AC%E5%BA%97",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8E%8B%E5%AF%BA%E9%A7%85",
+    "https://www.openstreetmap.org/way/187296989"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 98,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 덴노지 쇼핑·전망로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:44.628Z"
+}

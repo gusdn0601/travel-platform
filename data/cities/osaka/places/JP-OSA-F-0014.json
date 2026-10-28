@@ -62,7 +62,7 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F551%25E8%2593%25AC%25E8%258E%25B1",
+    "https://ja.wikipedia.org/wiki/%E8%93%AC%E8%90%8A_(%E9%A3%B2%E9%A3%9F%E5%BA%97)",
     "https://en.wikipedia.org/wiki/Dōtonbori",
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
     "https://www.openstreetmap.org/way/219869422"
@@ -87,5 +87,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.891Z"
+  "sanitized_at": "2026-10-28T10:47:18.269Z"
 }

@@ -64,7 +64,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "human settlement in Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 최대 번화가로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:48:59.500Z"
+  "sanitized_at": "2026-10-28T10:45:55.628Z",
+  "origin": [
+    "도톤보리는 도톤보리 강을 따라 형성된 오사카의 대표 번화가예요.",
+    "강변에 음식점과 극장이 모이고, 글리코 간판을 비롯한 대형 네온 간판이 경쟁하듯 걸려 있어요.",
+    "거리 이름은 강을 파던 인물의 이름에서 왔다는 설이 전해져요.",
+    "해가 지면 간판 불빛이 강물에 비쳐 밤 풍경이 더 유명해지고, 한국 여행객의 필수 코스로 꼽혀요."
+  ]
 }

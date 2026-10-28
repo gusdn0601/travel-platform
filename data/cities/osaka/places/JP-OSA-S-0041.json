@@ -1,0 +1,83 @@
+{
+  "id": "pl_550ed19428",
+  "code": "JP-OSA-S-0041",
+  "city_id": "JP-OSA",
+  "slug": "kyobashi",
+  "kind": "sight",
+  "name_ko": "쿄바시",
+  "name_sub": "Kyobashi",
+  "name_local": "京橋",
+  "lat": 34.696,
+  "lng": 135.5347,
+  "area": "쿄바시",
+  "lead": "오사카 동쪽의 술집 밀집 지역. 좁은 골목에 이자카야와 서서 마시는 가게가 빽빽해요.",
+  "facts": [
+    [
+      "종류",
+      "이자카야 거리"
+    ],
+    [
+      "특징",
+      "골목형 술집 밀집"
+    ],
+    [
+      "위치",
+      "쿄바시역 주변"
+    ],
+    [
+      "분위기",
+      "현지인 중심"
+    ]
+  ],
+  "origin": [
+    "쿄바시는 오사카역과 난바 사이에 있는 술집 밀집 지역이에요.",
+    "역 주변 골목에 이자카야와 서서 마시는 가게가 빽빽하게 들어서 밤늦게까지 사람이 많아요.",
+    "관광지보다 현지 손님 비율이 높아 오사카의 술자리 분위기를 그대로 볼 수 있어요.",
+    "저녁 식사 후 가볍게 한 잔 하려는 여행자에게 알려져 있어요."
+  ],
+  "tip": "인기 가게는 저녁 일찍 자리가 차요. 몇 곳을 정해 두고 돌아보는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "점포별 상이(1인 2,000~4,000엔 추정)",
+  "must": 0,
+  "tags": [
+    "이자카야",
+    "야경",
+    "먹거리",
+    "로컬"
+  ],
+  "art_key": "neon",
+  "local_search": "京橋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%A9%8B%E9%A7%85_(%E5%A4%A7%E9%98%AA%E5%BA%9C)",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%A9%8B%20(%E5%A4%A7%E9%98%AA%E5%B8%82)",
+    "https://en.wikipedia.org/wiki/Izakaya",
+    "https://www.openstreetmap.org/way/246441894"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 271,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 이자카야 골목로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:51:26.452Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pl_8a0933c602",
+  "code": "JP-OSA-P-0018",
+  "city_id": "JP-OSA",
+  "slug": "hanshin-umeda",
+  "kind": "shop",
+  "name_ko": "한신 우메다 본점",
+  "name_sub": "Hanshin Umeda",
+  "name_local": "阪神梅田本店",
+  "lat": 34.70116,
+  "lng": 135.49861,
+  "area": "우메다",
+  "lead": "우메다역에 붙어 있는 백화점. 지하 식품관의 간식과 도시락이 여행자에게 특히 인기가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "지하 식품관"
+    ],
+    [
+      "위치",
+      "우메다역 연결"
+    ],
+    [
+      "결제",
+      "카드·모바일 가능"
+    ]
+  ],
+  "origin": [
+    "한신 우메다 본점은 오사카 우메다역에 바로 이어지는 백화점이에요.",
+    "지하 식품관에 도시락과 반찬, 과자류가 촘촘히 모여 있어 숙소에서 먹을 저녁거리를 사기에 좋아요.",
+    "지역 야구팀과 연결된 상품도 눈에 띄어 오사카 사람들의 생활감이 느껴져요.",
+    "우메다 쇼핑 동선 중간에 있어 다른 백화점과 함께 비교하며 돌기 좋아요."
+  ],
+  "tip": "지하 식품관은 저녁 무렵 할인 판매가 시작돼요. 시간을 맞추면 저렴하게 살 수 있어요.",
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "지하식품관",
+    "먹거리",
+    "쇼핑"
+  ],
+  "art_key": "mall",
+  "local_search": "阪神梅田本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hanshin_Department_Store",
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E7%99%BE%E8%B2%A8%E5%BA%97",
+    "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%94%B0",
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+    "https://www.openstreetmap.org/node/5865318031"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우메다 지하 식품관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:51:26.444Z"
+}

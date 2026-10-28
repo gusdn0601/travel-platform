@@ -1,0 +1,81 @@
+{
+  "id": "pl_d48bc6aee2",
+  "code": "JP-OSA-P-0014",
+  "city_id": "JP-OSA",
+  "slug": "hankyu-umeda",
+  "kind": "shop",
+  "name_ko": "한큐 우메다 본점",
+  "name_sub": "Hankyu Umeda",
+  "name_local": "阪急うめだ本店",
+  "lat": 34.70271,
+  "lng": 135.49843,
+  "area": "우메다",
+  "lead": "우메다의 대표 백화점. 지하 식품관의 디저트와 도시락이 특히 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "지하 식품관"
+    ],
+    [
+      "위치",
+      "우메다"
+    ],
+    [
+      "영업",
+      "오전~저녁"
+    ]
+  ],
+  "origin": [
+    "한큐 우메다 본점은 우메다역과 이어지는 대형 백화점이에요.",
+    "지하 식품관은 디저트와 도시락, 선물용 과자가 다양해 여행객이 특히 많이 찾아요.",
+    "계절 한정 디저트가 자주 나와 한국 여행 후기에도 자주 등장해요.",
+    "백화점 상층 식당가와 함께 보면 한 건물에서 식사와 쇼핑을 모두 해결할 수 있어요."
+  ],
+  "tip": "지하 식품관은 저녁 무렵 할인 상품이 나오는 때가 있어요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "식품관",
+    "선물",
+    "우메다"
+  ],
+  "art_key": "mall",
+  "local_search": "阪急うめだ本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E7%99%BE%E8%B2%A8%E5%BA%97",
+    "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%94%B0",
+    "https://www.openstreetmap.org/node/9840655056"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우메다 백화점 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:41.614Z"
+}

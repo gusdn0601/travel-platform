@@ -1,0 +1,81 @@
+{
+  "id": "pl_a4694896c7",
+  "code": "JP-OSA-S-0032",
+  "city_id": "JP-OSA",
+  "slug": "nakanoshima-museum",
+  "kind": "sight",
+  "name_ko": "오사카 나카노시마 미술관",
+  "name_sub": "Nakanoshima Museum of Art",
+  "name_local": "大阪中之島美術館",
+  "lat": 34.69239,
+  "lng": 135.49147,
+  "area": "나카노시마",
+  "lead": "검은 외관이 인상적인 나카노시마의 미술관. 근대 미술과 기획전을 함께 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "미술관"
+    ],
+    [
+      "특징",
+      "검은 박스형 외관"
+    ],
+    [
+      "위치",
+      "나카노시마"
+    ],
+    [
+      "관람",
+      "기획전별 입장료"
+    ]
+  ],
+  "origin": [
+    "오사카 나카노시마 미술관은 나카노시마 공원 인근에 세워진 미술관이에요.",
+    "검은 색 외관과 넓은 전시실이 특징으로, 근대 미술과 기획전을 함께 다뤄요.",
+    "나카노시마 일대는 미술관과 박물관이 모여 있어 하루 코스로 묶기 좋아요.",
+    "비가 오는 날에도 일정을 채우기 좋은 실내 장소로 소개돼요."
+  ],
+  "tip": "기획전은 사전 예약이 필요한 경우가 있어 홈페이지를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "전시별 상이(추정)",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "건축",
+    "나카노시마"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪中之島美術館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E4%B8%AD%E4%B9%8B%E5%B3%B6%E7%BE%8E%E8%A1%93%E9%A4%A8",
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B9%8B%E5%B3%B6%20(%E5%A4%A7%E9%98%AA%E5%BA%9C)",
+    "https://www.openstreetmap.org/way/343837388"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 20,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나카노시마 미술관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:32.035Z"
+}

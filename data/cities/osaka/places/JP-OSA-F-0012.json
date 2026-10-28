@@ -62,7 +62,7 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E4%25B8%25B2%25E3%2582%25AB%25E3%2583%2584",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B2%E3%82%AB%E3%83%84",
     "https://en.wikipedia.org/wiki/Kushikatsu",
     "https://ja.wikipedia.org/wiki/%E4%B8%B2%E3%82%AB%E3%83%84",
     "https://www.openstreetmap.org/node/11129125492"
@@ -87,5 +87,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.889Z"
+  "sanitized_at": "2026-10-28T10:47:15.232Z"
 }

@@ -1,0 +1,88 @@
+{
+  "id": "pl_35a522bc02",
+  "code": "JP-OSA-F-0017",
+  "city_id": "JP-OSA",
+  "slug": "hokkyokusei-shinsaibashi",
+  "kind": "food",
+  "name_ko": "홋쿄쿠세이 신사이바시 본점",
+  "name_sub": "Hokkyokusei",
+  "name_local": "北極星 心斎橋本店",
+  "lat": 34.66963,
+  "lng": 135.49874,
+  "area": "신사이바시",
+  "lead": "오무라이스를 처음 만든 집으로 알려진 양식당. 다이쇼 시대 분위기의 방에서 먹는 오무라이스가 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "일본식 양식"
+    ],
+    [
+      "대표",
+      "오무라이스"
+    ],
+    [
+      "위치",
+      "신사이바시"
+    ],
+    [
+      "특징",
+      "오무라이스 발상 가게로 소개"
+    ]
+  ],
+  "origin": [
+    "홋쿄쿠세이는 오무라이스의 발상지로 자주 소개되는 양식당이에요.",
+    "손님의 위장이 약하다는 이야기를 듣고 밥과 계란 요리를 합쳐 만들었다는 일화가 전해져요.",
+    "신사이바시 본점은 오래된 목조 주택을 개조한 듯한 방에서 식사하는 분위기가 특징이에요.",
+    "한국 여행객도 오무라이스 원조집으로 일정에 넣는 경우가 많아요."
+  ],
+  "practical": [
+    "2층 좌석은 계단 이용",
+    "저녁보다 점심이 덜 붐빔"
+  ],
+  "tip": "기본 오무라이스를 먼저 먹어 보고 토핑은 다음에 골라요.",
+  "order": [
+    "<b>オムライス</b> 오무라이스",
+    "<b>チキンオムライス</b> 치킨 오무라이스"
+  ],
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "1인 1,000~1,700엔 추정",
+  "must": 0,
+  "tags": [
+    "오무라이스",
+    "원조",
+    "신사이바시"
+  ],
+  "art_key": "food",
+  "local_search": "北極星 心斎橋本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Omurice",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9",
+    "https://www.openstreetmap.org/node/5217319625"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오무라이스 원조집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:21.879Z"
+}

@@ -62,7 +62,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "Shinto shrine in Osaka Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 난바 사진 명소 신사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:51.833Z"
+  "sanitized_at": "2026-10-28T10:45:55.636Z",
+  "origin": [
+    "난바 야사카 신사는 난바의 번화가 안에 자리한 신사예요.",
+    "사자 머리 모양의 무대가 경내에 있어 사진 명소로 알려졌고, 이 무대에서 공연이 열리기도 해요.",
+    "도심 한복판에서 조용히 참배할 수 있는 공간으로 여행 중 쉬어 가기 좋아요.",
+    "도톤보리와 가까워 산책 코스에 넣기 편해요."
+  ]
 }

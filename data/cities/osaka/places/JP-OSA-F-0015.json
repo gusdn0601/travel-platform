@@ -61,7 +61,7 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2582%258A%25E3%2581%258F%25E3%2582%258D%25E3%2583%25BC%25E3%2581%258A%25E3%2581%2598%25E3%2581%2595%25E3%2582%2593%25E3%2581%25AE%25E5%25BA%2597",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AF%E3%83%AD%E3%83%BC",
     "https://en.wikipedia.org/wiki/Cheesecake",
     "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD",
     "https://www.openstreetmap.org/node/4590084890"
@@ -86,5 +86,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.892Z"
+  "sanitized_at": "2026-10-28T10:47:19.773Z"
 }

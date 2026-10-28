@@ -63,7 +63,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": null,
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카역 복합시설로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:17.319Z"
+  "sanitized_at": "2026-10-28T10:45:55.624Z",
+  "origin": [
+    "그랑 프론트 오사카는 오사카역 북쪽에 세워진 대형 복합 상업시설이에요.",
+    "오피스와 쇼핑몰, 식당가, 호텔이 한 구역에 모여 있어요.",
+    "넓은 푸드코트와 계단식 광장이 있어 여행 중 쉬어 가기 좋아요.",
+    "오사카역과 바로 이어져 우메다 일정의 기준점으로 삼기 편해요."
+  ]
 }

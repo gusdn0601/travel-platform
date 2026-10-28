@@ -42,13 +42,6 @@
     "name_ko": "쿠쿠루 도톤보리"
   },
   {
-    "id": "pl_ae7468421c",
-    "code": "JP-OSA-F-0007",
-    "slug": "ikayaki-dotonbori",
-    "kind": "food",
-    "name_ko": "이카야키 도톤보리"
-  },
-  {
     "id": "pl_9e67858b4c",
     "code": "JP-OSA-F-0008",
     "slug": "mizuno-okonomiyaki",
@@ -105,6 +98,97 @@
     "name_ko": "리쿠로 오지상의 가게 난바 본점"
   },
   {
+    "id": "pl_8e4fb41074",
+    "code": "JP-OSA-F-0016",
+    "slug": "meijiken",
+    "kind": "food",
+    "name_ko": "메이지켄"
+  },
+  {
+    "id": "pl_35a522bc02",
+    "code": "JP-OSA-F-0017",
+    "slug": "hokkyokusei-shinsaibashi",
+    "kind": "food",
+    "name_ko": "홋쿄쿠세이 신사이바시 본점"
+  },
+  {
+    "id": "pl_c60f4ed3ce",
+    "code": "JP-OSA-F-0018",
+    "slug": "imai-dotonbori",
+    "kind": "food",
+    "name_ko": "도톤보리 이마이 본점"
+  },
+  {
+    "id": "pl_c570b1fe54",
+    "code": "JP-OSA-F-0019",
+    "slug": "mimiu-honten",
+    "kind": "food",
+    "name_ko": "미미우 본점"
+  },
+  {
+    "id": "pl_74306efbc5",
+    "code": "JP-OSA-F-0020",
+    "slug": "kiji-umeda",
+    "kind": "food",
+    "name_ko": "오코노미야키 키지 본점"
+  },
+  {
+    "id": "pl_d6d9ee6e2c",
+    "code": "JP-OSA-F-0021",
+    "slug": "takimikoji",
+    "kind": "food",
+    "name_ko": "타키미코지"
+  },
+  {
+    "id": "pl_11d7316b1e",
+    "code": "JP-OSA-F-0022",
+    "slug": "jinrui-mina-menrui",
+    "kind": "food",
+    "name_ko": "인류 모두 면류"
+  },
+  {
+    "id": "pl_96c8542277",
+    "code": "JP-OSA-F-0023",
+    "slug": "kadoya-shokudo",
+    "kind": "food",
+    "name_ko": "카도야 식당"
+  },
+  {
+    "id": "pl_b03f1c23e8",
+    "code": "JP-OSA-F-0024",
+    "slug": "marufuku-coffee",
+    "kind": "food",
+    "name_ko": "마루후쿠 커피점"
+  },
+  {
+    "id": "pl_8cb8f287a8",
+    "code": "JP-OSA-F-0025",
+    "slug": "junkissa-american",
+    "kind": "food",
+    "name_ko": "준키사 아메리칸"
+  },
+  {
+    "id": "pl_ba93070853",
+    "code": "JP-OSA-F-0026",
+    "slug": "mitsuya-shinsaibashi",
+    "kind": "food",
+    "name_ko": "미츠야 신사이바시"
+  },
+  {
+    "id": "pl_5c35b0cd3c",
+    "code": "JP-OSA-F-0027",
+    "slug": "shiawase-pancake",
+    "kind": "food",
+    "name_ko": "시아와세노 팬케이크"
+  },
+  {
+    "id": "pl_e5f52b22ee",
+    "code": "JP-OSA-F-0028",
+    "slug": "pablo-shinsaibashi",
+    "kind": "food",
+    "name_ko": "파블로 신사이바시"
+  },
+  {
     "id": "pl_e49c9d67d1",
     "code": "JP-OSA-P-0001",
     "slug": "nipponbashi",
@@ -152,6 +236,83 @@
     "slug": "yodobashi-umeda",
     "kind": "shop",
     "name_ko": "요도바시 우메다"
+  },
+  {
+    "id": "pl_1348679c1e",
+    "code": "JP-OSA-P-0010",
+    "slug": "doguyasuji",
+    "kind": "shop",
+    "name_ko": "센니치마에 도구야스지 상점가"
+  },
+  {
+    "id": "pl_64baff7f15",
+    "code": "JP-OSA-P-0011",
+    "slug": "tenjinbashisuji",
+    "kind": "shop",
+    "name_ko": "덴진바시스지 상점가"
+  },
+  {
+    "id": "pl_f63b5f2722",
+    "code": "JP-OSA-P-0012",
+    "slug": "don-quijote-dotonbori",
+    "kind": "shop",
+    "name_ko": "돈키호테 도톤보리점"
+  },
+  {
+    "id": "pl_bec00a3d0d",
+    "code": "JP-OSA-P-0013",
+    "slug": "lucua-osaka",
+    "kind": "shop",
+    "name_ko": "루쿠아 오사카"
+  },
+  {
+    "id": "pl_d48bc6aee2",
+    "code": "JP-OSA-P-0014",
+    "slug": "hankyu-umeda",
+    "kind": "shop",
+    "name_ko": "한큐 우메다 본점"
+  },
+  {
+    "id": "pl_822883742e",
+    "code": "JP-OSA-P-0015",
+    "slug": "daimaru-shinsaibashi",
+    "kind": "shop",
+    "name_ko": "다이마루 신사이바시점"
+  },
+  {
+    "id": "pl_11d111498e",
+    "code": "JP-OSA-P-0016",
+    "slug": "namba-city",
+    "kind": "shop",
+    "name_ko": "난바 CITY"
+  },
+  {
+    "id": "pl_97ada68c90",
+    "code": "JP-OSA-P-0017",
+    "slug": "harukas-kintetsu",
+    "kind": "shop",
+    "name_ko": "아베노 하루카스 긴테츠 본점"
+  },
+  {
+    "id": "pl_8a0933c602",
+    "code": "JP-OSA-P-0018",
+    "slug": "hanshin-umeda",
+    "kind": "shop",
+    "name_ko": "한신 우메다 본점"
+  },
+  {
+    "id": "pl_33db04705e",
+    "code": "JP-OSA-P-0019",
+    "slug": "tsuruhashi-koreatown",
+    "kind": "shop",
+    "name_ko": "츠루하시 코리아타운"
+  },
+  {
+    "id": "pl_3b07f1a766",
+    "code": "JP-OSA-P-0020",
+    "slug": "kurahoru-shotengai",
+    "kind": "shop",
+    "name_ko": "쿠라호리 상점가"
   },
   {
     "id": "pl_9c25154834",
@@ -348,6 +509,97 @@
     "slug": "minoo-park",
     "kind": "sight",
     "name_ko": "미노오 공원"
+  },
+  {
+    "id": "pl_12caa56a2a",
+    "code": "JP-OSA-S-0030",
+    "slug": "hozenji",
+    "kind": "sight",
+    "name_ko": "호젠지"
+  },
+  {
+    "id": "pl_1d4300d7d4",
+    "code": "JP-OSA-S-0031",
+    "slug": "osaka-museum-housing-living",
+    "kind": "sight",
+    "name_ko": "오사카 쿠라시노 콘지칸"
+  },
+  {
+    "id": "pl_a4694896c7",
+    "code": "JP-OSA-S-0032",
+    "slug": "nakanoshima-museum",
+    "kind": "sight",
+    "name_ko": "오사카 나카노시마 미술관"
+  },
+  {
+    "id": "pl_5c4f9f570a",
+    "code": "JP-OSA-S-0033",
+    "slug": "soraniwa-onsen",
+    "kind": "sight",
+    "name_ko": "소라니와 온천"
+  },
+  {
+    "id": "pl_fed5c064c6",
+    "code": "JP-OSA-S-0034",
+    "slug": "tombori-river-cruise",
+    "kind": "sight",
+    "name_ko": "톤보리 리버 크루즈"
+  },
+  {
+    "id": "pl_ae489d5ba3",
+    "code": "JP-OSA-S-0035",
+    "slug": "santa-maria-cruise",
+    "kind": "sight",
+    "name_ko": "산타마리아 크루즈"
+  },
+  {
+    "id": "pl_e06e7ce7c5",
+    "code": "JP-OSA-S-0036",
+    "slug": "arima-onsen",
+    "kind": "sight",
+    "name_ko": "아리마 온천"
+  },
+  {
+    "id": "pl_f8486af9b3",
+    "code": "JP-OSA-S-0037",
+    "slug": "himeji-castle",
+    "kind": "sight",
+    "name_ko": "히메지성"
+  },
+  {
+    "id": "pl_c6395601d5",
+    "code": "JP-OSA-S-0038",
+    "slug": "kitano-ijinkan",
+    "kind": "sight",
+    "name_ko": "고베 기타노 이진칸 거리"
+  },
+  {
+    "id": "pl_c1e408adad",
+    "code": "JP-OSA-S-0039",
+    "slug": "kobe-harborland",
+    "kind": "sight",
+    "name_ko": "고베 하버랜드"
+  },
+  {
+    "id": "pl_251c4f8f8a",
+    "code": "JP-OSA-S-0040",
+    "slug": "nakazaki-cho",
+    "kind": "sight",
+    "name_ko": "나카자키초"
+  },
+  {
+    "id": "pl_550ed19428",
+    "code": "JP-OSA-S-0041",
+    "slug": "kyobashi",
+    "kind": "sight",
+    "name_ko": "쿄바시"
+  },
+  {
+    "id": "pl_120a736382",
+    "code": "JP-OSA-S-0042",
+    "slug": "namba-grand-kagura",
+    "kind": "sight",
+    "name_ko": "난바 그랜드 카가쿠"
   },
   {
     "id": "pl_f7be50174d",

@@ -63,7 +63,21 @@
     "addr_basis": "osm-tags",
     "entity": "observation tower",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 신세카이 상징 전망탑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:00.056Z"
+  "sanitized_at": "2026-10-28T10:45:55.629Z",
+  "origin": [
+    "츠텐카쿠는 신세카이의 중심에 세워진 철골 전망탑이에요.",
+    "1912년에 처음 세워졌고, 지금의 탑은 전후에 다시 지은 것으로 알려져 있어요.",
+    "위층 전망대에서 신세카이 거리와 오사카 시내가 내려다보이고, 탑 꼭대기의 에비스 신상이 상징이에요.",
+    "아래로 이어지는 쿠시카츠 가게 골목과 함께 둘러보는 코스가 정석이에요."
+  ]
 }

@@ -1,0 +1,88 @@
+{
+  "id": "pl_96c8542277",
+  "code": "JP-OSA-F-0023",
+  "city_id": "JP-OSA",
+  "slug": "kadoya-shokudo",
+  "kind": "food",
+  "name_ko": "카도야 식당",
+  "name_sub": "Kadoya Shokudo",
+  "name_local": "カドヤ食堂 本店",
+  "lat": 34.67613,
+  "lng": 135.48375,
+  "area": "니시구",
+  "lead": "오사카 간장 라멘을 대표하는 가게로 자주 소개되는 곳. 맑고 감칠맛 있는 국물이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "간장 라멘"
+    ],
+    [
+      "특징",
+      "맑은 국물, 쫄깃한 면"
+    ],
+    [
+      "위치",
+      "니시구"
+    ],
+    [
+      "대기",
+      "점심 시간대 줄"
+    ]
+  ],
+  "origin": [
+    "카도야 식당은 오사카에서 간장 베이스 라멘으로 이름을 얻은 가게로 소개돼요.",
+    "돈코츠처럼 진한 국물과 달리 맑으면서 감칠맛이 살아 있는 스타일이에요.",
+    "현지 라멘 애호가들이 자주 찾는 곳이라 점심에는 줄이 생겨요.",
+    "관광지와 조금 떨어져 있어 조용히 식사하기 좋아요."
+  ],
+  "practical": [
+    "점심 피크 대기",
+    "주차 공간 협소"
+  ],
+  "tip": "점심 오픈 직후나 오후 2시 이후가 덜 붐벼요.",
+  "order": [
+    "<b>中華そば</b> 주카소바(간장 라멘)",
+    "<b>チャーシュー麺</b> 차슈 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 900~1,400엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "쇼유",
+    "오사카"
+  ],
+  "art_key": "noodle",
+  "local_search": "カドヤ食堂 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ramen",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+    "https://www.openstreetmap.org/node/3923003857"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 간장 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:26.393Z"
+}

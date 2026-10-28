@@ -64,7 +64,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "aquarium in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 가족 여행 필수로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:02.654Z"
+  "sanitized_at": "2026-10-28T10:45:55.631Z",
+  "origin": [
+    "오사카 해유관은 오사카항 근처에 세워진 대형 수족관이에요.",
+    "건물 중앙의 큰 수조에 고래상어가 헤엄치는 모습이 상징이고, 태평양을 재현한 전시로 알려져 있어요.",
+    "관람 동선이 위에서 아래로 이어져 물속을 내려가며 보는 느낌이에요.",
+    "덴포잔 대관람차와 산타마리아 크루즈가 가까워 가족 여행 코스로 묶기 좋아요."
+  ]
 }

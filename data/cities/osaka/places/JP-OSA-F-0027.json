@@ -1,0 +1,90 @@
+{
+  "id": "pl_5c35b0cd3c",
+  "code": "JP-OSA-F-0027",
+  "city_id": "JP-OSA",
+  "slug": "shiawase-pancake",
+  "kind": "food",
+  "name_ko": "시아와세노 팬케이크",
+  "name_sub": "Shiawase no Pancake",
+  "name_local": "幸せのパンケーキ",
+  "lat": 34.67659,
+  "lng": 135.50419,
+  "area": "난바/도톤보리",
+  "lead": "두껍고 폭신한 일본식 수플레 팬케이크 전문점. 줄이 길어 번호표를 받고 기다리는 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "수플레 팬케이크"
+    ],
+    [
+      "특징",
+      "두껍고 폭신한 식감"
+    ],
+    [
+      "위치",
+      "난바 인근"
+    ],
+    [
+      "대기",
+      "번호표 방식"
+    ]
+  ],
+  "origin": [
+    "시아와세노 팬케이크는 두껍게 부풀린 일본식 수플레 팬케이크로 이름을 얻은 체인으로 알려져 있어요.",
+    "주문 후 오븐에서 천천히 익혀 내기 때문에 시간이 걸리지만 그만큼 폭신한 식감이 특징이에요.",
+    "한국 여행 정보에서 오사카 디저트로 자주 소개돼요.",
+    "난바·신사이바시 쇼핑 중간에 휴식 코스로 넣기 좋아요."
+  ],
+  "practical": [
+    "번호표 받고 대기",
+    "조리 시간 20분 안팎",
+    "오후 일찍 마감되는 경우"
+  ],
+  "tip": "오전에 번호표를 받아 두고 쇼핑하다 돌아오는 방식이 효율적이에요.",
+  "order": [
+    "<b>幸せのパンケーキ</b> 기본 팬케이크",
+    "<b>季節のパンケーキ</b> 계절 팬케이크"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,300~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "팬케이크",
+    "디저트",
+    "카페",
+    "웨이팅"
+  ],
+  "art_key": "dessert",
+  "local_search": "幸せのパンケーキ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pancake",
+    "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD",
+    "https://www.openstreetmap.org/node/4803452265"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 팬케이크로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:28.460Z"
+}

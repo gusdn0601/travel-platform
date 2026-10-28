@@ -1,0 +1,90 @@
+{
+  "id": "pl_11d7316b1e",
+  "code": "JP-OSA-F-0022",
+  "city_id": "JP-OSA",
+  "slug": "jinrui-mina-menrui",
+  "kind": "food",
+  "name_ko": "인류 모두 면류",
+  "name_sub": "Jinrui Mina Menrui",
+  "name_local": "人類みな麺類",
+  "lat": 34.7255,
+  "lng": 135.49925,
+  "area": "교외(신오사카)",
+  "lead": "신오사카의 줄 서는 라멘집. 닭과 조개 육수에 소금·간장을 조합한 국물로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "닭·조개 육수"
+    ],
+    [
+      "위치",
+      "신오사카"
+    ],
+    [
+      "대기",
+      "오픈 전부터 줄"
+    ]
+  ],
+  "origin": [
+    "인류 모두 면류는 신오사카 일대에서 이름이 난 라멘집이에요.",
+    "닭과 조개에서 낸 국물에 소금이나 간장 양념을 더한 맑은 라멘이 대표로 소개돼요.",
+    "한국 라멘 여행 후기에서 오사카 라멘 목록에 자주 오르는 곳이에요.",
+    "신오사카역에서 걸어갈 수 있어 신칸센 타기 전후로 들르는 사람도 많아요."
+  ],
+  "practical": [
+    "배부식 번호표 방식",
+    "오픈 전 대기 가능",
+    "현금·카드 확인"
+  ],
+  "tip": "신칸센 시간이 있다면 대기 시간을 넉넉히 잡으세요.",
+  "order": [
+    "<b>らーめん</b> 기본 라멘",
+    "<b>味玉らーめん</b> 반숙 계란 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,000~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "시오",
+    "신오사카",
+    "웨이팅"
+  ],
+  "art_key": "noodle",
+  "local_search": "人類みな麺類",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ramen",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+    "https://www.openstreetmap.org/node/6423399288"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 라멘 맛집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:26.393Z"
+}

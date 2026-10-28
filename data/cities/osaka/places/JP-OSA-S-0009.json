@@ -64,7 +64,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "public park in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나카노시마 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:03.676Z"
+  "sanitized_at": "2026-10-28T10:45:55.632Z",
+  "origin": [
+    "나카노시마 공원은 두 강 사이의 모래톱에 조성된 도심 공원이에요.",
+    "장미 정원과 강변 산책로가 있어 건물 사이에서 쉬어 가기 좋아요.",
+    "주변에 미술관과 근대 건축이 모여 있어 문화 산책 코스로 인기가 있어요.",
+    "봄과 가을에는 강변을 따라 걷는 사람이 많아요."
+  ]
 }

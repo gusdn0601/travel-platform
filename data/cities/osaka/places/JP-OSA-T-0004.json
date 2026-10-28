@@ -63,7 +63,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "railway station in Osaka, Osaka prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 덴노지 환승역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:51:00.147Z"
+  "sanitized_at": "2026-10-28T10:45:55.646Z",
+  "origin": [
+    "덴노지역은 JR과 지하철이 만나는 남부 오사카의 환승 거점이에요.",
+    "간사이공항행 특급 하루카가 정차해 공항 이동 때 이용할 수 있어요.",
+    "아베노 하루카스와 덴노지 공원이 바로 이어져 관광지 접근성도 좋아요.",
+    "여러 노선이 모여 있어 환승 동선을 미리 확인하는 편이 좋아요."
+  ]
 }

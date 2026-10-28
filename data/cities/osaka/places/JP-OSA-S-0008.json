@@ -60,7 +60,21 @@
     "addr_basis": "osm-tags",
     "entity": "skyscraper in Osaka",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 전망 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:03.176Z"
+  "sanitized_at": "2026-10-28T10:45:55.632Z",
+  "origin": [
+    "아베노 하루카스는 덴노지역 위에 세워진 초고층 빌딩이에요.",
+    "높이 300m로 일본에서 가장 높은 빌딩 중 하나로 꼽혀요.",
+    "위층 전망대에서는 오사카 평야와 날씨가 좋으면 교토·고베 방면까지 보여요.",
+    "백화점과 미술관이 같은 건물에 있어 덴노지 일정의 중심으로 삼기 좋아요."
+  ]
 }

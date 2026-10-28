@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "Japanese museum",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 역사 박물관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:21.304Z"
+  "sanitized_at": "2026-10-28T10:45:55.633Z",
+  "origin": [
+    "오사카 역사박물관은 오사카성 바로 옆에 자리한 박물관이에요.",
+    "고대 나니와 궁터부터 근세 오사카의 거리까지 시대별 모형으로 보여 줘요.",
+    "위층 창으로 오사카성이 보이도록 설계된 점도 특징이에요.",
+    "오사카성 관람 전후로 들러 도시의 역사를 정리하기 좋아요."
+  ]
 }

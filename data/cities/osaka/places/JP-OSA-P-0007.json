@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "office and shopping complex in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 난바 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:24.025Z"
+  "sanitized_at": "2026-10-28T10:45:55.624Z",
+  "origin": [
+    "난바 파크스는 난바역 남쪽에 있는 대형 쇼핑몰이에요.",
+    "건물 위쪽으로 계단식 옥상정원이 있어 도심에서 녹지를 보며 쉴 수 있어요.",
+    "쇼핑몰 안에 다양한 매장과 식당이 있고, 난바역과 이어져 이동이 편해요.",
+    "도톤보리와 가까워 쇼핑과 관광을 함께 하기 좋아요."
+  ]
 }

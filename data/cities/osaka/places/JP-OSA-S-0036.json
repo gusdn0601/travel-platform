@@ -1,0 +1,85 @@
+{
+  "id": "pl_e06e7ce7c5",
+  "code": "JP-OSA-S-0036",
+  "city_id": "JP-OSA",
+  "slug": "arima-onsen",
+  "kind": "sight",
+  "name_ko": "아리마 온천",
+  "name_sub": "Arima Onsen",
+  "name_local": "有馬温泉",
+  "lat": 34.79806,
+  "lng": 135.2475,
+  "area": "근교(고베)",
+  "lead": "오사카에서 한 시간 안팎으로 갈 수 있는 오래된 온천 마을. 철분이 든 붉은 물과 탄산 온천으로 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "온천 마을"
+    ],
+    [
+      "특징",
+      "철분 함유 붉은 온천수"
+    ],
+    [
+      "위치",
+      "고베시 기타구"
+    ],
+    [
+      "이동",
+      "오사카에서 1시간 안팎"
+    ]
+  ],
+  "origin": [
+    "아리마 온천은 일본에서 가장 오래된 온천 중 하나로 꼽히는 마을이에요.",
+    "철분이 많아 붉게 보이는 온천수와 탄산 성분이 있는 온천이 함께 있어요.",
+    "좁은 골목에 온천탕과 과자점, 료칸이 이어져 당일치기로도 즐길 수 있어요.",
+    "오사카에서 전철과 버스를 갈아타고 갈 수 있어 근교 온천 코스로 인기가 있어요."
+  ],
+  "tip": "당일 입욕은 오후 일찍 가야 붐비지 않아요. 귀가 시간을 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 300,
+  "price_hint": "당일 입욕 800~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "온천",
+    "당일치기",
+    "근교",
+    "노천탕"
+  ],
+  "art_key": "onsen",
+  "local_search": "有馬温泉",
+  "photos": [
+    "JP-OSA-S-0036-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Arima_Onsen",
+    "https://ja.wikipedia.org/wiki/%E6%9C%89%E9%A6%AC%E6%B8%A9%E6%B3%89",
+    "https://ja.wikipedia.org/wiki/%E6%9C%89%E9%A6%AC%E6%B8%A9%E6%B3%89%E9%A7%85",
+    "https://www.openstreetmap.org/node/5160251359"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 162,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 근교 온천로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:36.524Z"
+}

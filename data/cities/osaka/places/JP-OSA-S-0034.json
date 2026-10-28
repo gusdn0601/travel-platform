@@ -1,0 +1,79 @@
+{
+  "id": "pl_fed5c064c6",
+  "code": "JP-OSA-S-0034",
+  "city_id": "JP-OSA",
+  "slug": "tombori-river-cruise",
+  "kind": "sight",
+  "name_ko": "톤보리 리버 크루즈",
+  "name_sub": "Tombori River Cruise",
+  "name_local": "とんぼりリバークルーズ",
+  "lat": 34.66914,
+  "lng": 135.50271,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리 강을 따라 20분 남짓 도는 유람선. 간판 불빛을 물 위에서 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "유람선"
+    ],
+    [
+      "소요",
+      "20분 안팎"
+    ],
+    [
+      "위치",
+      "도톤보리 강"
+    ],
+    [
+      "출발",
+      "에비스바시 근처 선착장"
+    ]
+  ],
+  "origin": [
+    "톤보리 리버 크루즈는 도톤보리 강을 따라 도심을 한 바퀴 도는 유람선이에요.",
+    "배 위에서 글리코 간판과 도톤보리 거리의 간판들을 물 위에서 올려다볼 수 있어 사진 찍기 좋아요.",
+    "가이드가 다리와 거리의 유래를 짧게 소개하는 구성으로 알려져 있어요.",
+    "해질 무렵이나 밤에 타면 간판 불빛이 더 선명해요."
+  ],
+  "tip": "야간 출항은 일찍 마감될 수 있으니 당일 선착장에서 시간을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "성인 1,500엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "유람선",
+    "야경",
+    "도톤보리"
+  ],
+  "art_key": "boat",
+  "local_search": "とんぼりリバークルーズ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dōtonbori",
+    "https://www.openstreetmap.org/node/4888173123"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 야경 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:35.045Z"
+}

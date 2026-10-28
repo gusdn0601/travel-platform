@@ -313,5 +313,32 @@
     "credit": "Thomas CUELHO from Bordeaux, France · CC BY 2.0 · Wikimedia Commons",
     "license": "CC BY 2.0",
     "source_url": "https://commons.wikimedia.org/wiki/File:A_ride_to_a_sunny_place_(3433509553).jpg"
+  },
+  {
+    "id": "JP-OSA-P-0017-P1",
+    "place_id": "pl_97ada68c90",
+    "file": "photos/JP-OSA-P-0017/1.jpg",
+    "caption": "아베노 하루카스 긴테츠 본점",
+    "credit": "加茂川の民 · CC0 · Wikimedia Commons",
+    "license": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E3%81%82%E3%81%B9%E3%81%AE%E3%83%8F%E3%83%AB%E3%82%AB%E3%82%B9.jpg"
+  },
+  {
+    "id": "JP-OSA-S-0036-P1",
+    "place_id": "pl_e06e7ce7c5",
+    "file": "photos/JP-OSA-S-0036/1.jpg",
+    "caption": "아리마 온천",
+    "credit": "663highland · CC BY 2.5 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:170811_Rokko-Arima_Ropeway_Kobe_Japan00n.jpg"
+  },
+  {
+    "id": "JP-OSA-S-0038-P1",
+    "place_id": "pl_c6395601d5",
+    "file": "photos/JP-OSA-S-0038/1.jpg",
+    "caption": "고베 기타노 이진칸 거리",
+    "credit": "663highland · CC BY 2.5 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kobe_kitano_thomas_house07_2816.jpg"
   }
 ]

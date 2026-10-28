@@ -63,7 +63,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "shopping mall",
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 우메다 관람차 쇼핑몰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:11.252Z"
+  "sanitized_at": "2026-10-28T10:45:55.623Z",
+  "origin": [
+    "HEP FIVE는 우메다의 쇼핑몰로, 건물 위에 붉은 대관람차가 올라가 있어요.",
+    "관람차에서 우메다 일대가 내려다보여 쇼핑과 전망을 함께 즐길 수 있어요.",
+    "젊은 층을 겨냥한 패션 매장이 많고, 건물 안에 식당가도 있어요.",
+    "약속 장소로 쓰이는 붉은 고래 조형물도 이 건물의 상징이에요."
+  ]
 }

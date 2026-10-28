@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "railway station in Osaka, Osaka prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 중심역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:48.760Z"
+  "sanitized_at": "2026-10-28T10:45:55.644Z",
+  "origin": [
+    "오사카역은 우메다에 있는 JR의 중심 역이에요.",
+    "순환선과 교토·고베 방면 열차가 만나고, 백화점과 쇼핑몰이 역과 바로 이어져 있어요.",
+    "역 자체가 복합 상업 공간처럼 꾸며져 있어 이동 중 쇼핑과 식사를 해결하기 좋아요.",
+    "우메다 일정의 기준점으로 삼기 좋아요."
+  ]
 }

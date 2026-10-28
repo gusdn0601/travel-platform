@@ -1,0 +1,82 @@
+{
+  "id": "pl_3b07f1a766",
+  "code": "JP-OSA-P-0020",
+  "city_id": "JP-OSA",
+  "slug": "kurahoru-shotengai",
+  "kind": "shop",
+  "name_ko": "쿠라호리 상점가",
+  "name_sub": "Kurahoru Shopping Street",
+  "name_local": "空堀商店街",
+  "lat": 34.67362,
+  "lng": 135.51457,
+  "area": "다니마치",
+  "lead": "오래된 골목과 상점가가 남은 동네. 개조 카페와 작은 가게를 찾아 걷는 사람이 많아요.",
+  "facts": [
+    [
+      "종류",
+      "상점가·골목"
+    ],
+    [
+      "특징",
+      "옛 거리와 개조 가게"
+    ],
+    [
+      "위치",
+      "다니마치 6초메 인근"
+    ],
+    [
+      "분위기",
+      "조용한 로컬"
+    ]
+  ],
+  "origin": [
+    "쿠라호리 상점가는 오사카 성 남쪽의 오래된 주거 지역에 남은 상점가예요.",
+    "전쟁 피해를 비교적 적게 입어 옛 골목과 목조 건물이 남아 있어요.",
+    "빈 가게를 개조한 카페와 잡화점이 늘면서 천천히 걷는 코스로 알려졌어요.",
+    "관광지의 번잡함과 다른 오사카의 일상 풍경을 보고 싶을 때 찾기 좋아요."
+  ],
+  "tip": "가게 영업일이 들쭉날쭉하니 낮 시간대에 가는 편이 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "상점가",
+    "레트로",
+    "카페",
+    "산책"
+  ],
+  "art_key": "street",
+  "local_search": "空堀商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A0%80",
+    "https://ja.wikipedia.org/wiki/%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE%E9%A7%85",
+    "https://ja.wikipedia.org/wiki/%E7%A9%BA%E5%A0%80%E5%95%86%E5%BA%97%E8%A1%97",
+    "https://www.openstreetmap.org/way/173039149"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 레트로 골목로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:51:26.448Z"
+}

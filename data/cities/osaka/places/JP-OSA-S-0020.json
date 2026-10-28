@@ -68,7 +68,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "zoo",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 아이와 동물원로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:00.629Z"
+  "sanitized_at": "2026-10-28T10:45:55.637Z",
+  "origin": [
+    "덴노지 동물원은 덴노지 공원 안에 있는 도심 동물원이에요.",
+    "규모가 아담해 아이와 반나절 코스로 돌기 좋아요.",
+    "코끼리와 기린 같은 대형 동물부터 작은 동물사까지 전시가 이어져요.",
+    "공원과 미술관이 함께 있어 가족 일정으로 묶기 편해요."
+  ]
 }

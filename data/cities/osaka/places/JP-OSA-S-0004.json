@@ -64,7 +64,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "skyscraper in Osaka",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 야경 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:01.107Z"
+  "sanitized_at": "2026-10-28T10:45:55.630Z",
+  "origin": [
+    "우메다 스카이 빌딩은 두 고층 건물을 꼭대기에서 이은 독특한 구조로 알려져 있어요.",
+    "옥상의 공중정원 전망대에서는 오사카 시내가 360도로 펼쳐져요.",
+    "해질 무렵부터 야경이 특히 아름다워 한국 여행객이 야경 코스로 많이 찾아요.",
+    "건물 지하의 복고풍 음식 골목 타키미코지와 함께 둘러보기 좋아요."
+  ]
 }

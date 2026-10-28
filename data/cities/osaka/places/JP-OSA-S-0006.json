@@ -63,7 +63,21 @@
     "addr_basis": "osm-tags",
     "entity": "Built in 593 A.D., this famous Buddhist temple features a five-story pagoda, statues and turtle ponds",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 고찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:02.139Z"
+  "sanitized_at": "2026-10-28T10:45:55.631Z",
+  "origin": [
+    "시텐노지는 593년 쇼토쿠 태자가 세웠다고 전해지는 일본 불교 초기의 사찰이에요.",
+    "경내에 오층탑과 금당이 배치되어 있어 옛 가람 구조를 짐작할 수 있어요.",
+    "창건 당시의 건물은 소실과 재건을 거듭했지만 오랫동안 오사카 남부의 신앙 중심이었어요.",
+    "덴노지 공원과 동물원이 가까워 함께 둘러보는 코스가 많아요."
+  ]
 }

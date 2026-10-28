@@ -63,7 +63,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "Large retail and entertainment area in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 젊은 층 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:17.107Z"
+  "sanitized_at": "2026-10-28T10:45:55.622Z",
+  "origin": [
+    "아메리카무라는 서양 문화가 들어오던 시절 젊은이들이 모여들며 생긴 거리예요.",
+    "지금은 빈티지 의류와 스트리트 패션, 벽화와 소품 가게가 모여 있어요.",
+    "삼각공원을 중심으로 사람들이 모이고, 타코야키 가게와 카페도 많아요.",
+    "신사이바시 쇼핑과 성격이 달라 함께 비교하며 걷기 좋아요."
+  ]
 }

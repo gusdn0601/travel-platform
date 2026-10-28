@@ -1,0 +1,88 @@
+{
+  "id": "pl_d6d9ee6e2c",
+  "code": "JP-OSA-F-0021",
+  "city_id": "JP-OSA",
+  "slug": "takimikoji",
+  "kind": "food",
+  "name_ko": "타키미코지",
+  "name_sub": "Takimi Koji",
+  "name_local": "滝見小路",
+  "lat": 34.70455,
+  "lng": 135.49064,
+  "area": "우메다",
+  "lead": "우메다 스카이 빌딩 지하의 복고풍 음식 골목. 다이쇼·쇼와 시대 분위기의 가게들이 모여 있어요.",
+  "facts": [
+    [
+      "종류",
+      "음식 골목"
+    ],
+    [
+      "위치",
+      "우메다 스카이 빌딩 지하"
+    ],
+    [
+      "분위기",
+      "레트로 재현"
+    ],
+    [
+      "메뉴",
+      "오코노미야키·우동·이자카야"
+    ]
+  ],
+  "origin": [
+    "타키미코지는 우메다 스카이 빌딩 지하에 옛 거리 분위기를 재현해 만든 음식 골목이에요.",
+    "이름은 근처에 물이 떨어지는 듯한 조형에서 따온 것으로 소개돼요.",
+    "오코노미야키와 우동, 이자카야 등 여러 가게가 좁은 골목에 늘어서 있어 한 번에 여러 종류를 구경할 수 있어요.",
+    "스카이 빌딩 전망대와 묶어 저녁 코스로 많이들 찾아요."
+  ],
+  "practical": [
+    "가게별 영업시간·휴무 다름",
+    "전망대 관람 전후로 들르기 좋음"
+  ],
+  "tip": "해질 무렵 식사 후 바로 전망대에 올라가면 야경까지 한 번에 봐요.",
+  "order": [
+    "<b>お好み焼</b> 오코노미야키",
+    "<b>うどん</b> 우동"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "점포별 상이(1인 1,000~3,000엔 추정)",
+  "must": 0,
+  "tags": [
+    "음식골목",
+    "레트로",
+    "스카이빌딩"
+  ],
+  "art_key": "street",
+  "local_search": "滝見小路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB",
+    "https://en.wikipedia.org/wiki/Umeda_Sky_Building",
+    "https://www.openstreetmap.org/node/4515479191"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우메다 스카이빌딩 음식골목로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:26.392Z"
+}

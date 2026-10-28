@@ -1,0 +1,81 @@
+{
+  "id": "pl_ae489d5ba3",
+  "code": "JP-OSA-S-0035",
+  "city_id": "JP-OSA",
+  "slug": "santa-maria-cruise",
+  "kind": "sight",
+  "name_ko": "산타마리아 크루즈",
+  "name_sub": "Santa Maria Cruise",
+  "name_local": "帆船型観光船 サンタマリア",
+  "lat": 34.65505,
+  "lng": 135.42829,
+  "area": "오사카코/덴포잔",
+  "lead": "오사카항을 도는 범선 모양 관광선. 해유관과 덴포잔 대관람차가 있는 항구를 바다에서 바라봐요.",
+  "facts": [
+    [
+      "종류",
+      "관광 유람선"
+    ],
+    [
+      "소요",
+      "45~60분"
+    ],
+    [
+      "위치",
+      "해유관 서쪽 선착장"
+    ],
+    [
+      "코스",
+      "오사카항 일대"
+    ]
+  ],
+  "origin": [
+    "산타마리아는 오사카항을 도는 범선 모양 관광선이에요.",
+    "해유관과 덴포잔 대관람차, 미나토마치 일대를 바다에서 바라볼 수 있어요.",
+    "낮에는 바람을 맞으며 갑판에 서 있고, 저녁에는 항구 조명을 보는 코스로 인기가 있어요.",
+    "아이와 함께 타기 좋은 비교적 긴 관광선으로 소개돼요."
+  ],
+  "tip": "갑판은 바람이 강하니 겉옷을 챙기세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "성인 1,600~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "유람선",
+    "항구",
+    "야경",
+    "가족"
+  ],
+  "art_key": "ship",
+  "local_search": "帆船型観光船 サンタマリア",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E6%B8%AF",
+    "https://en.wikipedia.org/wiki/Osaka_Aquarium_Kaiyukan",
+    "https://www.openstreetmap.org/way/586887114"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카항 유람선로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:36.522Z"
+}

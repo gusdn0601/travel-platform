@@ -67,7 +67,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "shrine in Naniwa-ku, Osaka, Osaka Prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 3,
+    "popularity": {
+      "note": "한국어 여행 정보에서 신세카이 복의 신로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:56.465Z"
+  "sanitized_at": "2026-10-28T10:45:55.637Z",
+  "origin": [
+    "이마미야 에비스 신사는 장사 번창과 복을 기원하는 에비스 신을 모신 신사예요.",
+    "신세카이와 가까워 상인과 여행객이 함께 찾아요.",
+    "매년 1월 도카 에비스 축제 때는 거리가 크게 붐비고 복을 상징하는 물건을 사는 사람이 많아요.",
+    "평소에는 조용해 잠깐 들러 참배하기 좋아요."
+  ]
 }

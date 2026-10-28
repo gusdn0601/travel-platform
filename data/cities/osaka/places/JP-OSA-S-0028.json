@@ -57,7 +57,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": null,
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 체험 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:40.982Z"
+  "sanitized_at": "2026-10-28T10:45:55.642Z",
+  "origin": [
+    "컵누들 박물관 오사카 이케다는 인스턴트 라면의 역사를 보여 주는 시설이에요.",
+    "라면이 만들어진 과정과 발명 이야기를 전시로 풀어내고, 컵에 그림을 그려 토핑을 고르는 체험도 있어요.",
+    "이케다 쪽에 있어 오사카 시내에서 전철로 이동해 반나절 코스로 다녀오기 좋아요.",
+    "아이와 함께 하기 좋은 실내 장소로 소개돼요."
+  ]
 }

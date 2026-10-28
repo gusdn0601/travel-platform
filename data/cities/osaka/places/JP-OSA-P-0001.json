@@ -67,7 +67,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "shopping district in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 전자·오타쿠 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:04.747Z"
+  "sanitized_at": "2026-10-28T10:45:55.621Z",
+  "origin": [
+    "덴덴타운은 난바 인근에서 전자부품과 가전을 팔던 상점가에서 출발했어요.",
+    "이후 애니메이션과 게임, 피규어를 다루는 가게가 늘어 오타쿠 문화의 거리로 알려졌어요.",
+    "좁은 골목에 중고 게임숍과 피규어 가게, 뽑기 매장이 이어져 찾아보는 재미가 있어요.",
+    "한국 여행객도 피규어와 게임 소프트를 사러 많이 들러요."
+  ]
 }

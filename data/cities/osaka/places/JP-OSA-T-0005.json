@@ -67,7 +67,21 @@
     "addr_basis": "osm-tags",
     "entity": "airport serving Kobe, Osaka, and Kyoto, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 관문 공항로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:51:07.262Z"
+  "sanitized_at": "2026-10-28T10:45:55.646Z",
+  "origin": [
+    "간사이 국제공항은 오사카 만 인공섬에 건설된 국제공항이에요.",
+    "한국 노선이 많아 부산·서울에서 오가는 여행객이 많이 이용해요.",
+    "시내까지 전철과 버스로 연결되고, 난바 쪽은 난카이 전철이 편해요.",
+    "공항 안에 상점과 식당이 많아 출국 전 쇼핑을 하기 좋아요."
+  ]
 }

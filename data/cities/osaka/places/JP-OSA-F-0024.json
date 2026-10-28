@@ -1,0 +1,91 @@
+{
+  "id": "pl_b03f1c23e8",
+  "code": "JP-OSA-F-0024",
+  "city_id": "JP-OSA",
+  "slug": "marufuku-coffee",
+  "kind": "food",
+  "name_ko": "마루후쿠 커피점",
+  "name_sub": "Marufuku Coffee",
+  "name_local": "丸福珈琲店",
+  "lat": 34.69885,
+  "lng": 135.49327,
+  "area": "우메다",
+  "lead": "오사카에서 오래된 커피 전문점. 진하게 내린 커피와 두툼한 팬케이크가 노포 카페 분위기를 만들어요.",
+  "facts": [
+    [
+      "종류",
+      "커피 전문점"
+    ],
+    [
+      "특징",
+      "오래된喫茶店 분위기"
+    ],
+    [
+      "위치",
+      "우메다 인근"
+    ],
+    [
+      "메뉴",
+      "커피·팬케이크"
+    ]
+  ],
+  "origin": [
+    "마루후쿠 커피점은 오사카에서 20세기 초부터 커피를 내온 가게로 알려져 있어요.",
+    "진하게 볶은 원두로 내린 커피와 두툼하게 구운 팬케이크가 대표 메뉴예요.",
+    "오래된 가구와 조명이 남아 있어 쇼와 시대喫茶店 분위기를 느끼려는 사람이 많이 찾아요.",
+    "우메다 쇼핑 중 쉬어 가는 곳으로 한국 여행 후기에도 자주 등장해요."
+  ],
+  "practical": [
+    "오전부터 영업",
+    "좌석이 좁은 편",
+    "현금·카드 확인"
+  ],
+  "tip": "커피와 핫케이크를 함께 주문하면 한 끼로도 충분해요.",
+  "order": [
+    "<b>ブレンドコーヒー</b> 블렌드 커피",
+    "<b>ホットケーキ</b> 핫케이크"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 800~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "노포",
+    "커피",
+    "디저트"
+  ],
+  "art_key": "cafe",
+  "local_search": "丸福珈琲店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%A6%8F%E7%8F%88%E7%90%B2%E5%BA%97",
+    "https://en.wikipedia.org/wiki/Kissaten",
+    "https://ja.wikipedia.org/wiki/%E5%96%AB%E8%8C%B6%E5%BA%97",
+    "https://www.openstreetmap.org/node/5085067422"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 노포 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:27.190Z"
+}

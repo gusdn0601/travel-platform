@@ -1,0 +1,81 @@
+{
+  "id": "pl_1d4300d7d4",
+  "code": "JP-OSA-S-0031",
+  "city_id": "JP-OSA",
+  "slug": "osaka-museum-housing-living",
+  "kind": "sight",
+  "name_ko": "오사카 쿠라시노 콘지칸",
+  "name_sub": "Osaka Museum of Housing and Living",
+  "name_local": "大阪くらしの今昔館",
+  "lat": 34.71031,
+  "lng": 135.51169,
+  "area": "덴진바시",
+  "lead": "에도시대 오사카 거리를 실물 크기로 재현한 실내 박물관. 비 오는 날에도 걷는 즐거움이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "생활사 박물관"
+    ],
+    [
+      "특징",
+      "에도시대 거리 재현"
+    ],
+    [
+      "위치",
+      "덴진바시"
+    ],
+    [
+      "관람",
+      "실내·좌식 공간 있음"
+    ]
+  ],
+  "origin": [
+    "오사카 쿠라시노 콘지칸은 오사카 사람들의 옛 생활을 보여 주는 박물관이에요.",
+    "한 층 전체에 에도시대 마을 거리를 실물 크기로 재현해 두어, 건물 안에서 옛 오사카를 걷는 느낌을 받을 수 있어요.",
+    "계절과 시간대에 따라 조명을 바꾸는 연출도 알려져 있어요.",
+    "덴진바시스지 상점가와 이어져 있어 쇼핑과 함께 둘러보기 좋아요."
+  ],
+  "tip": "사진을 찍으려면 조명이 좋은 시간대를 입구에서 확인하세요.",
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "입장료 있음(추정)",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "에도시대",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪くらしの今昔館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E3%81%8F%E3%82%89%E3%81%97%E3%81%AE%E4%BB%8A%E6%98%94%E9%A4%A8",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E6%A9%8B%E7%AD%8B%E5%95%86%E5%BA%97%E8%A1%97",
+    "https://www.openstreetmap.org/node/4419665990"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 30,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 실내 박물관로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:30.769Z"
+}

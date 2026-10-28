@@ -64,7 +64,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "neighbourhood",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 1,
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 레트로 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:49:04.298Z"
+  "sanitized_at": "2026-10-28T10:45:55.632Z",
+  "origin": [
+    "신세카이는 20세기 초에 만들어진 놀이·오락 지구에서 출발했어요.",
+    "츠텐카쿠 주변으로 쿠시카츠 가게와 오래된 간판이 모여 레트로 분위기를 만들어요.",
+    "전후에는 값싼 먹거리와 오락의 거리로 자리 잡았고, 지금도 그 분위기가 남아 있어요.",
+    "저녁에 불이 들어오면 간판 색이 살아나 사진 찍기 좋아요."
+  ]
 }

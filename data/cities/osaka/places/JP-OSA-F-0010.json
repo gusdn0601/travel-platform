@@ -60,7 +60,6 @@
   "version": 1,
   "verified_at": null,
   "sources": [
-    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2582%2586%25E3%2581%258B%25E3%2582%258A%2520(%25E3%2581%258A%25E5%25A5%25BD%25E3%2581%25BF%25E7%2584%25BC%25E3%2581%258D)",
     "https://en.wikipedia.org/wiki/Okonomiyaki",
     "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
     "https://www.openstreetmap.org/node/2331678421"
@@ -76,7 +75,7 @@
     "hours_basis": "unknown",
     "stay_basis": "estimated",
     "price_basis": "estimated",
-    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
     "popularity": {
       "note": "한국어 여행 정보에서 오사카 오코노미야키 체인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
       "basis": "collector-judgement (unverified)",
@@ -85,5 +84,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.886Z"
+  "sanitized_at": "2026-10-28T10:47:12.195Z"
 }

@@ -67,7 +67,21 @@
     "addr_basis": "osm-reverse (근사)",
     "entity": "railway station and metro station in Ōsaka, Ōsaka prefecture, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 2,
+    "popularity": {
+      "note": "한국어 여행 정보에서 신칸센 환승역로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:51.507Z"
+  "sanitized_at": "2026-10-28T10:45:55.645Z",
+  "origin": [
+    "신오사카역은 오사카에서 신칸센이 서는 역이에요.",
+    "도쿄·하카타 방면 신칸센과 재래선이 만나 장거리 이동의 관문 역할을 해요.",
+    "시내 중심인 우메다·난바와는 지하철로 이동해야 해요.",
+    "신칸센 시간이 있다면 역 주변 라멘집과 상점을 이용하기 좋아요."
+  ]
 }

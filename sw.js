@@ -1,5 +1,5 @@
 // 둘러보기 서비스워커 — 첫 방문 후 비행기 모드/불안정 로밍에서도 목록·검색·상세가 열린다.
-// 빌드 시 'e34416348f' 가 해시로 치환된다(scripts/build-site.mjs). 캐시 버전 = 배포 버전.
+// 빌드 시 '5f8be3259f' 가 해시로 치환된다(scripts/build-site.mjs). 캐시 버전 = 배포 버전.
 const BUILD = '__BUILD__';
 const CACHE = 'tp-browse-' + BUILD;
 const CORE = ['./', './index.html', './browse.css', './browse.js', './manifest.webmanifest',

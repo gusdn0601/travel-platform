@@ -65,10 +65,8 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Ichiran",
     "https://ja.wikipedia.org/wiki/%E4%B8%80%E8%98%AD",
-    [
-      "https://en.wikipedia.org/wiki/Ramen",
-      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
-    ],
+    "https://en.wikipedia.org/wiki/Ramen",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
     "https://en.wikipedia.org/wiki/Dōtonbori",
     "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
     "https://www.openstreetmap.org/node/4488318892"
@@ -76,16 +74,15 @@
   "meta": {
     "priority": 1,
     "expansion": "osaka-2026-10-28",
-    "verification": "coord_conflict",
+    "verification": "single_source",
     "coord_sources": [
-      "wikipedia",
       "osm"
     ],
-    "coord_delta_m": 484220,
+    "coord_delta_m": null,
     "hours_basis": "unknown",
     "stay_basis": "estimated",
     "price_basis": "estimated",
-    "story_basis": "own retelling of general knowledge; 5 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "story_basis": "own retelling of general knowledge; 6 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
     "popularity": {
       "note": "한국어 여행 정보에서 오사카 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
       "basis": "collector-judgement (unverified)",
@@ -94,5 +91,5 @@
     "photo": "null",
     "collected_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:37:24.880Z"
+  "sanitized_at": "2026-10-28T10:47:08.880Z"
 }

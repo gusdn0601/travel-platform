@@ -1,0 +1,80 @@
+{
+  "id": "pl_1348679c1e",
+  "code": "JP-OSA-P-0010",
+  "city_id": "JP-OSA",
+  "slug": "doguyasuji",
+  "kind": "shop",
+  "name_ko": "센니치마에 도구야스지 상점가",
+  "name_sub": "Sennichimae Doguyasuji",
+  "name_local": "千日前道具屋筋商店街",
+  "lat": 34.66398,
+  "lng": 135.50349,
+  "area": "난바/도톤보리",
+  "lead": "주방 도구와 식품 모형을 파는 가게가 늘어선 상점가. 오사카스러운 기념품을 찾기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전문 상점가"
+    ],
+    [
+      "특징",
+      "주방용품·식품모형"
+    ],
+    [
+      "위치",
+      "센니치마에"
+    ],
+    [
+      "영업",
+      "가게별 상이"
+    ]
+  ],
+  "origin": [
+    "도구야스지 상점가는 요리 도구와 그릇, 식품 모형을 파는 가게들이 모인 거리예요.",
+    "오사카의 상업 도시 분위기가 남아 있어 여행 기념품을 찾는 사람이 많이 찾아요.",
+    "타코야키 팬이나 식품 모형처럼 오사카 음식과 연결된 물건이 특히 인기예요.",
+    "난바와 가까워 도톤보리 일정 중 들르기 좋아요."
+  ],
+  "tip": "식품 모형은 깨지기 쉬우니 포장을 꼼꼼히 부탁하세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "상점가",
+    "주방용품",
+    "기념품"
+  ],
+  "art_key": "shop",
+  "local_search": "千日前道具屋筋商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A5%E5%89%8D%E9%81%93%E5%85%B7%E5%B1%8B%E7%AD%8B%E5%95%86%E5%BA%97%E8%A1%97",
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A5%E5%89%8D",
+    "https://www.openstreetmap.org/node/4190281189"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 기념품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:37.319Z"
+}

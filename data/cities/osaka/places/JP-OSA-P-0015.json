@@ -1,0 +1,80 @@
+{
+  "id": "pl_822883742e",
+  "code": "JP-OSA-P-0015",
+  "city_id": "JP-OSA",
+  "slug": "daimaru-shinsaibashi",
+  "kind": "shop",
+  "name_ko": "다이마루 신사이바시점",
+  "name_sub": "Daimaru Shinsaibashi",
+  "name_local": "大丸 心斎橋店",
+  "lat": 34.67318,
+  "lng": 135.50096,
+  "area": "신사이바시",
+  "lead": "신사이바시의 오래된 백화점. 고풍스러운 외관과 넓은 식품관이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "오래된 건축 외관"
+    ],
+    [
+      "위치",
+      "신사이바시"
+    ],
+    [
+      "영업",
+      "오전~저녁"
+    ]
+  ],
+  "origin": [
+    "다이마루 신사이바시점은 신사이바시 상점가에 자리한 오래된 백화점이에요.",
+    "고딕 양식 느낌의 외관이 거리 풍경의 일부처럼 남아 있어요.",
+    "지하 식품관과 화장품 매장이 여행객에게 인기이고, 신사이바시 쇼핑 동선의 중심에 있어요.",
+    "면세 카운터가 있어 여권이 필요해요."
+  ],
+  "tip": "신사이바시 상점가와 바로 이어져 비 오는 날 쇼핑에 편해요.",
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "건축",
+    "신사이바시"
+  ],
+  "art_key": "mall",
+  "local_search": "大丸 心斎橋店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%B8%B8",
+    "https://ja.wikipedia.org/wiki/%E5%BF%83%E6%96%8E%E6%A9%8B",
+    "https://www.openstreetmap.org/way/161872478"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 신사이바시 백화점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:43.128Z"
+}

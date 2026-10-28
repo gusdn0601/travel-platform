@@ -68,7 +68,21 @@
     "addr_basis": "osm-tags",
     "entity": "public building in Osaka, Japan",
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "priority": 3,
+    "popularity": {
+      "note": "한국어 여행 정보에서 나카노시마 근대건축로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
+    "expansion": "osaka-2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:50:27.851Z"
+  "sanitized_at": "2026-10-28T10:45:55.640Z",
+  "origin": [
+    "오사카 시중앙공회당은 나카노시마에 세워진 근대 건축이에요.",
+    "1918년에 완성된 붉은 벽돌 건물로 알려져 있어요.",
+    "강변에 서 있어 야간 조명이 켜지면 물에 비친 모습이 특히 예뻐요.",
+    "내부 공개는 행사와 투어 일정에 따라 달라 외관 감상 위주로 계획하는 편이 좋아요."
+  ]
 }

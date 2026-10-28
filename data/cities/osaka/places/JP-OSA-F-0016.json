@@ -1,0 +1,88 @@
+{
+  "id": "pl_8e4fb41074",
+  "code": "JP-OSA-F-0016",
+  "city_id": "JP-OSA",
+  "slug": "meijiken",
+  "kind": "food",
+  "name_ko": "메이지켄",
+  "name_sub": "Meijiken",
+  "name_local": "明治軒",
+  "lat": 34.67268,
+  "lng": 135.50222,
+  "area": "신사이바시",
+  "lead": "신사이바시에서 오래된 양식당. 얇은 계란으로 싼 오무라이스와 꼬치구이로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "일본식 양식"
+    ],
+    [
+      "대표",
+      "오무라이스"
+    ],
+    [
+      "위치",
+      "신사이바시"
+    ],
+    [
+      "분위기",
+      "오래된 대중 양식당"
+    ]
+  ],
+  "origin": [
+    "메이지켄은 신사이바시에서 20세기 초부터 영업해 온 양식당으로 소개돼요.",
+    "얇게 부친 계란으로 볶음밥을 감싼 오무라이스가 대표 메뉴이고, 함께 내는 꼬치구이도 단골 메뉴로 알려져 있어요.",
+    "관광지 한복판이지만 현지 손님이 꾸준히 찾는 노포 분위기가 남아 있어요.",
+    "신사이바시 쇼핑 중 한 끼로 들르기 좋아요."
+  ],
+  "practical": [
+    "점심 시간대 대기 가능",
+    "현금 준비"
+  ],
+  "tip": "오무라이스와 꼬치를 함께 주문하는 조합이 기본이에요.",
+  "order": [
+    "<b>オムライス</b> 오무라이스",
+    "<b>串かつ</b> 꼬치 튀김"
+  ],
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "오무라이스",
+    "노포",
+    "신사이바시"
+  ],
+  "art_key": "food",
+  "local_search": "明治軒",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Omurice",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9",
+    "https://www.openstreetmap.org/node/10570364001"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 신사이바시 노포 오무라이스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:20.608Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "pl_8cb8f287a8",
+  "code": "JP-OSA-F-0025",
+  "city_id": "JP-OSA",
+  "slug": "junkissa-american",
+  "kind": "food",
+  "name_ko": "준키사 아메리칸",
+  "name_sub": "Junkissa American",
+  "name_local": "純喫茶アメリカン",
+  "lat": 34.6684,
+  "lng": 135.50306,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리 골목의 복고풍喫茶店. 단단한 푸딩과 두꺼운 토스트가 사진 찍기 좋은 비주얼이에요.",
+  "facts": [
+    [
+      "종류",
+      "喫茶店"
+    ],
+    [
+      "대표",
+      "푸딩·토스트"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "분위기",
+      "레트로"
+    ]
+  ],
+  "origin": [
+    "준키사 아메리칸은 도톤보리 골목에서 오래된喫茶店 분위기를 유지하는 가게로 소개돼요.",
+    "단단하게 굳힌 푸딩과 두툼한 토스트, 크림소다 같은 옛날 메뉴가 인기예요.",
+    "여행객이 사진을 찍으러 오는 곳이지만 현지 손님도 커피를 마시러 들러요.",
+    "도톤보리의 번잡함에서 잠깐 벗어나 쉬기 좋아요."
+  ],
+  "practical": [
+    "좁은 계단으로 2층 이동",
+    "금연·흡연 구역 확인"
+  ],
+  "tip": "푸딩과 크림소다 조합이 이 집의 사진 메뉴예요.",
+  "order": [
+    "<b>プリン</b> 푸딩",
+    "<b>トースト</b> 토스트",
+    "<b>クリームソーダ</b> 크림소다"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 700~1,300엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "푸딩",
+    "레트로",
+    "난바"
+  ],
+  "art_key": "cafe",
+  "local_search": "純喫茶アメリカン",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kissaten",
+    "https://ja.wikipedia.org/wiki/%E5%96%AB%E8%8C%B6%E5%BA%97",
+    "https://www.openstreetmap.org/node/2326969286"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 레트로 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:47:27.191Z"
+}
