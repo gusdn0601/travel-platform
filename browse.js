@@ -78,15 +78,25 @@ function setupSearch() {
   $('#fontBtn').addEventListener('click', cycleFont);
 }
 
+// 선택된 필터(도시·종류·토글)를 반영한 개수 — 위에서 도시를 고르면 아래 종류·음식 개수가 따라 바뀐다
+function facet(items, { city = true, kind = true } = {}) {
+  return items.filter((i) => (!city || state.city === 'all' || i.city === state.city)
+    && (!kind || state.kind === 'all' || i.k === state.kind)
+    && (!state.photoOnly || i.ph) && (!state.verifiedOnly || i.v) && (!state.topOnly || i.p <= 2));
+}
+
 function renderChips() {
   const d = state.data;
   const foodTab = state.tab === 'food';
-  const base = foodTab ? d.items.filter((i) => i.k === 'food') : d.items;
+  const base = facet(foodTab ? d.items.filter((i) => i.k === 'food') : d.items, { city: false, kind: !foodTab });
   const perCity = {};
   for (const i of base) perCity[i.city] = (perCity[i.city] || 0) + 1;
   const cityChips = [{ id: 'all', name: '전체', count: base.length }, ...d.cities.map((c) => ({ id: c.id, name: c.name, count: perCity[c.id] || 0 }))];
   els.cityChips.innerHTML = '<span class="rowlab">도시</span>' + cityChips.map((c) => `<button class="chip${state.city === c.id ? ' on' : ''}" data-city="${esc(c.id)}" aria-pressed="${state.city === c.id}">${esc(c.name)} <span class="n">${c.count}</span></button>`).join('');
-  const kindChips = [{ id: 'all', name: '전체', count: d.total }, ...KIND_ORDER.map((k) => ({ id: k, name: KIND[k], count: d.kinds[k] || 0 }))];
+  const kindBase = facet(d.items, { kind: false });
+  const perKind = {};
+  for (const i of kindBase) perKind[i.k] = (perKind[i.k] || 0) + 1;
+  const kindChips = [{ id: 'all', name: '전체', count: kindBase.length }, ...KIND_ORDER.map((k) => ({ id: k, name: KIND[k], count: perKind[k] || 0 }))];
   const toggles = `<button class="chip${state.photoOnly ? ' on' : ''}" data-photo="1" aria-pressed="${state.photoOnly}">사진 있음</button>` +
     `<button class="chip${state.verifiedOnly ? ' on' : ''}" data-verified="1" aria-pressed="${state.verifiedOnly}">검증됨</button>` +
     `<button class="chip${state.topOnly ? ' on' : ''}" data-top="1" aria-pressed="${state.topOnly}">우선순위 1~2</button>`;
@@ -111,8 +121,11 @@ function renderFoodChips() {
   const show = state.tab === 'food' || (state.kind === 'food' && state.tab === 'list');
   els.catWrap.hidden = !show;
   if (!show) return;
-  const cats = [...state.data.categories].sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'ko'));
-  const total = state.data.items.filter((i) => i.k === 'food').length;
+  const foods = facet(state.data.items.filter((i) => i.k === 'food'), { kind: false });
+  const perCat = {};
+  for (const i of foods) for (const c of i.fc || []) perCat[c] = (perCat[c] || 0) + 1;
+  const cats = state.data.categories.map((c) => ({ ...c, count: perCat[c.id] || 0 })).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'ko'));
+  const total = foods.length;
   els.foodChips.innerHTML = `<button class="chip${state.cats.size ? '' : ' on'}" data-cat="" aria-pressed="${!state.cats.size}">전체 <span class="n">${total}</span></button>` +
     cats.map((c) => `<button class="chip${state.cats.has(c.id) ? ' on' : ''}" data-cat="${esc(c.id)}" aria-pressed="${state.cats.has(c.id)}">${esc(c.label)} <span class="n">${c.count}</span></button>`).join('');
   els.foodChips.onclick = (e) => {
