@@ -65,6 +65,17 @@ main{max-width:680px;margin:0 auto;padding:10px 14px calc(92px + env(safe-area-i
 .card:active{transform:scale(.995)}
 .card .thumb{width:88px;height:88px;flex:none;border-radius:12px;overflow:hidden;background:var(--sky);display:grid;place-items:center;color:var(--sub);font-weight:700;font-size:12px}
 .card .thumb img{width:100%;height:100%;object-fit:cover}
+/* 사진 없는 곳의 삽화 아이콘 카드 — 종류별 옅은 바탕 + 선 아이콘 + '삽화' 라벨(사진처럼 보이지 않게) */
+.card .thumb.ill{display:flex;flex-direction:column;gap:3px;background:var(--ic-bg);color:var(--ic-fg);box-shadow:inset 0 0 0 1px rgba(20,22,26,.07)}
+.ill-sight{--ic-bg:#E7EEF5;--ic-fg:#2E4B66}
+.ill-food{--ic-bg:#FADDE4;--ic-fg:#8A2D48}
+.ill-shop{--ic-bg:#E6E1F5;--ic-fg:#4E3D7A}
+.ill-transit{--ic-bg:#E2EFE6;--ic-fg:#2F6B47}
+.pic{width:44px;height:44px;display:block}
+.illtag{font-size:9px;font-weight:700;letter-spacing:.08em;line-height:1;opacity:.72}
+.hero-ill{height:clamp(190px,52vw,300px);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;background:var(--ic-bg);color:var(--ic-fg);box-shadow:inset 0 -1px 0 rgba(20,22,26,.08)}
+.hero-ill .pic{width:96px;height:96px}
+.hero-ill .illnote{font-size:12px;font-weight:700;letter-spacing:.02em;opacity:.72}
 .card .b{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px;padding:2px 0}
 .card .nm{font-size:17px;font-weight:700;letter-spacing:-.01em;line-height:1.35}
 .card .nm .sub{font-weight:400;font-size:13px;color:var(--sub);margin-left:4px}

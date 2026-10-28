@@ -1,5 +1,6 @@
 // 둘러보기 — 첫 화면: 전체 장소 목록 + 검색. 정적 사이트(site/)에서 상대경로로 동작.
 // 데이터: ./data/browse-index.json (build-site.mjs 파생), 상세: ./data/cities/<도시>/places/<코드>.json
+import { iconSvg, KIND_ICON } from './place-icons.js';
 const KIND = { sight: '관광', food: '식당', shop: '쇼핑', transit: '교통' };
 const KIND_ORDER = ['sight', 'food', 'shop', 'transit'];
 const TYPE_LABEL = {
@@ -211,7 +212,10 @@ function renderSummary(list) {
 }
 
 function cardHtml(i) {
-  const ph = i.t ? `<img src="${esc(i.t)}" alt="" loading="lazy" decoding="async" width="96" height="96">` : `<span>${esc(KIND[i.k] || '')}</span>`;
+  // 사진이 없으면 종류·하위분류 삽화 아이콘(사진처럼 보이지 않게 '삽화' 라벨 고정)
+  const thumb = i.t
+    ? `<span class="thumb"><img src="${esc(i.t)}" alt="" loading="lazy" decoding="async" width="96" height="96"></span>`
+    : `<span class="thumb ill ill-${esc(i.k)}">${iconSvg(i.ic || KIND_ICON[i.k])}<span class="illtag" aria-hidden="true">삽화</span></span>`;
   const tags = [];
   if (i.p < 90) tags.push(`<span class="badge rec">추천 ${i.p}</span>`);
   tags.push(`<span class="badge ${i.k}">${esc(KIND[i.k] || i.k)}</span>`);
@@ -221,7 +225,7 @@ function cardHtml(i) {
   }
   if (i.ph > 1) tags.push(`<span class="badge">사진 ${i.ph}</span>`);
   return `<a class="card" href="#/p/${encodeURIComponent(i.c)}" data-code="${esc(i.c)}">
-    <span class="thumb">${ph}</span>
+    ${thumb}
     <span class="b">
       <span class="nm">${esc(i.n)}${i.s ? `<span class="sub">${esc(i.s)}</span>` : ''}</span>
       <span class="loc">${esc(i.cn)}${i.a ? ' · ' + esc(i.a) : ''}</span>
@@ -302,7 +306,9 @@ function detailHtml(p, item) {
 
   const sec = (t, sub = '') => `<h2 class="sec">${esc(t)}${sub ? `<small>${esc(sub)}</small>` : ''}</h2>`;
   let h = '<div class="dbody">';
-  h += hero ? `<img class="hero" src="${esc(hero.f)}" alt="${esc(hero.cap || p.name_ko)}" decoding="async">` : '';
+  h += hero
+    ? `<img class="hero" src="${esc(hero.f)}" alt="${esc(hero.cap || p.name_ko)}" decoding="async">`
+    : `<div class="hero-ill ill ill-${esc(p.kind)}">${iconSvg(item.ic || KIND_ICON[p.kind])}<span class="illnote">삽화 · 사진 없음</span></div>`;
   if (hero && (hero.cap || hero.credit)) h += `<p class="hero-cap">${esc(hero.cap)}${hero.cap && hero.credit ? ' · ' : ''}${esc(hero.credit)}</p>`;
   h += `<div class="dwrap">
     <div class="crumb">${esc(item.cn)}${item.a ? ` · ${esc(item.a)}` : ''} · ${esc(KIND[p.kind] || p.kind)}</div>

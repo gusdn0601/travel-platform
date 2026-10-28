@@ -10,6 +10,7 @@ import { normalizePlace } from './sources/model.js';
 import { LocalCuratedSource, ManualSource, RemotePlaceSource, searchAll } from './sources/index.js';
 import { AIRPORTS, PACE, BUFFERS, DEFAULT_OPTS, WD, normalizeTrip, tripDays, dayWindows, dayWarnings, usedMinutes, overMinutes, paceMax, validHHMM, placeCount, recommend, firstMeal, tripBase, fillDay, appendPlace, fmtDur, fmtHM, weekday } from './availability.js';
 import { validateTip, TIP_MAX } from './tips.js';
+import { iconSvg, KIND_ICON } from '../place-icons.js';
 import { storyEntries } from './story.js';
 import { getCover, listCovers } from './covers/index.js';
 import { mapsAdapter } from './adapters/maps.js';
@@ -283,12 +284,12 @@ const usedIdsOf = (trip) => new Set(trip.plan.flatMap((d) => d.stops).map((s) =>
 const stopKind = (s) => (s.type === 'meal' ? 'meal' : state.byId.get(s.place_id)?.kind === 'shop' ? 'shop' : '');
 const kindTag = (s) => { const p = state.byId.get(s.place_id); return s.type === 'meal' ? '식사' : p?.custom ? '직접' : KIND[p?.kind] || '일정'; };
 const stopMin = (s) => toMin(s.end_time) - toMin(s.start_time);
-// 사진이 없으면 빈 회색 박스 대신 장소 이름 첫 글자 일러스트로 대체 (대표 피드백 2)
+// 사진이 없으면 빈 회색 박스 대신 장소 종류의 삽화 아이콘(둘러보기와 같은 세트)을 쓴다.
 const thumb = (p) => {
   const u = photoUrl(p);
   if (u) return `<div class="im" style="background-image:url('${u}')" role="img" aria-label="${esc(p?.name_ko || '')} 사진"></div>`;
-  const ch = (p?.name_ko || p?.label || '가').trim().slice(0, 1);
-  return `<div class="im ill" aria-hidden="true"><span>${esc(ch)}</span></div>`;
+  const kind = ['food', 'shop', 'transit', 'sight'].includes(p?.kind) ? p.kind : 'food';
+  return `<div class="im ill ill-${kind}">${iconSvg(p?.ic || KIND_ICON[kind])}</div>`;
 };
 // 이동/체류 라벨 분리 (AC-COPY-01): "1.3km · 1시간 15분" 같은 라벨 없는 숫자 나열 금지
 const moveText = (from, to, kids = 0) => {
@@ -488,7 +489,7 @@ function detailList(trip, stops, w) {
     const p = state.byId.get(s.place_id), ph = p && state.photos.get(p.id)?.[0], open = state.open === s.id;
     return `<details class="stop" data-sid="${s.id}" ${open ? 'open' : ''}><summary class="srow"><span class="kind ${stopKind(s)}">${kindTag(s)}</span><b class="n">${esc(s.label)}</b><span class="t">${s.start_time}–${s.end_time}</span></summary>
       <div class="sbody">${s.note ? `<div class="muted">${esc(s.note)}</div>` : ''}
-        ${p && !p.custom ? `<p>${esc(p.lead || '')}</p>${ph ? `<img class="photo" loading="lazy" src="${CITY}${ph.file}" alt="${esc(ph.caption)}"><div class="credit">${esc(ph.credit)}</div>` : ''}${p.tip ? `<p>${esc(p.tip)}</p>` : ''}${(p.practical || []).map((x) => `<p>• ${esc(x)}</p>`).join('')}${krSection(p, trip)}${histSection(p)}` : ''}
+        ${p && !p.custom ? `<p>${esc(p.lead || '')}</p>${ph ? `<img class="photo" loading="lazy" src="${CITY}${ph.file}" alt="${esc(ph.caption)}"><div class="credit">${esc(ph.credit)}</div>` : `<div class="photo-ill ill ill-${esc(p.kind)}">${iconSvg(p.ic || KIND_ICON[p.kind])}<span class="illnote">삽화 · 사진 없음</span></div>`}${p.tip ? `<p>${esc(p.tip)}</p>` : ''}${(p.practical || []).map((x) => `<p>• ${esc(x)}</p>`).join('')}${krSection(p, trip)}${histSection(p)}` : ''}
         ${p ? `<a class="maplink" href="${mapsAdapter.link(p)}" target="_blank" rel="noopener">${ic('pin', 'sm')} 지도에서 보기</a>` : ''}
         ${open ? `<div class="tl-act" data-act-for="${s.id}"></div>` : ''}</div></details>`;
   }).join('')}</div>`;

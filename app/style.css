@@ -191,3 +191,15 @@ label.inl { font-size:13px; color:var(--sub); font-weight:600; }
 .sheet .addp { box-shadow:none; padding:8px 0; margin:0; background:transparent; }
 
 .muted a { display:inline-block; min-height:44px; min-width:44px; line-height:44px; padding:0 4px; text-align:center; }
+
+/* ---- 사진 없는 장소의 삽화 아이콘 (테마 토큰 색 사용) ---- */
+.im.ill, .photo-ill { background:var(--ill-bg); color:var(--ill-fg); }
+.im.ill { display:flex; align-items:center; justify-content:center; box-shadow:inset 0 0 0 1px var(--line); }
+.im.ill .pic { width:62%; height:62%; max-width:34px; max-height:34px; }
+.ill-sight { --ill-bg:var(--sky1); --ill-fg:var(--ink); }
+.ill-food { --ill-bg:var(--accent-soft, #FADDE4); --ill-fg:var(--ink); }
+.ill-shop { --ill-bg:var(--surface-2, #E6E1F5); --ill-fg:var(--ink); }
+.ill-transit { --ill-bg:var(--sky1); --ill-fg:var(--ink); }
+.photo-ill { height:144px; border-radius:12px; margin:8px 0 4px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; box-shadow:inset 0 0 0 1px var(--line); }
+.photo-ill .pic { width:56px; height:56px; }
+.photo-ill .illnote { font-size:12px; font-weight:600; letter-spacing:.02em; opacity:.72; }
