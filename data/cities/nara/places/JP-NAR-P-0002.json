@@ -60,16 +60,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "<나라> 나라 여행 후기 - 사슴공원, 히가시무키 상점가, 요시키엔 정원",
-      "url": "https://blog.naver.com/2relove/224434351531",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "일본여행 _ 나라 히가시무키상점가 귀여운 사슴인형 지름신 못 참지 🦌🛍️",
       "url": "https://www.youtube.com/watch?v=qKQZGjieEn0",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 1306
+    },
+    {
+      "type": "blog",
+      "title": "<나라> 나라 여행 후기 - 사슴공원, 히가시무키 상점가, 요시키엔 정원",
+      "url": "https://blog.naver.com/2relove/224434351531",
+      "source": "blog.naver.com",
+      "published": "2026-10"
     }
   ],
   "meta": {

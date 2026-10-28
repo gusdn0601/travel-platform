@@ -70,13 +70,16 @@
       "type": "blog",
       "title": "상하이 맛집 5곳, 라오정싱 자자탕바오 현지 평가와 여행자 평가 비교",
       "url": "https://blog.naver.com/cha_ebi/224443805812",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "상하이 난징동루 미슐랭 1스타 상해요리 라오정싱 Lao Zheng Xing 老正兴",
       "url": "https://www.youtube.com/watch?v=QjwEalFAC6Y",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2019-12",
+      "views": 2105
     }
   ],
   "meta": {

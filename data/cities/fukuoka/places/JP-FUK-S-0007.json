@@ -55,16 +55,18 @@
   ],
   "kr_refs": [
     {
+      "type": "youtube",
+      "title": "후쿠오카 2박3일 여행 브이로그✈️ | 마린월드, 우미노나카미치 해변공원, 키디랜드",
+      "url": "https://www.youtube.com/watch?v=agbJahZKzRI",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 111
+    },
+    {
       "type": "blog",
       "title": "후쿠오카 아이와 가볼 만한 곳 | 마린월드 우미노나카미치 수족관 지하철, 배 이동 후기",
       "url": "https://blog.naver.com/dalmashan/224456028958",
       "source": "blog.naver.com"
-    },
-    {
-      "type": "youtube",
-      "title": "후쿠오카 2박3일 여행 브이로그✈️ | 마린월드, 우미노나카미치 해변공원, 키디랜드",
-      "url": "https://www.youtube.com/watch?v=agbJahZKzRI",
-      "source": "youtube.com"
     }
   ],
   "meta": {

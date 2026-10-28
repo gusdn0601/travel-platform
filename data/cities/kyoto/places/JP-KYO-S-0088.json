@@ -57,6 +57,15 @@
     "https://www.openstreetmap.org/way/149171918",
     "https://www.wikidata.org/wiki/Q123356815"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 후시미 3시간 여행｜고코노미야 신사·양조장 거리·데라다야까지 걷는 코스",
+      "url": "https://blog.naver.com/hwiiktravel/224438141739",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:57.544Z"
 }

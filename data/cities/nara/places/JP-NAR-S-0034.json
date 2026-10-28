@@ -55,6 +55,23 @@
     "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%88%E3%83%A9%E5%8F%A4%E5%A2%B3",
     "https://www.openstreetmap.org/way/1566437310"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "기토라 고분",
+      "url": "https://blog.naver.com/morethanflow/224404373354",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    },
+    {
+      "type": "youtube",
+      "title": "아스카 기토라고분 전시관 안내",
+      "url": "https://www.youtube.com/watch?v=ZeF0m0WjrEg",
+      "source": "youtube.com",
+      "published": "2024-05",
+      "views": 32
+    }
+  ],
   "meta": {
     "priority": 47,
     "expansion": "nara-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:31:00.171Z"
 }

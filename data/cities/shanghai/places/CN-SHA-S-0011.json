@@ -132,5 +132,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 여행 l 티엔즈팡 고덕지도 주소·가는법·영업시간 칭즈 블랜버니",
+      "url": "https://blog.naver.com/hlee05/224441610137",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "핫플만 모은 상하이 vlog 🇨🇳 (고덕지도👌🏻) 이대로 가면 됨! 인생마라탕과 맛집, 디저트의 천국🪽 티엔즈팡 추천템, 신천지 에그타르트, 우캉루 느좋카페, 완벽 자매여행 1일차",
+      "url": "https://www.youtube.com/watch?v=-R2Nuf-3GXI",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 1307
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

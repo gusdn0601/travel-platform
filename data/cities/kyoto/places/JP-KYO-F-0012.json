@@ -52,6 +52,23 @@
   "sources": [
     "https://www.openstreetmap.org/way/531355149"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 위켄더스커피, 오사카 가기 전 오픈런 했던 도미노코지점",
+      "url": "https://blog.naver.com/you-_-/224445619805",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 오사카 5박6일동안 25끼 먹으면서 맛집만 모았어요 (교토 여행 브이로그, 스시사카바사시스, 우동, 장어덮밥, 이노다커피, 위켄더스커피, 아라시야마, 오사카맛집, 교토맛집)",
+      "url": "https://www.youtube.com/watch?v=CTO08u8jGcc",
+      "source": "youtube.com",
+      "published": "2025-12",
+      "views": 96056
+    }
+  ],
   "meta": {
     "priority": 18,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +89,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:19.477Z",
   "order": [

@@ -50,6 +50,23 @@
     "https://ja.wikipedia.org/wiki/%E9%B4%A8%E5%B7%9D",
     "https://www.openstreetmap.org/relation/7930691"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "교토에다녀왔습니다.가모강변",
+      "url": "https://www.youtube.com/watch?v=7G3KBNOiO3c",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 4
+    },
+    {
+      "type": "blog",
+      "title": "#13 교토 가모강 | 걷기만 해도 좋았던 오후 | 버스킹과 음악이 흐르던 강변 산책",
+      "url": "https://blog.naver.com/buzzbba2005/224450948286",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 7,
     "expansion": "kyoto-2026-10-28",
@@ -70,7 +87,9 @@
     },
     "photo": "null",
     "collected_at": "2026-10-28",
-    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:10.710Z"
 }

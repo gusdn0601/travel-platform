@@ -58,6 +58,15 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "드디어 가본 교토 3대 커피 스마트커피(Coffee Smart) 솔직후기",
+      "url": "https://blog.naver.com/ssiireall/224444046837",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 11,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +85,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:17.850Z"
 }

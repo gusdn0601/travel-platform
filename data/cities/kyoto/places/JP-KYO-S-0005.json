@@ -52,13 +52,16 @@
       "type": "blog",
       "title": "교토 대나무 숲 아라시야마 후기, 일본 교토 여행에서 기억에 남았던 순간",
       "url": "https://blog.naver.com/emilie2090/224429761932",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "[Vlog] #교토 #아라시야마 #대나무숲 #롯코산",
       "url": "https://www.youtube.com/watch?v=Npqc4yA8Z48",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2025-06",
+      "views": 33
     }
   ],
   "meta": {

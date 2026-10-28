@@ -56,6 +56,23 @@
     "https://en.wikipedia.org/wiki/M50",
     "https://zh.wikipedia.org/wiki/M50%E5%88%9B%E6%84%8F%E5%9B%AD"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 모간산루 M50 창의구, 골목골목 재밌어! 26.6.7",
+      "url": "https://blog.naver.com/hjkblue6/224368307642",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    },
+    {
+      "type": "youtube",
+      "title": "중국 상해 모간산루 M50을 가다(Moganshan Rd,Shanghai,China) 3부",
+      "url": "https://www.youtube.com/watch?v=s15P_sal1Ks",
+      "source": "youtube.com",
+      "published": "2025-10",
+      "views": 19490
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:01:39.635Z"
 }

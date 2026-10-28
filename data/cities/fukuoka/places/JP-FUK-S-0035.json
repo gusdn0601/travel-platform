@@ -60,6 +60,15 @@
     "https://ja.wikipedia.org/wiki/%E6%B2%B3%E5%86%85%E8%97%A4%E5%9C%92",
     "https://www.openstreetmap.org/way/541232948"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 등나무 꽃 명소 기타큐슈 가와치 후지엔 가는법 총정리",
+      "url": "https://blog.naver.com/okossick/224320567799",
+      "source": "blog.naver.com",
+      "published": "2026-06"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -79,7 +88,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:39.648Z"
 }

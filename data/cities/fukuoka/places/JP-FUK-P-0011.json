@@ -58,6 +58,23 @@
     "https://en.wikipedia.org/wiki/Yodobashi_Camera",
     "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7%E3%82%AB%E3%83%A1%E3%83%A9"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 요도바시카메라 멀티미디어 하카타 | 가챠 • 실바니안 • 다마고치",
+      "url": "https://blog.naver.com/zytozy/224450512994",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카가 또 사람을 홀리네…🥹🪽가챠 기강 제대로 잡고 온 요도바시카메라•가성비갑 라멘집 | Fukuoka Vlog ep.1💗",
+      "url": "https://www.youtube.com/watch?v=kuRGe981QQ4",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 5447
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -75,7 +92,9 @@
     },
     "photo": "null",
     "collected_at": "2026-10-28",
-    "flag": "wikipedia matched company HQ (Tokyo); coords left null"
+    "flag": "wikipedia matched company HQ (Tokyo); coords left null",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:34.208Z"
 }

@@ -59,6 +59,15 @@
     "https://en.wikipedia.org/wiki/Sephora",
     "https://zh.wikipedia.org/wiki/%E4%B8%9D%E8%8A%99%E5%85%B0"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "\"저세상 귀여움..\" 전희미 공주님 등장한 세포라 행사 현장",
+      "url": "https://blog.naver.com/zlrehemd/224453100035",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -78,7 +87,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.948Z"
 }

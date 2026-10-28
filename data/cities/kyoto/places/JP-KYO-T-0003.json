@@ -57,6 +57,15 @@
     "https://en.wikipedia.org/wiki/Shij%C5%8D_Station",
     "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%9D%A1%E9%A7%85"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 맛집 추천 키무카츠 교토가라스마점 교토 돈카츠",
+      "url": "https://blog.naver.com/logistics__22/224452319322",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 42,
     "expansion": "kyoto-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:42:34.794Z"
 }

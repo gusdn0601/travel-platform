@@ -54,13 +54,16 @@
       "type": "blog",
       "title": "[명소]나라현 와카쿠사야마 와카쿠사산 후기[간사이 나라여행 - ⑧]",
       "url": "https://blog.naver.com/ironbbama/224443329304",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "교토에서 나라공원까지 (와카쿠사 야마야키) | iPhone 13 Pro",
       "url": "https://www.youtube.com/watch?v=qoJRap66Hoo",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-01",
+      "views": 1343
     }
   ],
   "meta": {

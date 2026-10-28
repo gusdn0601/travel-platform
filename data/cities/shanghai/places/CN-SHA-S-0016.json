@@ -139,5 +139,18 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국상해여행 4일차 :: 동방명주뷰는 베이와이탄 공원이 최고♡(IFC몰 쉐이크쉑 버거, 북외탄빈강녹지, 상하이 푸동공항 편의점)",
+      "url": "https://blog.naver.com/rosieworld/223686893988",
+      "source": "blog.naver.com",
+      "published": "2024-12"
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

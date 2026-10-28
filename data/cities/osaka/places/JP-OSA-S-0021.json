@@ -55,6 +55,23 @@
     "https://www.openstreetmap.org/way/170693374",
     "https://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/top.html"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "2026 흔하지 않은 오사카 맛집 12곳 추천 (ft. 덴노지동물원)",
+      "url": "https://www.youtube.com/watch?v=irwWEdrqhos",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 50908
+    },
+    {
+      "type": "blog",
+      "title": "[오사카] 크리스마스 마켓, 우메다 스카이빌딩&덴노지 공원🎅🏻 가볼만 할까?",
+      "url": "https://blog.naver.com/0vangogh0/224448347839",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.638Z",
   "origin": [

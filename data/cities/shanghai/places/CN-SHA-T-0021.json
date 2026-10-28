@@ -61,6 +61,23 @@
     "https://en.wikipedia.org/wiki/Mobike",
     "https://zh.wikipedia.org/wiki/%E5%85%AC%E5%85%B1%E8%87%AA%E8%A1%8C%E8%BB%8A"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "“이게 다 자전거라고?” 상하이에서 만난 공유자전거",
+      "url": "https://blog.naver.com/wemeta/224435233438",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이는 택시와 공유 자전거로 충분히 편하고 저렴하게 돌아 다닐 수 있다네요 [중국, 돈되는 부동산은 따로 있다]",
+      "url": "https://www.youtube.com/watch?v=2l2VWFb77iE",
+      "source": "youtube.com",
+      "published": "2025-10",
+      "views": 476
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +98,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:40:22.321Z"
 }

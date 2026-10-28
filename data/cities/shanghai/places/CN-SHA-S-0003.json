@@ -204,5 +204,18 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 2박3일 여행 3일차 | 예원정원 예원맛집",
+      "url": "https://blog.naver.com/wlslozlo/224454985506",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

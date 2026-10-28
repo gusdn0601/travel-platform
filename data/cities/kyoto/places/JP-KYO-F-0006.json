@@ -69,13 +69,16 @@
       "type": "blog",
       "title": "우지여행 나카무라 도키치 혼텐과 뵤도인",
       "url": "https://blog.naver.com/lovelyjjan/224153692162",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-01"
     },
     {
       "type": "youtube",
       "title": "VLOG)7박8일일본여행 #교토브이로그 2편/소도시‘우지‘여행, 뵤도인,나카무라토키치,oumiya seiuemon,마루키베이커리,굿맨로스터교토,히가시혼간지,Roe’s kitchen",
       "url": "https://www.youtube.com/watch?v=w9S5XAW2_oY",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-12",
+      "views": 285
     }
   ],
   "meta": {

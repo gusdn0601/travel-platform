@@ -56,13 +56,16 @@
       "type": "blog",
       "title": "[후쿠오카 맛집/관광] 이치란보다 맛있었던 멘야가가 + 하코자키궁 방문 후기",
       "url": "https://blog.naver.com/degulxx/224443130730",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "일본 🇯🇵 후쿠오카 왔어요! 하코자키궁 방생회 축제^^",
       "url": "https://www.youtube.com/watch?v=k3fM-QbfLw4",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 90753
     }
   ],
   "meta": {

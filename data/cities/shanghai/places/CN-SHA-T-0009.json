@@ -61,6 +61,23 @@
     "https://map.baidu.com/search/%E5%8D%97%E4%BA%AC%E4%B8%9C%E8%B7%AF%E7%AB%99",
     "https://www.openstreetmap.org/way/1389669270"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "아기랑 상하이 vlog.1 ♡ ㅣ와이탄스냅ㅣ난징동루ㅣ예상하이 베이징덕ㅣ동방명주 뷰 카페ㅣ게살국수",
+      "url": "https://www.youtube.com/watch?v=9nvbRJsw82I",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 123
+    },
+    {
+      "type": "blog",
+      "title": "상하이 난징동루 쇼핑리스트 총정리! 치이카와·칭즈 핸드크림·기념품 추천 & 비추 솔직후기 (고덕지도 위치)",
+      "url": "https://blog.naver.com/dadada38/224449607852",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -83,7 +100,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:40:22.314Z"
 }

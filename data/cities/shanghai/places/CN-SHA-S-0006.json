@@ -125,5 +125,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국 상해 난징동루 맛집 션다청 내돈내산 후기! 아침식사 가능한 로컬 식당 & 인생 떡 추천 (메뉴, 주문 팁)",
+      "url": "https://blog.naver.com/dhdbwlsrhdwn/224433044963",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이 여행 처음이면 이 코스대로!🇨🇳 절대 실패없는 맛집부터, 난징동루 굿즈 쇼핑까지 : 2박3일 중국여행 브이로그 (상)",
+      "url": "https://www.youtube.com/watch?v=GF35YUtjERc",
+      "source": "youtube.com",
+      "published": "2026-03",
+      "views": 4256
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

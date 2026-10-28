@@ -59,6 +59,15 @@
     "https://en.wikipedia.org/wiki/Carrefour",
     "https://zh.wikipedia.org/wiki/%E5%AE%B6%E6%A8%82%E7%A6%8F"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "벨기에 브뤼셀 물가 Carrefour 까르푸 마트 가격 정보",
+      "url": "https://blog.naver.com/ssoyeon_p/224452874526",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -78,7 +87,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.951Z"
 }

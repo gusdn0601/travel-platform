@@ -51,16 +51,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "나라(奈良) 카스가야마 원시림(春日山原始林) 카스가야마 유호도(春日山遊歩道) 타키사카노미치(滝坂の道) 하이킹 - Part 2",
-      "url": "https://blog.naver.com/casiopeafan/221348620723",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "일본 야쿠시마 원시림, 100% 감각으로 안내하는 숲 테라피 브이로그 | 산을 걷는 것과 숲에 머무는 것은 다르다",
       "url": "https://www.youtube.com/watch?v=xPYbcEGdC4w",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 215
+    },
+    {
+      "type": "blog",
+      "title": "나라(奈良) 카스가야마 원시림(春日山原始林) 카스가야마 유호도(春日山遊歩道) 타키사카노미치(滝坂の道) 하이킹 - Part 2",
+      "url": "https://blog.naver.com/casiopeafan/221348620723",
+      "source": "blog.naver.com",
+      "published": "2018-08"
     }
   ],
   "meta": {

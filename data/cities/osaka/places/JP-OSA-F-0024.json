@@ -70,6 +70,15 @@
     "https://ja.wikipedia.org/wiki/%E5%96%AB%E8%8C%B6%E5%BA%97",
     "https://www.openstreetmap.org/node/5085067422"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 난바 도톤보리 카페 마루후쿠 커피점 본점 메뉴 가격 딸기 팬케이크 후기",
+      "url": "https://blog.naver.com/yon_hanip/224437926838",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -90,7 +99,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:27.190Z"
 }

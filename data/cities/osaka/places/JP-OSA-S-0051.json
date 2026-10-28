@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%95%8C",
     "https://www.openstreetmap.org/way/446699913"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 츠텐카쿠 근처 노포 골목 술집 차오차오 교자 잔잔요코초점",
+      "url": "https://blog.naver.com/money_tech_da/224398276748",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카의 서민적인 분위기를 느낄수있는 잔잔요코초",
+      "url": "https://www.youtube.com/watch?v=BU939fL19gA",
+      "source": "youtube.com",
+      "published": "2025-10",
+      "views": 1269
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:20.119Z"
 }

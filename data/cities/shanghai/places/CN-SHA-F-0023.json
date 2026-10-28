@@ -65,6 +65,23 @@
     "https://zh.wikipedia.org/wiki/%E5%85%A8%E8%81%9A%E5%BE%B7",
     "https://www.openstreetmap.org/node/8954338833"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[중국 상하이 여행] 전취덕 / Quanjude 상하이 맛집 추천 160년 전통 카오야 | 북경오리구이 후기",
+      "url": "https://blog.naver.com/jaereebubu/224451148646",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "100년 전통! 베이징 카오야(베이징 덕) | 전취덕(全聚德) | 칭다오-베이징 무비자 3박5일 [12]",
+      "url": "https://www.youtube.com/watch?v=VKeZq8epZ4I",
+      "source": "youtube.com",
+      "published": "2025-10",
+      "views": 1760
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -85,7 +102,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.361Z"
 }

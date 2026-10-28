@@ -63,6 +63,23 @@
     "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%E4%BC%9A%E5%91%98%E5%95%86%E5%BA%97",
     "https://www.openstreetmap.org/way/255882432"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "Shanghai vlog l 중국 코스트코보다 인기 많은 샘스클럽! 회원제 창고형 할인매장 장바구니 물가 ✅",
+      "url": "https://www.youtube.com/watch?v=RBzKYiHtXp0",
+      "source": "youtube.com",
+      "published": "2026-02",
+      "views": 3632
+    },
+    {
+      "type": "blog",
+      "title": "【중국/상해/상해생활정보】중국의 코스트코 샘스클럽 Sam’s Club",
+      "url": "https://blog.naver.com/xiaojun1004/220097836233",
+      "source": "blog.naver.com",
+      "published": "2014-08"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -85,7 +102,9 @@
       ]
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.611Z"
 }

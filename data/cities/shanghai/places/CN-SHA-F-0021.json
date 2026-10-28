@@ -65,6 +65,15 @@
     "https://en.wikipedia.org/wiki/Hot_pot",
     "https://zh.wikipedia.org/wiki/%E7%81%AB%E9%94%85"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 근교 쑤저우 훠궈 맛집 바누｜중국 현지인 추천 마오두 훠궈",
+      "url": "https://blog.naver.com/hobby_tasting/224396481981",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -83,7 +92,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.358Z"
 }

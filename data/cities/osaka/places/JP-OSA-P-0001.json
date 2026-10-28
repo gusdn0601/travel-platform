@@ -54,6 +54,23 @@
     "https://en.wikipedia.org/wiki/Nipponbashi",
     "https://www.openstreetmap.org/way/586577050"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "🇯🇵 오사카 덕질 브이로그 | 인생 첫 마지미라 직관! 덴덴타운 굿즈샵 피규어 룩업 털기 Osaka Vlog",
+      "url": "https://www.youtube.com/watch?v=qmS3IEiDVT0",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 587
+    },
+    {
+      "type": "blog",
+      "title": "[오사카] 덴덴타운 근처 에스리드 호텔 오사카 닛폰바시 2박 솔직후기",
+      "url": "https://blog.naver.com/yubyul486/224443363612",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.621Z",
   "origin": [

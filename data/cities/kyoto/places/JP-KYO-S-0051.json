@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E5%BB%B6%E6%9A%A6%E5%AF%BA",
     "https://www.openstreetmap.org/node/10105902145"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 엔랴쿠지 사찰에서 만난 장보고 기념탑",
+      "url": "https://blog.naver.com/gloculartmedia/224426025325",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 여행의 정점, 장보고의 흔적이 남은 일본 불교의 성지, 히에이산 엔랴쿠지,",
+      "url": "https://www.youtube.com/watch?v=LcnDZwpoqlA",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 32824
+    }
+  ],
   "meta": {
     "priority": 32,
     "expansion": "kyoto-2026-10-28",
@@ -77,7 +94,9 @@
     },
     "photo": "commons",
     "collected_at": "2026-10-28",
-    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:36.002Z"
 }

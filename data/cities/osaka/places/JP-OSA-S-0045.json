@@ -57,6 +57,23 @@
     "https://www.openstreetmap.org/node/1906505143",
     "https://www.wikidata.org/wiki/Q11296794"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 키즈플라자 후기｜아이 둘이 좋아한 체험, 도시락은 챙겨갈걸",
+      "url": "https://blog.naver.com/170422/224438117701",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "일본에서 갑자기 인터뷰?! 😲 정윤 가족에게 무슨 일이... | 오사카 키즈플라자 2편 | 오사카여름여행 EP.5",
+      "url": "https://www.youtube.com/watch?v=mqO6u6gVAdI",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 108
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:18:21.962Z"
 }

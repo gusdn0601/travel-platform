@@ -59,13 +59,16 @@
       "type": "blog",
       "title": "교토 아라시야마 가볼만한 곳 <몽키파크 이와타야마> 추천 후기",
       "url": "https://blog.naver.com/mdd_diary/224450268118",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "교토(京都;Kyoto) 아라시야마(嵐山) 원숭이 공원(岩田山モンキーパーク;Iwatayama Monkey Park)",
       "url": "https://www.youtube.com/watch?v=hrqhzyOvKkc",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-12",
+      "views": 227
     }
   ],
   "meta": {

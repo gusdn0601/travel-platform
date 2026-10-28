@@ -67,6 +67,16 @@
     "https://finance.sina.cn/2025-07-02/detail-infeafyk5815651.d.html",
     "https://m.gmw.cn/toutiao/2025-04/22/content_1304020405.htm"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "대만 인기 길거리 간식. 총요우빙/ 그냥 먹어도 맛있는 파빵 이렇게 먹으면 몇 배는 더 맛있어요~",
+      "url": "https://www.youtube.com/watch?v=ZmRfPku14d8",
+      "source": "youtube.com",
+      "published": "2021-12",
+      "views": 1570
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -87,7 +97,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "web-verified; see sources[]",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.066Z"
 }

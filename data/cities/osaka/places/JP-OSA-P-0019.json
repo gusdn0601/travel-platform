@@ -64,13 +64,16 @@
       "type": "blog",
       "title": "로컬여행, 일본 한인타운 오사카 츠루하시 이쿠노 코리아타운",
       "url": "https://blog.naver.com/bintorynim/224424236716",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-09"
     },
     {
       "type": "youtube",
       "title": "Japan vlog. 오사카 코리아타운 츠루하시 다녀온 일본 유학생 일상 브이로그. MOning vlog",
       "url": "https://www.youtube.com/watch?v=kx0I4t6yNBY",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2020-08",
+      "views": 316
     }
   ],
   "meta": {

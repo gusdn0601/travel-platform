@@ -59,6 +59,23 @@
     "https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E4%B8%8A%E7%A5%9E%E7%A4%BE",
     "https://www.openstreetmap.org/way/332816179"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 우지 뵤도인, 우지가미신사",
+      "url": "https://blog.naver.com/mohani2010/224362870506",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 그리고 교토. trip vlog ep1 (무료전망대야경 도지마하마타워 | 말차 한잔, 우지 | 겐지이야기뮤지엄 | 우지가미신사 | 가와이간지로기념관)",
+      "url": "https://www.youtube.com/watch?v=Kkm3YuNV-5Y",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 112
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:34.677Z"
 }

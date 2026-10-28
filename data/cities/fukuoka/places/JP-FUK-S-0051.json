@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E9%8A%AD%E6%B9%AF",
     "https://www.openstreetmap.org/way/1411284390"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "[🇯🇵기타큐슈3박4일]ep.2 여행 브이로그 | 후쿠오카 당일치기,나미하노유 온천,사라쿠라 전망대",
+      "url": "https://www.youtube.com/watch?v=2aDC-gr3oH0",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 800
+    },
+    {
+      "type": "blog",
+      "title": "[일본여행]후쿠오카 온천 추천! 멀리가지마세요!! #미나토온천 나미하노유",
+      "url": "https://blog.naver.com/myumyu1213/223583526246",
+      "source": "blog.naver.com",
+      "published": "2024-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:10:57.609Z"
 }

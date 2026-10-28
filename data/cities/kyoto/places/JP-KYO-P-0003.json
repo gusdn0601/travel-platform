@@ -52,6 +52,15 @@
   "sources": [
     "https://www.openstreetmap.org/way/205748651"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본] 교토 여행 디저트 밀 크레이프 추천 HARBS 다이마루 교토점🤗",
+      "url": "https://blog.naver.com/mi--mi/224443291626",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 5,
     "expansion": "kyoto-2026-10-28",
@@ -70,7 +79,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:43.026Z"
 }

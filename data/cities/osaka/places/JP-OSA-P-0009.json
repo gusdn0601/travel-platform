@@ -58,13 +58,16 @@
       "type": "blog",
       "title": "#요도바시 카메라 우메다 #오사카 요도바시 카메라 #오사카 닌텐도",
       "url": "https://blog.naver.com/sakura2035/224448882496",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "오늘은 우메다에서 규모가 엄청 큰 쇼핑몰을 소개합니다！【가게 이름】◯요도바시 카메라 멀티미디어 우메다",
       "url": "https://www.youtube.com/watch?v=CaMTCCRQU-c",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2025-05",
+      "views": 14519
     }
   ],
   "meta": {

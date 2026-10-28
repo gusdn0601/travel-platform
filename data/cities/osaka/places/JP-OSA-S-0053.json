@@ -57,6 +57,23 @@
     "https://www.openstreetmap.org/way/302560039",
     "https://www.wikidata.org/wiki/Q6416609"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "일본인들이 사랑하는 오사카에서 가장 큰 축제 🇯🇵 기시와다 단지리",
+      "url": "https://www.youtube.com/watch?v=INWVGV-MlMw",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 348
+    },
+    {
+      "type": "blog",
+      "title": "\"소랴! 소랴!\" 거리를 뒤흔드는 함성, 일본 3대 격렬한 축제 '단지리 마츠리'의 모든 것",
+      "url": "https://blog.naver.com/travel_sign/224437479387",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "osaka-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:18:24.751Z"
 }

@@ -61,6 +61,23 @@
   "sources": [
     "https://www.openstreetmap.org/node/7374963085"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 미슐랭 라멘 교토 멘야 이노이치 라멘 후기, 백간장 검은간장 선택과 웨이팅 방법",
+      "url": "https://blog.naver.com/anny821/224451601046",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[VLOG] 연말 교토여행 Day 3ㅣ올해 마지막 일본 여행 끝ㅣ아라시야마, 교토 아라비카 커피, 야마모토 멘조우, 교토 대학교, 도텟판 교토, 멘야 이노이치, 키티 하루카",
+      "url": "https://www.youtube.com/watch?v=ZUaiAw8qqHc",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 215
+    }
+  ],
   "meta": {
     "priority": 16,
     "expansion": "kyoto-2026-10-28",
@@ -81,7 +98,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:17.157Z"
 }

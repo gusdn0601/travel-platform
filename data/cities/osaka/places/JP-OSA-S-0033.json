@@ -56,6 +56,23 @@
     "https://ja.wikipedia.org/wiki/%E5%BC%81%E5%A4%A9%E7%94%BA%E9%A7%85",
     "https://www.openstreetmap.org/node/6728547932"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "부모님이랑 가기 좋은 오사카 온천 추천 소라니와온천 준비물 이용방법 가격",
+      "url": "https://blog.naver.com/bboyoung1022/224453270545",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 여행첫날 잭팟터짐!🎰 | 가성비 맛집 추천🍜 | 도톤보리 크루즈,소라니와 온천까지 알차게 다녀온 여행😍💕",
+      "url": "https://www.youtube.com/watch?v=4bmDavvESys",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 773
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:33.534Z"
 }

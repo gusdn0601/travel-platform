@@ -59,6 +59,23 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8E%8B%E5%AF%BA%E9%A7%85",
     "https://www.openstreetmap.org/way/187296989"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 551 호라이 아베노 하루카스 킨테츠 백화점 만두 맛집 방문 후기(메뉴판, 가격, 추천 메뉴)",
+      "url": "https://blog.naver.com/didtpdud0328/224450103681",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카 전망대 하루카스 300 🌇 야경, 가는법, 오사카 여행 방향잡기 꿀팁, 미술관 (2026년 최신정보)",
+      "url": "https://www.youtube.com/watch?v=AEUR-YiJ2Sc",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 4908
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:44.628Z"
 }

@@ -60,16 +60,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "나라 사슴공원 3탄 이월당 하치만구 후기 오사카 근교 당일치기 여행 코스 추천",
-      "url": "https://blog.naver.com/kaneru_blog/224214281888",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "이토 히로부미와 인연이 있는 시모노세키의 카메야마 하치만구 신사! #여행 #기타큐슈 #시모노세키 #일본 #일본여행",
       "url": "https://www.youtube.com/watch?v=sdDWX29kjY4",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 1361
+    },
+    {
+      "type": "blog",
+      "title": "나라 사슴공원 3탄 이월당 하치만구 후기 오사카 근교 당일치기 여행 코스 추천",
+      "url": "https://blog.naver.com/kaneru_blog/224214281888",
+      "source": "blog.naver.com",
+      "published": "2026-03"
     }
   ],
   "meta": {

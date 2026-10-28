@@ -54,6 +54,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/3752700713"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 오사카 교토 8박9일 자유여행 2일차 (2) 가모강 폰토초 거리 스마트커피 야사카의탑 호칸지 산넨자카 니넨자카 도테판 DOTEPPAN",
+      "url": "https://blog.naver.com/asso_o/224450050394",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:05.032Z"
 }

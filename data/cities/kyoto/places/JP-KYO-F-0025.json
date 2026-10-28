@@ -63,6 +63,23 @@
     "https://www.junsei.co.jp/",
     "https://gurunavi.com/ja/k001902/mn/menu4/rst/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 기요미즈데라 근처 점심, 부모님과 다시 가고 싶은 기요미즈 준세이 오카베야",
+      "url": "https://blog.naver.com/gmsace/224433502593",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 맛집_유바먹으러 준세이(順正) 가는 길!",
+      "url": "https://www.youtube.com/watch?v=1bGfnk6Gr_o",
+      "source": "youtube.com",
+      "published": "2019-03",
+      "views": 1063
+    }
+  ],
   "meta": {
     "priority": 23,
     "expansion": "kyoto-2026-10-28",
@@ -83,7 +100,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "web-verified; see sources[]",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:10.561Z"
 }

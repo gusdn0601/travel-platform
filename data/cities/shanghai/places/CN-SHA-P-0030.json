@@ -60,6 +60,23 @@
     "https://www.openstreetmap.org/search?query=%E7%99%BE%E8%81%94%E5%A5%A5%E7%89%B9%E8%8E%B1%E6%96%AF%20%E9%9D%92%E6%B5%A6",
     "https://www.openstreetmap.org/way/41667330"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "뻔하지 않은 상하이 쇼핑 일정 | 바이롤렛 칭푸 아울렛",
+      "url": "https://blog.naver.com/kyhagape/224439533503",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "중국 상하이 여행의 마지막 날 | 공항 근처 초대형 아울렛, 현지 대형마트, 공항 면세점 쇼핑",
+      "url": "https://www.youtube.com/watch?v=r_FfISdwVjk",
+      "source": "youtube.com",
+      "published": "2025-10",
+      "views": 6079
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +98,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.607Z"
 }

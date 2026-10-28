@@ -75,13 +75,16 @@
       "type": "blog",
       "title": "상하이 여행記_샤오양셩젠(小杨生煎)",
       "url": "https://blog.naver.com/jinagane/223750446646",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2025-02"
     },
     {
       "type": "youtube",
       "title": "상하이 라이브 | 비가 억수로 많이 오는 일요일 아침, 뜨끈한 국물+만두 | 샤오양 셩젠, 소고기 탕면 小杨生煎(牛蛙、虾仁)、牛肉粉丝汤 & 소통",
       "url": "https://www.youtube.com/watch?v=1orOGwkAKGg",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2021-08",
+      "views": 76
     }
   ],
   "sanitized_at": "2026-10-28T09:59:19.063Z",

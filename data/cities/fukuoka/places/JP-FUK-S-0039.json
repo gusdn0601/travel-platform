@@ -59,6 +59,23 @@
     "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E5%9F%8E",
     "https://www.openstreetmap.org/way/500427895"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "후쿠오카 근교 사가의 근교 가라쓰의 근교 요부코 🦑 | 일본 소도시 3박 4일 여행 (2)",
+      "url": "https://www.youtube.com/watch?v=XaY-K7UHXz0",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 361
+    },
+    {
+      "type": "blog",
+      "title": "가라쓰 1박 2일, 성과 소나무숲 맛집 3곳",
+      "url": "https://blog.naver.com/todayse-869/224444474229",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:46.632Z"
 }

@@ -60,6 +60,23 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E9%9A%A7%E9%81%93",
     "https://www.openstreetmap.org/way/39774420"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "前 상해 교민이 떠나는 상하이 여행! 대낮의 와이탄과 예원, 상해요리 먹방까지 [중국 12편]",
+      "url": "https://www.youtube.com/watch?v=xtvTFlqb1wg",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 216
+    },
+    {
+      "type": "blog",
+      "title": "상하이 3일차 | 난징동루, 동방명주, 와이탄, 3대 타워",
+      "url": "https://blog.naver.com/ddugi_7/224454380511",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +98,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:41.448Z"
 }

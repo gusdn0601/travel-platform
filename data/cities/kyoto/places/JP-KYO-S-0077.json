@@ -59,6 +59,23 @@
     "https://ja.wikipedia.org/wiki/%E5%A6%99%E5%BF%83%E5%AF%BA",
     "https://www.openstreetmap.org/way/558026803"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "묘신지 다이조인, 니조성, Arrow tree kyoto sanjo",
+      "url": "https://blog.naver.com/pedident/224280009152",
+      "source": "blog.naver.com",
+      "published": "2026-05"
+    },
+    {
+      "type": "youtube",
+      "title": "26년1월10일_우동 먹고 집까지 2만보 걷기_교토 우동맛집_묘신지_가모도넛",
+      "url": "https://www.youtube.com/watch?v=K1mSQIc2qME",
+      "source": "youtube.com",
+      "published": "2026-01",
+      "views": 12
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:29.476Z"
 }

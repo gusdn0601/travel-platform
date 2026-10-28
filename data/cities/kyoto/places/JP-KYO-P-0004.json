@@ -50,6 +50,23 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 3박 4일 2일차 교토 돈키호테 시계, 에디온 시계, 신장서점, 가와라마치, 야사카 신사",
+      "url": "https://blog.naver.com/setuup/224434612362",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "kyoto vlog 🇯🇵 한여름 교토가 좋아서 이것저것 잔뜩 .. 🤤 ( ft. 교토 가츠규 , c-pla 가챠샵 , 돈키호테 , 몬치치 , 편의점 털기 )",
+      "url": "https://www.youtube.com/watch?v=xjLMI7I0Q9I",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 239
+    }
+  ],
   "meta": {
     "priority": 4,
     "expansion": "kyoto-2026-10-28",
@@ -66,7 +83,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:43.027Z"
 }

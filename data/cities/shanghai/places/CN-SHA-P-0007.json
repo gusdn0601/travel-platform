@@ -54,6 +54,16 @@
     "https://en.wikipedia.org/wiki/Shanghai",
     "https://en.wikipedia.org/wiki/Massage"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "24시간 나혼자 상하이 여행 VLOG🇨🇳✨ 요즘 제일 핫한 맛집•마사지•기념품 극효율 동선으로 낋여옴🤭 알리페이•위챗페이 꿀팁까쥐",
+      "url": "https://www.youtube.com/watch?v=gfEC49Z7i3w",
+      "source": "youtube.com",
+      "published": "2026-03",
+      "views": 950
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -70,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:57.983Z"
 }

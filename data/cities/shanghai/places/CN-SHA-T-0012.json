@@ -61,6 +61,15 @@
     "https://zh.wikipedia.org/wiki/%E9%9D%99%E5%AE%89%E5%AF%BA%E7%AB%99",
     "https://www.openstreetmap.org/node/8364473746"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "파라마운트 갤러리 호텔 상하이 징안사역 위치 숙박 가격",
+      "url": "https://blog.naver.com/et0_ile/224436573580",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -84,7 +93,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:29.292Z"
 }

@@ -51,6 +51,15 @@
     "https://ko.wikipedia.org/wiki/HEP_(%EC%87%BC%ED%95%91_%EC%84%BC%ED%84%B0)",
     "https://en.wikipedia.org/wiki/HEP_(shopping_mall)"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "우메다 가볼만한곳 HEP FIVE 관람차, 오사카 주유패스로 알차게 즐기기",
+      "url": "https://blog.naver.com/solsoltravel/224452062337",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -71,7 +80,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.623Z",
   "origin": [

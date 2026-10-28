@@ -67,6 +67,15 @@
     "https://en.wikipedia.org/wiki/Jiaozi",
     "https://ja.wikipedia.org/wiki/%E9%A4%83%E5%AD%90"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 기온역 현지인 교자맛집 하카타 기온 테츠나베",
+      "url": "https://blog.naver.com/pioneerrrr/224387447266",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -85,7 +94,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:56.511Z"
 }

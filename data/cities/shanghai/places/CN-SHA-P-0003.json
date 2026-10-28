@@ -55,6 +55,15 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Shanghai_French_Concession"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[쇼핑몰 속 아트] K11의 예술 사랑 [상하이저널, 상하이방]",
+      "url": "https://blog.naver.com/shanghai555/223522667465",
+      "source": "blog.naver.com",
+      "published": "2024-07"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -71,7 +80,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:57.974Z"
 }

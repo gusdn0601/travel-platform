@@ -54,6 +54,23 @@
   "sources": [
     "https://www.openstreetmap.org/node/10844279757"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "☕ 교토의 전통과 커피가 만나는 곳, 스타벅스 니넨자카 야사카차야점 방문 후기",
+      "url": "https://blog.naver.com/tiamoyo/224453773582",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "🇯🇵 교토 │ 3대 카페 가고☕ 교요리 먹는🍚 교토 동쪽 브이로그 EP3 - 이노다 커피. 은각사. 기온. 야사카 신사. 니넨자카. 스타벅스 니넨자카 야사카차야점.",
+      "url": "https://www.youtube.com/watch?v=KuMoOLCNvQs",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 207
+    }
+  ],
   "meta": {
     "priority": 4,
     "expansion": "kyoto-2026-10-28",
@@ -74,7 +91,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:25.517Z",
   "order": [

@@ -140,9 +140,28 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "[Vlog] 🇨🇳 상하이 여행 (라오지스•우캉맨션•스타벅스•하이디라오•예원•도원향)",
+      "url": "https://www.youtube.com/watch?v=7aCGss0_MGc",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 427
+    },
+    {
+      "type": "blog",
+      "title": "5월 상해 여행/ 노동절 상하이 여행/ 4박 5일 일정, 사람은 많지만 먹고 싶은 거 다 먹은 여행 후기! 웨이팅 없는 방문 시간 꿀팁 /헌지우이치엔/ 점도덕/ 사계민복/ 라오지스",
+      "url": "https://blog.naver.com/gkspdus/224285481483",
+      "source": "blog.naver.com",
+      "published": "2026-05"
+    }
+  ],
   "sanitized_at": "2026-10-28T06:45:37.621Z",
   "meta": {
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   }
 }

@@ -59,6 +59,15 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%8F%9C",
     "https://www.openstreetmap.org/way/238477350"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[2024 중국 상하이] #132. 황허루 미식거리(黄河路美食街), 중국 상하이",
+      "url": "https://blog.naver.com/zonmini/223746089510",
+      "source": "blog.naver.com",
+      "published": "2025-02"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -79,7 +88,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.383Z",
   "order": [

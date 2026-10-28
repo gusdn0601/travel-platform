@@ -66,6 +66,23 @@
     "https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%8F%B0",
     "https://www.openstreetmap.org/node/4619782091"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 야타이 나카스·텐진·나가하마 차이, 영업시간, 이용 방법",
+      "url": "https://blog.naver.com/dayinfo-money/224454824337",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "10월의 후쿠오카 Vlog. 이토시마 포토존과 카이센동🍱, 나가하마 야타이🍶, 모츠나베 맛집, 소품 구경, 작은 일상 모음zip📂",
+      "url": "https://www.youtube.com/watch?v=D-RBsnrAKNg",
+      "source": "youtube.com",
+      "published": "2026-02",
+      "views": 181
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -86,7 +103,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:46.453Z"
 }

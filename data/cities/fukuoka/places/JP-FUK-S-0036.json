@@ -60,6 +60,23 @@
     "https://ja.wikipedia.org/wiki/%E7%9A%BF%E5%80%89%E5%B1%B1",
     "https://www.openstreetmap.org/node/1250723383"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "기타큐슈 여행의 하이라이트, 사라쿠라야마 전망대에서 만나는 잊지 못할 야경",
+      "url": "https://blog.naver.com/richmental/224439577137",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[여행 브이로그] 기차표 앞에서 멘탈 로그아웃… 근데 야경은 레전드 | 변수는 많았지만 결과는 대성공 | 2 Day | 모지코•프린세스 피피•고쿠라성•사라쿠라야마 전망대•이치란라멘",
+      "url": "https://www.youtube.com/watch?v=88U66P0Jsck",
+      "source": "youtube.com",
+      "published": "2026-02",
+      "views": 43
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -79,7 +96,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:41.607Z"
 }

@@ -57,6 +57,15 @@
     "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF",
     "https://www.openstreetmap.org/node/5306464712"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[CHINA] Shanghai, 다소 특이한 루이비통(Louis Vuitton) 매장과 거대한(?) Starbucks 가 있는 난징시루(南京西路)동네로 출동한다_20260531",
+      "url": "https://blog.naver.com/antaregu/224302305462",
+      "source": "blog.naver.com",
+      "published": "2026-06"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:57.961Z"
 }

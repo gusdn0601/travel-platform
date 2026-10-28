@@ -55,6 +55,23 @@
     "https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E8%B3%87%E6%96%99%E9%A4%A8",
     "https://www.openstreetmap.org/node/1423058418"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "[오타쿠VLOG 9월호] Lcl 마시는 아스카 등장🔸️ 2학기 빌어먹을, 코스 옷 정리, 가발세팅, 행사뒷풀이, 홍대 비밀기지, 추석, 지뢰계",
+      "url": "https://www.youtube.com/watch?v=XEMbGcyPDsM",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 955
+    },
+    {
+      "type": "blog",
+      "title": "유네스코 아스카 & 후지와라 궁도 3",
+      "url": "https://blog.naver.com/r2sonance/224455913101",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 53,
     "expansion": "nara-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:26.531Z"
 }

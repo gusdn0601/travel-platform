@@ -59,6 +59,23 @@
     "https://en.wikipedia.org/wiki/Hakata_Station",
     "https://www.openstreetmap.org/node/5809137353"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 하카타 한큐백화점 쇼핑 층별 브랜드정리",
+      "url": "https://blog.naver.com/selxy/224434745921",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "26년 하카타역 맛집·쇼핑·교통 완벽 가이드｜후쿠오카 공항·여행 가는 법까지 총정리",
+      "url": "https://www.youtube.com/watch?v=G5sKyBG2sgY",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 157272
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:31.889Z"
 }

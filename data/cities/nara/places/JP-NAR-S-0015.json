@@ -58,13 +58,16 @@
       "type": "blog",
       "title": "요시키엔",
       "url": "https://blog.naver.com/ono2000/224448019452",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "#yoshikiengarden #nara #japan #garden #traveling #travelvlog #요시키엔 #나라 #일본여행 #吉城園 #奈良",
       "url": "https://www.youtube.com/watch?v=iIoWVHvdo0I",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2025-01",
+      "views": 105
     }
   ],
   "meta": {

@@ -59,6 +59,23 @@
     "https://en.wikipedia.org/wiki/Yun_Dong-ju",
     "https://www.openstreetmap.org/way/344919356"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "김명호 시낭송 - 길(윤동주) - 일본 교토 도시샤대학 윤동주 시비 앞에서 - 윤동주 정지용 발자취 3박4일 - ETB 문학채널",
+      "url": "https://www.youtube.com/watch?v=2fG5_4hYFiI",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 461
+    },
+    {
+      "type": "blog",
+      "title": "교토에서 윤동주의 흔적을 따라 걷다 : 도시샤대학의 윤동주·정지용 시비와 교토예술대학 유혼비",
+      "url": "https://blog.naver.com/nisa9163/224443855784",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:44.504Z"
 }

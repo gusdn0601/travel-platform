@@ -63,6 +63,15 @@
     "https://www.mishima-tei.co.jp/",
     "https://www.kyoto-kankou.or.jp/info_search/1084"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 맛집 여행] 1873년 창업, 150년 역사를 자랑하는 정통 스키야키의 원조 '교토 미시마테이 본점' (三嶋亭 本店 / Mishimatei Main Store)",
+      "url": "https://blog.naver.com/byunhs9975/224442525381",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 7,
     "expansion": "kyoto-2026-10-28",
@@ -83,7 +92,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "web-verified; see sources[]",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:01.459Z"
 }

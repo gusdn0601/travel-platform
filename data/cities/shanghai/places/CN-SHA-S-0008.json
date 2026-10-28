@@ -135,5 +135,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이타워 118층 전망대 입장권, 당일예매도 가능? 가격·후기·꿀팁 총정리",
+      "url": "https://blog.naver.com/valueprice7/224442702925",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이타워·예원·남상만두·헌지우이치엔 양꼬치｜난징동루까지 상하이여행 풀코스｜Shanghai Tower · 上海中心大厦 · Yu Garden · 豫园",
+      "url": "https://www.youtube.com/watch?v=aJF92ZNAj98",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 282
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

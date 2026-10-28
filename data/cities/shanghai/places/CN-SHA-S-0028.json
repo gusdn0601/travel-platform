@@ -57,6 +57,23 @@
     "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
     "https://www.openstreetmap.org/way/513764717"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[중국 상해 여행] 상하이 대한민국 임시정부, 신천지, 이디엔디엔 밀크티, 인민광장",
+      "url": "https://blog.naver.com/hands_worlds/224445923006",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "먹기 위해 떠난 2박 3일 상하이 여행🇨🇳|| 인민광장, 난징동루, 와이탄, 동방명주, 상하이 디즈니랜드, 예원, 훠거, 샤오롱바오, 카오위 맛집, 헤이티",
+      "url": "https://www.youtube.com/watch?v=h9GUNNGHJlY",
+      "source": "youtube.com",
+      "published": "2025-10",
+      "views": 23519
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:17.917Z"
 }

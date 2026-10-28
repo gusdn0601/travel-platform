@@ -55,6 +55,23 @@
     "https://www.openstreetmap.org/relation/10576976",
     "https://www.expo70-park.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "50년전 미래도시의 지금 모습은? 오사카 만박기념공원 가봤습니다",
+      "url": "https://www.youtube.com/watch?v=LucENseXMWo",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 459
+    },
+    {
+      "type": "blog",
+      "title": "오사카 만국박람회 기념공원 후기｜태양의 탑보다 꽃이 더 기억에 남았던 곳",
+      "url": "https://blog.naver.com/blackred193/224299770236",
+      "source": "blog.naver.com",
+      "published": "2026-05"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.635Z",
   "origin": [

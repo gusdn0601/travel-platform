@@ -54,6 +54,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/8554115882"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "긴테쓰 백화점, 본점 외에는 '백화점'이라는 명칭을 빼다 (Nikkei 기사)",
+      "url": "https://blog.naver.com/japan_trend/223722995203",
+      "source": "blog.naver.com",
+      "published": "2025-01"
+    }
+  ],
   "meta": {
     "priority": 43,
     "expansion": "nara-2026-10-28",
@@ -72,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:20.246Z"
 }

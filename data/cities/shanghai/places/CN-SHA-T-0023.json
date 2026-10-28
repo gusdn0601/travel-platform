@@ -60,6 +60,23 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1",
     "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%8D%A1"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "알리페이 교통카드 등록하는 방법",
+      "url": "https://blog.naver.com/minutlog/224450682301",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "나혼자 상하이🥠상하이 풀코스! 이대로 가세요(진지)",
+      "url": "https://www.youtube.com/watch?v=w3zbNGCOYu0",
+      "source": "youtube.com",
+      "published": "2026-06",
+      "views": 468408
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -80,7 +97,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:40:22.324Z"
 }

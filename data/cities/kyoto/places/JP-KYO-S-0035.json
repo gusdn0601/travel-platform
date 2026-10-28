@@ -53,6 +53,23 @@
     "https://en.wikipedia.org/wiki/Sh%C5%8Dren-in",
     "https://www.openstreetmap.org/way/456124860"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토 여행] 비가 와서 더 운치 있었던, 여름 끝자락의 쇼렌인｜교토에서 꼭 가야하는 곳",
+      "url": "https://blog.naver.com/jigubon_/224428577112",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "📍여름 교토 브이로그(아라시야마 치쿠린,쇼렌인,다카세강,카모강,시라카와강,기요미즈데라,오쓰 비와호 호수)",
+      "url": "https://www.youtube.com/watch?v=T8T5Xt4_Kzs",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 403
+    }
+  ],
   "meta": {
     "priority": 22,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:03.880Z"
 }

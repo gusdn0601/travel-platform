@@ -55,6 +55,15 @@
     "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%B8%8A%E7%A5%9E%E5%AE%AE",
     "https://www.openstreetmap.org/way/1279202543"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "전국에서 참배객이 끊이지 않는 이시가미시, 신사에는 여자의 소원이라면 하나는 들어주는 것으로 알려져 전국에서 참배객이 방문하게 되었다.",
+      "url": "https://blog.naver.com/gdqzmhnyfj/221722431481",
+      "source": "blog.naver.com",
+      "published": "2019-11"
+    }
+  ],
   "meta": {
     "priority": 30,
     "expansion": "nara-2026-10-28",
@@ -74,7 +83,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:30:43.133Z"
 }

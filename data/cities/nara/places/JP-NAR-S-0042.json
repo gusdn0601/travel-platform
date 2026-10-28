@@ -55,6 +55,15 @@
     "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8",
     "https://www.openstreetmap.org/way/127496799"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 나라 여행// 나라 현립 미술관 후기 + 정보, 요금 등등!",
+      "url": "https://blog.naver.com/lxmxmxxx/224305043788",
+      "source": "blog.naver.com",
+      "published": "2026-06"
+    }
+  ],
   "meta": {
     "priority": 60,
     "expansion": "nara-2026-10-28",
@@ -73,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:31:18.196Z"
 }

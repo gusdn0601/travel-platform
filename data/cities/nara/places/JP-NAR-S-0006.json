@@ -58,13 +58,16 @@
       "type": "blog",
       "title": "야쿠시지(약사사)",
       "url": "https://blog.naver.com/hjstar12/224427986609",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "일본 소도시 여행 | 나라에서 소바먹고 꽃구경 & 세계문화유산 야쿠시지, 도쇼다이지 | 소바 요시무라,CAFE Cauda | 일본일상 브이로그 vlog",
       "url": "https://www.youtube.com/watch?v=dbXsQjysLCU",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2021-04",
+      "views": 5094
     }
   ],
   "meta": {

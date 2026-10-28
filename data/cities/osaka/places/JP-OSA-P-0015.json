@@ -56,6 +56,23 @@
     "https://ja.wikipedia.org/wiki/%E5%BF%83%E6%96%8E%E6%A9%8B",
     "https://www.openstreetmap.org/way/161872478"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 쇼핑 신사이바시 파르코 백화점 캐릭터샵 & 다이마루 백화점 후기 (+11월 일본 면세 변경)",
+      "url": "https://blog.naver.com/alfks40408/224449214316",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "OSAKAㅣ나혼자 오사카 - 태양의 탑 & 신사이바시 쇼핑👹 (라라포트 금자안경, GAP, 다이마루 백화점 모마 디자인 스토어, fueguia, etc.)",
+      "url": "https://www.youtube.com/watch?v=f8tMFvresfE",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 1281
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:43.128Z"
 }

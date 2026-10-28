@@ -60,6 +60,23 @@
     "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%96%87%E4%B9%A6%E5%BA%97",
     "https://www.openstreetmap.org/node/3684766682"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[해외여행]3박 4일 상하이 여행 2일차(우캉루/라오지스/코너콘/츠타야서점/상생신소/곰돌이카페/신천지/홀리랜드/따룬파 쇼핑리스트)",
+      "url": "https://blog.naver.com/napzakgungyi/224449195761",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이 가족 여행, 맛집 브이로그｜와이탄·도운서점·난징동루·하얏트 온더번드",
+      "url": "https://www.youtube.com/watch?v=OS2P2kve3J4",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 500
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +98,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.978Z"
 }

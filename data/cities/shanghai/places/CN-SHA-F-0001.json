@@ -130,9 +130,28 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 맛집 사계민복 와이탄 외백교도점 북경오리 예약 메뉴 추천 대방출!",
+      "url": "https://blog.naver.com/wooyumyum/224454512432",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "🇨🇳상하이 vlog (2) | 여행 브이로그인 줄 알았는데 예능이었다 | 점도덕 · 사계민복 · 그랜드마더",
+      "url": "https://www.youtube.com/watch?v=--S6rtD-x7I",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 5453
+    }
+  ],
   "sanitized_at": "2026-10-28T06:45:37.621Z",
   "meta": {
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   }
 }

@@ -60,6 +60,23 @@
   "sources": [
     "https://www.openstreetmap.org/node/6657059776"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 카페 추천 블루보틀 교토점｜난젠지 근처 전통 가옥 카페 메뉴·굿즈 후기",
+      "url": "https://blog.naver.com/psellie/224448897977",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토에서 주말 보내는 법🫖 스콘 먹고 블루보틀 갔다가 시가현까지 다녀왔어요 | 교토 일상 브이로그",
+      "url": "https://www.youtube.com/watch?v=FJV5AGWEZ2g",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 129
+    }
+  ],
   "meta": {
     "priority": 12,
     "expansion": "kyoto-2026-10-28",
@@ -80,7 +97,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:24.865Z"
 }

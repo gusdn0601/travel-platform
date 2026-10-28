@@ -57,6 +57,15 @@
     "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8",
     "https://www.openstreetmap.org/way/31843043"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토 2일차] 청수사, 금각사, 교토국립박물관",
+      "url": "https://blog.naver.com/ssun0148/224420998975",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:20.279Z"
 }

@@ -76,13 +76,16 @@
       "type": "blog",
       "title": "오사카 신세카이 맛집 쿠시카츠 다루마",
       "url": "https://blog.naver.com/p911c4/224454706205",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "Vlog 오사카 1박🇯🇵 | 쿠시카츠 다루마 신세카이 총본점🍢",
       "url": "https://www.youtube.com/watch?v=pXblXF43JWw",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2024-03",
+      "views": 2776
     }
   ],
   "meta": {

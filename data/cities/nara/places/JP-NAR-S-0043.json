@@ -52,6 +52,15 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "나라 여행 가볼만한곳｜고후쿠지부터 사루사와 연못, 나카타니도 쑥떡까지",
+      "url": "https://blog.naver.com/wodlr7390/224380724376",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 32,
     "expansion": "nara-2026-10-28",
@@ -68,7 +77,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:31:21.813Z"
 }

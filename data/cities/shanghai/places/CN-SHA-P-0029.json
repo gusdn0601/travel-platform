@@ -60,6 +60,16 @@
     "https://zh.wikipedia.org/wiki/%E6%AF%94%E6%96%AF%E7%89%B9%E4%B8%8A%E6%B5%B7%E8%B4%AD%E7%89%A9%E6%9D%91",
     "https://www.openstreetmap.org/way/411234448"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "상하이 처음이라면? ⋆｡° 왕홍 메이크업부터 맛집·배달음식까지 꽉 찬 4박 5일 혼여 VLOG🍸🇨🇳",
+      "url": "https://www.youtube.com/watch?v=j-BJcwF6YTo",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 29430
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +91,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.606Z"
 }

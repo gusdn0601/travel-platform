@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%9F%8E",
     "https://en.wikipedia.org/wiki/Osaka_Castle"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카성 자유여행🏯, 뱃놀이·천수각·정원까지 주유패스 꿀팁",
+      "url": "https://blog.naver.com/train95/224447646537",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "오사카여행ㅣ주유패스2탄ㅣ이동동선 미리보고 시간 낭비없는 초현실적 초가성비로 뽕뽑기😋 뚜벅이의 오사카성-고자부네뱃놀이 후기",
+      "url": "https://www.youtube.com/watch?v=aU1cXPHHgsU",
+      "source": "youtube.com",
+      "published": "2026-06",
+      "views": 595
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:18:33.446Z"
 }

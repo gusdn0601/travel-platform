@@ -57,6 +57,15 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86",
     "https://www.openstreetmap.org/way/298132744"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 당대예술박물관 Power Station of Art 관람기 1부: 건축, 실내구조 중심(입장료•카페 등)",
+      "url": "https://blog.naver.com/sapientiaetsophia/224147164415",
+      "source": "blog.naver.com",
+      "published": "2026-01"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:17.923Z"
 }

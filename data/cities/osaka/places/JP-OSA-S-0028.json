@@ -45,6 +45,23 @@
   "sources": [
     "https://www.openstreetmap.org/way/157838159"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 컵누들 뮤지엄 이케다｜나만의 컵누들과 치킨라멘 체험, 무엇을 고를까?",
+      "url": "https://blog.naver.com/ohayo_87/224443405880",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[ 오사카부ㆍ이케다시(3) ] 아이들보다 어를들이 더 좋아하는 컵라면박물관",
+      "url": "https://www.youtube.com/watch?v=sX7xK7YpXWM",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 474
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -65,7 +82,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.642Z",
   "origin": [

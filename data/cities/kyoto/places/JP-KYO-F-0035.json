@@ -60,6 +60,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/2548425849"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 맛집 여행] 푸른 조명 속 반짝이는 5색 젤리 펀치의 몽환적인 감성, 교토 '카페 소와레' (喫茶 ソワレ)",
+      "url": "https://blog.naver.com/byunhs9975/224444670445",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 10,
     "expansion": "kyoto-2026-10-28",
@@ -80,7 +89,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:20.974Z"
 }

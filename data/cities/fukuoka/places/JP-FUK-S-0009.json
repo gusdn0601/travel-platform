@@ -53,6 +53,23 @@
     "https://www.openstreetmap.org/node/1423779941",
     "https://faam.city.fukuoka.lg.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "[나혼자 가을후쿠오카 36시간] 기타큐슈 당일치기(신칸센), 고쿠라 텐진호르몬, 몽벨 구매템, 포르자하카타치쿠시쿠치I, 스시사카바사시스, 토리카와다이진, 몽블랑 (파워J임투어)",
+      "url": "https://www.youtube.com/watch?v=dgUxtiGeZ-U",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 67637
+    },
+    {
+      "type": "blog",
+      "title": "마지막 날 후쿠오카 아시아미술관",
+      "url": "https://blog.naver.com/imagine1966/224447503720",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.904Z",
   "origin": [

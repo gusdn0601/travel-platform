@@ -57,16 +57,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "일본 교토 여행 코스 텐류지 덴류지 가는법 입장료 아라시야마 치쿠린 대나무숲 가볼만한곳 추천",
-      "url": "https://blog.naver.com/yomo__/224439596426",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "일본 교토 아라시야마 산책 코스 | 대나무숲·덴류지 정원·도게츠교 강변",
       "url": "https://www.youtube.com/watch?v=j8fhvyBIcdU",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 1334
+    },
+    {
+      "type": "blog",
+      "title": "일본 교토 여행 코스 텐류지 덴류지 가는법 입장료 아라시야마 치쿠린 대나무숲 가볼만한곳 추천",
+      "url": "https://blog.naver.com/yomo__/224439596426",
+      "source": "blog.naver.com",
+      "published": "2026-10"
     }
   ],
   "meta": {

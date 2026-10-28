@@ -57,13 +57,16 @@
       "type": "blog",
       "title": "후쿠오카 성터 마이즈루 공원, 성곽 역사와 산책 동선",
       "url": "https://blog.naver.com/lovely_healthy_mom/224436960549",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "#후쿠오카성터 #마이즈루공원 #후쿠오카 #가을 #큐슈 #일본여행 #fukuokacastle #fukuoka #autumn #cityscape #japan #traveling",
       "url": "https://www.youtube.com/watch?v=c-oYAPNySNo",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2024-12",
+      "views": 924
     }
   ],
   "meta": {

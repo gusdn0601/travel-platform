@@ -55,6 +55,23 @@
     "https://www.openstreetmap.org/way/451572345",
     "https://nambaparks.com/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 오사카 난바파크스 카페 하브스 케이크 매장 메뉴 포장 디저트 쇼핑리스트 추천",
+      "url": "https://blog.naver.com/zinizio/224442195137",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[오사카여행]도톤보리,구로몬시장,난바,난바파크스 2026년 9월 최신판! 오사카는 어딜 들어가도 맛있습니다! #오사카 #오사카여행 #일본여행",
+      "url": "https://www.youtube.com/watch?v=loQlehKB_PE",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 8663
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.624Z",
   "origin": [

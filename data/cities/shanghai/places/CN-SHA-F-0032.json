@@ -62,6 +62,15 @@
     "https://en.wikipedia.org/wiki/Specialty_coffee",
     "https://www.openstreetmap.org/node/5134404224"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[대련 카페] 시소커피 (Seesaw Coffee) - 전차 구경하며 앉아있기 딱 좋은 동관지에 카페",
+      "url": "https://blog.naver.com/sayravel/224428795786",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -82,7 +91,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:19.376Z"
 }

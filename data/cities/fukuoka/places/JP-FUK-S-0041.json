@@ -59,6 +59,23 @@
     "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%8B%95%E6%A4%8D%E7%89%A9%E5%9C%92",
     "https://www.openstreetmap.org/way/169652278"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 | 후쿠오카] 10월 30도 폭염(?) 속에 다녀온 힐링 코스! ‘후쿠오카시 동식물원 福岡市動植物園’ 평일 방문 솔직후기(티켓 구매 안내 및 관림 꿀팁 포함)",
+      "url": "https://blog.naver.com/ksy071243/224455718972",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "또 후쿠오카, 2박 3일 여행｜ 오호리공원 후쿠오카 동식물원 후글렌 2호점",
+      "url": "https://www.youtube.com/watch?v=4Hsgvvb-ql0",
+      "source": "youtube.com",
+      "published": "2026-06",
+      "views": 1012
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:51.126Z"
 }

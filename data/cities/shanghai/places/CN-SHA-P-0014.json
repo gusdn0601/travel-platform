@@ -61,6 +61,15 @@
     "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E5%8C%97%E8%B7%AF",
     "https://www.openstreetmap.org/way/176025196"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 루자상뤼 호텔 (상하이와이탄 쓰촨베이루 바오산루지하철역 ) 위치 할인 링크 안내",
+      "url": "https://blog.naver.com/q980crruvh8c/224383765951",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -82,7 +91,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.577Z"
 }

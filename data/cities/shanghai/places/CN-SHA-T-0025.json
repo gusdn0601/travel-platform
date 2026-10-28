@@ -65,13 +65,16 @@
       "type": "blog",
       "title": "중국 고속철도(高铁) 인기 노선과 예매 방법",
       "url": "https://blog.naver.com/pagoda_chailang/224390990260",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-09"
     },
     {
       "type": "youtube",
       "title": "중국 고속철: 북경에서 상해 구간 #베이징 #상하이 #여행 #short 【영상원본 시청은 아래의 『▶제작 소스』 클릭】",
       "url": "https://www.youtube.com/watch?v=S8yqWm2jLMI",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2022-11",
+      "views": 14013
     }
   ],
   "meta": {

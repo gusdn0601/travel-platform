@@ -62,6 +62,15 @@
     "https://zh.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%95%8C_(%E4%B8%8A%E6%B5%B7)",
     "https://www.openstreetmap.org/way/51317339"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 여행 신세계성 백화점 신천지 난징동루 딤섬 양탕 맛집",
+      "url": "https://blog.naver.com/da_dum/224308820178",
+      "source": "blog.naver.com",
+      "published": "2026-06"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -84,7 +93,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.984Z"
 }

@@ -50,6 +50,23 @@
     "https://www.openstreetmap.org/way/579077537",
     "https://www.shitennoji.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "여행 Vlog | 또 간사이3. 카츠오지부터 오사카시내&시텐노지까지😎 바쁘다바빠 현대여행🧳",
+      "url": "https://www.youtube.com/watch?v=7LU2UJ0SObc",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 326
+    },
+    {
+      "type": "blog",
+      "title": "[일본 오사카] 시텐노지 하야우치 (四天王寺はやうち) : 시텐노지 근처에서 만나는 정통 수제 소바",
+      "url": "https://blog.naver.com/mano_voyger/224451520092",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -71,7 +88,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.631Z",
   "origin": [

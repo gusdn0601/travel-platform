@@ -57,6 +57,23 @@
     "https://www.openstreetmap.org/node/9244848284",
     "https://www.wikidata.org/wiki/Q11483471"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "🇯🇵교토 오사카│ 현지인처럼 혼자서 자유 여행 브이로그 EP1 - 김포공항. 호텔 긴테쓰 유니버셜 시티. 이나바도 뵤도지(평등사). 그릴캐피탈 동양정. 팁랩 바이오보텍스 교토.",
+      "url": "https://www.youtube.com/watch?v=ykNQ7TByU38",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 402
+    },
+    {
+      "type": "blog",
+      "title": "3.교토 뵤도지(平等寺)의 이나바도(因幡堂)를 배경으로 한 교겐, 이나바도(因幡堂いなばどう)",
+      "url": "https://blog.naver.com/ringoliny/100203317433",
+      "source": "blog.naver.com",
+      "published": "2014-01"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:56.050Z"
 }

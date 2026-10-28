@@ -57,6 +57,15 @@
     "https://www.openstreetmap.org/way/1162724307",
     "https://www.wikidata.org/wiki/Q11452823"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "京都府 京都市 実相院（교토부 교토시 짓소인）4",
+      "url": "https://blog.naver.com/tachibana1987/222603502651",
+      "source": "blog.naver.com",
+      "published": "2021-12"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:18:02.086Z"
 }

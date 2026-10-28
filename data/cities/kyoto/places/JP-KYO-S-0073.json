@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%BA%97%E7%BE%8E%E8%A1%93%E9%A4%A8",
     "https://www.openstreetmap.org/node/1422972974"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "일본 교토 고려미술관에서",
+      "url": "https://www.youtube.com/watch?v=rlY83SJ1rFw",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 105
+    },
+    {
+      "type": "blog",
+      "title": "[260824/여행] 고려미술관 여행 1일차 : 소개, 시텐노지, 간단한 쇼핑",
+      "url": "https://blog.naver.com/do__yo/224441595436",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:22.487Z"
 }

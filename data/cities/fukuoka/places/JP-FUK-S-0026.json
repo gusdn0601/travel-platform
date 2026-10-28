@@ -65,16 +65,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "[ 후쿠오카 ] 유후인 마을🏞/ 유노츠보 거리/긴린코 호수🌏/금상 고로케/후쿠오카 근교 버스투어",
-      "url": "https://blog.naver.com/hindongi2025/224440853681",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "[Vlog] 행복했던 3박 4일 후쿠오카·유후인 여행 ✈️ | 렌터카 타고 벳푸 사파리 🦁, 오가에리 료칸 야식 파티와 셀린느 언박싱, 유노츠보 거리 먹방까지 꽉 채운 기록 🤍",
       "url": "https://www.youtube.com/watch?v=bnEHne_Bl08",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 592
+    },
+    {
+      "type": "blog",
+      "title": "[ 후쿠오카 ] 유후인 마을🏞/ 유노츠보 거리/긴린코 호수🌏/금상 고로케/후쿠오카 근교 버스투어",
+      "url": "https://blog.naver.com/hindongi2025/224440853681",
+      "source": "blog.naver.com",
+      "published": "2026-10"
     }
   ],
   "meta": {

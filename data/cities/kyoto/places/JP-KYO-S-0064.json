@@ -55,6 +55,23 @@
     "https://en.wikipedia.org/wiki/Adashino_Nenbutsu-ji",
     "https://www.openstreetmap.org/node/2854304815"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "교토 | 아라시야마 치쿠린 오타기 넨부쓰지 텐류지",
+      "url": "https://www.youtube.com/watch?v=TDqZg6-rOzY",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 234
+    },
+    {
+      "type": "blog",
+      "title": "[일본여행] 6월 교토에서의 8일 동안의 휴식 일기 Day2 : 나 여기서 살고 싶어.. | 아라시야마 공원, 세이료지, 아다시노 넨부쓰지, 기오지, 텐잔노유 온천",
+      "url": "https://blog.naver.com/jjay0329/224378003151",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 22,
     "expansion": "kyoto-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:11:03.172Z"
 }

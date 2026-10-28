@@ -58,6 +58,23 @@
     "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B1%85%E5%85%AC%E5%9C%92",
     "https://www.openstreetmap.org/way/462894544"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 자연사박물관 아기랑｜공룡 전시·체험 가득한 가족여행③",
+      "url": "https://blog.naver.com/js9073/224434466616",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "텐시바 공원과 오사카 시립 박물관 | 일본 3달살기 ep.7",
+      "url": "https://www.youtube.com/watch?v=pcwf342w7QM",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 360
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "osaka-2026-10-28",
@@ -77,7 +94,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:22.192Z"
 }

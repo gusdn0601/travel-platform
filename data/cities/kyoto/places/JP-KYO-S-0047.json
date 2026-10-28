@@ -51,6 +51,23 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 아라시야마 가볼만한 곳, 역에서 치쿠린까지 기모노 숲, 당고, 소품숍",
+      "url": "https://blog.naver.com/bomblebeee/224451806087",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "일본여행🇯🇵 교토 근교 아라시야마.. 인생 사진 포토스팟은?! 보라색 열차타고 힐링💜 교토 여행, 텐류지, 대나무숲, 치쿠린, 기모노숲, 란덴열차, 이치란🍜, kyoto",
+      "url": "https://www.youtube.com/watch?v=kGjucfZ7D0E",
+      "source": "youtube.com",
+      "published": "2025-01",
+      "views": 2144
+    }
+  ],
   "meta": {
     "priority": 18,
     "expansion": "kyoto-2026-10-28",
@@ -67,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:25.118Z"
 }

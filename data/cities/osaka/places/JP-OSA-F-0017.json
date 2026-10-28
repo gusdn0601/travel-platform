@@ -68,6 +68,23 @@
     "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9",
     "https://www.openstreetmap.org/node/5217319625"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "오사카의 밤, 그냥 들어가기 아쉬워서｜홋쿄쿠세이 먹방·기타신치·시가바｜일본 브이로그 EP.5",
+      "url": "https://www.youtube.com/watch?v=M6ftNpK6oDs",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 1453
+    },
+    {
+      "type": "blog",
+      "title": "오사카 난바 맛집 홋쿄쿠세이 신사이바시 본점｜100년 전통 오므라이스 北極星 心斎橋本店",
+      "url": "https://blog.naver.com/twobulls_snc/224454046058",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -88,7 +105,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:21.879Z"
 }

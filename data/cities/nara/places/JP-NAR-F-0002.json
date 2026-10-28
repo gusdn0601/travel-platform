@@ -69,13 +69,16 @@
       "type": "blog",
       "title": "오사카 \"카마메시시즈카 공원점\" 방문 후기 🍲 나라 사슴공원 근처 맛집",
       "url": "https://blog.naver.com/ppjw210/224033982996",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2025-10"
     },
     {
       "type": "youtube",
       "title": "시즈카 3탄_아기 안고, 새벽시장에 간 시즈카 [이나리 특별판]",
       "url": "https://www.youtube.com/watch?v=QsIP7Ua8xBw",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2019-05",
+      "views": 42432
     }
   ],
   "meta": {

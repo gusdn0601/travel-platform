@@ -71,16 +71,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "후쿠야(ふくや), 일본 명란젓의 원조",
-      "url": "https://blog.naver.com/insight432/223848028598",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "현지인 추천! 후쿠오카에서 사갈 거 하나 더 추가! 후쿠야 밥도둑 명란 #후쿠오카",
       "url": "https://www.youtube.com/watch?v=_745vcufNi4",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 9882
+    },
+    {
+      "type": "blog",
+      "title": "후쿠야(ふくや), 일본 명란젓의 원조",
+      "url": "https://blog.naver.com/insight432/223848028598",
+      "source": "blog.naver.com",
+      "published": "2025-04"
     }
   ],
   "meta": {

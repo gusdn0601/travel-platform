@@ -53,16 +53,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "오사카성 볼거리 총정리 입장료 주유패스 뚜벅이 반나절 코스",
-      "url": "https://blog.naver.com/binnal_/224441873917",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "오사카 성 뷰 집부터 120억 맨션까지 보고 온 오사카 부동산 투어",
       "url": "https://www.youtube.com/watch?v=jHXHZYmIfUs",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 719581
+    },
+    {
+      "type": "blog",
+      "title": "오사카성 볼거리 총정리 입장료 주유패스 뚜벅이 반나절 코스",
+      "url": "https://blog.naver.com/binnal_/224441873917",
+      "source": "blog.naver.com",
+      "published": "2026-10"
     }
   ],
   "meta": {

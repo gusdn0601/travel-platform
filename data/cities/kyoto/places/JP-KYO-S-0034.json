@@ -54,6 +54,23 @@
     "https://ja.wikipedia.org/wiki/%E5%86%86%E5%B1%B1%E5%85%AC%E5%9C%92",
     "https://www.openstreetmap.org/way/54170783"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 당일치기 여행 3탄 / 마루야마 공원 라이트 업, 벚꽃 축제, 야타이 후기",
+      "url": "https://blog.naver.com/dlaenehd/224427079563",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    },
+    {
+      "type": "youtube",
+      "title": "【4K 교토 워킹 투어】마루야마 공원의 벚꽃",
+      "url": "https://www.youtube.com/watch?v=LzlnieFuzYY",
+      "source": "youtube.com",
+      "published": "2026-04",
+      "views": 187
+    }
+  ],
   "meta": {
     "priority": 9,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:02.114Z"
 }

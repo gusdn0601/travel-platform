@@ -56,6 +56,23 @@
     "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A5%E5%89%8D",
     "https://www.openstreetmap.org/node/4190281189"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 센니치마에 도구야스지 상점가 그릇 접시 주방용품 추천",
+      "url": "https://blog.naver.com/gil_0102/224444138940",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[ OSAKA도구야스지 ] 비행기값 뽑고도 남는 주방쇼핑의 성지❗️퀄리티는 미쳤는데 이 가격 맞아?🙀🤑꼭 사와야 하는 Made in 일본 주방용품들🥣🍳",
+      "url": "https://www.youtube.com/watch?v=wUC5WP1ydIE",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 134933
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:37.319Z"
 }

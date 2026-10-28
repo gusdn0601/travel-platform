@@ -117,9 +117,20 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 좌정우원 정대광장점, 하이디라오 대신 찾아간 소고기 훠궈",
+      "url": "https://blog.naver.com/smson1007/224443562752",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "sanitized_at": "2026-10-28T06:45:37.621Z",
   "meta": {
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   }
 }

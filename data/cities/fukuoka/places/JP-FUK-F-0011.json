@@ -69,6 +69,23 @@
     "https://en.wikipedia.org/wiki/Motsunabe",
     "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A4%E9%8D%8B"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "첫날부터 이렇게 먹어도 되나요? 후쿠오카 5박 6일 1일차 (킷테, 오오야마 모츠나베, 편의점)",
+      "url": "https://www.youtube.com/watch?v=q4gRaWqzm98",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 17
+    },
+    {
+      "type": "blog",
+      "title": "[후쿠오카여행] 텐진 모츠나베 맛집 - 원후쿠오카 빌딩 하카타 모츠나베 오오야마, 마츠다야 딸기모찌 디저트",
+      "url": "https://blog.naver.com/guiyubu/224441255699",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -87,7 +104,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:50.799Z"
 }

@@ -58,6 +58,15 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "마쓰바야 료칸 교토역 근처 가성비 전통 료칸 숙소 추천",
+      "url": "https://blog.naver.com/wooguri_/224405052269",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 21,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +85,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:12.904Z"
 }

@@ -56,16 +56,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "교토 니조성 여행 후기｜일본 역사와 정원을 한눈에, 교토 가볼 만한 곳",
-      "url": "https://blog.naver.com/mrsko1/224451605372",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "교토 니조성 외지인은 시민보다 2배 냄",
       "url": "https://www.youtube.com/watch?v=g5E6ESOdckM",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 1117
+    },
+    {
+      "type": "blog",
+      "title": "교토 니조성 여행 후기｜일본 역사와 정원을 한눈에, 교토 가볼 만한 곳",
+      "url": "https://blog.naver.com/mrsko1/224451605372",
+      "source": "blog.naver.com",
+      "published": "2026-10"
     }
   ],
   "meta": {

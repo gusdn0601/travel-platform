@@ -57,6 +57,15 @@
     "https://zh.wikipedia.org/wiki/%E6%B7%AE%E6%B5%B7%E4%B8%AD%E8%B7%AF",
     "https://www.openstreetmap.org/node/5306477816"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[상하이] Songmont 플래그쉽 스토어(화이하이중루)_중국 로컬 브랜드 쇼핑",
+      "url": "https://blog.naver.com/guswn0306/224425953055",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:57.963Z"
 }

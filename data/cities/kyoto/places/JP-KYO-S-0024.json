@@ -52,16 +52,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "[교토(2)] 시모가모 신사 1",
-      "url": "https://blog.naver.com/toads/224404163146",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "44. 카모강변을 달려 교토의 고신사 시모가모신사 가기(교토 신사 탐방2)",
       "url": "https://www.youtube.com/watch?v=0N7cvdQrK6Q",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 44
+    },
+    {
+      "type": "blog",
+      "title": "[교토(2)] 시모가모 신사 1",
+      "url": "https://blog.naver.com/toads/224404163146",
+      "source": "blog.naver.com",
+      "published": "2026-09"
     }
   ],
   "meta": {

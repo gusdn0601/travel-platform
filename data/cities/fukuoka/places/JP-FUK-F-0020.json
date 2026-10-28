@@ -71,13 +71,16 @@
       "type": "blog",
       "title": "유후인 여행 디저트 추천 비스피크 롤케이크 내돈내산 후기",
       "url": "https://blog.naver.com/hhj00hhj00/224410935975",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-09"
     },
     {
       "type": "youtube",
       "title": "유후인 비스피크 롤케이크 B-speak",
       "url": "https://www.youtube.com/watch?v=CgjGFcdMWSo",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2025-05",
+      "views": 1702
     }
   ],
   "meta": {

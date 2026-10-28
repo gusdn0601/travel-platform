@@ -61,6 +61,15 @@
     "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA%E7%AB%99_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
     "https://www.openstreetmap.org/node/6991499838"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 난징동루 신축 호텔 추천! 인민광장역 도보 2분 가격 위치 확인",
+      "url": "https://blog.naver.com/berry_happy_/224453143004",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "shanghai-2026-10-28",
@@ -84,7 +93,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:19.308Z"
 }

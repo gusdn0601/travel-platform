@@ -57,13 +57,16 @@
       "type": "blog",
       "title": "이시부타이고분(石舞台古墳)",
       "url": "https://blog.naver.com/yeesang_/223079101836",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2023-04"
     },
     {
       "type": "youtube",
       "title": "[bj민성] \"아스카\"에 가는길... 사카이 여행 #3 이시부타이 고분을 보자! 백제의 숨결이 느껴지는 이곳!",
       "url": "https://www.youtube.com/watch?v=6WwKmEk3GhM",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2018-03",
+      "views": 38047
     }
   ],
   "meta": {

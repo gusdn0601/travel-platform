@@ -68,6 +68,23 @@
     "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%8A%E3%82%AE",
     "https://ja.wikipedia.org/wiki/%E3%81%9B%E3%81%84%E3%82%8D%E8%92%B8%E3%81%97"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카맛집 요시즈카 우나기야 웨이팅 없이 먹는 꿀팁 휴무일",
+      "url": "https://blog.naver.com/skyunder7/224447313446",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[후쿠오카 4박5일 여행🇯🇵] 마지막날 기록ㅣ장어덮밥 추천📍요시즈카 우나기야ㅣ더게이트 호텔 후기ㅣ😋미야케 우동, 규카츠 모토무라 후기ㅣ✨쇼핑템 추천",
+      "url": "https://www.youtube.com/watch?v=7DJDCdUgEik",
+      "source": "youtube.com",
+      "published": "2026-01",
+      "views": 185
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -86,7 +103,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:00.866Z"
 }

@@ -57,6 +57,23 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "여름 끝자락, 혼자 2박3일 교토 여행 vlog 🌿 숙소 2곳 추천 ( 고가옥 vs 호텔 ) · 로컬 초밥 맛집 모음집 · 사가노 토롯코 · 은각사",
+      "url": "https://www.youtube.com/watch?v=MjjZ1yWRd5w",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 91148
+    },
+    {
+      "type": "blog",
+      "title": "[일본/교토] 오멘 긴카쿠지 - 은각사 근처 식당 우동 솔직 후기",
+      "url": "https://blog.naver.com/lch221234/224399067429",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 6,
     "expansion": "kyoto-2026-10-28",
@@ -75,7 +92,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:06:08.049Z"
 }

@@ -51,16 +51,17 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "요시노야마",
-      "url": "https://blog.naver.com/zzank1900/222770205798",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "[나라] 2년에 한 번씩 요시노야마 가는 vlog",
       "url": "https://www.youtube.com/watch?v=X8wto7UBABU",
       "source": "youtube.com"
+    },
+    {
+      "type": "blog",
+      "title": "요시노야마",
+      "url": "https://blog.naver.com/zzank1900/222770205798",
+      "source": "blog.naver.com",
+      "published": "2022-06"
     }
   ],
   "meta": {

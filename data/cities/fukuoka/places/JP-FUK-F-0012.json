@@ -66,6 +66,15 @@
   "sources": [
     "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%82%8A%E3%81%8D"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "하카타 이자카야 총정리 2026 - 하카타역 모츠나베·미즈타키·야키토리 5곳 위치·영업시간·예약",
+      "url": "https://blog.naver.com/dance_dna/224428009382",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -84,7 +93,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:52.657Z"
 }

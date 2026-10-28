@@ -59,6 +59,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/6390907686"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[ 일본🇯🇵 ] 교토 여행 | 기요미즈데라 산넨자카 니넨자카 야사카신사 스기약국 아임도넛 MUJI GU KALDI 칼디 Standard Products 다이소 이치란 돈키호테",
+      "url": "https://blog.naver.com/hyevozago/224450093344",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 20,
     "expansion": "kyoto-2026-10-28",
@@ -79,7 +88,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:04.568Z"
 }

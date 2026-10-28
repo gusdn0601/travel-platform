@@ -70,6 +70,23 @@
     "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD",
     "https://www.openstreetmap.org/node/4803452265"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카여행 디저트맛집 시아와세노 팬케이크집 신사이바시점 추천",
+      "url": "https://blog.naver.com/wjdtnqlszz12/224443944953",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "🇯🇵일본 여행Vlog-3: 오사카 성 투어 | 우메다 한큐 백화점 쇼핑 | 스끼야끼 맛집 샤브젠 | 헵 파이브 관람차 | 돈돈 야끼니꾸 | 시아와세노 팬케이크 먹방 | 아트모스",
+      "url": "https://www.youtube.com/watch?v=OwsP9DBiyOs",
+      "source": "youtube.com",
+      "published": "2024-07",
+      "views": 510
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -90,7 +107,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:28.460Z"
 }

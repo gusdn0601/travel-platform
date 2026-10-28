@@ -56,6 +56,15 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E6%A9%8B%E7%AD%8B%E5%95%86%E5%BA%97%E8%A1%97",
     "https://www.openstreetmap.org/node/4419665990"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카주택 박물관 \"쿠라시노 콘자쿠칸\"",
+      "url": "https://blog.naver.com/seunghwa20/220509209771",
+      "source": "blog.naver.com",
+      "published": "2015-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:30.769Z"
 }

@@ -61,6 +61,23 @@
   "sources": [
     "https://www.openstreetmap.org/node/4374432589"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 교토 여행 데마치후타바 마메모찌, 120년 전통 떡집 出町ふたば",
+      "url": "https://blog.naver.com/tarbi/224400254523",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    },
+    {
+      "type": "youtube",
+      "title": "혼자가는 교토여행 아라시야마 편✨ | 유명한 응커피 교토라떼도 한잔☕️| 텐류지, 치쿠린도 한바퀴 돌고 | 데마치후타바 콩떡도 먹고🍡 | 금각사까지 구경하기🙏",
+      "url": "https://www.youtube.com/watch?v=oToea-Q6uO4",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 578
+    }
+  ],
   "meta": {
     "priority": 6,
     "expansion": "kyoto-2026-10-28",
@@ -81,7 +98,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:19.461Z"
 }

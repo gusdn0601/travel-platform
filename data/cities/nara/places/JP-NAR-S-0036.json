@@ -58,6 +58,15 @@
     "https://ja.wikipedia.org/wiki/%E7%AE%B8%E5%A2%93%E5%8F%A4%E5%A2%B3",
     "https://www.openstreetmap.org/way/41125619"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 위키백과 번역] - 하시하카 고분 (箸墓古墳) -",
+      "url": "https://blog.naver.com/karancoron/223709928024",
+      "source": "blog.naver.com",
+      "published": "2024-12"
+    }
+  ],
   "meta": {
     "priority": 52,
     "expansion": "nara-2026-10-28",
@@ -77,7 +86,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:31:07.693Z"
 }

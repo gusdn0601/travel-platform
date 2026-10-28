@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%A7%85",
     "https://www.openstreetmap.org/node/5891213258"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "쇼핑하러 간 혼자서 후쿠오카 여행 vlog | 마트 장보기,치이카와토벌,찐으로 찾은 인생맛집,오호리공원,하카타역 갓성비 호텔,돈키호테 new 화장품까지! (ft.딱쥐들 이벤트)",
+      "url": "https://www.youtube.com/watch?v=mbrcQ4YAoYc",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 153535
+    },
+    {
+      "type": "blog",
+      "title": "후쿠오카 하카타마루이 쇼핑부터 가챠·인형뽑기까지",
+      "url": "https://blog.naver.com/review-blog-/224453290562",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:11:06.786Z"
 }

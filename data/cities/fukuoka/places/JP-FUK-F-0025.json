@@ -64,6 +64,23 @@
     "https://en.wikipedia.org/wiki/Mentaiko",
     "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "일본 명절에 후쿠오카 여행 브이로그🇯🇵 | 하카타역 일본 가정식 맛집, 신선산도, 편의점 디저트추천, 돈키호테 필수템 추천",
+      "url": "https://www.youtube.com/watch?v=nUmx1E09vQI",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 3537
+    },
+    {
+      "type": "blog",
+      "title": "후쿠오카 가족여행 - 하카타역 일포르노델미뇽, 이치란라멘 본점, 명란맛집 원조하카타멘타이쥬, 에비스야우동, 미츠보시 야키니쿠",
+      "url": "https://blog.naver.com/eunkimm-/224454257299",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -82,7 +99,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:39.740Z"
 }

@@ -60,6 +60,15 @@
     "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%AE%81%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA",
     "https://www.openstreetmap.org/search?query=%E5%A4%A7%E5%AE%81%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[MARKET] 여름밤의 쇼핑센터 : 다닝국제상업광장",
+      "url": "https://blog.naver.com/fashioninsh/220724558178",
+      "source": "blog.naver.com",
+      "published": "2016-06"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -79,7 +88,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.578Z"
 }

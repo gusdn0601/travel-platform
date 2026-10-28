@@ -145,5 +145,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상해/상하이 여행, 루자주이 특별한 맥도날드에서 현지 한정 맥모닝 먹어보기",
+      "url": "https://blog.naver.com/barorrong/224443563320",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "3월에 상해가면 와이탄 & 루자주이 꼭 가야함👍루자주이 가세요 제발",
+      "url": "https://www.youtube.com/watch?v=EGr5E1nB0fs",
+      "source": "youtube.com",
+      "published": "2026-04",
+      "views": 488
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

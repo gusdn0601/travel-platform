@@ -53,6 +53,23 @@
     "https://en.wikipedia.org/wiki/Kyoto_Botanical_Garden",
     "https://www.openstreetmap.org/way/98106475"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토 부립식물원] 류큐아세비 (류큐마취목)​",
+      "url": "https://blog.naver.com/yunchun4/224368377536",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    },
+    {
+      "type": "youtube",
+      "title": "일본여행 교토여행 교토식물원 2025년 방문한 영상입니다. kyoto Japan",
+      "url": "https://www.youtube.com/watch?v=fjP2GR9J6rs",
+      "source": "youtube.com",
+      "published": "2026-04",
+      "views": 33
+    }
+  ],
   "meta": {
     "priority": 40,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:36.968Z"
 }

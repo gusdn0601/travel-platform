@@ -59,6 +59,15 @@
     "https://en.wikipedia.org/wiki/FamilyMart",
     "https://zh.wikipedia.org/wiki/FamilyMart"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국 상하이 편의점 패밀리마트 특징 & 중국 쇼핑리스트 총정리",
+      "url": "https://blog.naver.com/dmgk32/224367449409",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -78,7 +87,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.943Z"
 }

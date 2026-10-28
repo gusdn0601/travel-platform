@@ -58,6 +58,23 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E9%9A%A7%E9%81%93",
     "https://www.openstreetmap.org/way/39774420"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "인생 첫 혼여, 나혼자 상하이 3박 4일 cn, 와이탄 스냅 추천, 맛집(헌지우이치엔,점도덕,지엔빙,장씨네게살국수), 관광지까지 알찬 여행, 상하이브이로그",
+      "url": "https://www.youtube.com/watch?v=G28DeN4UFoo",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 11751
+    },
+    {
+      "type": "blog",
+      "title": "[상하이 5박 6일 여행] 와이탄 관광터널 타고 동방명주 다녀오기",
+      "url": "https://blog.naver.com/lkekes2/224445148382",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:17.906Z"
 }

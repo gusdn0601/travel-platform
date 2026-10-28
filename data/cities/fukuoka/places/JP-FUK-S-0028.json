@@ -58,6 +58,23 @@
     "https://en.wikipedia.org/wiki/Yufuin",
     "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E9%99%A2%E6%B8%A9%E6%B3%89"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "[여행VLOG] 후쿠오카 3박4일 여행🇯🇵🍙🍡🍣🍜 | 하카타 | 텐진 | 유후인 버스투어 | 식도락 여행 | 맛집 투어",
+      "url": "https://www.youtube.com/watch?v=5XFAOkFoiM0",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 21262
+    },
+    {
+      "type": "blog",
+      "title": "후쿠오카 6박7일 여행10_유후인2(플로랄빌리지,유후인간식,오오고샤신사)",
+      "url": "https://blog.naver.com/happyummy2/224447688964",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:26.458Z"
 }

@@ -55,6 +55,15 @@
     "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E5%95%86%E4%BA%8B",
     "https://www.openstreetmap.org/way/227483017"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "혼놀레벨 업! • 월곡건강랜드",
+      "url": "https://blog.naver.com/wjdtbd1004/224434266977",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 56,
     "expansion": "nara-2026-10-28",
@@ -73,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:24.811Z"
 }

@@ -68,6 +68,23 @@
     "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD",
     "https://www.openstreetmap.org/node/4853437322"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[내돈내산/오사카] 신사이바시 디저트 파블로(PABLO) 본점 | 치즈타르트 포장과 빙수",
+      "url": "https://blog.naver.com/soslth/224443523126",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "일본 일주[23] 리쿠로오지상 치즈케이크와 파블로 치즈케이크 전격 비교",
+      "url": "https://www.youtube.com/watch?v=LzUcN0dRLjo",
+      "source": "youtube.com",
+      "published": "2025-12",
+      "views": 1192
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -88,7 +105,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:29.943Z"
 }

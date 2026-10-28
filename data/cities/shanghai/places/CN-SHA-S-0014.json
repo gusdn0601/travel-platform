@@ -136,5 +136,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 신천지 여행, 오래된 골목이 가장 세련된 거리로 바뀐 이유",
+      "url": "https://blog.naver.com/kjongjoo7/224450342475",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이 신천지 맛집 4곳 그리고 드디어 찾은 꿔바로우 원픽",
+      "url": "https://www.youtube.com/watch?v=dkWRXmL_AQ0",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 466
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

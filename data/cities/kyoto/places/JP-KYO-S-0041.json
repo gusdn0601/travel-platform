@@ -56,6 +56,23 @@
     "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%87%8E%E5%A4%A9%E6%BA%80%E5%AE%AE",
     "https://www.openstreetmap.org/way/432120699"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "교토 3박4일 차 여행 🌱 | 기타노텐만구 엔틱마켓 | 킨츠기 재료 구입 | 골동샵, 차도구, 찻집 투어 | 티타임윗미 | tea time with me",
+      "url": "https://www.youtube.com/watch?v=rVbecr57qhQ",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 1617
+    },
+    {
+      "type": "blog",
+      "title": "[예약 가능] 기타노텐만구 니쿠토니와 마쓰오",
+      "url": "https://blog.naver.com/savorjapan/224149311084",
+      "source": "blog.naver.com",
+      "published": "2026-01"
+    }
+  ],
   "meta": {
     "priority": 14,
     "expansion": "kyoto-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:15.019Z"
 }

@@ -51,6 +51,23 @@
     "https://www.openstreetmap.org/way/54037338",
     "https://www.osakapark.osgf.or.jp/nakanoshima/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "처음 가는 오사카 나카노시마, 공원과 미술관 중 어디부터 갈까요?",
+      "url": "https://blog.naver.com/cup-girl/224453199330",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "나카노시마 ㅣ 오사카 감성 브이로그 쩝",
+      "url": "https://www.youtube.com/watch?v=eTLQDZsb5c4",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 93
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.632Z",
   "origin": [

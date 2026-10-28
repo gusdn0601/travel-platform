@@ -76,13 +76,16 @@
       "type": "blog",
       "title": "후쿠오카 텐진 라멘 맛집 추천 잇푸도 다이묘 본점 이치란 신신 비교",
       "url": "https://blog.naver.com/afternoon_garden/224451819350",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "일본 라멘 랭킹 4위 - 잇푸도 라멘 리뷰",
       "url": "https://www.youtube.com/watch?v=y_Es2fJ5XA4",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2022-12",
+      "views": 1046275
     }
   ],
   "meta": {

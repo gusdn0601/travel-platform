@@ -100,5 +100,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[중국여행] 상하이여행 지하철1일권 난징시루 스타벅스리저브 로스터리 루이비통 더루이호",
+      "url": "https://blog.naver.com/dasol_love/224448839178",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "SNS 인증 사진 명소📸 상하이 핫플인 명품 크루즈 루이호✨ | 톡파원 25시 186회 | JTBC 251117 방송",
+      "url": "https://www.youtube.com/watch?v=94PvMmG1o9k",
+      "source": "youtube.com",
+      "published": "2025-11",
+      "views": 4120
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

@@ -52,6 +52,15 @@
     "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%AC%98%EC%A0%A0%EC%A7%80",
     "https://en.wikipedia.org/wiki/K%C5%8Dmy%C5%8Dzen-ji"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "1/2 다자이후의 고요한 순간들 🌿 눈 덮인 '우키도노'와 '고묘젠지'의 돌담길",
+      "url": "https://blog.naver.com/saisyu1989/224136933733",
+      "source": "blog.naver.com",
+      "published": "2026-01"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -72,7 +81,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.906Z",
   "origin": [

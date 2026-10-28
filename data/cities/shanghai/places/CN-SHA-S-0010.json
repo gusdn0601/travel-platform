@@ -150,5 +150,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 자유여행 하루 코스 우캉맨션 우캉루 산책 와이탄 야경 동방명주 황푸강 야경 유람선 가격 예약 시간",
+      "url": "https://blog.naver.com/walldog320/224448898162",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "3박 4일 상하이 여행 브이로그🇨🇳 | 가성비 메이크업&네일 받기 | 우캉루에서 스냅찍기 | 와이탄•헌지우이치엔•점도덕•그랜드마더•우캉맨션",
+      "url": "https://www.youtube.com/watch?v=Wq6VpvijKDc",
+      "source": "youtube.com",
+      "published": "2026-02",
+      "views": 963
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

@@ -57,6 +57,15 @@
     "https://ja.wikipedia.org/wiki/%E6%A1%9C",
     "https://www.openstreetmap.org/way/549372082"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "스와인의 2026 벚꽃 여행3)후쿠오카 벚꽃 명소 추천 + 마이즈루 공원 벚꽃 축제 후기 + 니시 공원 벚꽃 후기 + 후쿠오카 텐진쇼퍼즈 쇼핑 추천",
+      "url": "https://blog.naver.com/swine1103/224442158590",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:10:49.690Z"
 }

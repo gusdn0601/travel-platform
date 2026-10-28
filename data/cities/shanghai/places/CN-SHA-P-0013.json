@@ -63,6 +63,15 @@
     "https://zh.wikipedia.org/wiki/%E4%BA%94%E8%A7%92%E5%9C%BA",
     "https://www.openstreetmap.org/node/5306444971"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 셸 호텔 우자오창 지하철역 특가 실제 방문 후기",
+      "url": "https://blog.naver.com/kvcfduakbd532433/224373466748",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -85,7 +94,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.575Z"
 }

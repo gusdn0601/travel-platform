@@ -57,6 +57,15 @@
     "https://en.wikipedia.org/wiki/Soong_Ching-ling",
     "https://www.openstreetmap.org/way/490214455"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 우캉루 맨션 고덕지도 주소 영화 색계 촬영지, 쑹칭링 고거 공원",
+      "url": "https://blog.naver.com/ye-vel/223741794660",
+      "source": "blog.naver.com",
+      "published": "2025-02"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:17.942Z"
 }

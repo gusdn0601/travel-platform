@@ -56,6 +56,15 @@
     "https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E9%A7%85",
     "https://www.openstreetmap.org/node/4767321429"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 쇼핑] 일본 유니클로 추천 아이템 & 한국 온라인 판매가 비교 총정리 | 오사카 난바CITY 면세 득템기",
+      "url": "https://blog.naver.com/metel95/224446898353",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:47:44.626Z"
 }

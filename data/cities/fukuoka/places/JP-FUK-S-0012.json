@@ -48,6 +48,23 @@
     "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%BD%94%EB%85%B8%EC%84%AC",
     "https://www.openstreetmap.org/relation/8364095"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "3월 후쿠오카, 이 섬은 꼭 가 보세요 | 노코노시마 유채꽃부터 유후인까지",
+      "url": "https://www.youtube.com/watch?v=FCHLpyBb-Vo",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 326
+    },
+    {
+      "type": "blog",
+      "title": "26.10 후쿠오카: 노코노시마섬 (가볼만한곳 으로 추천!)",
+      "url": "https://blog.naver.com/apple_mei/224442901257",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -69,7 +86,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.905Z",
   "origin": [

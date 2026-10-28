@@ -62,13 +62,16 @@
       "type": "blog",
       "title": "오사카 우메다 맛집 추천 | 이즈모루쿠아 우나규타마동 1시간 웨이팅 아깝지 않은 나의 인생 장어덮밥집",
       "url": "https://blog.naver.com/upgrademing/224449211116",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "오사카 3박 4일 여행 EP.1 | 라피트, 루쿠아몰 장어덮밥, 지브리, 햅파이브, 이자카야, 돈키호테 쇼핑 털기 ✈️",
       "url": "https://www.youtube.com/watch?v=YLzDBLQpsSQ",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 664
     }
   ],
   "meta": {

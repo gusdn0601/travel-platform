@@ -53,6 +53,23 @@
     "https://www.openstreetmap.org/way/684600217",
     "http://port-of-hakata.city.fukuoka.lg.jp/healing_leisure/porttower.html"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "🇯🇵 후쿠오카에 또 많이 생겼다🆕 하카타•텐진 새로 생긴 곳들 | 스시+낮술🍣🍺 | 하카타역 앞 새 빌딩, 메이지 공원, 텐진 비즈니스센터 II, 아임도넛•다코, 스타벅스 리저브",
+      "url": "https://www.youtube.com/watch?v=xWnxhz2Nln8",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 34831
+    },
+    {
+      "type": "blog",
+      "title": "후쿠오카 야경 명소 하카타 포트 타워 야경 운영시간",
+      "url": "https://blog.naver.com/iwashappy/224415347272",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -74,7 +91,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 4 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.906Z",
   "origin": [

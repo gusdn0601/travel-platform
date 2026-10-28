@@ -44,6 +44,23 @@
   "sources": [
     "https://www.openstreetmap.org/node/10813014531"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "후쿠오카 여행 vlog | 하카타 산책 | 라쿠스이엔 | 스미요시 신사 | 조식 맛집 | 키스이마루",
+      "url": "https://www.youtube.com/watch?v=KDWf3caHD-8",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 724
+    },
+    {
+      "type": "blog",
+      "title": "일본 후쿠오카 여행 스미요시신사 고즈넉한 관광지 볼거리",
+      "url": "https://blog.naver.com/hn_bong/224447543774",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "single_source",
     "verified_scope": null,
@@ -64,7 +81,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 1 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "fukuoka-2026-10-28"
+    "expansion": "fukuoka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:17:31.909Z",
   "origin": [

@@ -77,13 +77,16 @@
       "type": "blog",
       "title": "오사카 도톤보리 맛집 킨류라멘 솔직후기",
       "url": "https://blog.naver.com/2323sz/224443668150",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "#일상브이로그 #먹방브이로그 #먹방 #쇼츠 #short #메뉴추천 #뭐먹지 #오사카여행 #오사카브이로그 #도톤보리 #킨류라멘 #라멘맛집 #오사카맛집 #추천#mukbang",
       "url": "https://www.youtube.com/watch?v=e70_1Z8lkKo",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-01",
+      "views": 1296
     }
   ],
   "meta": {

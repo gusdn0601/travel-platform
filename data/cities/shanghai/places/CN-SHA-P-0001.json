@@ -116,5 +116,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[중국 상해 여행] 스타벅스 리저브 로스터리 상하이",
+      "url": "https://blog.naver.com/hands_worlds/224451853187",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "직장인 나홀로 상하이 여행 1편 | 예원 왕홍체험/정안사/스타벅스리저브로스터리/루이비통플래그쉽스토어/린허관/헌지우이치엔 | Shanghai Solo Travel Vlog",
+      "url": "https://www.youtube.com/watch?v=nENLt3Ov-VQ",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 322
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

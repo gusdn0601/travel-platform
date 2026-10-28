@@ -58,6 +58,23 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%90%8D_(%E7%A6%8F%E5%B2%A1%E5%B8%82)",
     "https://www.openstreetmap.org/node/1864212081"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 하카타역 다이묘거리 맛집 리스트 정리 야쿠인 나카스 포장마차거리",
+      "url": "https://blog.naver.com/jini_502/224454865263",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[vlog] 3박4일 후쿠오카 쇼핑여행 | 쇼핑리스트 | 카페추천 | 다이묘거리 | 텐진쇼핑 | 맛집추천 | 이자카야추천 | 하카타역쇼핑",
+      "url": "https://www.youtube.com/watch?v=Kr9ie5b37Lw",
+      "source": "youtube.com",
+      "published": "2026-02",
+      "views": 347
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:52.475Z"
 }

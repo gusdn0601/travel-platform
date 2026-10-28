@@ -54,6 +54,23 @@
   "sources": [
     "https://www.openstreetmap.org/node/9027380253"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "26.5.03. 오사카 나라 \"나카가와 마사시치 상점 나라 본점 & 분점🛍\" *오사카여행 3일차",
+      "url": "https://blog.naver.com/hyde_jin/224299130231",
+      "source": "blog.naver.com",
+      "published": "2026-05"
+    },
+    {
+      "type": "youtube",
+      "title": "요리 못 하는 새댁 브이로그 | / 도쿄 호텔 / 라멘 / 츠타야서점 / 이자카야 / 나카가와 마사시치 상점 / 도쿄 소품샵 / 돈카츠 / DULTON SHOP / 츠루동탄",
+      "url": "https://www.youtube.com/watch?v=uPfbuWx0648",
+      "source": "youtube.com",
+      "published": "2026-03",
+      "views": 135
+    }
+  ],
   "meta": {
     "priority": 23,
     "expansion": "nara-2026-10-28",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:14.912Z"
 }

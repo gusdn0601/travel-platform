@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E9%A1%98%E5%AF%BA",
     "https://www.openstreetmap.org/way/372460724"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 교토 여행!니시혼간지(역사,위치,운영시간,입장료 등)",
+      "url": "https://blog.naver.com/wkdus8750/224409457382",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    },
+    {
+      "type": "youtube",
+      "title": "여긴 가야지?! 교토역 앞 똑같이 생긴 거대한 두개의 사찰이 있는 이유. 히가시혼간지와 니시혼간지",
+      "url": "https://www.youtube.com/watch?v=vHYAJU7lOPE",
+      "source": "youtube.com",
+      "published": "2026-04",
+      "views": 23911
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:24.938Z"
 }

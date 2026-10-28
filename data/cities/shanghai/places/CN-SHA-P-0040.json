@@ -61,6 +61,23 @@
     "https://en.wikipedia.org/wiki/Mega_PX_Mart",
     "https://www.rt-mart.com.cn/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 따룬파마트 핑싱관점 오픈런 후기 과자 술 쇼핑리스트",
+      "url": "https://blog.naver.com/ki_155/224451302688",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상하이 3박 4일 여행 브이로그 🇨🇳 l 예원, 우전투어, 티엔즈팡, 우캉맨션, 와이탄, 따룬파마트",
+      "url": "https://www.youtube.com/watch?v=Atb8i4GO-ds",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 4795
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -80,7 +97,9 @@
       ]
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.952Z"
 }

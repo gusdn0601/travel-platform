@@ -56,6 +56,23 @@
     "https://ja.wikipedia.org/wiki/%E8%B2%B4%E8%88%B9%E7%A5%9E%E7%A4%BE",
     "https://www.openstreetmap.org/way/343853160"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토여행 4일차 기후네신사 가는 법, 미즈오미쿠지와 기후네신사 오궁 산책 후기",
+      "url": "https://blog.naver.com/art_cream/224448660557",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 8월 방학에 어디갈까? 여름나기_뻔하지 않은 여행지_'기후네 신사' - 계곡에서 나가시 소멘!",
+      "url": "https://www.youtube.com/watch?v=4dnZO8t_TN4",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 205
+    }
+  ],
   "meta": {
     "priority": 15,
     "expansion": "kyoto-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:20.902Z"
 }

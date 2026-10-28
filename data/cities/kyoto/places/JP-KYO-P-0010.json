@@ -52,6 +52,15 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본] 교토 후지이 다이마루에서 (FUJIIDAIMARU)온러닝 클라우드6 러닝화 구매했어요.(가와라마치쇼핑, 온러닝면세, 교토쇼핑, 교토온러닝매장, 교토운동화)",
+      "url": "https://blog.naver.com/parkdkfma77/224408157570",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 47,
     "expansion": "kyoto-2026-10-28",
@@ -68,7 +77,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:42:19.459Z"
 }

@@ -54,6 +54,23 @@
     "https://ja.wikipedia.org/wiki/%E4%BB%81%E5%92%8C%E5%AF%BA",
     "https://www.openstreetmap.org/way/98103060"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "걸어서 교토 북부 여행 완벽 코스 🗺️ 금각사·료안지·닌나지 조용한 교토 브이로그",
+      "url": "https://www.youtube.com/watch?v=sOpIya0rTGM",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 479
+    },
+    {
+      "type": "blog",
+      "title": "일본 교토 여행!닌나지(역사,위치,운영시간,입장료 등)",
+      "url": "https://blog.naver.com/wkdus8750/224411909517",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 16,
     "expansion": "kyoto-2026-10-28",
@@ -73,7 +90,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:16.973Z"
 }

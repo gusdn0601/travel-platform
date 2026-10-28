@@ -56,13 +56,16 @@
       "type": "blog",
       "title": "일본 오사카 여행 도톤보리 유니버셜 재팬",
       "url": "https://blog.naver.com/leelee9707/224450308143",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "[Vlog.] 오사카 브이로그 ep.1🇯🇵 • 도톤보리 맛집 🍣• 여행추천템 • 난바 • 규카츠 • 쿠시카츠 • 장어덮밥 • 편의점투어🍜",
       "url": "https://www.youtube.com/watch?v=YCquJBpJjDI",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2025-08",
+      "views": 4620
     }
   ],
   "meta": {

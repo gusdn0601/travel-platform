@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
     "https://www.openstreetmap.org/node/3166277883"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "빵순이 후쿠오카 브이로그🥖✈️모츠나베 안먹고 빵만 먹는 사람이 있다..? 뺑스톡|사파크사우스샌드위치|링고애플파이|이나바쵸잇케이|후쿠오카호텔추천",
+      "url": "https://www.youtube.com/watch?v=UpjJREWrI7M",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 8833
+    },
+    {
+      "type": "blog",
+      "title": "후쿠오카 여행 텐진 근처 우동 맛집 야쿠인역 이나바우동",
+      "url": "https://blog.naver.com/travel_is_dit/224448255715",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -77,7 +94,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:11:20.413Z",
   "order": [

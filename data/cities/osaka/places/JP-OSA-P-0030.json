@@ -58,6 +58,23 @@
     "https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%82%BF%E3%82%A6%E3%83%B3",
     "https://www.openstreetmap.org/way/35167160"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "🇯🇵 오사카 오타로드에서 혼마치까지｜사카이스지를 따라 판비 테라우치로 가는 4K 드라이브",
+      "url": "https://www.youtube.com/watch?v=D-P1ExSt_1E",
+      "source": "youtube.com",
+      "published": "2026-08",
+      "views": 270
+    },
+    {
+      "type": "blog",
+      "title": "오사카 피규어의 성지 '오타로드'",
+      "url": "https://blog.naver.com/takumijapan/224366795123",
+      "source": "blog.naver.com",
+      "published": "2026-08"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:38.402Z"
 }

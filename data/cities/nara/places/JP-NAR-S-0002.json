@@ -51,16 +51,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "아이 둘과 다녀온 일본 나라공원, 사슴공원은 정말 아이들이 좋아할까?",
-      "url": "https://blog.naver.com/designinsu/224413400696",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "오사카 2박 3일 🇯🇵 태풍 뚫고 사슴한테 맞고 온 200% 최강 효율 코스 (USJ, 나라공원, 인생 맛집, 야키니쿠 맛집, 나카자키초)",
       "url": "https://www.youtube.com/watch?v=f3G-7DwB7O8",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 4943
+    },
+    {
+      "type": "blog",
+      "title": "아이 둘과 다녀온 일본 나라공원, 사슴공원은 정말 아이들이 좋아할까?",
+      "url": "https://blog.naver.com/designinsu/224413400696",
+      "source": "blog.naver.com",
+      "published": "2026-09"
     }
   ],
   "meta": {

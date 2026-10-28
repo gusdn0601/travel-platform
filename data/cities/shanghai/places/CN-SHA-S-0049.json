@@ -56,6 +56,15 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8F%B0%E8%B7%AF",
     "https://en.wikipedia.org/wiki/Shanghai"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[상하이여행] 상하이 둥타이루 골동품시장 - 东台路古玩市场 - 둥타이루 구완쓰창",
+      "url": "https://blog.naver.com/shtour518/60203548213",
+      "source": "blog.naver.com",
+      "published": "2013-11"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -72,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:57.971Z"
 }

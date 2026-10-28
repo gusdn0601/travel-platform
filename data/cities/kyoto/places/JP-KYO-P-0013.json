@@ -52,6 +52,15 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "돈카츠 가츠쿠라 교토포르타점 교토역 줄서서먹는 맛집 내돈내산 후기",
+      "url": "https://blog.naver.com/chae0l33/224265610067",
+      "source": "blog.naver.com",
+      "published": "2026-04"
+    }
+  ],
   "meta": {
     "priority": 40,
     "expansion": "kyoto-2026-10-28",
@@ -68,7 +77,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:42:23.552Z"
 }

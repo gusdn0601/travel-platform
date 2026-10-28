@@ -53,6 +53,15 @@
     "https://en.wikipedia.org/wiki/Kyoto_International_Manga_Museum",
     "https://www.openstreetmap.org/way/314446153"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토국제만화박물관에서 만난 만화 역사",
+      "url": "https://blog.naver.com/gloculartmedia/224426260904",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 25,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:12.184Z"
 }

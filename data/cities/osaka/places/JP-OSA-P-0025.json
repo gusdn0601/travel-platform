@@ -58,6 +58,23 @@
     "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%94%B0",
     "https://www.openstreetmap.org/node/4328301119"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 다이마루 우메다 쇼핑 2026 구매처와 이용 정보",
+      "url": "https://blog.naver.com/monika9108/224441550963",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "[𝐕𝐥𝐨𝐠] 일본 오사카 여행 3일차.zip📁 | 우메다 쇼핑(다이마루, 링크스)",
+      "url": "https://www.youtube.com/watch?v=v07yLjLajQ0",
+      "source": "youtube.com",
+      "published": "2026-06",
+      "views": 136
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:31.892Z"
 }

@@ -59,6 +59,15 @@
     "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%B8%AF",
     "https://www.openstreetmap.org/way/302351120"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[후쿠오카 여행] 하카타항(여객터미널)에서 하카타역 가는 법 총정리 (시내버스·택시/우버 비교)",
+      "url": "https://blog.naver.com/skillknowledge/224451955006",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +85,9 @@
     },
     "photo": "null",
     "collected_at": "2026-10-28",
-    "flag": "coord conflict 2.0km (wikipedia city center vs OSM); coords left null"
+    "flag": "coord conflict 2.0km (wikipedia city center vs OSM); coords left null",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:02:55.168Z"
 }

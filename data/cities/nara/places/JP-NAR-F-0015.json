@@ -58,6 +58,16 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "친구찬스로 타와라야 료칸 풀코스로 즐기기",
+      "url": "https://www.youtube.com/watch?v=qxvhcGMTlFo",
+      "source": "youtube.com",
+      "published": "2025-06",
+      "views": 513
+    }
+  ],
   "meta": {
     "priority": 17,
     "expansion": "nara-2026-10-28",
@@ -76,7 +86,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:33:04.111Z"
 }

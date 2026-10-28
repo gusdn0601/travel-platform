@@ -59,16 +59,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "온전한 교토 (기요미즈데라, 겐닌지, Good good not bad Kyoto, 우지, 가모강, LE LABO KYOTO MACHIYA)",
-      "url": "https://blog.naver.com/mingdu0102/224442326258",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "교토여행 ep 2. 교토 맛따라 멋따라👩‍❤️‍👩 청수사 기요미즈데라 👹•겐닌지 서래원•기념품 쇼핑(APFR Kyoto)•맛집 이자카야 🍢",
       "url": "https://www.youtube.com/watch?v=OxAXaSFQncA",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 947
+    },
+    {
+      "type": "blog",
+      "title": "온전한 교토 (기요미즈데라, 겐닌지, Good good not bad Kyoto, 우지, 가모강, LE LABO KYOTO MACHIYA)",
+      "url": "https://blog.naver.com/mingdu0102/224442326258",
+      "source": "blog.naver.com",
+      "published": "2026-10"
     }
   ],
   "meta": {

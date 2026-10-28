@@ -143,5 +143,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 가볼만한곳 대한민국 임시정부 유적지 청사 위치 입장료",
+      "url": "https://blog.naver.com/hohoj1/224443378361",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "🇨🇳상하이여행Vlog EP.2 | 상하이 3박4일 | 🌃 페이다추, 패왕차희, 홀랜드, 대한민국임시정부청사, 루이신커피, 야경 브이로그✨",
+      "url": "https://www.youtube.com/watch?v=ZVxOzv2y2f0",
+      "source": "youtube.com",
+      "published": "2025-12",
+      "views": 211
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

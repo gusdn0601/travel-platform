@@ -68,13 +68,16 @@
       "type": "blog",
       "title": "상하이 3박4일 여행 골목 산책: 신톈디·톈쯔팡·우캉맨션",
       "url": "https://blog.naver.com/dongburi-/224426360223",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-09"
     },
     {
       "type": "youtube",
       "title": "🇨🇳중국상해 안의 프랑스_프랑스조계지(1) 톈쯔팡",
       "url": "https://www.youtube.com/watch?v=eAuldQpadj8",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-05",
+      "views": 415
     }
   ],
   "meta": {

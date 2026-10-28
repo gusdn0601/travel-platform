@@ -63,13 +63,16 @@
       "type": "blog",
       "title": "일본 후쿠오카 텐진 지하상가 칼디(KALDI) 쇼핑리스트 추천템 유명템 포션커피 스프레드",
       "url": "https://blog.naver.com/ourdaylog_hi/224452872852",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "후쿠오카 텐진 지하상가는 이대로 다녀오세요🇯🇵🛍️ 쇼핑&간식 필수코스",
       "url": "https://www.youtube.com/watch?v=DVOlqBjA0fo",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 72083
     }
   ],
   "meta": {

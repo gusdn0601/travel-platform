@@ -61,6 +61,23 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81",
     "https://map.baidu.com/search/%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E4%B8%80%E6%97%A5%E7%A5%A8"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "✈️ 우리가 알던 중국이 아냐 𓂃 𓈒 🇨🇳너무 핫한 상하이 여행 | 3박4일 여행 코스 추천 (코스& 고덕지도, 바이두 공유⭕️)",
+      "url": "https://www.youtube.com/watch?v=5h0f634Paks",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 30333
+    },
+    {
+      "type": "blog",
+      "title": "상하이 지하철 타는 법 총정리 (알리페이 QR, 요금, 보안검사 꿀팁)",
+      "url": "https://blog.naver.com/wooddangman/224439322942",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +98,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:40:22.325Z"
 }

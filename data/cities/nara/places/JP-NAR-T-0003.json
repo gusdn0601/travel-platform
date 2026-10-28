@@ -55,6 +55,15 @@
     "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A4%A7%E5%AE%AE%E9%A7%85",
     "https://www.openstreetmap.org/node/2419634760"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "신오미야역 (新大宮駅)",
+      "url": "https://blog.naver.com/lovedyno/224330432896",
+      "source": "blog.naver.com",
+      "published": "2026-06"
+    }
+  ],
   "meta": {
     "priority": 62,
     "expansion": "nara-2026-10-28",
@@ -74,7 +83,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:31:24.170Z"
 }

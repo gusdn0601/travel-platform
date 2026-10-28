@@ -60,6 +60,15 @@
     "https://zh.wikipedia.org/wiki/%E5%B0%9A%E5%98%89%E4%B8%AD%E5%BF%83",
     "https://www.openstreetmap.org/way/1433195401"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이🇨🇳 L'Avenue 尚嘉中心 맛집 두 곳👉 (shanghai min & 딘타이펑)",
+      "url": "https://blog.naver.com/youareel/223169307844",
+      "source": "blog.naver.com",
+      "published": "2023-07"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +90,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.600Z"
 }

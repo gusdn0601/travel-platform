@@ -49,6 +49,23 @@
     "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%8C%EC%9B%94%EB%93%9C",
     "https://www.openstreetmap.org/way/188278991"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "오사카 텐노지근처의 워터파크 스파월드! 아기와 인피니티풀에서 츠텐카쿠를 바라보며 온천즐기기",
+      "url": "https://www.youtube.com/watch?v=93aGHU0EkT8",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 218
+    },
+    {
+      "type": "blog",
+      "title": "오사카 여행 부모님과 가기 좋은 시내 코스 스파월드 수영장 온천 상세정보",
+      "url": "https://blog.naver.com/dailyyeeun/224455262074",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -70,7 +87,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 3 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.639Z",
   "origin": [

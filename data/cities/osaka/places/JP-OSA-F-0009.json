@@ -70,16 +70,18 @@
   ],
   "kr_refs": [
     {
+      "type": "youtube",
+      "title": "오사카 도톤보리 오코노미야끼 맛집 #오사카여행 #오사카맛집 #도톤보리맛집 #치보 #도톤보리 #오사카브이로그 #travel #vlog",
+      "url": "https://www.youtube.com/watch?v=s2B7KFKLYMs",
+      "source": "youtube.com",
+      "published": "2024-07",
+      "views": 20012
+    },
+    {
       "type": "blog",
       "title": "추억의 맛집, 오사카 도톤보리 오코노미야끼 치보(Chibo)",
       "url": "https://blog.naver.com/hei_blog/224456396593",
       "source": "blog.naver.com"
-    },
-    {
-      "type": "youtube",
-      "title": "오사카 도톤보리 오코노미야끼 맛집 #오사카여행 #오사카맛집 #도톤보리맛집 #치보 #도톤보리 #오사카브이로그 #travel #vlog",
-      "url": "https://www.youtube.com/watch?v=s2B7KFKLYMs",
-      "source": "youtube.com"
     }
   ],
   "meta": {

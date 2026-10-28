@@ -60,6 +60,23 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%8F%A4%E7%B1%8D%E4%B9%A6%E5%BA%97",
     "https://www.openstreetmap.org/node/4161694596"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "🇨🇳 4박 5일 상하이 여행 브이로그 EP.1 | 中国 인생 첫 상하이 | 헌지우이치엔 헤이티 냠냠! 난징동루 와이탄 천만 불짜리 🌃 야경 관람 ୧( “̮ )୨✧",
+      "url": "https://www.youtube.com/watch?v=bewpvDTpuzI",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 18307
+    },
+    {
+      "type": "blog",
+      "title": "4월 상하이 여행: 3일차] 센트럴 호텔 마장면-난징동루 미니소, 팝마트-루자주이, 정대광장, super brand mall-예원-성황묘-황푸강 유람선 (관람 팁 등등)",
+      "url": "https://blog.naver.com/pupussung/224345641912",
+      "source": "blog.naver.com",
+      "published": "2026-07"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -81,7 +98,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.980Z"
 }

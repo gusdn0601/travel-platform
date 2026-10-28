@@ -55,6 +55,23 @@
     "https://www.openstreetmap.org/way/162382612",
     "https://www.moco.or.jp/"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "동양미술, 고미술을 좋아한다면 오사카시립미술관 26.8.23",
+      "url": "https://blog.naver.com/hjkblue6/224447104313",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "#육아휴직 #오사카여행 #자유여행 #오사카시립동양도자미술관",
+      "url": "https://www.youtube.com/watch?v=v-bmkAUHKWY",
+      "source": "youtube.com",
+      "published": "2026-06",
+      "views": 7
+    }
+  ],
   "meta": {
     "verification": "cross_checked",
     "verified_scope": "identity+coords (Wikidata vs OSM)",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "story_basis": "own retelling of general knowledge; 5 reference(s) in sources[]; not line-by-line fact-checked",
-    "expansion": "osaka-2026-10-28"
+    "expansion": "osaka-2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:45:55.635Z",
   "origin": [

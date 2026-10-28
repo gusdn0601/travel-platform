@@ -55,6 +55,15 @@
     "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%A1%9A%E5%8F%A4%E5%A2%B3",
     "https://www.openstreetmap.org/way/1566437308"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "쿠마노고도+아스카+나라+교토_3일차(20180813, 월) 여행3_아스카 다카마쓰즈카 고분(다카마츠 고분) 둘러보기 + 고구려 오회분 4호묘, 북한 남포 수산리 고분, 기토라 고분",
+      "url": "https://blog.naver.com/funnyjeff/221340607581",
+      "source": "blog.naver.com",
+      "published": "2018-08"
+    }
+  ],
   "meta": {
     "priority": 44,
     "expansion": "nara-2026-10-28",
@@ -74,7 +83,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:30:58.813Z"
 }

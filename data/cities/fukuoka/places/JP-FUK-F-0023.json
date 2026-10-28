@@ -65,16 +65,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "일본과자 하카타 메이게츠도우 토리몬",
-      "url": "https://blog.naver.com/ghjj83/130182460229",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "하카타토리몬 후쿠오카명물만쥬",
       "url": "https://www.youtube.com/watch?v=JnkRO9NW9TA",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-09",
+      "views": 1651
+    },
+    {
+      "type": "blog",
+      "title": "일본과자 하카타 메이게츠도우 토리몬",
+      "url": "https://blog.naver.com/ghjj83/130182460229",
+      "source": "blog.naver.com",
+      "published": "2013-12"
     }
   ],
   "meta": {

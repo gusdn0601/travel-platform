@@ -59,6 +59,23 @@
     "https://ja.wikipedia.org/wiki/%E9%B4%A8%E5%B7%9D",
     "https://www.openstreetmap.org/way/163155125"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토여행 4일차 에이잔전철 타고 기후네신사 가는 길, 데마치야나기역부터 단풍열차 여행 추천",
+      "url": "https://blog.naver.com/art_cream/224447613083",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "P 80%인 사람의 나홀로 오사카·교토 3박 4일 | 난바•에이잔 전철 타고 쿠라마로 혼자여행 ep.1",
+      "url": "https://www.youtube.com/watch?v=LM3g8Hkz2qg",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 1139
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -78,7 +95,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:57.449Z"
 }

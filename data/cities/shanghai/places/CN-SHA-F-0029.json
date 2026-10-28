@@ -59,16 +59,19 @@
   ],
   "kr_refs": [
     {
-      "type": "blog",
-      "title": "중국상해 한인타운 맛있는 한식당과 카페",
-      "url": "https://blog.naver.com/shcj70286/220853749670",
-      "source": "blog.naver.com"
-    },
-    {
       "type": "youtube",
       "title": "상하이 한식당 | 종로상회 钟路商会 | 삼겹살 & 목살 | 韩国烤肉 上海餐厅 상하이 한인촌 한인거리 코리아 타운",
       "url": "https://www.youtube.com/watch?v=_ogFSPl_PpE",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2019-11",
+      "views": 502
+    },
+    {
+      "type": "blog",
+      "title": "중국상해 한인타운 맛있는 한식당과 카페",
+      "url": "https://blog.naver.com/shcj70286/220853749670",
+      "source": "blog.naver.com",
+      "published": "2016-11"
     }
   ],
   "meta": {

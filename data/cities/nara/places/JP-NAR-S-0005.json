@@ -58,13 +58,16 @@
       "type": "blog",
       "title": "법륭사 (法隆寺, 호류지)",
       "url": "https://blog.naver.com/r2sonance/224450689723",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "백제 구경하러 호류지(法隆寺)로 오세요ㅣ백제의 걸작 백제관음상과 구세관음상ㅣ044",
       "url": "https://www.youtube.com/watch?v=mEjsOWAi1eo",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2021-11",
+      "views": 6283
     }
   ],
   "meta": {

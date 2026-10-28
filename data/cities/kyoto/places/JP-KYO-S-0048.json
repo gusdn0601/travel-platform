@@ -56,6 +56,23 @@
     "https://en.wikipedia.org/wiki/Ine%2C_Kyoto",
     "https://www.openstreetmap.org/way/958880696"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "말차 덕후라면 꼭 가봐야 할 우지부터 🍵아름다운 풍경이 가득한 이네노후나야 버스 투어ㅣ마지막으로 비주얼 역대급이었던 우동 맛집까지! 오랜만에 떠난 교토 여행 브이로그",
+      "url": "https://www.youtube.com/watch?v=BKaNabzgACc",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 1366
+    },
+    {
+      "type": "blog",
+      "title": "이네후나야 가는 법, 아마노하시다테 1박으로 편하게 다녀온 교토 바다 마을 (버스 꿀팁·카지야 맛집)",
+      "url": "https://blog.naver.com/star_me_travel/224445150768",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 30,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +93,9 @@
     },
     "photo": "commons",
     "collected_at": "2026-10-28",
-    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:28.271Z"
 }

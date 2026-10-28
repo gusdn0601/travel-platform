@@ -62,6 +62,15 @@
     "https://zh.wikipedia.org/wiki/BFC%E5%A4%96%E6%BB%A9%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83",
     "https://www.openstreetmap.org/way/520214797"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국 상하이 BFC 와이탄 금융센터 I 강아지랑 상하이 여행 EP.5",
+      "url": "https://blog.naver.com/marshmallow_travel/224430433480",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -84,7 +93,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.598Z"
 }

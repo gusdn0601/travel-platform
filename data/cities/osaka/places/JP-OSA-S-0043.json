@@ -56,6 +56,15 @@
     "https://ja.wikipedia.org/wiki/%E6%9B%BE%E6%A0%B9%E5%B4%8E%E5%BF%83%E4%B8%AD",
     "https://www.openstreetmap.org/way/482761129"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카 가볼만한 곳 관광 장소 추천｜사랑을 이어주는 신사, 쓰유노텐진사 (오하쓰텐진)",
+      "url": "https://blog.naver.com/jiae_jiyo/224442183836",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "osaka-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:05.740Z"
 }

@@ -56,6 +56,15 @@
     "https://ja.wikipedia.org/wiki/%E8%AB%87%E5%B1%B1%E7%A5%9E%E7%A4%BE",
     "https://www.openstreetmap.org/way/1125180537"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "② 일본 나라현 가을 여행｜단잔신사 붉은 단풍을 따라가는 일정표",
+      "url": "https://blog.naver.com/travelplan_so/224423847131",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 42,
     "expansion": "nara-2026-10-28",
@@ -75,7 +84,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:30:47.989Z"
 }

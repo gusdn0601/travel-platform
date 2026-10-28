@@ -54,6 +54,23 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토 가볼만한곳] 단순한 기차역이 아니다! 건축미와 탁 트인 전망이 빛나는 '교토역 빌딩' 탐방",
+      "url": "https://blog.naver.com/domestictravel/224422424202",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토역에 내리면 어디부터 가야 할까요? 교토역에 모여든 전설의 맛집. 지금 교토에 간다면 교토의 핫한 라멘과 해산물이 모두 여기 있습니다. 스카이웨이와 대계단 일루미네이션 조명쇼",
+      "url": "https://www.youtube.com/watch?v=FRORlcKCFRs",
+      "source": "youtube.com",
+      "published": "2024-03",
+      "views": 38576
+    }
+  ],
   "meta": {
     "priority": 10,
     "expansion": "kyoto-2026-10-28",
@@ -72,7 +89,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:47.894Z"
 }

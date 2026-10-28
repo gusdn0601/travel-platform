@@ -73,13 +73,16 @@
       "type": "blog",
       "title": "[일본/오사카] 도톤보리 타코야키 추천 쿠쿠루 | 40분 기다려 먹어본 후기",
       "url": "https://blog.naver.com/daaassom/224422461632",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "30분 줄서서 먹는 오사카 명물 #쿠쿠루 #타코야키",
       "url": "https://www.youtube.com/watch?v=H4TAR3ixzl8",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2023-03",
+      "views": 1309
     }
   ],
   "meta": {

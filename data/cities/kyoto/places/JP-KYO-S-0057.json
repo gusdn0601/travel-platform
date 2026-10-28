@@ -52,6 +52,23 @@
   "sources": [
     "https://www.openstreetmap.org/way/299212088"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 게아게 인클라인 여름 방문 후기 난젠지와 함께 둘러보기",
+      "url": "https://blog.naver.com/muyaho800/224428046899",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "교토 벚꽃구경 vlog (게아게 인클라인 - 마루야마 공원)",
+      "url": "https://www.youtube.com/watch?v=qjAyUojcHHs",
+      "source": "youtube.com",
+      "published": "2026-04",
+      "views": 148
+    }
+  ],
   "meta": {
     "priority": 19,
     "expansion": "kyoto-2026-10-28",
@@ -70,7 +87,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:45.698Z"
 }

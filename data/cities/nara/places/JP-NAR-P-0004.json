@@ -54,6 +54,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/267336809"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "나라 산조도리와 고후쿠지, 사진에 남은 하루 산책",
+      "url": "https://blog.naver.com/sosu4412/224435760271",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 37,
     "expansion": "nara-2026-10-28",
@@ -72,7 +81,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:36:18.026Z"
 }

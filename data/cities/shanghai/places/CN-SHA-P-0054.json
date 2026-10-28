@@ -60,6 +60,15 @@
     "https://zh.wikipedia.org/wiki/%E9%8D%BE%E6%9B%B8%E9%96%A3",
     "https://map.baidu.com/search/%E9%92%9F%E4%B9%A6%E9%98%81%20%E4%B8%8A%E6%B5%B7"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "심천 여행 선전 가볼만한 곳 BEST 5 무인택시 화창베이 중수거 서점",
+      "url": "https://blog.naver.com/ye-vel/224420438967",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -79,7 +88,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:01.977Z"
 }

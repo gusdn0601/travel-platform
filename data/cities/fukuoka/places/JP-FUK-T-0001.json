@@ -58,13 +58,16 @@
       "type": "blog",
       "title": "하카타역에서 후쿠오카공항 버스 타는 곳, 위치와 시간표",
       "url": "https://blog.naver.com/review-blog-/224445119328",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "시청자 피드백을 반영한 하카타역 완벽 공략집 처음 후쿠오카 하카타역에 도착해도 헤메지 않고 오히려 즐겁게 즐기고 갈 수 있는 후쿠오카 여행에 도움이 되는 고생 담은 동영상",
       "url": "https://www.youtube.com/watch?v=ZeJnmh2A0O8",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2026-03",
+      "views": 91111
     }
   ],
   "meta": {

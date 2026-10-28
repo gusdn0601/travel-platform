@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9C%AC%E9%A1%98%E5%AF%BA",
     "https://www.openstreetmap.org/way/619901207"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[교토26] 히가시혼간지 _ 교토 타워 근처 사찰. 교토 가볼 만한 곳",
+      "url": "https://blog.naver.com/ttwlsdk/224441158854",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "ep.3 사람에 치이지 않고 교토 파헤치기✊️#아라시야마 #토롯코열차 #치쿠린 #노노미야신사 #이탈리안맛집 #요지야카페 #조개라멘 #칼디 #블루씰 #시즈야빵집 #히가시혼간지",
+      "url": "https://www.youtube.com/watch?v=jRW9UqrGEAY",
+      "source": "youtube.com",
+      "published": "2026-09",
+      "views": 464
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:08:26.345Z"
 }

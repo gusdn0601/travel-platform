@@ -58,13 +58,16 @@
       "type": "blog",
       "title": "나라여행 - 나라공원, 도다이지, 도다이지 이월당(니가쓰도)",
       "url": "https://blog.naver.com/hyjhs/224442671367",
-      "source": "blog.naver.com"
+      "source": "blog.naver.com",
+      "published": "2026-10"
     },
     {
       "type": "youtube",
       "title": "오사카 근교 여행 l 사슴의 도시 나라 l 도다이지 l 일본 브이로그",
       "url": "https://www.youtube.com/watch?v=gP6ShIJVT0g",
-      "source": "youtube.com"
+      "source": "youtube.com",
+      "published": "2022-03",
+      "views": 79992
     }
   ],
   "meta": {

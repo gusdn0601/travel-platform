@@ -60,6 +60,15 @@
     "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%85%AC%E5%9C%92",
     "https://www.openstreetmap.org/way/173693696"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "오사카4박5일여행2일차 | 마이도 오오키니 쇼쿠도,오사카시립미술관,쉐라톤 미야코 오사카 일본요리점 우에마치,러봇",
+      "url": "https://blog.naver.com/yyyyoon/224442748527",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "osaka-2026-10-28",
@@ -79,7 +88,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:07:44.340Z"
 }

@@ -54,6 +54,15 @@
     "https://en.wikipedia.org/wiki/Kyoto_Aquarium",
     "https://www.openstreetmap.org/way/279961174"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 아쿠아리움 입장권 예약, 아이랑 가볼만한곳 교토 수족관",
+      "url": "https://blog.naver.com/muyaho800/224420734824",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 36,
     "expansion": "kyoto-2026-10-28",
@@ -73,7 +82,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:40.274Z"
 }

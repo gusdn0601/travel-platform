@@ -148,5 +148,26 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 정안사 가는법 프라다 미샹 안푸루 산책 위싱지 게살국수 추천",
+      "url": "https://blog.naver.com/dejavu247/224441397572",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "여행 Vlog | 🇨🇳상하이자매여행(5). 정안사 갔다가 마지막날까지 보는 동방명주, 다시는 안갈 스타벅스 리저브 로스터리, 내비행기만 게이트바뀌고 연착🫠",
+      "url": "https://www.youtube.com/watch?v=B2fL3-l5t7A",
+      "source": "youtube.com",
+      "published": "2026-05",
+      "views": 41
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

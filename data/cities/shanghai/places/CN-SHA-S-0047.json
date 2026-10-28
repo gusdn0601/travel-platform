@@ -57,6 +57,15 @@
     "https://zh.wikipedia.org/wiki/%E5%BE%90%E5%AE%B6%E6%B1%87",
     "https://www.openstreetmap.org/node/9270694559"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 여행 쉬자후이 성당 도서관 위치 및 가는법",
+      "url": "https://blog.naver.com/yr_vie/224415878949",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:00:57.966Z"
 }

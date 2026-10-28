@@ -57,6 +57,23 @@
     "https://www.openstreetmap.org/node/11433400363",
     "https://www.wikidata.org/wiki/Q3330657"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[공간소개] 교토시 교세라미술관 (Kyoto City KYOCERA Museum of Art) | 오래된 미술관을 다시 여는 방법",
+      "url": "https://blog.naver.com/sayuji_/224438995920",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "VLOG. 가을 교토 여행 브이로그 | 10월 교토 | 교세라미술관, 기요미즈데라, 호센인",
+      "url": "https://www.youtube.com/watch?v=t2L7X2KDlf8",
+      "source": "youtube.com",
+      "published": "2026-07",
+      "views": 1665
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:18:05.112Z"
 }

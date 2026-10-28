@@ -61,6 +61,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/13778683606"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 맛집 여행] 1781년 창업, 240년 역사를 자랑하는 교토 명물 고등어 초밥(사바스시)의 원조 '이즈우' (いづう / Izuu)",
+      "url": "https://blog.naver.com/byunhs9975/224443428575",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 27,
     "expansion": "kyoto-2026-10-28",
@@ -81,7 +90,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:28.736Z"
 }

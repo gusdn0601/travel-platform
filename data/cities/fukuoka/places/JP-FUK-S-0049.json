@@ -58,6 +58,23 @@
     "https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%B4%A5%E5%B8%82",
     "https://www.openstreetmap.org/relation/11211626"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "🌄 미야지다케 신사: 렌트카 끌고 당일치기! 바다뷰로 소문난 신사와 주차 꿀팁까지 🌄 일단또규슈 #33",
+      "url": "https://www.youtube.com/watch?v=o-jk9X0Y_4o",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 482
+    },
+    {
+      "type": "blog",
+      "title": "후쿠오카 근교) 미야지다케 신사(宮地嶽神社)에 다시 갔습니다",
+      "url": "https://blog.naver.com/laura290/224450685061",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -77,7 +94,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:10:54.923Z"
 }

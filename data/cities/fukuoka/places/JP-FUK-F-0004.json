@@ -67,6 +67,15 @@
     "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
     "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "후쿠오카 신신라멘 텐진본점 내돈내산 후기, 주말 웨이팅과 돈코츠라멘",
+      "url": "https://blog.naver.com/haru_yan/224454067486",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "fukuoka-2026-10-28",
@@ -85,7 +94,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T09:59:40.485Z"
 }

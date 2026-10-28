@@ -57,6 +57,23 @@
     "https://ja.wikipedia.org/wiki/%E6%9B%BD%E7%88%BE%E6%9D%91",
     "https://www.openstreetmap.org/relation/15084848"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 나라현 1박2일 여행 - 소니고원, 나라 사슴공원",
+      "url": "https://blog.naver.com/cheesiepie/223762440336",
+      "source": "blog.naver.com",
+      "published": "2025-02"
+    },
+    {
+      "type": "youtube",
+      "title": "일본 속 몽골, 소니고원 피크닉 - 일본[6]",
+      "url": "https://www.youtube.com/watch?v=-R3Yf3xvSd4",
+      "source": "youtube.com",
+      "published": "2023-12",
+      "views": 2694
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "nara-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:09:54.586Z"
 }

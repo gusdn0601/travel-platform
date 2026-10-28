@@ -57,6 +57,15 @@
     "https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%81%A9%E9%99%A2",
     "https://www.openstreetmap.org/way/456122965"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토산책 추천 한적한 지온인부터 야사카신사 호칸지 기요미즈데라 반나절 도보여행 코스",
+      "url": "https://blog.naver.com/travelandreceipt/224437447372",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 13,
     "expansion": "kyoto-2026-10-28",
@@ -76,7 +85,9 @@
       "sources": []
     },
     "photo": "commons",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:09:00.086Z"
 }
