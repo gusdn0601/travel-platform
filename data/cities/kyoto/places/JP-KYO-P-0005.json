@@ -44,13 +44,22 @@
     "주방용품",
     "니시키"
   ],
-  "art_key": "shop",
+  "art_key": "knife",
   "local_search": "有次 錦店",
   "photos": [],
   "status": "drafted",
   "version": 1,
   "verified_at": null,
   "sources": [],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "교토 니시키시장 456년된 칼가게 아리츠구(有次)..",
+      "url": "https://blog.naver.com/alex514/220654816652",
+      "source": "blog.naver.com",
+      "published": "2016-03"
+    }
+  ],
   "meta": {
     "priority": 10,
     "expansion": "kyoto-2026-10-28",
@@ -67,7 +76,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:11:09.282Z"
 }

@@ -61,6 +61,23 @@
     "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
     "https://www.openstreetmap.org/way/428121878"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 여행 갈래말래 난 중국동방항공 타고갈게 : 김포에서 상하이 훙차오 공항까지, 위탁 수하물 및 탑승 후기",
+      "url": "https://blog.naver.com/hwi_ranghae/224450014963",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "상해 🇨🇳 VLOG 난징동루 한국인 입맛 저격 맛집 🍺 맥주 중독자의 홍차오 공항 꿀팁😎",
+      "url": "https://www.youtube.com/watch?v=UQpso6CNig4",
+      "source": "youtube.com",
+      "published": "2026-04",
+      "views": 199
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -84,7 +101,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:07.948Z"
 }

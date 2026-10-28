@@ -168,5 +168,18 @@
   "version": 1,
   "verified_at": null,
   "sources": [],
-  "sanitized_at": "2026-10-28T06:45:37.621Z"
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "상하이 수향마을 완벽 비교: 주가각 vs 치바오 vs 우전 서책 (야경·나룻배·동파육 쫑즈 정복기)",
+      "url": "https://blog.naver.com/nface72/224444588315",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
+  "sanitized_at": "2026-10-28T06:45:37.621Z",
+  "meta": {
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
+  }
 }

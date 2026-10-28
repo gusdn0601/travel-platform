@@ -58,6 +58,23 @@
   "sources": [
     "https://ja.wikipedia.org/wiki/JR%E5%8D%9A%E5%A4%9A%E3%82%B7%E3%83%86%E3%82%A3"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "일본 후쿠오카 하카타 아뮤플라자 단톤 경량패딩 쇼핑 후기 (웨이팅 가격 면세)",
+      "url": "https://blog.naver.com/traveler_siri/224447238327",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    },
+    {
+      "type": "youtube",
+      "title": "후쿠오카 캐릭터 투어 브이로그①🍘💭 오타쿠가 추천하는 하카타와 텐진 쇼핑 스팟! 아뮤플라자•요도바시카메라•포켓몬센터 등등•••",
+      "url": "https://www.youtube.com/watch?v=Czu-gse55Vo",
+      "source": "youtube.com",
+      "published": "2025-05",
+      "views": 21516
+    }
+  ],
   "meta": {
     "priority": 1,
     "expansion": "fukuoka-2026-10-28",
@@ -76,7 +93,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:04:29.667Z"
 }

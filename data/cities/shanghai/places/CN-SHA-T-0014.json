@@ -59,6 +59,15 @@
     "https://en.wikipedia.org/wiki/Disney_Resort_station",
     "https://zh.wikipedia.org/wiki/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AB%99"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "중국 상하이 디즈니랜드 가는법 (지하철 역/소요시간/가격/난징동루) 후기",
+      "url": "https://blog.naver.com/chltpdk2000/224437979782",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 2,
     "expansion": "shanghai-2026-10-28",
@@ -80,7 +89,9 @@
       ]
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T11:36:35.026Z"
 }

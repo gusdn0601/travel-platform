@@ -57,6 +57,23 @@
     "https://zh.wikipedia.org/wiki/%E9%BE%99%E7%BE%8E%E6%9C%AF%E9%A6%86",
     "https://www.openstreetmap.org/node/3126004579"
   ],
+  "kr_refs": [
+    {
+      "type": "youtube",
+      "title": "건축을 찾아 상하이까지 온 이유 | 상하이 웨스트번드 미술관",
+      "url": "https://www.youtube.com/watch?v=zgUr-WREONM",
+      "source": "youtube.com",
+      "published": "2026-10",
+      "views": 399
+    },
+    {
+      "type": "blog",
+      "title": "[2026 상하이] Day.03-③ : 상하이 아트 산책 (6) : 웨스트번드미술관 X 퐁피두센터 프로젝트 4탄 <Reinventing Landscape>",
+      "url": "https://blog.naver.com/aono_honoo/224414752928",
+      "source": "blog.naver.com",
+      "published": "2026-09"
+    }
+  ],
   "meta": {
     "priority": 3,
     "expansion": "shanghai-2026-10-28",
@@ -75,7 +92,9 @@
       "sources": []
     },
     "photo": "null",
-    "collected_at": "2026-10-28"
+    "collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:01:39.638Z"
 }

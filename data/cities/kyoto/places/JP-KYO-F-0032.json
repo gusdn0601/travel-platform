@@ -60,6 +60,15 @@
   "sources": [
     "https://www.openstreetmap.org/node/4127816589"
   ],
+  "kr_refs": [
+    {
+      "type": "blog",
+      "title": "[일본 맛집 여행] 100년 전통, 폭신한 계란말이가 올라간 장어덮밥의 대명사 '교토 카네요' (京極かねよ / Kyogoku Kaneyo)",
+      "url": "https://blog.naver.com/byunhs9975/224442168003",
+      "source": "blog.naver.com",
+      "published": "2026-10"
+    }
+  ],
   "meta": {
     "priority": 25,
     "expansion": "kyoto-2026-10-28",
@@ -80,7 +89,9 @@
     "photo": "null",
     "collected_at": "2026-10-28",
     "menu_basis": "collector-judgement (unverified); general menu knowledge of this shop type/brand",
-    "menu_collected_at": "2026-10-28"
+    "menu_collected_at": "2026-10-28",
+    "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
+    "kr_refs_checked_at": "2026-10-28"
   },
   "sanitized_at": "2026-10-28T10:38:17.511Z"
 }

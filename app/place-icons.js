@@ -130,6 +130,11 @@ export const ICONS = {
     '<path d="M3.2 11h17.6c-.4 4.3-4.2 7.4-8.8 7.4S3.6 15.3 3.2 11Z"/>' +
     '<path d="M8.6 21h6.8"/>' +
     '<path d="M8.5 7.5c0-1.2 1-1.2 1-2.4M12 7.5c0-1.2 1-1.2 1-2.4M15.5 7.5c0-1.2 1-1.2 1-2.4"/>' },
+  wok: { label: '중식·본토식', body:
+    '<path d="M3.5 10.5h17c-.4 4.8-3.9 8.2-8.5 8.2s-8.1-3.4-8.5-8.2Z"/>' +
+    '<path d="M2 10.5h1.5M20.5 10.5H22"/>' +
+    '<path d="M7.5 7.5c0-1.3 1.1-1.3 1.1-2.6M12 7.5c0-1.3 1.1-1.3 1.1-2.6M16.5 7.5c0-1.3 1.1-1.3 1.1-2.6"/>' +
+    '<path d="M7 21h10"/>' },
 
   /* ---- 쇼핑 ---- */
   drugstore: { label: '약국·드럭스토어', body:
@@ -172,6 +177,14 @@ export const ICONS = {
   stationery: { label: '문구', body:
     '<path d="M4 20l1-4L16.5 4.5a1.8 1.8 0 0 1 2.5 0l.5.5a1.8 1.8 0 0 1 0 2.5L8 19l-4 1Z"/>' +
     '<path d="M15 6l3 3M6 16l2 2"/>' },
+  knife: { label: '칼·주방', body:
+    '<path d="M3 16.5 15.5 4 20 8.5 7.5 21 3 16.5Z"/>' +
+    '<path d="M14.8 4.7 19.3 9.2"/>' },
+  figure: { label: '피규어·굿즈', body:
+    '<circle cx="12" cy="7" r="2.6"/>' +
+    '<path d="M12 9.6V15M8.5 21v-2.5a3.5 3.5 0 0 1 7 0V21"/>' +
+    '<path d="M9.8 5.2 10.5 3.2M14.2 5.2 13.5 3.2"/>' +
+    '<path d="M7 21h10"/>' },
   massage: { label: '마사지·스파', body:
     '<ellipse cx="12" cy="17" rx="7" ry="2.6"/><ellipse cx="12" cy="13" rx="4.5" ry="2"/><ellipse cx="12" cy="9.5" rx="2.6" ry="1.4"/>' +
     '<path d="M7 5c0-1.2 1-1.2 1-2.4M12 4.5c0-1.2 1-1.2 1-2.4M17 5c0-1.2 1-1.2 1-2.4"/>' },
@@ -240,6 +253,20 @@ export const ICONS = {
     '<path d="M3 9.5 12 4l9 5.5"/>' +
     '<path d="M5 9.5v8M9.5 9.5v8M14.5 9.5v8M19 9.5v8"/>' +
     '<path d="M3 18h18M2 21h20"/>' },
+  theater: { label: '극장·공연', body:
+    '<path d="M3 4h18M5 4v16M19 4v16"/>' +
+    '<path d="M5 4c3 4 3 12 0 16M19 4c-3 4-3 12 0 16"/>' +
+    '<path d="M9 20.5h6"/>' },
+  ruins: { label: '유적', body:
+    '<path d="M3 20.5h18"/>' +
+    '<path d="M6 20.5V9h3v11.5M6 12.5h3"/>' +
+    '<path d="M12 20.5V6h3v14.5M12 10h3"/>' +
+    '<path d="M17.5 20.5v-6h2.5v6"/>' +
+    '<path d="M4.5 9 7.5 6.5 10.5 9"/>' },
+  monument: { label: '기념비·시비', body:
+    '<path d="M9 20 10.5 4h3L15 20Z"/>' +
+    '<path d="M7.5 20.5h9"/>' +
+    '<path d="M10.4 9.5h3.2M10.2 14h3.6"/>' },
   aquarium: { label: '수족관·동물원', body:
     '<rect x="3" y="5" width="18" height="14" rx="2"/>' +
     '<path d="M7 13c2-2.6 5-3 7.5-1.3 1 .7 1.8 1.2 3.2 1.3-.8 1.2-1.7 1.8-3.2 2.1-2.5 1.7-5.5 1.3-7.5-1.3Z"/>' +
@@ -407,6 +434,20 @@ export function iconFor(kind, fc = [], text = '') {
   const rules = RULES[kind] || [];
   for (const [icon, kws] of rules) if (hit(kws, t)) return icon;
   return KIND_ICON[kind] || 'sight';
+}
+
+/**
+ * 장소 레코드로 아이콘 id를 고른다. 이름·태그로 판정이 안 돼 종류 기본값(범용)으로
+ * 떨어지는 장소만 데이터의 art_key 를 존중한다(수집가가 큐레이션한 값).
+ * art_key 는 예전 삽화 낱말(basket·street·boat 등)도 섞여 있어, 실제 아이콘이 있는
+ * 값(ICONS 키)일 때만 쓴다 — 그 외에는 이름 기반 판정을 그대로 따른다.
+ */
+export function iconForPlace(place = {}, fc = [], text = '') {
+  const kind = place.kind;
+  const derived = iconFor(kind, fc, text);
+  const key = place.art_key;
+  if (derived === KIND_ICON[kind] && key && ICONS[key]) return key;
+  return derived;
 }
 
 /** 아이콘 id → { label }. 알 수 없는 id는 종류 기본 아이콘으로. */
