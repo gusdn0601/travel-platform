@@ -1,0 +1,88 @@
+{
+  "id": "pl_b420cb1f29",
+  "code": "JP-FUK-F-0019",
+  "city_id": "JP-FUK",
+  "slug": "umegae-mochi-kasanoya",
+  "kind": "food",
+  "name_ko": "가사노야 (매화떡)",
+  "name_sub": "Kasanoya",
+  "name_local": "かさの家 太宰府",
+  "lat": 33.5194,
+  "lng": 130.53349,
+  "area": "교외(다자이후)",
+  "lead": "다자이후 참배길의 명물 우메가에모치를 즉석에서 구워 파는 가게 중 가장 유명한 곳 중 하나.",
+  "facts": [
+    [
+      "종류",
+      "화과자"
+    ],
+    [
+      "특징",
+      "팥소 넣고 철판에 구운 떡"
+    ],
+    [
+      "위치",
+      "다자이후 텐만구 참배길"
+    ],
+    [
+      "시기",
+      "연중"
+    ]
+  ],
+  "origin": [
+    "우메가에모치는 팥소를 넣은 찹쌀떡을 매화 문양 철판에 구워 낸 다자이후의 명물이에요.",
+    "학문의 신으로 모셔지는 스가와라노 미치자네가 다자이후로 좌천되었을 때 한 노파가 매화 가지에 떡을 얹어 건넸다는 전승에서 이름이 생겼다고 전해져요.",
+    "참배길 양쪽에 여러 가게가 있고, 가사노야는 그중 대표적인 곳으로 소개돼요.",
+    "따뜻할 때 한입 베어 물면 바삭한 겉과 달콤한 팥소를 함께 느낄 수 있어요."
+  ],
+  "practical": [
+    "현금 위주",
+    "구입 즉시 먹는 것이 맛있음"
+  ],
+  "tip": "참배 전후로 따뜻한 걸 하나씩 맛보세요.",
+  "order": [
+    "<b>梅ヶ枝餅</b> 우메가에모치"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1개 130~200엔 추정",
+  "must": 0,
+  "tags": [
+    "매화떡",
+    "다자이후",
+    "디저트"
+  ],
+  "art_key": "dessert",
+  "local_search": "かさの家 太宰府",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Umegae_mochi",
+    "https://ja.wikipedia.org/wiki/%E6%A2%85%E3%83%B6%E6%9E%9D%E9%A4%85",
+    "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE",
+    "https://www.openstreetmap.org/way/1152821088"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 다자이후 간식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:04.791Z"
+}

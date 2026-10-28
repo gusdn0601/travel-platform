@@ -1,0 +1,82 @@
+{
+  "id": "pl_b6228ee661",
+  "code": "JP-KYO-S-0033",
+  "city_id": "JP-KYO",
+  "slug": "chion-in",
+  "kind": "sight",
+  "name_ko": "지온인",
+  "name_sub": "Chion-in",
+  "name_local": "知恩院",
+  "lat": 35.00639,
+  "lng": 135.78389,
+  "area": "기온/히가시야마",
+  "lead": "거대한 삼문과 대형 종으로 알려진 정토종 총본산. 마루야마 공원 바로 옆이에요.",
+  "facts": [
+    [
+      "종류",
+      "정토종 총본산"
+    ],
+    [
+      "특징",
+      "삼문, 대종"
+    ],
+    [
+      "위치",
+      "마루야마 공원 옆"
+    ]
+  ],
+  "origin": [
+    "지온인은 정토종의 총본산으로 알려진 대형 사찰이에요.",
+    "17세기 초 도쿠가와 막부의 지원으로 크게 확장됐다고 전해지고, 거대한 산문은 일본 최대급 규모로 소개돼요.",
+    "섣달 그믐에 울리는 대종 소리도 유명해요.",
+    "계단과 경내가 넓어 체력을 감안해 일정을 잡으면 좋아요."
+  ],
+  "practical": [
+    "경내 넓고 계단 많음"
+  ],
+  "tip": "마루야마 공원, 야사카 신사와 한 코스로 묶여요.",
+  "open_hours": "Mo-Su 09:00-16:00 (OSM)",
+  "stay_min": 50,
+  "price_hint": "경내 무료, 일부 유료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "삼문",
+    "종"
+  ],
+  "art_key": "temple",
+  "local_search": "知恩院",
+  "photos": [
+    "JP-KYO-S-0033-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chion-in",
+    "https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%81%A9%E9%99%A2",
+    "https://www.openstreetmap.org/way/456122965"
+  ],
+  "meta": {
+    "priority": 13,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 91,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 기온/히가시야마 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:00.086Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "pl_18788e0e02",
+  "code": "CN-SHA-S-0057",
+  "city_id": "CN-SHA",
+  "slug": "anfu-road",
+  "kind": "sight",
+  "name_ko": "안푸루 (安福路)",
+  "name_sub": "Anfu Road",
+  "name_local": "安福路",
+  "lat": 31.21562,
+  "lng": 121.43804,
+  "area": "프랑스 조계지",
+  "lead": "플라타너스 사이 부티크와 카페가 이어진 프랑스 조계지의 인기 골목.",
+  "facts": [
+    [
+      "성격",
+      "카페·부티크 거리"
+    ],
+    [
+      "분위기",
+      "유럽풍 가로수 길"
+    ],
+    [
+      "인근",
+      "우캉루, 쓰난루"
+    ],
+    [
+      "접근",
+      "지하철 10·11호선"
+    ]
+  ],
+  "origin": [
+    "안푸루는 프랑스 조계 시대 형성된 거리로, 낮은 양옥과 큰 가로수가 어우러져요.",
+    "최근 독립 부티크와 카페가 늘면서 현지 젊은 층의 산책 코스가 되었어요.",
+    "우캉루와 연결해 한 시간 정도 걸으며 둘러보는 것이 일반적이에요."
+  ],
+  "tip": "주말엔 카페 줄이 길어요. 오전에 걷기 시작하는 편이 쾌적해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "카페",
+    "부티크",
+    "골목산책"
+  ],
+  "art_key": "street",
+  "local_search": "安福路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%AE%89%E7%A6%8F%E8%B7%AF",
+    "https://en.wikipedia.org/wiki/Shanghai_French_Concession",
+    "https://www.openstreetmap.org/way/492977116"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 일정 후보로 소개되는 곳(수집가 판단, 방문자 수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.648Z"
+}

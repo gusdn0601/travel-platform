@@ -1,0 +1,89 @@
+{
+  "id": "pl_716cd18a0d",
+  "code": "JP-OSA-F-0010",
+  "city_id": "JP-OSA",
+  "slug": "yukari-namba",
+  "kind": "food",
+  "name_ko": "오코노미야키 유키 난바",
+  "name_sub": "Yukari",
+  "name_local": "ゆかり なんば店",
+  "lat": 34.66548,
+  "lng": 135.5031,
+  "area": "난바/도톤보리",
+  "lead": "오사카에서 시작한 오코노미야키 체인. 간장 베이스의 유카리야키가 대표 메뉴예요.",
+  "facts": [
+    [
+      "종류",
+      "오코노미야키"
+    ],
+    [
+      "대표",
+      "유카리야키"
+    ],
+    [
+      "위치",
+      "난바"
+    ],
+    [
+      "분위기",
+      "가족·단체 가능"
+    ]
+  ],
+  "origin": [
+    "유카리는 오사카에서 문을 연 오코노미야키 체인으로 소개돼요.",
+    "소스 맛 기본형과 달리 간장 베이스 양념을 쓴 유카리야키가 대표 메뉴로 알려져 있어요.",
+    "난바와 우메다 등 주요 지역에 매장이 있어 일정 중간에 들르기 편해요.",
+    "아이와 함께 가기 좋은 넓은 매장이 많은 점도 특징이에요."
+  ],
+  "practical": [
+    "여러 지점 중 일정에 맞는 곳 선택",
+    "저녁에는 대기 가능"
+  ],
+  "tip": "간장 맛이 궁금하면 유카리야키를 먼저 주문하세요.",
+  "order": [
+    "<b>ゆかり焼</b> 유카리야키",
+    "<b>豚玉</b> 돼지고기 오코노미야키",
+    "<b>モダン焼</b> 모던야키"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,500~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "오코노미야키",
+    "유카리야키"
+  ],
+  "art_key": "okonomiyaki",
+  "local_search": "ゆかり なんば店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2582%2586%25E3%2581%258B%25E3%2582%258A%2520(%25E3%2581%258A%25E5%25A5%25BD%25E3%2581%25BF%25E7%2584%25BC%25E3%2581%258D)",
+    "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
+    "https://www.openstreetmap.org/node/2331678421"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 오코노미야키 체인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.886Z"
+}

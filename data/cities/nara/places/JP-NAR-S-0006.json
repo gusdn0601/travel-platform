@@ -1,0 +1,71 @@
+{
+  "id": "pl_a16d06f7a2",
+  "code": "JP-NAR-S-0006",
+  "city_id": "JP-NAR",
+  "slug": "yakushi-ji-temple",
+  "kind": "sight",
+  "name_ko": "야쿠시지",
+  "name_sub": "Yakushi-ji Temple",
+  "name_local": "薬師寺",
+  "lat": 34.66836,
+  "lng": 135.78431,
+  "area": "니시노쿄",
+  "lead": "서로 크기가 다른 지붕이 겹친 삼중탑으로 알려진 사찰.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "동탑(삼중탑)"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "680년"
+    ]
+  ],
+  "tip": "도쇼다이지와 가까워 함께 묶기 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "탑",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "薬師寺",
+  "photos": [
+    "JP-NAR-S-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q945913",
+    "https://ko.wikipedia.org/wiki/%EC%95%BC%EC%BF%A0%EC%8B%9C%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Yakushi-ji",
+    "http://www.nara-yakushiji.com/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:17.611Z"
+}

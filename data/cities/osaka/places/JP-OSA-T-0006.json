@@ -1,0 +1,70 @@
+{
+  "id": "pl_366505e9df",
+  "code": "JP-OSA-T-0006",
+  "city_id": "JP-OSA",
+  "slug": "osaka-international-airport",
+  "kind": "transit",
+  "name_ko": "오사카 이타미 공항",
+  "name_sub": "Osaka International Airport",
+  "name_local": "大阪国際空港",
+  "addr_local": "大阪府 豊中市 蛍池南町3丁目 555",
+  "lat": 34.78553,
+  "lng": 135.43822,
+  "area": "교외(이타미)",
+  "lead": "주로 일본 국내선이 오가는 오사카 시내 가까운 공항.",
+  "facts": [
+    [
+      "종류",
+      "국내선 중심 공항"
+    ],
+    [
+      "위치",
+      "시내 북서쪽"
+    ],
+    [
+      "접근",
+      "모노레일"
+    ]
+  ],
+  "tip": "한국 노선은 간사이공항을 주로 이용해요. 국내선 환승 시 이용해요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "공항",
+    "국내선"
+  ],
+  "art_key": "plane",
+  "local_search": "大阪国際空港",
+  "photos": [
+    "JP-OSA-T-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1046748",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+    "https://en.wikipedia.org/wiki/Itami_Airport",
+    "https://www.openstreetmap.org/relation/18159861",
+    "https://www.osaka-airport.co.jp"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 245,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "airport in Hyogo and Osaka prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:51:11.366Z"
+}

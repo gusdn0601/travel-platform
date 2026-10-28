@@ -1,0 +1,89 @@
+{
+  "id": "pl_1709e72fcc",
+  "code": "JP-OSA-F-0006",
+  "city_id": "JP-OSA",
+  "slug": "kukuru-dotonbori",
+  "kind": "food",
+  "name_ko": "쿠쿠루 도톤보리",
+  "name_sub": "Kukuru",
+  "name_local": "本家大たこ 道頓堀 くくる",
+  "lat": 34.66881,
+  "lng": 135.50091,
+  "area": "난바/도톤보리",
+  "lead": "문어 조각이 큼직하게 들어간 타코야키로 알려진 도톤보리 가게. 촉촉한 속이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "타코야키"
+    ],
+    [
+      "특징",
+      "큼직한 문어"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "주문",
+      "기본·치즈 등 선택"
+    ]
+  ],
+  "origin": [
+    "쿠쿠루는 도톤보리를 중심으로 매장을 둔 타코야키 전문점이에요.",
+    "문어를 크게 썰어 넣어 씹는 맛을 살린 것이 특징으로 소개돼요.",
+    "관광객이 몰리는 거리라 포장해 먹으며 걷는 사람이 많고, 한국 여행 정보에서도 도톤보리 간식으로 자주 언급돼요."
+  ],
+  "practical": [
+    "포장 가능",
+    "뜨거우니 식힌 뒤 먹기"
+  ],
+  "tip": "도톤보리 산책 시작할 때 하나 사 들고 걸어요.",
+  "order": [
+    "<b>たこ焼き</b> 기본 타코야키",
+    "<b>チーズたこ焼き</b> 치즈 타코야키"
+  ],
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "8개 700~900엔 추정",
+  "must": 0,
+  "tags": [
+    "타코야키",
+    "문어큼직",
+    "간식"
+  ],
+  "art_key": "takoyaki",
+  "local_search": "本家大たこ 道頓堀 くくる",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Takoyaki",
+    "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D",
+    "https://en.wikipedia.org/wiki/Dōtonbori",
+    "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
+    "https://www.openstreetmap.org/node/2345132061"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 타코야키로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.882Z"
+}

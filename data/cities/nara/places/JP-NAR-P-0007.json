@@ -1,0 +1,78 @@
+{
+  "id": "pl_78afc66770",
+  "code": "JP-NAR-P-0007",
+  "city_id": "JP-NAR",
+  "slug": "yu-nakagawa",
+  "kind": "shop",
+  "name_ko": "유추가와",
+  "name_sub": "Yu Nakagawa",
+  "name_local": "遊中川",
+  "lat": 34.68085,
+  "lng": 135.82981,
+  "area": "나라마치",
+  "lead": "나라마치 고택을 쓴 공예 잡화점. 천과 종이 소품이 많아요.",
+  "facts": [
+    [
+      "종류",
+      "공예 잡화점"
+    ],
+    [
+      "특징",
+      "고택 매장"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "유추가와는 나라마치의 오래된 집을 매장으로 쓰는 공예 잡화점이에요.",
+    "천으로 만든 소품과 종이 제품, 생활용품이 중심이에요.",
+    "가게 안 구조 자체가 오래된 집이라 구경하는 재미가 있어요.",
+    "작은 물건이 많아 기념품 고르기 좋아요."
+  ],
+  "practical": [
+    "좁은 매장",
+    "현금·카드 확인"
+  ],
+  "tip": "가벼운 천 소품이 여행 기념으로 좋아요.",
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "소품 1,000엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "공예",
+    "잡화",
+    "나라마치"
+  ],
+  "art_key": "shop",
+  "local_search": "遊中川",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/2327857355"
+  ],
+  "meta": {
+    "priority": 41,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라마치 공예 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:20.877Z"
+}

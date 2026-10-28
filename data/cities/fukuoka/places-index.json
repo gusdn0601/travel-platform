@@ -1,0 +1,576 @@
+[
+  {
+    "id": "pl_d96d86b0a4",
+    "code": "JP-FUK-F-0001",
+    "slug": "ichiran-honten",
+    "kind": "food",
+    "name_ko": "이치란 본점"
+  },
+  {
+    "id": "pl_aab5d4ef1e",
+    "code": "JP-FUK-F-0002",
+    "slug": "ippudo-daimyo",
+    "kind": "food",
+    "name_ko": "잇푸도 다이묘 본점"
+  },
+  {
+    "id": "pl_0bc0792a85",
+    "code": "JP-FUK-F-0003",
+    "slug": "genso-nagahamaya",
+    "kind": "food",
+    "name_ko": "원조 나가하마야"
+  },
+  {
+    "id": "pl_44549773f8",
+    "code": "JP-FUK-F-0004",
+    "slug": "shin-shin-tenjin",
+    "kind": "food",
+    "name_ko": "신신 라멘 (텐진)"
+  },
+  {
+    "id": "pl_d617040ed0",
+    "code": "JP-FUK-F-0005",
+    "slug": "ramen-stadium",
+    "kind": "food",
+    "name_ko": "라멘 스타디움 (캐널시티)"
+  },
+  {
+    "id": "pl_94a5ebe2ab",
+    "code": "JP-FUK-F-0006",
+    "slug": "nakasu-yatai-street",
+    "kind": "food",
+    "name_ko": "나카스 야타이 거리"
+  },
+  {
+    "id": "pl_a07d3ea0a6",
+    "code": "JP-FUK-F-0007",
+    "slug": "tenjin-yatai",
+    "kind": "food",
+    "name_ko": "텐진 야타이"
+  },
+  {
+    "id": "pl_a6563d3934",
+    "code": "JP-FUK-F-0008",
+    "slug": "nagahama-yatai",
+    "kind": "food",
+    "name_ko": "나가하마 야타이"
+  },
+  {
+    "id": "pl_1afcf4900b",
+    "code": "JP-FUK-F-0009",
+    "slug": "fukuya-nakasu",
+    "kind": "food",
+    "name_ko": "후쿠야 본점 (명란)"
+  },
+  {
+    "id": "pl_1d1b222573",
+    "code": "JP-FUK-F-0010",
+    "slug": "motsunabe-maedaya",
+    "kind": "food",
+    "name_ko": "모츠나베 마에다야"
+  },
+  {
+    "id": "pl_c939a7aa3a",
+    "code": "JP-FUK-F-0011",
+    "slug": "motsunabe-ooyama",
+    "kind": "food",
+    "name_ko": "모츠나베 오오야마"
+  },
+  {
+    "id": "pl_485a3df536",
+    "code": "JP-FUK-F-0012",
+    "slug": "mizutaki-shin-miura",
+    "kind": "food",
+    "name_ko": "미즈타키 신미우라"
+  },
+  {
+    "id": "pl_4c9db4ff9e",
+    "code": "JP-FUK-F-0013",
+    "slug": "hanamidori-hakata",
+    "kind": "food",
+    "name_ko": "하나미도리 (하카타 화미도리)"
+  },
+  {
+    "id": "pl_3d5a1ce782",
+    "code": "JP-FUK-F-0014",
+    "slug": "kawatarou-nakasu",
+    "kind": "food",
+    "name_ko": "가와타로 (오징어 활어회)"
+  },
+  {
+    "id": "pl_15e382088c",
+    "code": "JP-FUK-F-0015",
+    "slug": "tetsunabe-gyoza",
+    "kind": "food",
+    "name_ko": "테츠나베 (하카타 교자)"
+  },
+  {
+    "id": "pl_fc73a26ba7",
+    "code": "JP-FUK-F-0016",
+    "slug": "makino-udon",
+    "kind": "food",
+    "name_ko": "마키노 우동"
+  },
+  {
+    "id": "pl_5b3bea98ff",
+    "code": "JP-FUK-F-0017",
+    "slug": "yoshizuka-unagiya",
+    "kind": "food",
+    "name_ko": "요시즈카 우나기야"
+  },
+  {
+    "id": "pl_20ec59b2f4",
+    "code": "JP-FUK-F-0018",
+    "slug": "starbucks-dazaifu",
+    "kind": "food",
+    "name_ko": "스타벅스 다자이후 텐만구 오모테산도점"
+  },
+  {
+    "id": "pl_b420cb1f29",
+    "code": "JP-FUK-F-0019",
+    "slug": "umegae-mochi-kasanoya",
+    "kind": "food",
+    "name_ko": "가사노야 (매화떡)"
+  },
+  {
+    "id": "pl_cf16ec04fc",
+    "code": "JP-FUK-F-0020",
+    "slug": "b-speak-yufuin",
+    "kind": "food",
+    "name_ko": "비스피크 (유후인 롤케이크)"
+  },
+  {
+    "id": "pl_25fcfc7164",
+    "code": "JP-FUK-F-0021",
+    "slug": "milch-yufuin",
+    "kind": "food",
+    "name_ko": "밀히 (유후인 치즈케이크)"
+  },
+  {
+    "id": "pl_c72ecf064f",
+    "code": "JP-FUK-F-0022",
+    "slug": "ishimura-manseido-tsurunoko",
+    "kind": "food",
+    "name_ko": "이시무라 만세이도 (츠루노코)"
+  },
+  {
+    "id": "pl_c01b52b607",
+    "code": "JP-FUK-F-0023",
+    "slug": "hakata-torimon-meigetsudo",
+    "kind": "food",
+    "name_ko": "하카타 토리몬 (메이게츠도)"
+  },
+  {
+    "id": "pl_c76899cded",
+    "code": "JP-FUK-F-0024",
+    "slug": "hakata-issou",
+    "kind": "food",
+    "name_ko": "하카타 잇소 (博多一双)"
+  },
+  {
+    "id": "pl_e7835019fb",
+    "code": "JP-FUK-F-0025",
+    "slug": "hakata-station-menkoku",
+    "kind": "food",
+    "name_ko": "하카타역 명란 거리 (하카타 명란)"
+  },
+  {
+    "id": "pl_1254816226",
+    "code": "JP-FUK-P-0001",
+    "slug": "canal-city-hakata",
+    "kind": "shop",
+    "name_ko": "캐널시티 하카타"
+  },
+  {
+    "id": "pl_34f1ad1b04",
+    "code": "JP-FUK-P-0002",
+    "slug": "kawabata-shopping-arcade",
+    "kind": "shop",
+    "name_ko": "가와바타 상점가"
+  },
+  {
+    "id": "pl_ff39fdf5b4",
+    "code": "JP-FUK-P-0003",
+    "slug": "yanagibashi-rengo-market",
+    "kind": "shop",
+    "name_ko": "야나기바시 연합시장"
+  },
+  {
+    "id": "pl_fad363ba26",
+    "code": "JP-FUK-P-0004",
+    "slug": "marinoa-city-outlet",
+    "kind": "shop",
+    "name_ko": "마리노아 시티 후쿠오카 (아울렛)"
+  },
+  {
+    "id": "pl_a595f3336f",
+    "code": "JP-FUK-P-0005",
+    "slug": "lalaport-fukuoka-gundam",
+    "kind": "shop",
+    "name_ko": "라라포트 후쿠오카 (건담)"
+  },
+  {
+    "id": "pl_25a041c920",
+    "code": "JP-FUK-P-0006",
+    "slug": "tenjin-chikagai",
+    "kind": "shop",
+    "name_ko": "텐진 지하상가"
+  },
+  {
+    "id": "pl_c5d6d4e12b",
+    "code": "JP-FUK-P-0007",
+    "slug": "kitte-hakata",
+    "kind": "shop",
+    "name_ko": "킷테 하카타"
+  },
+  {
+    "id": "pl_b3820010ae",
+    "code": "JP-FUK-P-0008",
+    "slug": "jr-hakata-city-amu-plaza",
+    "kind": "shop",
+    "name_ko": "JR 하카타 시티 (아뮤 플라자)"
+  },
+  {
+    "id": "pl_65a94b901c",
+    "code": "JP-FUK-P-0009",
+    "slug": "hakata-hankyu",
+    "kind": "shop",
+    "name_ko": "하카타 한큐"
+  },
+  {
+    "id": "pl_3b6e0647d4",
+    "code": "JP-FUK-P-0010",
+    "slug": "don-quijote-nakasu",
+    "kind": "shop",
+    "name_ko": "돈키호테 나카스점"
+  },
+  {
+    "id": "pl_10e6a7ff07",
+    "code": "JP-FUK-P-0011",
+    "slug": "yodobashi-hakata",
+    "kind": "shop",
+    "name_ko": "요도바시 카메라 멀티미디어 하카타"
+  },
+  {
+    "id": "pl_59b6b503ea",
+    "code": "JP-FUK-P-0012",
+    "slug": "iwataya-tenjin",
+    "kind": "shop",
+    "name_ko": "이와타야 (텐진)"
+  },
+  {
+    "id": "pl_27436c4965",
+    "code": "JP-FUK-P-0013",
+    "slug": "daikoku-drug-tenjin",
+    "kind": "shop",
+    "name_ko": "다이코쿠 드럭 (텐진·하카타)"
+  },
+  {
+    "id": "pl_5fb19c9c1d",
+    "code": "JP-FUK-S-0001",
+    "slug": "ohori-park",
+    "kind": "sight",
+    "name_ko": "오호리 공원"
+  },
+  {
+    "id": "pl_7f97f2721b",
+    "code": "JP-FUK-S-0002",
+    "slug": "fukuoka-castle",
+    "kind": "sight",
+    "name_ko": "후쿠오카성터(마이즈루 공원)"
+  },
+  {
+    "id": "pl_790215e1eb",
+    "code": "JP-FUK-S-0003",
+    "slug": "dazaifu-tenmangu",
+    "kind": "sight",
+    "name_ko": "다자이후 텐만구"
+  },
+  {
+    "id": "pl_f194f4154b",
+    "code": "JP-FUK-S-0004",
+    "slug": "kushida-shrine",
+    "kind": "sight",
+    "name_ko": "구시다 신사"
+  },
+  {
+    "id": "pl_6ecd6497be",
+    "code": "JP-FUK-S-0005",
+    "slug": "fukuoka-tower",
+    "kind": "sight",
+    "name_ko": "후쿠오카 타워"
+  },
+  {
+    "id": "pl_b8010aeb8b",
+    "code": "JP-FUK-S-0006",
+    "slug": "seaside-momochi-seaside-park",
+    "kind": "sight",
+    "name_ko": "모모치 해변 공원"
+  },
+  {
+    "id": "pl_aa6c990ceb",
+    "code": "JP-FUK-S-0007",
+    "slug": "marine-world-uminonakamichi",
+    "kind": "sight",
+    "name_ko": "마린월드 우미노나카미치"
+  },
+  {
+    "id": "pl_48467edece",
+    "code": "JP-FUK-S-0008",
+    "slug": "uminonakamichi-seaside-park",
+    "kind": "sight",
+    "name_ko": "우미노나카미치 해변 공원"
+  },
+  {
+    "id": "pl_c9c2ddd672",
+    "code": "JP-FUK-S-0009",
+    "slug": "fukuoka-asian-art-museum",
+    "kind": "sight",
+    "name_ko": "후쿠오카 아시아미술관"
+  },
+  {
+    "id": "pl_854085f607",
+    "code": "JP-FUK-S-0010",
+    "slug": "hakata-machiya-folk-museum",
+    "kind": "sight",
+    "name_ko": "하카타 마치야 후루사토관"
+  },
+  {
+    "id": "pl_a345444489",
+    "code": "JP-FUK-S-0011",
+    "slug": "fukuoka-dome",
+    "kind": "sight",
+    "name_ko": "후쿠오카 PayPay 돔"
+  },
+  {
+    "id": "pl_e86cf184c2",
+    "code": "JP-FUK-S-0012",
+    "slug": "noko-island",
+    "kind": "sight",
+    "name_ko": "노코노시마"
+  },
+  {
+    "id": "pl_e1215bf97e",
+    "code": "JP-FUK-S-0013",
+    "slug": "fukuoka-city-museum",
+    "kind": "sight",
+    "name_ko": "후쿠오카시 박물관"
+  },
+  {
+    "id": "pl_234c0dd483",
+    "code": "JP-FUK-S-0014",
+    "slug": "kyushu-national-museum",
+    "kind": "sight",
+    "name_ko": "규슈 국립박물관"
+  },
+  {
+    "id": "pl_656ac8ea60",
+    "code": "JP-FUK-S-0015",
+    "slug": "komyozen-ji",
+    "kind": "sight",
+    "name_ko": "고묘젠지"
+  },
+  {
+    "id": "pl_0f2962067b",
+    "code": "JP-FUK-S-0016",
+    "slug": "hakata-port-tower",
+    "kind": "sight",
+    "name_ko": "하카타 포트 타워"
+  },
+  {
+    "id": "pl_f698c3d0ef",
+    "code": "JP-FUK-S-0017",
+    "slug": "tocho-ji-temple",
+    "kind": "sight",
+    "name_ko": "도초지"
+  },
+  {
+    "id": "pl_931ca9e2a4",
+    "code": "JP-FUK-S-0018",
+    "slug": "fukuoka-city-science-museum",
+    "kind": "sight",
+    "name_ko": "후쿠오카시 과학관"
+  },
+  {
+    "id": "pl_02a603f330",
+    "code": "JP-FUK-S-0019",
+    "slug": "hakozaki-shrine",
+    "kind": "sight",
+    "name_ko": "하코자키 궁"
+  },
+  {
+    "id": "pl_79ebe86ce8",
+    "code": "JP-FUK-S-0021",
+    "slug": "nakasu",
+    "kind": "sight",
+    "name_ko": "나카스"
+  },
+  {
+    "id": "pl_1fb266340b",
+    "code": "JP-FUK-S-0022",
+    "slug": "tenjin",
+    "kind": "sight",
+    "name_ko": "텐진"
+  },
+  {
+    "id": "pl_2f03d904ab",
+    "code": "JP-FUK-S-0023",
+    "slug": "sumiyoshi-shrine",
+    "kind": "sight",
+    "name_ko": "스미요시 신사(후쿠오카)"
+  },
+  {
+    "id": "pl_275730b5b9",
+    "code": "JP-FUK-S-0024",
+    "slug": "nanzoin",
+    "kind": "sight",
+    "name_ko": "난조인"
+  },
+  {
+    "id": "pl_80c2cb00d5",
+    "code": "JP-FUK-S-0025",
+    "slug": "shofuku-ji",
+    "kind": "sight",
+    "name_ko": "쇼후쿠지"
+  },
+  {
+    "id": "pl_1b4a953c56",
+    "code": "JP-FUK-S-0026",
+    "slug": "yufuin-yunotsubo-street",
+    "kind": "sight",
+    "name_ko": "유후인 유노츠보 거리"
+  },
+  {
+    "id": "pl_6c00d1038e",
+    "code": "JP-FUK-S-0027",
+    "slug": "lake-kinrin",
+    "kind": "sight",
+    "name_ko": "긴린코 호수"
+  },
+  {
+    "id": "pl_a575018e9b",
+    "code": "JP-FUK-S-0028",
+    "slug": "yufuin-floral-village",
+    "kind": "sight",
+    "name_ko": "유후인 플로럴 빌리지"
+  },
+  {
+    "id": "pl_5bf0dbeb0f",
+    "code": "JP-FUK-S-0029",
+    "slug": "beppu-jigoku-meguri",
+    "kind": "sight",
+    "name_ko": "벳푸 지옥 순례"
+  },
+  {
+    "id": "pl_047755b2bb",
+    "code": "JP-FUK-S-0030",
+    "slug": "takegawara-onsen",
+    "kind": "sight",
+    "name_ko": "다케가와라 온천"
+  },
+  {
+    "id": "pl_f4675a54d4",
+    "code": "JP-FUK-S-0031",
+    "slug": "beppu-ropeway-tsurumi",
+    "kind": "sight",
+    "name_ko": "벳푸 로프웨이 (쓰루미다케)"
+  },
+  {
+    "id": "pl_75c8630b55",
+    "code": "JP-FUK-S-0032",
+    "slug": "kurokawa-onsen",
+    "kind": "sight",
+    "name_ko": "구로카와 온천"
+  },
+  {
+    "id": "pl_c67a01d365",
+    "code": "JP-FUK-S-0033",
+    "slug": "yanagawa-donko-boat",
+    "kind": "sight",
+    "name_ko": "야나가와 뱃놀이"
+  },
+  {
+    "id": "pl_1cf501e970",
+    "code": "JP-FUK-S-0034",
+    "slug": "mojiko-retro",
+    "kind": "sight",
+    "name_ko": "모지코 레트로"
+  },
+  {
+    "id": "pl_8a9ba3ae54",
+    "code": "JP-FUK-S-0035",
+    "slug": "kawachi-fuji-garden",
+    "kind": "sight",
+    "name_ko": "가와치 후지엔"
+  },
+  {
+    "id": "pl_367e957f8e",
+    "code": "JP-FUK-S-0036",
+    "slug": "sarakurayama-night-view",
+    "kind": "sight",
+    "name_ko": "사라쿠라야마 야경"
+  },
+  {
+    "id": "pl_7e5a521e90",
+    "code": "JP-FUK-S-0037",
+    "slug": "sakurai-futamigaura",
+    "kind": "sight",
+    "name_ko": "사쿠라이 후타미가우라 (부부바위)"
+  },
+  {
+    "id": "pl_44431d3e2f",
+    "code": "JP-FUK-S-0038",
+    "slug": "aino-shima-cat-island",
+    "kind": "sight",
+    "name_ko": "아이노시마 (고양이 섬)"
+  },
+  {
+    "id": "pl_e62f385233",
+    "code": "JP-FUK-S-0039",
+    "slug": "karatsu-castle",
+    "kind": "sight",
+    "name_ko": "가라쓰 성"
+  },
+  {
+    "id": "pl_66bb791000",
+    "code": "JP-FUK-S-0040",
+    "slug": "munakata-taisha",
+    "kind": "sight",
+    "name_ko": "무나카타 대사"
+  },
+  {
+    "id": "pl_7bc280df40",
+    "code": "JP-FUK-S-0041",
+    "slug": "fukuoka-zoo-botanical",
+    "kind": "sight",
+    "name_ko": "후쿠오카시 동식물원"
+  },
+  {
+    "id": "pl_763741ee08",
+    "code": "JP-FUK-S-0042",
+    "slug": "daimyo-area",
+    "kind": "sight",
+    "name_ko": "다이묘 거리"
+  },
+  {
+    "id": "pl_9901b0c205",
+    "code": "JP-FUK-T-0001",
+    "slug": "hakata-station",
+    "kind": "transit",
+    "name_ko": "하카타역"
+  },
+  {
+    "id": "pl_4f4ef7b6e9",
+    "code": "JP-FUK-T-0002",
+    "slug": "fukuoka-airport",
+    "kind": "transit",
+    "name_ko": "후쿠오카 공항"
+  },
+  {
+    "id": "pl_a12b1031ae",
+    "code": "JP-FUK-T-0003",
+    "slug": "hakata-port-ferry-terminal",
+    "kind": "transit",
+    "name_ko": "하카타 항 국제터미널"
+  }
+]

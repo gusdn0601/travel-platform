@@ -1,0 +1,82 @@
+{
+  "id": "pl_fad363ba26",
+  "code": "JP-FUK-P-0004",
+  "city_id": "JP-FUK",
+  "slug": "marinoa-city-outlet",
+  "kind": "shop",
+  "name_ko": "마리노아 시티 후쿠오카 (아울렛)",
+  "name_sub": "Marinoa City Fukuoka",
+  "name_local": "マリノアシティ福岡",
+  "lat": 33.59436,
+  "lng": 130.32275,
+  "area": "이메지",
+  "lead": "바다를 낀 대형 아울렛 몰. 관람차와 해안 산책로가 있어 쇼핑과 휴식을 같이 즐겨요.",
+  "facts": [
+    [
+      "종류",
+      "아울렛 · 쇼핑몰"
+    ],
+    [
+      "특징",
+      "관람차, 바다 전망"
+    ],
+    [
+      "위치",
+      "후쿠오카 서쪽 해안"
+    ],
+    [
+      "접근",
+      "지하철+버스 또는 셔틀"
+    ]
+  ],
+  "origin": [
+    "마리노아 시티는 후쿠오카 서쪽 해안에 자리한 대형 쇼핑 단지로, 스포츠·패션 브랜드 아울렛과 푸드코트가 모여 있어요.",
+    "바다 쪽에는 관람차가 있어 낮에는 해안 풍경, 밤에는 조명을 즐길 수 있어요.",
+    "한국 여행객이 아웃도어·스포츠 브랜드를 사러 찾는 곳으로 소개돼요."
+  ],
+  "practical": [
+    "시내에서 이동 시간 약 30~40분",
+    "아울렛 할인 기간 확인",
+    "택스 프리 카운터 안내 확인"
+  ],
+  "tip": "시내에서 셔틀 또는 버스 시간표를 미리 확인하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "아울렛",
+    "관람차",
+    "바닷가"
+  ],
+  "art_key": "mall",
+  "local_search": "マリノアシティ福岡",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%8E%E3%82%A2%E3%82%B7%E3%83%86%E3%82%A3%E7%A6%8F%E5%B2%A1"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 아울렛로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:23.568Z"
+}

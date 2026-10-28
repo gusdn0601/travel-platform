@@ -1,0 +1,78 @@
+{
+  "id": "pl_a8a2ca1bca",
+  "code": "JP-KYO-F-0039",
+  "city_id": "JP-KYO",
+  "slug": "starbucks-ninenzaka",
+  "kind": "food",
+  "name_ko": "스타벅스 교토 니넨자카 차야점",
+  "name_sub": "Starbucks Ninenzaka",
+  "name_local": "スターバックス 京都二寧坂ヤサカ茶屋店",
+  "lat": 34.99828,
+  "lng": 135.78081,
+  "area": "히가시야마",
+  "lead": "전통 가옥을 그대로 쓴 스타벅스로 유명한 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "커피 전문점"
+    ],
+    [
+      "특징",
+      "전통 가옥 매장"
+    ],
+    [
+      "위치",
+      "니넨자카"
+    ]
+  ],
+  "origin": [
+    "스타벅스 니넨자카점은 오래된 2층 가옥을 그대로 살린 매장으로 알려져 있어요.",
+    "들어가면 다다미방에 자리가 마련되어 있어 교토 분위기를 그대로 느낄 수 있어요.",
+    "입구가 좁아 대기하는 경우가 많고, 좌석 이용 규칙이 붙어 있어요.",
+    "기요미즈데라 코스 중간에 있어 들르기 쉬워요."
+  ],
+  "practical": [
+    "입장 대기 김",
+    "좌석 규칙 확인"
+  ],
+  "tip": "오전 이른 시간이 가장 붐비지 않아요.",
+  "open_hours": "Mo-Su 08:00-20:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "1인 600~1,200엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "전통가옥",
+    "니넨자카"
+  ],
+  "art_key": "cafe",
+  "local_search": "スターバックス 京都二寧坂ヤサカ茶屋店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/10844279757"
+  ],
+  "meta": {
+    "priority": 4,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 인생 사진 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:25.517Z"
+}

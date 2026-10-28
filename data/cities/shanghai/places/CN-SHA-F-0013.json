@@ -1,0 +1,87 @@
+{
+  "id": "pl_72b276defd",
+  "code": "CN-SHA-F-0013",
+  "city_id": "CN-SHA",
+  "slug": "lubolang",
+  "kind": "food",
+  "name_ko": "뤼보랑 (绿波廊)",
+  "name_local": "绿波廊酒楼 豫园",
+  "lat": 31.22842,
+  "lng": 121.48754,
+  "area": "예원",
+  "lead": "구곡교와 호심정을 마주 보는 예원 안 전통 레스토랑. 상하이 본토식 요리와 딤섬이 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "상하이 본토식 · 딤섬"
+    ],
+    [
+      "위치",
+      "예원 상권 안"
+    ],
+    [
+      "분위기",
+      "전통 건물 · 호수뷰"
+    ],
+    [
+      "예약",
+      "주말 필수 권장"
+    ]
+  ],
+  "origin": [
+    "뤼보랑은 예원 상권의 정원 건물 안에 자리한 전통 중식당이에요.",
+    "외국 귀빈이 다녀간 곳으로 자주 소개되고, 건물 모양이 구곡교와 호심정 풍경과 어우러져요.",
+    "본토 요리는 간장과 설탕을 써서 진하고 달콤한 맛이 특징으로, 딤섬은 모양이 정교해 눈이 즐거워요."
+  ],
+  "practical": [
+    "점심·저녁 모두 예약 권장",
+    "창가 좌석 요청은 예약 시"
+  ],
+  "tip": "호수와 다리를 보는 창가석을 부탁해 보세요.",
+  "order": [
+    "<b>三丝眉毛酥</b> 눈썹 모양 과자",
+    "<b>蟹粉小笼</b> 게살 샤오룽바오",
+    "<b>红烧肉</b> 홍샤오러우"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 150~300위안 추정",
+  "must": 0,
+  "tags": [
+    "본토식",
+    "딤섬",
+    "호심정뷰"
+  ],
+  "art_key": "garden",
+  "local_search": "绿波廊酒楼 豫园",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C",
+    "https://www.openstreetmap.org/node/5346226598"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 예원 전통 레스토랑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.070Z"
+}

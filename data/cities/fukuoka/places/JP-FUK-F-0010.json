@@ -1,0 +1,86 @@
+{
+  "id": "pl_1d1b222573",
+  "code": "JP-FUK-F-0010",
+  "city_id": "JP-FUK",
+  "slug": "motsunabe-maedaya",
+  "kind": "food",
+  "name_ko": "모츠나베 마에다야",
+  "name_sub": "Maedaya",
+  "name_local": "もつ鍋 前田屋",
+  "lat": null,
+  "lng": null,
+  "area": "하카타",
+  "lead": "소 곱창과 양배추·부추를 간장·된장 국물에 끓이는 하카타식 전골의 대표 가게 중 하나로 소개돼요.",
+  "facts": [
+    [
+      "종류",
+      "모츠나베(곱창 전골)"
+    ],
+    [
+      "특징",
+      "양배추·부추 듬뿍"
+    ],
+    [
+      "곁들임",
+      "마무리 짬뽕면·밥"
+    ],
+    [
+      "위치",
+      "하카타 일대"
+    ]
+  ],
+  "origin": [
+    "모츠나베는 소 곱창과 채소를 한 냄비에 끓여 먹는 후쿠오카의 명물 요리로, 전후 한국계 식문화의 곱창 요리가 일본식으로 정착했다는 설명이 자주 나와요.",
+    "간장 맛과 된장 맛이 대표 두 갈래이고, 마지막에 짬뽕면이나 밥을 넣어 마무리하는 방식이 정석이에요.",
+    "곱창에서 나온 기름이 국물에 녹아 진한 단맛이 나는데, 한국의 곱창전골과 비슷한 듯 다른 매력으로 한국 여행객 후기에 자주 등장해요."
+  ],
+  "practical": [
+    "2인분부터 주문 가능한 가게 많음",
+    "인기 시간대엔 예약 권장",
+    "냄새가 옷에 배므로 겉옷 주의"
+  ],
+  "tip": "마무리 면은 국물이 졸기 전에 넣어요.",
+  "order": [
+    "<b>もつ鍋</b> 곱창 전골(간장/된장)",
+    "<b>ちゃんぽん麺</b> 마무리 면",
+    "<b>雑炊</b> 마무리 죽"
+  ],
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "1인 2,500~3,500엔 추정",
+  "must": 0,
+  "tags": [
+    "모츠나베",
+    "전골",
+    "저녁"
+  ],
+  "art_key": "hotpot",
+  "local_search": "もつ鍋 前田屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Motsunabe",
+    "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A4%E9%8D%8B"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 모츠나베 대표로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:49.911Z"
+}

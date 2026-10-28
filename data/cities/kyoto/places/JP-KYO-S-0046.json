@@ -1,0 +1,83 @@
+{
+  "id": "pl_4c5cfd6d91",
+  "code": "JP-KYO-S-0046",
+  "city_id": "JP-KYO",
+  "slug": "hozugawa-boat",
+  "kind": "sight",
+  "name_ko": "호즈강 뱃놀이",
+  "name_sub": "Hozugawa River Boat",
+  "name_local": "保津川下り",
+  "lat": null,
+  "lng": null,
+  "area": "교외(가메오카)",
+  "lead": "가메오카에서 아라시야마까지 계곡을 내려오는 전통 뱃놀이. 뱃사공의 노 젓기로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "체험"
+    ],
+    [
+      "소요",
+      "약 2시간"
+    ],
+    [
+      "구간",
+      "가메오카~아라시야마"
+    ]
+  ],
+  "origin": [
+    "호즈강 뱃놀이는 오랜 세월 이 지역에서 물자를 나르던 강길을 관광용으로 바꾼 것으로 알려져 있어요.",
+    "사공이 노로 배를 조종하며 급류를 내려가는 방식이라 가볍게 짜릿함을 즐길 수 있다고 소개돼요.",
+    "겨울에는 난로 배가 운행된다는 이야기가 있어요.",
+    "날씨에 따라 운항이 중단될 수 있어요."
+  ],
+  "practical": [
+    "날씨·수위로 운휴 가능",
+    "젖을 수 있어 대비"
+  ],
+  "tip": "사가노 열차와 한 세트로 많이 이용해요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "약 4,500엔(추정)",
+  "must": 0,
+  "tags": [
+    "뱃놀이",
+    "계곡",
+    "체험"
+  ],
+  "art_key": "river",
+  "local_search": "保津川下り",
+  "photos": [
+    "JP-KYO-S-0046-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hozu_River",
+    "https://www.openstreetmap.org/way/250294715"
+  ],
+  "meta": {
+    "priority": 17,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 6300,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 근교 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28",
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+  },
+  "sanitized_at": "2026-10-28T10:09:25.118Z"
+}

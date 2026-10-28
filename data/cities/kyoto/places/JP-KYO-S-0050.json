@@ -1,0 +1,79 @@
+{
+  "id": "pl_bac9386e47",
+  "code": "JP-KYO-S-0050",
+  "city_id": "JP-KYO",
+  "slug": "otsu-ishiyamadera",
+  "kind": "sight",
+  "name_ko": "이시야마데라(오쓰)",
+  "name_sub": "Ishiyama-dera",
+  "name_local": "石山寺",
+  "lat": 34.96042,
+  "lng": 135.90562,
+  "area": "교외(시가)",
+  "lead": "겐지모노가타리 집필 전설이 전해지는 비와호 인근 사찰이에요.",
+  "facts": [
+    [
+      "종류",
+      "진언종 사찰"
+    ],
+    [
+      "특징",
+      "무라사키 시키부 전설"
+    ],
+    [
+      "위치",
+      "시가 현 오쓰"
+    ]
+  ],
+  "origin": [
+    "이시야마데라는 비와호 남쪽 오쓰에 있는 사찰로, 무라사키 시키부가 이곳에서 겐지모노가타리를 구상했다는 전설이 알려져 있어요.",
+    "큰 바위 위에 지어진 본당과 계절 꽃으로 알려져 있어요.",
+    "교토에서 전철로 이동 가능해 반나절 근교 코스로 소개돼요."
+  ],
+  "practical": [
+    "교토 시내와 현이 달라 교통비 확인"
+  ],
+  "tip": "비와호 유람과 함께 묶으세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "겐지모노가타리",
+    "근교"
+  ],
+  "art_key": "temple",
+  "local_search": "石山寺",
+  "photos": [
+    "JP-KYO-S-0050-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ishiyama-dera",
+    "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B1%B1%E5%AF%BA"
+  ],
+  "meta": {
+    "priority": 35,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 근교로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:33.841Z"
+}

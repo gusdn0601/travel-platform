@@ -1,0 +1,66 @@
+{
+  "id": "pl_0b28eec8e5",
+  "code": "JP-NAR-S-0024",
+  "city_id": "JP-NAR",
+  "slug": "nara-prefecture-complex-of-man-yo-culture",
+  "kind": "sight",
+  "name_ko": "나라현립 만요문화관",
+  "name_sub": "Nara Prefecture Complex of Man'yo Culture",
+  "name_local": "奈良県立万葉文化館",
+  "lat": 34.47722,
+  "lng": 135.82222,
+  "area": "교외(아스카)",
+  "lead": "만요슈 시대 문화를 소개하는 시설. 아스카 일정과 이어서 둘러볼 만해요.",
+  "facts": [
+    [
+      "종류",
+      "문화관"
+    ],
+    [
+      "위치",
+      "아스카"
+    ],
+    [
+      "특징",
+      "고대 문화 전시"
+    ]
+  ],
+  "tip": "아스카 지역은 이동이 많아 자전거를 빌리면 편해요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "아스카",
+    "고대"
+  ],
+  "art_key": "museum",
+  "local_search": "奈良県立万葉文化館",
+  "photos": [
+    "JP-NAR-S-0024-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11445177",
+    "https://en.wikipedia.org/wiki/Nara_Prefecture_Complex_of_Man'yo_Culture",
+    "https://www.manyo.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "museum in Asuka, Nara, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:03:34.587Z"
+}

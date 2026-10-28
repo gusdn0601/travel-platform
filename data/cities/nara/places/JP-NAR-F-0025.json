@@ -1,0 +1,82 @@
+{
+  "id": "pl_a86f4609ab",
+  "code": "JP-NAR-F-0025",
+  "city_id": "JP-NAR",
+  "slug": "marugame-seimen-nara",
+  "kind": "food",
+  "name_ko": "마루가메 제면 나라점",
+  "name_sub": "Marugame Seimen",
+  "name_local": "丸亀製麺 奈良店",
+  "lat": 34.661,
+  "lng": 135.8326,
+  "area": "니시노쿄",
+  "lead": "주문 즉석에서 삶아 내는 우동 체인. 가격이 낮아 여행 중 부담이 적어요.",
+  "facts": [
+    [
+      "종류",
+      "우동 체인"
+    ],
+    [
+      "특징",
+      "즉석 조리"
+    ],
+    [
+      "위치",
+      "나라 시내 남쪽"
+    ]
+  ],
+  "origin": [
+    "마루가메 제면은 일본 곳곳에 있는 우동 체인으로, 가게 안에서 면을 삶아 내요.",
+    "나라점은 도심에서 조금 떨어져 있어 차로 들르는 경우가 많아요.",
+    "가격이 낮고 양이 넉넉해 이동이 많은 날 점심으로 무난해요.",
+    "튀김을 골라 담는 방식이에요."
+  ],
+  "practical": [
+    "현금·카드 가능",
+    "셀프 방식"
+  ],
+  "tip": "튀김은 계산 전에 골라 담는 방식이에요.",
+  "order": [
+    "<b>かけうどん</b> 기본 우동",
+    "<b>天ぷら</b> 튀김"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 500~900엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "가성비",
+    "체인"
+  ],
+  "art_key": "noodle",
+  "local_search": "丸亀製麺 奈良店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/657551768"
+  ],
+  "meta": {
+    "priority": 61,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "가성비 식사(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:35.308Z"
+}

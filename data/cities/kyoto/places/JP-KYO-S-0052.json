@@ -1,0 +1,78 @@
+{
+  "id": "pl_b212b05b06",
+  "code": "JP-KYO-S-0052",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-botanical-garden",
+  "kind": "sight",
+  "name_ko": "교토 부립 식물원",
+  "name_sub": "Kyoto Botanical Gardens",
+  "name_local": "京都府立植物園",
+  "lat": 35.04833,
+  "lng": 135.76111,
+  "area": "사쿄구",
+  "lead": "1924년 개원한 일본 공립 식물원의 선구격 식물원. 대온실이 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "식물원"
+    ],
+    [
+      "개원",
+      "1924년"
+    ],
+    [
+      "특징",
+      "대온실"
+    ]
+  ],
+  "origin": [
+    "교토 부립 식물원은 1924년에 일반 공개를 시작했다고 알려진 일본 공립 식물원의 선구격 시설이에요.",
+    "대온실과 계절 꽃밭이 중심이고, 시내에서 비교적 가까워요.",
+    "시내 관광이 지칠 때 숨 돌리기 좋다고 소개돼요."
+  ],
+  "practical": [
+    "개원 시간 확인"
+  ],
+  "tip": "아이 동반 가족 일정에 어울려요.",
+  "open_hours": "09:00-17:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "식물원",
+    "온실",
+    "공원"
+  ],
+  "art_key": "park",
+  "local_search": "京都府立植物園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyoto_Botanical_Garden",
+    "https://www.openstreetmap.org/way/98106475"
+  ],
+  "meta": {
+    "priority": 40,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 170,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "현지/가족 여행 코스(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:36.968Z"
+}

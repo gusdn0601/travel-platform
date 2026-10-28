@@ -1,0 +1,62 @@
+{
+  "id": "pl_2f03d904ab",
+  "code": "JP-FUK-S-0023",
+  "city_id": "JP-FUK",
+  "slug": "sumiyoshi-shrine",
+  "kind": "sight",
+  "name_ko": "스미요시 신사(후쿠오카)",
+  "name_sub": "Sumiyoshi Shrine",
+  "name_local": "住吉神社",
+  "lat": 33.58566,
+  "lng": 130.41425,
+  "area": "하카타",
+  "lead": "하카타에 있는 오래된 신사. 스미요시 신사의 원형으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "위치",
+      "하카타 구시가"
+    ],
+    [
+      "특징",
+      "고요한 경내"
+    ]
+  ],
+  "tip": "하카타역에서 걸어서 갈 수 있어 짧게 들르기 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "역사",
+    "하카타"
+  ],
+  "art_key": "shrine",
+  "local_search": "住吉神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/10813014531"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:48.803Z"
+}

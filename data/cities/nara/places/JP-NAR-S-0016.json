@@ -1,0 +1,67 @@
+{
+  "id": "pl_3e647b8d42",
+  "code": "JP-NAR-S-0016",
+  "city_id": "JP-NAR",
+  "slug": "kasugayama-primeval-forest",
+  "kind": "sight",
+  "name_ko": "가스가야마 원시림",
+  "name_sub": "Kasugayama Primeval Forest",
+  "name_local": "春日山原始林",
+  "lat": 34.68306,
+  "lng": 135.86278,
+  "area": "나라 공원",
+  "lead": "수백 년간 벌채가 금지된 신역 숲. 걷는 길이 한적하고 공기가 서늘해요.",
+  "facts": [
+    [
+      "종류",
+      "원시림"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "특징",
+      "탐방로 산책"
+    ]
+  ],
+  "tip": "가스가타이샤와 연결되는 길이 있어 반나절 코스로 이어가기 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "숲",
+    "세계유산",
+    "산책"
+  ],
+  "art_key": "forest",
+  "local_search": "春日山原始林",
+  "photos": [
+    "JP-NAR-S-0016-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5367406",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8A%A4%EA%B0%80%EC%82%B0_%EC%9B%90%EC%8B%9C%EB%A6%BC",
+    "https://en.wikipedia.org/wiki/Kasugayama_Primeval_Forest",
+    "http://www.pref.nara.jp/25846.htm"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Primeval forest in Nara, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:03:07.091Z"
+}

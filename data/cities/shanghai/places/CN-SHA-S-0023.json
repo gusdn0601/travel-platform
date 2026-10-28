@@ -1,0 +1,80 @@
+{
+  "id": "pl_08ab8af45b",
+  "code": "CN-SHA-S-0023",
+  "city_id": "CN-SHA",
+  "slug": "century-park",
+  "kind": "sight",
+  "name_ko": "세기공원",
+  "name_sub": "Century Park",
+  "name_local": "世纪公园",
+  "lat": 31.2188,
+  "lng": 121.54863,
+  "area": "푸동",
+  "lead": "상하이 도심 최대급 시민공원. 잔디와 호수가 넓어 푸동 일정 중 쉬어 가기 좋아요.",
+  "facts": [
+    [
+      "개장",
+      "2000년"
+    ],
+    [
+      "규모",
+      "약 140헥타르"
+    ],
+    [
+      "특징",
+      "호수·잔디·자전거 대여"
+    ],
+    [
+      "위치",
+      "푸동, 지하철 2호선 세기공원역"
+    ]
+  ],
+  "origin": [
+    "세기공원은 2000년 개장한 대규모 공원이에요.",
+    "푸동 신구 개발 과정에서 도심 속 녹지를 확보하자는 취지로 조성됐어요.",
+    "호수와 잔디밭이 넓고 영국식 정원 요소를 접목했다고 소개돼요.",
+    "도시 한복판에서 한적하게 걷거나 자전거를 탈 수 있어요."
+  ],
+  "tip": "공원이 넓어서 자전거 대여를 이용하면 효율적이에요.",
+  "open_hours": "07:00-18:00 (OSM)",
+  "stay_min": 120,
+  "price_hint": "입장료 소액(추정)",
+  "must": 0,
+  "tags": [
+    "공원",
+    "산책",
+    "자전거"
+  ],
+  "art_key": "park",
+  "local_search": "世纪公园",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%96%E7%B4%80%E5%85%AC%E5%9C%92",
+    "https://en.wikipedia.org/wiki/Pudong",
+    "https://www.openstreetmap.org/relation/1919664"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.899Z"
+}

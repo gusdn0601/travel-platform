@@ -1,0 +1,62 @@
+{
+  "id": "pl_80c2cb00d5",
+  "code": "JP-FUK-S-0025",
+  "city_id": "JP-FUK",
+  "slug": "shofuku-ji",
+  "kind": "sight",
+  "name_ko": "쇼후쿠지",
+  "name_sub": "Shofuku-ji",
+  "name_local": "聖福寺",
+  "lat": 33.59701,
+  "lng": 130.4142,
+  "area": "하카타",
+  "lead": "일본 최초 선종 사찰이라고 전해지는 하카타의 사찰. 조용한 경내가 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "사찰(선종)"
+    ],
+    [
+      "특징",
+      "일본 선종의 시초라 전해짐"
+    ],
+    [
+      "위치",
+      "하카타 구시가"
+    ]
+  ],
+  "tip": "도초지 등 인근 사찰과 묶어 산책하기 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "경내 무료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "선종",
+    "하카타"
+  ],
+  "art_key": "temple",
+  "local_search": "聖福寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/767775376"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:50.514Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pl_edb7536e02",
+  "code": "JP-OSA-S-0017",
+  "city_id": "JP-OSA",
+  "slug": "osaka-tenmangu",
+  "kind": "sight",
+  "name_ko": "오사카 텐만구",
+  "name_sub": "Ōsaka Tenmangū",
+  "name_local": "大阪天満宮",
+  "addr_local": "〒530-8580 大阪府 大阪市 北区 8",
+  "lat": 34.69602,
+  "lng": 135.51262,
+  "area": "나카노시마",
+  "lead": "학문의 신을 모신 도심 신사. 앞 상점가인 텐진바시스지와 이어져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "제신",
+      "학문의 신(스가와라노 미치자네)"
+    ],
+    [
+      "행사",
+      "여름 텐진 마쓰리"
+    ],
+    [
+      "연도(Wikidata)",
+      "949년"
+    ]
+  ],
+  "tip": "앞 상점가에서 간식을 먹으며 걷는 코스로 이어가기 좋아요.",
+  "open_hours": "경내 상시 개방(사무소 시간 별도) (추정)",
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "전통",
+    "시장"
+  ],
+  "art_key": "shrine",
+  "local_search": "大阪天満宮",
+  "photos": [
+    "JP-OSA-S-0017-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q385793",
+    "https://en.wikipedia.org/wiki/Osaka_Tenmang%C5%AB",
+    "https://www.openstreetmap.org/way/164672867",
+    "https://osakatemmangu.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 6,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "Shinto shrine in Osaka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:43.861Z"
+}

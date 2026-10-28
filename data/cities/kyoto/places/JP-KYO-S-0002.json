@@ -1,0 +1,73 @@
+{
+  "id": "pl_21a0b2da9e",
+  "code": "JP-KYO-S-0002",
+  "city_id": "JP-KYO",
+  "slug": "kiyomizu-dera",
+  "kind": "sight",
+  "name_ko": "기요미즈데라",
+  "name_sub": "Kiyomizu-dera",
+  "name_local": "清水寺",
+  "lat": 34.99483,
+  "lng": 135.785,
+  "area": "히가시야마",
+  "lead": "절벽 위에 나무 무대를 걸친 본당으로 유명한 사찰. 교토 시내가 내려다보여요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "본당 무대, 오토와 폭포"
+    ],
+    [
+      "유산",
+      "세계유산(고도 교토 문화재)"
+    ],
+    [
+      "연도(Wikidata)",
+      "778년"
+    ]
+  ],
+  "tip": "오르막 참배길(산넨자카 일대)과 묶어서 걸으면 동선이 자연스러워요.",
+  "open_hours": "Mo-Su 06:00-18:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "본당 입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "세계유산",
+    "전망"
+  ],
+  "art_key": "temple",
+  "local_search": "清水寺",
+  "photos": [
+    "JP-KYO-S-0002-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q221716",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%9A%94%EB%AF%B8%EC%A6%88%EB%8D%B0%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Kiyomizu-dera",
+    "https://www.openstreetmap.org/way/336641107",
+    "http://www.kiyomizudera.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 66,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Higashiyama-ku, Kyoto",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:32.600Z"
+}

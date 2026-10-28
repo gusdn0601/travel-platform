@@ -1,0 +1,77 @@
+{
+  "id": "pl_8608bc2a7b",
+  "code": "JP-KYO-F-0003",
+  "city_id": "JP-KYO",
+  "slug": "honke-owariya",
+  "kind": "food",
+  "name_ko": "혼케 오와리야 본점",
+  "name_sub": "Honke Owariya",
+  "name_local": "本家尾張屋 本店",
+  "lat": null,
+  "lng": null,
+  "area": "나카교구",
+  "lead": "15세기에 시작했다고 전해지는 소바 노포. 청어 소바(니신소바)로 알려진 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "소바·교토 가정식"
+    ],
+    [
+      "대표",
+      "니신 소바"
+    ],
+    [
+      "창업",
+      "1465년 전해짐"
+    ]
+  ],
+  "origin": [
+    "혼케 오와리야는 1465년 무렵 과자 가게로 시작했고 이후 소바로 이름을 알렸다고 전해져요.",
+    "지금도 교토 소바의 대표 노포로 소개되는 곳이에요.",
+    "청어 소바는 말린 청어를 달짝지근하게 조려 올린 교토 향토 요리로, 바다에서 먼 교토에서 건어물이 귀한 단백질이었던 사정이 배경이라고 해요."
+  ],
+  "practical": [
+    "점심 시간대 대기 가능",
+    "영업시간 변동 확인"
+  ],
+  "tip": "청어가 낯설면 따뜻한 일반 소바부터 시작해도 좋아요.",
+  "order": [
+    "<b>にしんそば</b> 청어 소바",
+    "<b>宝来そば</b> 소바 세트"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,200~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "소바",
+    "노포",
+    "교토요리"
+  ],
+  "art_key": "noodle",
+  "local_search": "本家尾張屋 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 5,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 전통 소바로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:06.892Z"
+}

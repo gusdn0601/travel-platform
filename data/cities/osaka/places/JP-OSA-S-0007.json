@@ -1,0 +1,70 @@
+{
+  "id": "pl_bf90f2963d",
+  "code": "JP-OSA-S-0007",
+  "city_id": "JP-OSA",
+  "slug": "osaka-aquarium-kaiyukan",
+  "kind": "sight",
+  "name_ko": "오사카 해유관",
+  "name_sub": "Osaka Aquarium Kaiyukan",
+  "name_local": "海遊館",
+  "addr_local": "〒552-0021 大阪府 大阪市 港区 海岸通一丁目 海岸通",
+  "lat": 34.65447,
+  "lng": 135.42889,
+  "area": "오사카코/덴포잔",
+  "lead": "태평양을 한 덩어리로 옮겨 놓은 듯한 대형 수족관. 중앙 대수조의 고래상어가 주인공이에요.",
+  "facts": [
+    [
+      "종류",
+      "수족관"
+    ],
+    [
+      "개관",
+      "1990년"
+    ],
+    [
+      "대표",
+      "태평양 대수조, 고래상어"
+    ]
+  ],
+  "tip": "주말과 휴일은 입장 대기가 길어 개관 직후에 맞추는 것이 편해요.",
+  "open_hours": "Mo-Su 10:00-20:00 (OSM)",
+  "stay_min": 150,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "수족관",
+    "아이와",
+    "실내"
+  ],
+  "art_key": "aquarium",
+  "local_search": "海遊館",
+  "photos": [
+    "JP-OSA-S-0007-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1191885",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%9D%B4%EC%9C%A0%EC%B9%B8",
+    "https://en.wikipedia.org/wiki/Osaka_Aquarium_Kaiyukan",
+    "https://www.openstreetmap.org/relation/6994284",
+    "https://www.kaiyukan.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 46,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "aquarium in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:02.654Z"
+}

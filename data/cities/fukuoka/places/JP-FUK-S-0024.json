@@ -1,0 +1,62 @@
+{
+  "id": "pl_275730b5b9",
+  "code": "JP-FUK-S-0024",
+  "city_id": "JP-FUK",
+  "slug": "nanzoin",
+  "kind": "sight",
+  "name_ko": "난조인",
+  "name_sub": "Nanzoin",
+  "name_local": "南蔵院",
+  "lat": 33.61813,
+  "lng": 130.57187,
+  "area": "교외(사사구리)",
+  "lead": "아주 긴 와불로 알려진 사찰. 후쿠오카 시내에서 전철로 갈 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "청동 와불"
+    ],
+    [
+      "접근",
+      "JR 사사구리선"
+    ]
+  ],
+  "tip": "오래 걷는 일정이라 시간 여유를 두세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "와불",
+    "사사구리"
+  ],
+  "art_key": "temple",
+  "local_search": "南蔵院",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/7736216886"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:49.621Z"
+}

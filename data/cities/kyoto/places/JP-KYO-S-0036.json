@@ -1,0 +1,78 @@
+{
+  "id": "pl_e9b7888dcb",
+  "code": "JP-KYO-S-0036",
+  "city_id": "JP-KYO",
+  "slug": "yasaka-pagoda-hokanji",
+  "kind": "sight",
+  "name_ko": "야사카의 탑(호칸지)",
+  "name_sub": "Yasaka Pagoda",
+  "name_local": "法観寺 八坂の塔",
+  "lat": 34.99841,
+  "lng": 135.77931,
+  "area": "히가시야마",
+  "lead": "좁은 골목 끝에 우뚝 선 5층탑. 교토 히가시야마의 대표 사진 장소로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "5층탑"
+    ],
+    [
+      "특징",
+      "골목 뷰 포토 스팟"
+    ],
+    [
+      "위치",
+      "산넨자카 인근"
+    ]
+  ],
+  "origin": [
+    "야사카의 탑은 호칸지의 5층탑으로, 이 자리에 쇼토쿠 태자와 연결되는 창건 전승이 전해져요.",
+    "지금 탑은 15세기에 재건된 것으로 소개돼요.",
+    "골목 사이로 탑이 정면에 보이는 풍경 때문에 한국 여행자 사진에도 자주 등장해요.",
+    "인기 사진 지점은 도로 한복판이라 차량과 인파를 조심해야 해요."
+  ],
+  "practical": [
+    "사진 찍을 때 도로 안전 유의",
+    "내부 관람은 별도 시기에만"
+  ],
+  "tip": "이른 아침이 가장 한적해요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "외관 무료",
+  "must": 0,
+  "tags": [
+    "탑",
+    "사진명소",
+    "히가시야마"
+  ],
+  "art_key": "temple",
+  "local_search": "法観寺 八坂の塔",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/3752700713"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 히가시야마 포토 스팟로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:05.032Z"
+}

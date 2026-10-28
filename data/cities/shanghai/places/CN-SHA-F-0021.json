@@ -1,0 +1,83 @@
+{
+  "id": "pl_7bac3bb816",
+  "code": "CN-SHA-F-0021",
+  "city_id": "CN-SHA",
+  "slug": "banu-hotpot",
+  "kind": "food",
+  "name_ko": "바누 마오두 훠궈 (巴奴毛肚火锅)",
+  "name_local": "巴奴毛肚火锅",
+  "lat": null,
+  "lng": null,
+  "area": "도심 여러 지점",
+  "lead": "소 양(毛肚)을 앞세운 훠궈 체인. 담백한 육수와 신선한 재료로 호평받는다고 소개돼요.",
+  "facts": [
+    [
+      "종류",
+      "훠궈"
+    ],
+    [
+      "대표",
+      "마오두(소 양)"
+    ],
+    [
+      "육수",
+      "맑은 육수 선호"
+    ],
+    [
+      "지점",
+      "도심 여러 곳"
+    ]
+  ],
+  "origin": [
+    "바누는 훠궈 중에서도 소 양(毛肚)을 간판으로 내세우는 체인이에요.",
+    "훠궈는 중국 충칭·쓰촨에서 시작된 요리로 다양한 육수에 재료를 데쳐 먹어요.",
+    "한국 여행자는 하이디라오 외 다른 선택지를 찾을 때 후보로 올려요."
+  ],
+  "practical": [
+    "피크 시간 대기"
+  ],
+  "tip": "소 양은 7~10초만 데쳐 먹는 것이 정석이에요.",
+  "order": [
+    "<b>毛肚</b> 양",
+    "<b>菌汤锅底</b> 버섯 육수",
+    "<b>牛肉</b> 소고기"
+  ],
+  "open_hours": null,
+  "stay_min": 100,
+  "price_hint": "1인 120~200위안 추정",
+  "must": 0,
+  "tags": [
+    "훠궈",
+    "소양",
+    "체인"
+  ],
+  "art_key": "hotpot",
+  "local_search": "巴奴毛肚火锅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hot_pot",
+    "https://zh.wikipedia.org/wiki/%E7%81%AB%E9%94%85"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 훠궈 후보로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.358Z"
+}

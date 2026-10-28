@@ -1,0 +1,90 @@
+{
+  "id": "pl_b8a24419f8",
+  "code": "JP-OSA-F-0015",
+  "city_id": "JP-OSA",
+  "slug": "rikuro-namba",
+  "kind": "food",
+  "name_ko": "리쿠로 오지상의 가게 난바 본점",
+  "name_sub": "Rikuro's Cheesecake",
+  "name_local": "りくろーおじさんの店 なんば本店",
+  "lat": 34.66614,
+  "lng": 135.50151,
+  "area": "난바/도톤보리",
+  "lead": "갓 구운 치즈케이크로 줄을 세우는 난바의 디저트 명물. 폭신한 식감과 건포도가 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "치즈케이크"
+    ],
+    [
+      "특징",
+      "갓 구운 폭신한 케이크"
+    ],
+    [
+      "위치",
+      "난바"
+    ],
+    [
+      "포장",
+      "박스 포장 기본"
+    ]
+  ],
+  "origin": [
+    "리쿠로 오지상의 가게는 오사카에서 치즈케이크를 만들어 온 디저트 전문점이에요.",
+    "오븐에서 막 나온 케이크가 식으면서 꺼지는 모습이 화제가 되어 관광객이 줄을 서는 곳이 되었어요.",
+    "바닥에 건포도가 깔린 부드러운 치즈케이크가 대표 메뉴예요.",
+    "난바 본점은 도톤보리와 가까워 쇼핑 마무리 간식으로 인기예요."
+  ],
+  "practical": [
+    "갓 구운 시간대를 노리면 따뜻하게 먹을 수 있음",
+    "포장 박스가 크니 짐 확인",
+    "여름철 보관 주의"
+  ],
+  "tip": "한 박스로 여러 명이 나눠 먹기 좋아요.",
+  "order": [
+    "<b>焼きたてチーズケーキ</b> 갓 구운 치즈케이크"
+  ],
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "1개 1,000엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "치즈케이크",
+    "디저트",
+    "난바",
+    "선물"
+  ],
+  "art_key": "dessert",
+  "local_search": "りくろーおじさんの店 なんば本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2582%258A%25E3%2581%258F%25E3%2582%258D%25E3%2583%25BC%25E3%2581%258A%25E3%2581%2598%25E3%2581%2595%25E3%2582%2593%25E3%2581%25AE%25E5%25BA%2597",
+    "https://en.wikipedia.org/wiki/Cheesecake",
+    "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD",
+    "https://www.openstreetmap.org/node/4590084890"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.892Z"
+}

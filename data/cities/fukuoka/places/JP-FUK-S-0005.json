@@ -1,0 +1,74 @@
+{
+  "id": "pl_6ecd6497be",
+  "code": "JP-FUK-S-0005",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-tower",
+  "kind": "sight",
+  "name_ko": "후쿠오카 타워",
+  "name_sub": "Fukuoka Tower",
+  "name_local": "福岡タワー",
+  "addr_local": "福岡県 福岡市早良区 早良区 百道浜 2丁目 3 26",
+  "lat": 33.59331,
+  "lng": 130.3515,
+  "area": "모모치",
+  "lead": "모모치 해변 앞에 선 높은 전망탑. 후쿠오카 만과 도시 야경이 보여요.",
+  "facts": [
+    [
+      "종류",
+      "전망탑"
+    ],
+    [
+      "위치",
+      "모모치 해변"
+    ],
+    [
+      "특징",
+      "야경 조명"
+    ],
+    [
+      "연도(Wikidata)",
+      "1987년"
+    ]
+  ],
+  "tip": "해 지기 전에 올라가 낮과 야경을 함께 보는 것이 좋아요.",
+  "open_hours": "Mo-Su 09:30-21:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "전망대 입장료 별도",
+  "must": 0,
+  "tags": [
+    "전망",
+    "야경",
+    "해변"
+  ],
+  "art_key": "tower",
+  "local_search": "福岡タワー",
+  "photos": [
+    "JP-FUK-S-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q847033",
+    "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4_%ED%83%80%EC%9B%8C",
+    "https://en.wikipedia.org/wiki/Fukuoka_Tower",
+    "https://www.openstreetmap.org/way/772670439",
+    "https://www.fukuokatower.co.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 3,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "broadcasting and observation tower in Fukuoka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:10.008Z"
+}

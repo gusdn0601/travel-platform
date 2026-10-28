@@ -1,0 +1,77 @@
+{
+  "id": "pl_0a6f63447b",
+  "code": "JP-KYO-F-0041",
+  "city_id": "JP-KYO",
+  "slug": "ogawa-coffee",
+  "kind": "food",
+  "name_ko": "오가와 커피",
+  "name_sub": "Ogawa Coffee",
+  "name_local": "小川珈琲 堺町錦店",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "교토에서 시작한 커피 브랜드의 매장. 아침 메뉴가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "커피 전문점"
+    ],
+    [
+      "특징",
+      "아침 식사"
+    ],
+    [
+      "위치",
+      "니시키 시장 인근"
+    ]
+  ],
+  "origin": [
+    "오가와 커피는 교토에서 시작한 커피 회사로 알려져 있어요.",
+    "시내 매장에서 커피와 함께 토스트나 샌드위치를 아침으로 내요.",
+    "아침 일찍 문을 열어 사찰 관광 전에 들르기 좋아요.",
+    "니시키 시장 근처라 오전 동선에 넣기 좋아요."
+  ],
+  "practical": [
+    "아침 영업",
+    "좌석 대기"
+  ],
+  "tip": "아침 8시대에 들르면 한산해요.",
+  "order": [
+    "<b>モーニング</b> 아침 세트"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 700~1,400엔 추정",
+  "must": 0,
+  "tags": [
+    "커피",
+    "아침",
+    "니시키"
+  ],
+  "art_key": "cafe",
+  "local_search": "小川珈琲 堺町錦店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 18,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 아침 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:28.318Z"
+}

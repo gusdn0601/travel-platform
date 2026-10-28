@@ -1,0 +1,88 @@
+{
+  "id": "pl_4c9db4ff9e",
+  "code": "JP-FUK-F-0013",
+  "city_id": "JP-FUK",
+  "slug": "hanamidori-hakata",
+  "kind": "food",
+  "name_ko": "하나미도리 (하카타 화미도리)",
+  "name_sub": "Hakata Hanamidori",
+  "name_local": "博多華味鳥 博多駅前",
+  "lat": 33.59215,
+  "lng": 130.41426,
+  "area": "하카타",
+  "lead": "미즈타키를 비교적 부담 없는 가격으로 즐길 수 있는 체인점. 여러 지점이 시내에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "미즈타키 전문 체인"
+    ],
+    [
+      "특징",
+      "코스·단품 선택"
+    ],
+    [
+      "접근",
+      "하카타역·텐진 근처"
+    ],
+    [
+      "곁들임",
+      "마무리 죽"
+    ]
+  ],
+  "origin": [
+    "하나미도리는 후쿠오카에서 출발한 닭 요리 전문 체인으로 미즈타키를 대중적인 가격대로 즐길 수 있는 곳으로 소개돼요.",
+    "닭 국물을 우려 만든 뽀얀 국물이 기본이고, 코스를 시키면 샐러드부터 마무리 죽까지 이어지는 식사를 할 수 있어요.",
+    "오래된 노포보다 접근성이 좋아 일정이 빡빡한 여행객이 선택하는 경우가 많아요."
+  ],
+  "practical": [
+    "점심 세트가 저렴한 지점이 있음",
+    "저녁은 예약 권장"
+  ],
+  "tip": "점심 세트를 노리면 가격 부담이 줄어요.",
+  "order": [
+    "<b>水炊き</b> 미즈타키",
+    "<b>鶏皮</b> 닭껍질 꼬치",
+    "<b>雑炊</b> 마무리 죽"
+  ],
+  "open_hours": "Mo-Sa 17:00-00:00; Su 17:00-22:00 (OSM)",
+  "stay_min": 80,
+  "price_hint": "1인 3,000~5,000엔 추정",
+  "must": 0,
+  "tags": [
+    "미즈타키",
+    "닭",
+    "체인"
+  ],
+  "art_key": "hotpot",
+  "local_search": "博多華味鳥 博多駅前",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mizutaki",
+    "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%82%8A%E3%81%8D",
+    "https://www.openstreetmap.org/node/5074995822"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 미즈타키 체인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:53.901Z"
+}

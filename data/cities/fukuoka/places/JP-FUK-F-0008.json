@@ -1,0 +1,87 @@
+{
+  "id": "pl_a6563d3934",
+  "code": "JP-FUK-F-0008",
+  "city_id": "JP-FUK",
+  "slug": "nagahama-yatai",
+  "kind": "food",
+  "name_ko": "나가하마 야타이",
+  "name_sub": "Nagahama Yatai",
+  "name_local": "長浜屋台",
+  "lat": 33.59264,
+  "lng": 130.3863,
+  "area": "나가하마",
+  "lead": "어시장 옆 라멘 포장마차 구역. 가는 면 돈코츠 라멘에 집중하는 야타이가 많아요.",
+  "facts": [
+    [
+      "종류",
+      "야타이"
+    ],
+    [
+      "특징",
+      "라멘 중심"
+    ],
+    [
+      "위치",
+      "나가하마 어시장 부근"
+    ],
+    [
+      "시간대",
+      "저녁~심야"
+    ]
+  ],
+  "origin": [
+    "나가하마는 어시장 노동자의 한 끼에서 출발한 라멘 문화로 이름난 구역이에요.",
+    "이 지역의 야타이는 라멘을 중심으로 운영되는 곳이 많아 나카스·텐진 야타이와는 결이 달라요.",
+    "늦은 밤 시장 상인과 현지 손님이 섞여 앉는 풍경이 남아 있어 현지 분위기를 느끼고 싶은 여행자에게 알려진 곳이에요."
+  ],
+  "practical": [
+    "심야에 열리는 가게가 많음",
+    "대중교통이 줄어드는 시간대 귀가 방법 확인"
+  ],
+  "tip": "택시 호출 앱을 미리 준비해 두세요.",
+  "order": [
+    "<b>ラーメン</b> 라멘",
+    "<b>替玉</b> 면 추가"
+  ],
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "1인 1,500~3,000엔 추정",
+  "must": 0,
+  "tags": [
+    "야타이",
+    "라멘",
+    "어시장"
+  ],
+  "art_key": "lantern",
+  "local_search": "長浜屋台",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yatai_(food_cart)",
+    "https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%8F%B0",
+    "https://www.openstreetmap.org/node/4619782091"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나가하마 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:46.453Z"
+}

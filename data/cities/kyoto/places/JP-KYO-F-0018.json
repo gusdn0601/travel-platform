@@ -1,0 +1,75 @@
+{
+  "id": "pl_3000a81511",
+  "code": "JP-KYO-F-0018",
+  "city_id": "JP-KYO",
+  "slug": "katsukura-sanjo",
+  "kind": "food",
+  "name_ko": "카츠쿠라 산조점",
+  "name_sub": "Katsukura Sanjo",
+  "name_local": "かつくら 三条店",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "깨를 직접 갈아 소스에 섞어 먹는 돈카츠 전문점으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "돈카츠"
+    ],
+    [
+      "특징",
+      "깨 소스"
+    ],
+    [
+      "위치",
+      "산조 인근"
+    ]
+  ],
+  "origin": [
+    "카츠쿠라는 교토에서 시작한 돈카츠 체인으로, 식탁에서 깨를 갈아 소스에 섞는 방식이 알려져 있어요.",
+    "안심과 등심 중 고를 수 있고, 밥과 양배추, 국물 리필이 가능한 곳으로 소개돼요.",
+    "점심 시간에 대기가 길 수 있어요."
+  ],
+  "practical": [
+    "점심 대기"
+  ],
+  "tip": "오후 2시 이후는 한산한 편이에요.",
+  "order": [
+    "<b>ヒレカツ膳</b> 안심",
+    "<b>ロースカツ膳</b> 등심"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,800~2,800엔 추정",
+  "must": 0,
+  "tags": [
+    "돈카츠",
+    "교토"
+  ],
+  "art_key": "food",
+  "local_search": "かつくら 三条店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 6,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 돈카츠 선택지로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:11:08.172Z"
+}

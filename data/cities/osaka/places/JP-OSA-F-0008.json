@@ -1,0 +1,91 @@
+{
+  "id": "pl_9e67858b4c",
+  "code": "JP-OSA-F-0008",
+  "city_id": "JP-OSA",
+  "slug": "mizuno-okonomiyaki",
+  "kind": "food",
+  "name_ko": "오코노미야키 미즈노",
+  "name_sub": "Mizuno",
+  "name_local": "お好み焼 美津の",
+  "lat": 34.66837,
+  "lng": 135.50322,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리의 오래된 오코노미야키집. 파를 듬뿍 넣은 네기야키가 대표 메뉴로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "오코노미야키"
+    ],
+    [
+      "대표",
+      "네기야키(파 오코노미야키)"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "분위기",
+      "카운터·테이블"
+    ]
+  ],
+  "origin": [
+    "미즈노는 도톤보리에서 오래전부터 영업해 온 오코노미야키집으로 소개돼요.",
+    "밀가루 반죽을 두껍게 굽는 기본 오코노미야키 외에 파를 많이 넣은 네기야키가 이름나 있어요.",
+    "관광객이 몰리는 거리라 식사 시간에는 줄이 길어지기 쉬워요.",
+    "철판 앞자리에 앉으면 반죽이 익는 과정을 보며 먹을 수 있어요."
+  ],
+  "practical": [
+    "점심·저녁 피크에 대기",
+    "주문 후 조리에 시간이 걸림",
+    "현금 준비"
+  ],
+  "tip": "오픈 직후에 가면 줄이 짧아요.",
+  "order": [
+    "<b>山芋焼</b> 야마이모 오코노미야키",
+    "<b>ねぎ焼</b> 네기야키",
+    "<b>モダン焼</b> 모던야키(면 추가)"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,500~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "오코노미야키",
+    "네기야키",
+    "노포"
+  ],
+  "art_key": "okonomiyaki",
+  "local_search": "お好み焼 美津の",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E7%25BE%258E%25E6%25B4%25A5%25E3%2581%25AE",
+    "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
+    "https://www.openstreetmap.org/node/3050282773"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 오코노미야키로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.884Z"
+}

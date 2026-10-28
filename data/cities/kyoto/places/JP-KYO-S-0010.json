@@ -1,0 +1,68 @@
+{
+  "id": "pl_1efca87f98",
+  "code": "JP-KYO-S-0010",
+  "city_id": "JP-KYO",
+  "slug": "gion",
+  "kind": "sight",
+  "name_ko": "기온",
+  "name_sub": "Gion",
+  "name_local": "祇園",
+  "lat": 35.00349,
+  "lng": 135.77505,
+  "area": "기온/히가시야마",
+  "lead": "목조 건물이 늘어선 교토의 대표 전통 거리. 저녁 무렵 분위기가 가장 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전통 번화가"
+    ],
+    [
+      "특징",
+      "기온 마치야 거리"
+    ],
+    [
+      "주의",
+      "사진 촬영 시 예의 필요"
+    ]
+  ],
+  "tip": "사적인 구역에서는 사람을 쫓아 촬영하지 않도록 매너를 지켜 주세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "전통",
+    "거리",
+    "게이샤"
+  ],
+  "art_key": "lantern",
+  "local_search": "祇園",
+  "photos": [
+    "JP-KYO-S-0010-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q926312",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%98%A8_(%EA%B5%90%ED%86%A0%EC%8B%9C)",
+    "https://en.wikipedia.org/wiki/Gion",
+    "https://www.openstreetmap.org/relation/9541222"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 335,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "neighborhood in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:12.317Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pl_5dc0ace24a",
+  "code": "JP-NAR-S-0007",
+  "city_id": "JP-NAR",
+  "slug": "toshodai-ji-temple",
+  "kind": "sight",
+  "name_ko": "도쇼다이지",
+  "name_sub": "Tōshōdai-ji Temple",
+  "name_local": "唐招提寺",
+  "lat": 34.67559,
+  "lng": 135.78483,
+  "area": "니시노쿄",
+  "lead": "당나라 승려 간진이 세운 사찰로 알려진 곳. 금당의 웅장한 기둥이 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "금당"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "759년"
+    ]
+  ],
+  "tip": "관광객이 비교적 적어 조용히 둘러볼 수 있어요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "고요",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "唐招提寺",
+  "photos": [
+    "JP-NAR-S-0007-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q973175",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%87%BC%EB%8B%A4%EC%9D%B4%EC%A7%80",
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8Ddai-ji",
+    "http://www.toshodaiji.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:26.570Z"
+}

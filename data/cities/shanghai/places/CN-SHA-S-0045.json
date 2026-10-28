@@ -1,0 +1,80 @@
+{
+  "id": "pl_96944f065e",
+  "code": "CN-SHA-S-0045",
+  "city_id": "CN-SHA",
+  "slug": "nanjing-road-west",
+  "kind": "sight",
+  "name_ko": "난징시루 · 타이구리 쇼핑 구역",
+  "name_sub": "West Nanjing Road",
+  "name_local": "南京西路",
+  "lat": 31.23472,
+  "lng": 121.47444,
+  "area": "정안/난징루",
+  "lead": "명품 백화점과 쇼핑몰이 이어지는 상하이 대표 쇼핑 거리. 정안사와 도보로 연결돼요.",
+  "facts": [
+    [
+      "성격",
+      "럭셔리 쇼핑 구역"
+    ],
+    [
+      "대표",
+      "플라자66, 중신타이구리(Taikoo Li)"
+    ],
+    [
+      "접근",
+      "지하철 2·12·13호선"
+    ],
+    [
+      "인근",
+      "정안사"
+    ]
+  ],
+  "origin": [
+    "난징시루는 인민광장에서 정안사 방면으로 이어지는 큰길이에요.",
+    "1920~30년대부터 백화점이 들어서며 상하이 쇼핑의 중심이 됐고, 지금도 국제 명품 브랜드가 모여 있어요.",
+    "정안사 근처의 쇼핑몰들은 사찰과 현대적 쇼핑 공간이 마주 보는 독특한 풍경을 만들어요."
+  ],
+  "tip": "정안사와 함께 묶어 오후~저녁 일정으로 쓰기 좋아요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "럭셔리",
+    "도심"
+  ],
+  "art_key": "street",
+  "local_search": "南京西路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nanjing_Road",
+    "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF",
+    "https://www.openstreetmap.org/node/5306464712"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1638,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.961Z"
+}

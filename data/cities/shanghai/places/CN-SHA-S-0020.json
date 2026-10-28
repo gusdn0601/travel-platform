@@ -1,0 +1,83 @@
+{
+  "id": "pl_f7dbe23f4b",
+  "code": "CN-SHA-S-0020",
+  "city_id": "CN-SHA",
+  "slug": "shanghai-ocean-aquarium",
+  "kind": "sight",
+  "name_ko": "상하이 해양수족관",
+  "name_sub": "Shanghai Ocean Aquarium",
+  "name_local": "上海海洋水族馆",
+  "lat": 31.24255,
+  "lng": 121.49717,
+  "area": "푸동/루자쭈이",
+  "lead": "긴 해저 터널로 상어와 가오리가 머리 위를 지나가는 대형 수족관. 아이 동반 일정에 잘 어울려요.",
+  "facts": [
+    [
+      "개관",
+      "2002년"
+    ],
+    [
+      "특징",
+      "긴 해저 터널"
+    ],
+    [
+      "구성",
+      "양쯔강·세계 해양 구역"
+    ],
+    [
+      "위치",
+      "동방명주 인근"
+    ]
+  ],
+  "origin": [
+    "상하이 해양수족관은 2002년에 문을 연 푸동의 대표 실내 명소예요.",
+    "양쯔강 유역 생물부터 극지, 산호초까지 세계 여러 수계를 지역별로 나눠 보여 주는 구성이에요.",
+    "가장 인기 있는 구간은 투명 터널로, 수백 미터를 걸으며 큰 물고기들이 지나가는 모습을 볼 수 있어요.",
+    "비 오는 날 대체 일정으로도 자주 쓰여요."
+  ],
+  "tip": "주말과 방학엔 터널 구간이 매우 붐벼요. 오픈 시간 직후 입장이 쾌적해요.",
+  "open_hours": "09:00-18:00 (OSM)",
+  "stay_min": 150,
+  "price_hint": "입장권 별도(추정 성인 약 160위안대, 공식 확인)",
+  "must": 0,
+  "tags": [
+    "아이와",
+    "수족관",
+    "실내"
+  ],
+  "art_key": "aquarium",
+  "local_search": "上海海洋水族馆",
+  "photos": [
+    "CN-SHA-S-0020-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Ocean_Aquarium",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B4%8B%E6%B0%B4%E6%97%8F%E9%A6%86",
+    "https://www.openstreetmap.org/way/404676268"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 15,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.889Z"
+}

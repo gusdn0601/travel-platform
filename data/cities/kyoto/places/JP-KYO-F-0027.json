@@ -1,0 +1,77 @@
+{
+  "id": "pl_61d84fe87b",
+  "code": "JP-KYO-F-0027",
+  "city_id": "JP-KYO",
+  "slug": "matsuba-nishin-soba",
+  "kind": "food",
+  "name_ko": "마쓰바",
+  "name_sub": "Matsuba",
+  "name_local": "本家 松葉",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "청어를 얹은 니신 소바로 알려진 교토의 노포예요.",
+  "facts": [
+    [
+      "종류",
+      "소바집"
+    ],
+    [
+      "대표",
+      "니신 소바"
+    ],
+    [
+      "위치",
+      "기야마치"
+    ]
+  ],
+  "origin": [
+    "마쓰바는 교토에서 니신 소바로 알려진 집이에요.",
+    "달게 조린 청어를 따뜻한 소바 위에 올려 내는 교토식 소바예요.",
+    "좁은 가게라 점심에는 자리를 기다려야 할 수 있어요.",
+    "겨울에 특히 많이 찾는 메뉴예요."
+  ],
+  "practical": [
+    "점심 대기",
+    "현금 편함"
+  ],
+  "tip": "따뜻한 국물이라 추운 날 일정에 잘 맞아요.",
+  "order": [
+    "<b>にしんそば</b> 니신 소바"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,000~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "소바",
+    "니신",
+    "노포"
+  ],
+  "art_key": "noodle",
+  "local_search": "本家 松葉",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 21,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 니신 소바로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:12.904Z"
+}

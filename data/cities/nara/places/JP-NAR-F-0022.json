@@ -1,0 +1,82 @@
+{
+  "id": "pl_04e347266e",
+  "code": "JP-NAR-F-0022",
+  "city_id": "JP-NAR",
+  "slug": "mizutani-chaya",
+  "kind": "food",
+  "name_ko": "미즈타니차야",
+  "name_sub": "Mizutani Chaya",
+  "name_local": "水谷茶屋",
+  "lat": 34.68349,
+  "lng": 135.84679,
+  "area": "나라 공원",
+  "lead": "숲 속에 있는 오래된 찻집. 우동과 단팥죽을 내요.",
+  "facts": [
+    [
+      "종류",
+      "찻집"
+    ],
+    [
+      "대표",
+      "우동·단팥죽"
+    ],
+    [
+      "위치",
+      "나라 공원 숲길"
+    ]
+  ],
+  "origin": [
+    "미즈타니차야는 나라 공원과 도다이지 사이 숲길에 있는 찻집이에요.",
+    "나무에 둘러싸인 자리에서 우동이나 단팥죽을 먹을 수 있어요.",
+    "사진 찍기 좋은 풍경으로 여행 블로그에 자주 등장해요.",
+    "자리가 많지 않아 대기하는 경우가 있어요."
+  ],
+  "practical": [
+    "현금 결제 편함",
+    "좌석 대기"
+  ],
+  "tip": "공원 산책 중간에 들르면 동선이 좋아요.",
+  "order": [
+    "<b>きつねうどん</b> 유부 우동",
+    "<b>ぜんざい</b> 단팥죽"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 800~1,300엔 추정",
+  "must": 0,
+  "tags": [
+    "찻집",
+    "우동",
+    "공원"
+  ],
+  "art_key": "cafe",
+  "local_search": "水谷茶屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/344973785"
+  ],
+  "meta": {
+    "priority": 25,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 공원 찻집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:32.047Z"
+}

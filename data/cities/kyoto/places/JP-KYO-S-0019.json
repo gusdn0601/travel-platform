@@ -1,0 +1,72 @@
+{
+  "id": "pl_7904748939",
+  "code": "JP-KYO-S-0019",
+  "city_id": "JP-KYO",
+  "slug": "kodai-ji-temple",
+  "kind": "sight",
+  "name_ko": "고다이지",
+  "name_sub": "Kōdai-ji Temple",
+  "name_local": "高台寺",
+  "lat": 35.00076,
+  "lng": 135.78111,
+  "area": "히가시야마",
+  "lead": "정원과 대나무 숲길이 있는 사찰. 계절 야간 특별 개장이 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "위치",
+      "기요미즈데라 북쪽"
+    ],
+    [
+      "특징",
+      "정원, 야간 조명"
+    ],
+    [
+      "연도(Wikidata)",
+      "1606년"
+    ]
+  ],
+  "tip": "야간 개장 일정은 해마다 달라 공식 사이트를 확인하세요.",
+  "open_hours": "Mo-Su 09:00-17:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "야간개장",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "高台寺",
+  "photos": [
+    "JP-KYO-S-0019-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2702064",
+    "https://en.wikipedia.org/wiki/K%C5%8Ddai-ji",
+    "https://www.openstreetmap.org/way/759391880",
+    "https://www.kodaiji.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 53,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Higashiyama-ku, Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:01.228Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pl_7f97f2721b",
+  "code": "JP-FUK-S-0002",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-castle",
+  "kind": "sight",
+  "name_ko": "후쿠오카성터(마이즈루 공원)",
+  "name_sub": "Fukuoka Castle",
+  "name_local": "福岡城",
+  "lat": 33.58438,
+  "lng": 130.3831,
+  "area": "오호리",
+  "lead": "천수각은 없지만 돌담과 성문 터가 남은 성터. 봄 벚꽃 명소이기도 해요.",
+  "facts": [
+    [
+      "종류",
+      "성터"
+    ],
+    [
+      "특징",
+      "돌담, 성문 터"
+    ],
+    [
+      "위치",
+      "오호리 공원 옆"
+    ],
+    [
+      "연도(Wikidata)",
+      "1601년"
+    ]
+  ],
+  "tip": "오호리 공원과 이어서 반나절 코스로 좋아요.",
+  "open_hours": "상시 개방(추정) (추정)",
+  "stay_min": 90,
+  "price_hint": "무료(일부 시설 별도)",
+  "must": 0,
+  "tags": [
+    "성터",
+    "벚꽃",
+    "전망"
+  ],
+  "art_key": "castle",
+  "local_search": "福岡城",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1143944",
+    "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4%EC%84%B1",
+    "https://en.wikipedia.org/wiki/Fukuoka_Castle",
+    "https://www.openstreetmap.org/way/345642780",
+    "https://fukuokajyo.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 67,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Japanese castle in Fukuoka city",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:33.742Z"
+}

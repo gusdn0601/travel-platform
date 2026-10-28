@@ -1,0 +1,98 @@
+{
+  "id": "pl_78b420e526",
+  "code": "JP-OSA-F-0002",
+  "city_id": "JP-OSA",
+  "slug": "ichiran-dotonbori",
+  "kind": "food",
+  "name_ko": "이치란 도톤보리 본관",
+  "name_sub": "Ichiran Dotonbori",
+  "name_local": "一蘭 道頓堀店本館",
+  "lat": 34.66924,
+  "lng": 135.50307,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리 한복판의 1인 칸막이 라멘집. 밤늦게까지 열려 쇼핑 끝에 들르기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "돈코츠 라멘"
+    ],
+    [
+      "특징",
+      "1인 칸막이 좌석"
+    ],
+    [
+      "위치",
+      "도톤보리 강변"
+    ],
+    [
+      "영업",
+      "늦은 밤까지(지점별 상이)"
+    ]
+  ],
+  "origin": [
+    "이치란은 1960년 후쿠오카에서 돈코츠 라멘 가게로 시작한 것으로 알려져 있어요.",
+    "주문지로 면 굵기와 국물 농도를 고르고, 칸막이 좌석에서 얼굴을 마주치지 않고 식사하는 방식이 특징이에요.",
+    "이 방식이 혼자 여행하는 사람에게 편하다는 입소문을 타고 해외에도 지점을 넓혔어요.",
+    "도톤보리점은 관광객이 가장 많이 찾는 지점 중 하나로, 밤늦게까지 문을 여는 때가 많아요."
+  ],
+  "practical": [
+    "입구 자판기에서 식권 구매",
+    "주문지에 맛 농도·마늘·매운맛 체크",
+    "줄이 길면 대기 시간을 확인"
+  ],
+  "tip": "저녁 7~9시를 피하면 대기가 짧아요.",
+  "order": [
+    "<b>天然とんこつラーメン</b> 기본 돈코츠 라멘",
+    "<b>替玉</b> 면 추가",
+    "<b>半熟塩ゆでたまご</b> 반숙 계란"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "돈코츠",
+    "1인석",
+    "심야"
+  ],
+  "art_key": "noodle",
+  "local_search": "一蘭 道頓堀店本館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ichiran",
+    "https://ja.wikipedia.org/wiki/%E4%B8%80%E8%98%AD",
+    [
+      "https://en.wikipedia.org/wiki/Ramen",
+      "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+    ],
+    "https://en.wikipedia.org/wiki/Dōtonbori",
+    "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
+    "https://www.openstreetmap.org/node/4488318892"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 484220,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 5 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.880Z"
+}

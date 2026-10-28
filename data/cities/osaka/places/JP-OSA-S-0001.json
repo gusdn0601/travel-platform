@@ -1,0 +1,70 @@
+{
+  "id": "pl_9c25154834",
+  "code": "JP-OSA-S-0001",
+  "city_id": "JP-OSA",
+  "slug": "osaka-castle",
+  "kind": "sight",
+  "name_ko": "오사카성",
+  "name_sub": "Osaka Castle",
+  "name_local": "大坂城",
+  "addr_local": "大阪府 大阪市 中央区 大阪城 1 1",
+  "lat": 34.68722,
+  "lng": 135.52583,
+  "area": "주오구/오사카조",
+  "lead": "도요토미 히데요시가 세운 오사카의 상징. 해자와 돌담이 넓은 공원 안에 이어져 있어 천천히 걷기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "성 · 역사 명소"
+    ],
+    [
+      "시작",
+      "1583년 축성(히데요시)"
+    ],
+    [
+      "볼거리",
+      "천수각 전망, 해자, 거대한 돌담"
+    ]
+  ],
+  "tip": "천수각 안은 박물관이라 시간이 빠듯하면 바깥 해자와 돌담만 걸어도 충분해요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 120,
+  "price_hint": "천수각 입장료 별도",
+  "must": 0,
+  "tags": [
+    "성",
+    "역사",
+    "벚꽃"
+  ],
+  "art_key": "castle",
+  "local_search": "大坂城",
+  "photos": [
+    "JP-OSA-S-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q321242",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4%EC%84%B1",
+    "https://en.wikipedia.org/wiki/Osaka_Castle",
+    "https://www.openstreetmap.org/way/34619038",
+    "http://www.osakacastle.net/english/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 17,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "Japanese castle in Chūō-ku, Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:48:59.010Z"
+}

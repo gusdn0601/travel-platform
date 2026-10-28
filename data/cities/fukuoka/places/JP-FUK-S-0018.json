@@ -1,0 +1,69 @@
+{
+  "id": "pl_931ca9e2a4",
+  "code": "JP-FUK-S-0018",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-city-science-museum",
+  "kind": "sight",
+  "name_ko": "후쿠오카시 과학관",
+  "name_sub": "Fukuoka City Science Museum",
+  "name_local": "福岡市科学館",
+  "lat": 33.57736,
+  "lng": 130.37783,
+  "area": "롯폰마쓰",
+  "lead": "체험형 전시가 있는 시립 과학관. 비 오는 날 아이와 함께 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "과학관"
+    ],
+    [
+      "특징",
+      "체험 전시"
+    ],
+    [
+      "위치",
+      "롯폰마쓰"
+    ],
+    [
+      "연도(Wikidata)",
+      "2017년"
+    ]
+  ],
+  "tip": "플라네타륨 등 일부 시설은 별도 시간표가 있어요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "과학관",
+    "아이와",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "福岡市科学館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q38277412",
+    "https://www.openstreetmap.org/node/5264951969",
+    "https://www.fukuokacity-kagakukan.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 9,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "science museum in Ropponmatsu, Chūō-ku, Fukuoka City, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:31.605Z"
+}

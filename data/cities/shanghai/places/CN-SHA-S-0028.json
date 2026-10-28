@@ -1,0 +1,80 @@
+{
+  "id": "pl_ba3976e9b3",
+  "code": "CN-SHA-S-0028",
+  "city_id": "CN-SHA",
+  "slug": "peoples-square",
+  "kind": "sight",
+  "name_ko": "인민광장",
+  "name_sub": "People's Square",
+  "name_local": "人民广场",
+  "lat": 31.22956,
+  "lng": 121.47438,
+  "area": "인민광장",
+  "lead": "상하이 박물관·대극장·도시계획관이 둘러싼 도심 광장. 지하철 1·2·8호선이 만나는 환승 거점이기도 해요.",
+  "facts": [
+    [
+      "성격",
+      "도심 광장 · 환승역"
+    ],
+    [
+      "주변",
+      "상하이 박물관, 상하이 대극장"
+    ],
+    [
+      "과거",
+      "경마장 부지"
+    ],
+    [
+      "지하철",
+      "1·2·8호선"
+    ]
+  ],
+  "origin": [
+    "지금의 인민광장 자리는 근대 조계 시기 영국계 경마 클럽(상하이 경마장)이 있던 부지예요.",
+    "1949년 이후 시민을 위한 공간으로 바뀌었고 1990년대 개발로 지금의 문화 광장이 되었어요.",
+    "주변에 박물관, 대극장, 시청사가 모여 있어 도시의 정치·문화 중심 역할을 해요."
+  ],
+  "tip": "상하이 박물관·도시계획관과 묶어 반나절 코스를 만들기 좋아요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "광장",
+    "도심",
+    "교통"
+  ],
+  "art_key": "park",
+  "local_search": "人民广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/People's_Square_(Shanghai)",
+    "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA_(%E4%B8%8A%E6%B5%B7%E5%B8%82)",
+    "https://www.openstreetmap.org/way/513764717"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 579,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.917Z"
+}

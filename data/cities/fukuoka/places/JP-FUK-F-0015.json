@@ -1,0 +1,85 @@
+{
+  "id": "pl_15e382088c",
+  "code": "JP-FUK-F-0015",
+  "city_id": "JP-FUK",
+  "slug": "tetsunabe-gyoza",
+  "kind": "food",
+  "name_ko": "테츠나베 (하카타 교자)",
+  "name_sub": "Tetsunabe",
+  "name_local": "鉄なべ 博多",
+  "lat": null,
+  "lng": null,
+  "area": "하카타",
+  "lead": "한입 크기 교자를 작은 철판에 구워 내는 하카타 스타일 교자. 맥주와 먹는 한 접시 문화가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "하카타 한입 교자"
+    ],
+    [
+      "특징",
+      "작고 바삭한 크기"
+    ],
+    [
+      "서빙",
+      "뜨거운 철판 그대로"
+    ],
+    [
+      "곁들임",
+      "맥주·하이볼"
+    ]
+  ],
+  "origin": [
+    "하카타 교자는 한입에 들어가는 작은 크기로 구워 낸 철판 교자가 대표적이에요.",
+    "큰 교자 한두 개를 먹는 스타일과 달리 여러 개를 가볍게 집어 먹는 것이 특징이에요.",
+    "야타이와 이자카야 문화가 발달한 도시라 술 한 잔과 함께 즐기는 안주로 정착했다는 설명이 많아요.",
+    "테츠나베는 철판에 올린 채 내는 방식으로 유명해져 한국 여행객도 많이 찾아요."
+  ],
+  "practical": [
+    "저녁에 줄이 김",
+    "합석 가능"
+  ],
+  "tip": "식기 전에 먹어야 가장 맛있어요.",
+  "order": [
+    "<b>鉄鍋餃子</b> 철판 교자",
+    "<b>ビール</b> 생맥주"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,500~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "교자",
+    "야식",
+    "철판"
+  ],
+  "art_key": "basket",
+  "local_search": "鉄なべ 博多",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jiaozi",
+    "https://ja.wikipedia.org/wiki/%E9%A4%83%E5%AD%90"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 교자로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:56.511Z"
+}

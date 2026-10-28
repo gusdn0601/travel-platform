@@ -1,0 +1,74 @@
+{
+  "id": "pl_96f954ffd8",
+  "code": "JP-OSA-S-0021",
+  "city_id": "JP-OSA",
+  "slug": "tennoji-park",
+  "kind": "sight",
+  "name_ko": "덴노지 공원",
+  "name_sub": "Tennōji Park",
+  "name_local": "天王寺公園",
+  "addr_local": "〒543-0063 大阪府 大阪市 天王寺区 茶臼山町 天神橋天王寺線",
+  "lat": 34.65,
+  "lng": 135.51,
+  "area": "덴노지",
+  "lead": "동물원·미술관·정원이 함께 있는 도심 공원. 잔디밭에서 쉬어 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "도심 공원"
+    ],
+    [
+      "시설",
+      "미술관, 정원, 동물원"
+    ],
+    [
+      "접근",
+      "덴노지역 바로 앞"
+    ],
+    [
+      "연도(Wikidata)",
+      "1909년"
+    ]
+  ],
+  "tip": "시설별로 입장료가 따로라 가고 싶은 곳만 골라 들어가세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(시설별 유료)",
+  "must": 0,
+  "tags": [
+    "공원",
+    "산책",
+    "미술관"
+  ],
+  "art_key": "park",
+  "local_search": "天王寺公園",
+  "photos": [
+    "JP-OSA-S-0021-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5364342",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B4%EB%85%B8%EC%A7%80_%EA%B3%B5%EC%9B%90",
+    "https://en.wikipedia.org/wiki/Tenn%C5%8Dji_Park",
+    "https://www.openstreetmap.org/way/170693374",
+    "https://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/top.html"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 94,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "Park in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:04.027Z"
+}

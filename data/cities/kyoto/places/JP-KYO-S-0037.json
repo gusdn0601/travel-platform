@@ -1,0 +1,81 @@
+{
+  "id": "pl_98dcd74be2",
+  "code": "JP-KYO-S-0037",
+  "city_id": "JP-KYO",
+  "slug": "hanamikoji",
+  "kind": "sight",
+  "name_ko": "하나미코지 거리",
+  "name_sub": "Hanamikoji Street",
+  "name_local": "花見小路通",
+  "lat": 35.0035,
+  "lng": 135.77505,
+  "area": "기온/히가시야마",
+  "lead": "전통 목조 찻집이 늘어선 기온의 대표 거리. 저녁 무렵 게이코·마이코를 볼 수도 있다고 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "전통 거리"
+    ],
+    [
+      "특징",
+      "오차야 건축"
+    ],
+    [
+      "위치",
+      "기온"
+    ]
+  ],
+  "origin": [
+    "하나미코지는 기온을 남북으로 가르는 거리로, 오차야(요정)가 이어지는 풍경으로 알려져 있어요.",
+    "에도 시대부터 번화가였다고 전해지고, 지금도 전통 건축이 남아 있어 교토다운 풍경을 찾는 여행자가 많아요.",
+    "다만 일부 골목은 사유지라 촬영 매너가 강조되며, 게이샤 무단 촬영은 문제가 되고 있어요."
+  ],
+  "practical": [
+    "사유지 골목 무단 촬영·접근 금지 구역 주의",
+    "게이코·마이코 강제 촬영 금지"
+  ],
+  "tip": "저녁 5~6시 무렵 분위기가 가장 좋다고 알려져 있어요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "기온",
+    "게이샤",
+    "골목"
+  ],
+  "art_key": "street",
+  "local_search": "花見小路通",
+  "photos": [
+    "JP-KYO-S-0037-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gion",
+    "https://www.openstreetmap.org/node/5713914921"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 222,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 기온 대표 거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:08.226Z"
+}

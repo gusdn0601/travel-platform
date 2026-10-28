@@ -1,0 +1,81 @@
+{
+  "id": "pl_d7738ad91f",
+  "code": "JP-NAR-F-0021",
+  "city_id": "JP-NAR",
+  "slug": "unagi-kawahara",
+  "kind": "food",
+  "name_ko": "우나기 카와하라",
+  "name_sub": "Unagi Kawahara",
+  "name_local": "うなぎ 川はら",
+  "lat": 34.68209,
+  "lng": 135.82362,
+  "area": "나라 공원",
+  "lead": "나라 공원 인근에서 장어덮밥을 내는 집. 점심 장어로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "장어 요리점"
+    ],
+    [
+      "대표",
+      "우나기동"
+    ],
+    [
+      "위치",
+      "나라 공원 인근"
+    ]
+  ],
+  "origin": [
+    "카와하라는 나라 공원 인근에서 장어를 구워 내는 집이에요.",
+    "주문 후 숯불에 구워 내는 방식이라 시간이 걸리는 것으로 소개돼요.",
+    "담백한 양념과 잘 구운 장어가 특징이에요.",
+    "손님이 몰리는 시간에는 자리가 없을 수 있어 예약 여부를 확인하는 편이 좋아요."
+  ],
+  "practical": [
+    "예약 여부 확인",
+    "가격대 높음"
+  ],
+  "tip": "점심 일찍 들르면 대기 없이 앉기 쉬워요.",
+  "order": [
+    "<b>うな重</b> 우나주"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 3,000~5,000엔 추정",
+  "must": 0,
+  "tags": [
+    "장어",
+    "점심",
+    "예약"
+  ],
+  "art_key": "food",
+  "local_search": "うなぎ 川はら",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/1852762599"
+  ],
+  "meta": {
+    "priority": 31,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 장어 점심로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:10.812Z"
+}

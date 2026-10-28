@@ -1,0 +1,74 @@
+{
+  "id": "pl_f7be50174d",
+  "code": "JP-OSA-T-0001",
+  "city_id": "JP-OSA",
+  "slug": "osaka-station",
+  "kind": "transit",
+  "name_ko": "오사카역",
+  "name_sub": "Ōsaka Station",
+  "name_local": "大阪駅",
+  "addr_local": "〒530-8558 大阪府 大阪市 北区 大深町 大阪市道九条梅田線",
+  "lat": 34.7025,
+  "lng": 135.49611,
+  "area": "우메다",
+  "lead": "JR 오사카 순환선과 교토·고베 방면 열차가 만나는 우메다의 중심 역.",
+  "facts": [
+    [
+      "종류",
+      "JR 터미널 역"
+    ],
+    [
+      "연결",
+      "한신·한큐·지하철 우메다"
+    ],
+    [
+      "주의",
+      "역 구조가 복잡해 환승 시간 여유 필요"
+    ],
+    [
+      "연도(Wikidata)",
+      "1874년"
+    ]
+  ],
+  "tip": "지하로 연결된 역이 여러 개라 환승 시 안내 표지를 잘 확인하세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "JR",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "大阪駅",
+  "photos": [
+    "JP-OSA-T-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q801694",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4%EC%97%AD",
+    "https://en.wikipedia.org/wiki/%C5%8Csaka_Station",
+    "https://www.openstreetmap.org/node/346685291",
+    "https://www.jr-odekake.net/eki/top.php?id=0610130"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 59,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "railway station in Osaka, Osaka prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:48.760Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pl_763741ee08",
+  "code": "JP-FUK-S-0042",
+  "city_id": "JP-FUK",
+  "slug": "daimyo-area",
+  "kind": "sight",
+  "name_ko": "다이묘 거리",
+  "name_sub": "Daimyo",
+  "name_local": "大名",
+  "lat": 33.67968,
+  "lng": 130.43687,
+  "area": "다이묘",
+  "lead": "텐진 서쪽의 골목 쇼핑·카페 거리. 개성 있는 편집숍과 라멘집이 모여 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑·카페 거리"
+    ],
+    [
+      "위치",
+      "텐진 서쪽"
+    ],
+    [
+      "분위기",
+      "골목 · 편집숍"
+    ],
+    [
+      "함께",
+      "잇푸도 본점"
+    ]
+  ],
+  "origin": [
+    "다이묘는 이름 그대로 옛 번주(다이묘)의 저택이 있었던 데서 유래한 지명이에요.",
+    "현대에는 작은 가게와 카페가 골목마다 들어선 패션 거리로 알려져 있어요.",
+    "텐진 쇼핑가에서 걸어서 이동할 수 있어 쇼핑 일정에 함께 넣기 좋아요."
+  ],
+  "practical": [
+    "텐진에서 도보 10분 안팎",
+    "개성 있는 가게는 오후에 열기도 함"
+  ],
+  "tip": "쇼핑을 하다 잇푸도 본점에 들러 라멘으로 마무리해요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(쇼핑·식사 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "카페",
+    "패션"
+  ],
+  "art_key": "street",
+  "local_search": "大名",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%90%8D_(%E7%A6%8F%E5%B2%A1%E5%B8%82)",
+    "https://www.openstreetmap.org/node/1864212081"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:52.475Z"
+}

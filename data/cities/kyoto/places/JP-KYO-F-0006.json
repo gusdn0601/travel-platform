@@ -1,0 +1,85 @@
+{
+  "id": "pl_387db3b9b8",
+  "code": "JP-KYO-F-0006",
+  "city_id": "JP-KYO",
+  "slug": "nakamura-tokichi-honten",
+  "kind": "food",
+  "name_ko": "나카무라 도키치 본점",
+  "name_sub": "Nakamura Tokichi Honten",
+  "name_local": "中村藤吉本店",
+  "lat": 34.88444,
+  "lng": 135.79972,
+  "area": "우지",
+  "lead": "우지 말차를 오래 다뤄 온 찻집. 말차 파르페와 차 소바로 한국인 여행자에게 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "찻집·디저트"
+    ],
+    [
+      "특징",
+      "우지차 전문"
+    ],
+    [
+      "위치",
+      "우지역 앞"
+    ]
+  ],
+  "origin": [
+    "우지는 일본 차 재배의 오랜 중심지 중 하나로 알려져 있어요.",
+    "나카무라 도키치는 1800년대 중반에 우지에서 시작한 차 가게로 전해지고, 본점은 오래된 건물 모습을 지켜 왔다고 해요.",
+    "여행자에게는 진한 말차 파르페와 차 소바가 대표 메뉴로 소개돼요."
+  ],
+  "practical": [
+    "주말 대기 길 수 있음(번호표)",
+    "뵤도인과 같은 동선"
+  ],
+  "tip": "개점 직후나 평일 오후가 편해요.",
+  "order": [
+    "<b>抹茶パフェ</b> 말차 파르페",
+    "<b>茶そば</b> 차 소바"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,300~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "말차",
+    "디저트",
+    "우지"
+  ],
+  "art_key": "sweet",
+  "local_search": "中村藤吉本店",
+  "photos": [
+    "JP-KYO-F-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Uji",
+    "https://www.openstreetmap.org/node/12030526504"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 566,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 우지 말차 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:13.009Z"
+}

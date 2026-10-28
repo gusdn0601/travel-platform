@@ -1,0 +1,82 @@
+{
+  "id": "pl_a61a2b2178",
+  "code": "JP-KYO-F-0030",
+  "city_id": "JP-KYO",
+  "slug": "shinpuku-saikan",
+  "kind": "food",
+  "name_ko": "신푸쿠 사이칸 본점",
+  "name_sub": "Shinpuku Saikan",
+  "name_local": "新福菜館 本店",
+  "lat": 34.98676,
+  "lng": 135.76249,
+  "area": "교토역",
+  "lead": "교토식 진한 간장 라멘으로 알려진 노포예요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "진한 간장 국물"
+    ],
+    [
+      "위치",
+      "교토역 인근"
+    ]
+  ],
+  "origin": [
+    "신푸쿠 사이칸은 교토역 근처에서 오래 영업해 온 라멘집이에요.",
+    "간장이 강한 검은 국물과 숯불에 구운 고기가 특징으로 소개돼요.",
+    "볶음밥을 함께 시키는 방식이 익숙해요.",
+    "줄이 길게 늘어서는 날도 있어요."
+  ],
+  "practical": [
+    "줄 설 수 있음",
+    "현금 편함"
+  ],
+  "tip": "교토역 도착 후 첫 끼로 무난해요.",
+  "order": [
+    "<b>中華そば</b> 중화 소바",
+    "<b>やきめし</b> 볶음밥"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 900~1,400엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "간장",
+    "노포"
+  ],
+  "art_key": "noodle",
+  "local_search": "新福菜館 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/274017002"
+  ],
+  "meta": {
+    "priority": 14,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 라멘 노포로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:15.434Z"
+}

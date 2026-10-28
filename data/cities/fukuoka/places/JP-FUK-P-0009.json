@@ -1,0 +1,84 @@
+{
+  "id": "pl_65a94b901c",
+  "code": "JP-FUK-P-0009",
+  "city_id": "JP-FUK",
+  "slug": "hakata-hankyu",
+  "kind": "shop",
+  "name_ko": "하카타 한큐",
+  "name_sub": "Hakata Hankyu",
+  "name_local": "博多阪急",
+  "lat": 33.58931,
+  "lng": 130.42031,
+  "area": "하카타",
+  "lead": "하카타역 건물 안의 백화점. 지하 식품관에서 선물용 디저트를 고르기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "위치",
+      "하카타역 건물"
+    ],
+    [
+      "추천",
+      "지하 식품·디저트 매장"
+    ],
+    [
+      "택스",
+      "면세 카운터 이용 가능"
+    ]
+  ],
+  "origin": [
+    "하카타 한큐는 하카타역 건물에 입점한 백화점으로, 패션과 화장품, 지하 식품관을 갖추고 있어요.",
+    "지역 명물 과자와 도시락도 한자리에서 살 수 있어요.",
+    "일본 백화점 선물 쇼핑에 익숙하지 않다면 지하 식품관부터 구경하면 쉬워요."
+  ],
+  "practical": [
+    "면세 카운터 이용 시 여권 필요",
+    "지하 식품관은 오후에 혼잡"
+  ],
+  "tip": "선물 쇼핑은 마지막 날 지하 식품관에서 해결해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "디저트",
+    "하카타역"
+  ],
+  "art_key": "mall",
+  "local_search": "博多阪急",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%98%AA%E6%80%A5",
+    "https://en.wikipedia.org/wiki/Hakata_Station",
+    "https://www.openstreetmap.org/node/5809137353"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 20,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타역 백화점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:31.889Z"
+}

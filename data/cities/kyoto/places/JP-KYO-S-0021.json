@@ -1,0 +1,72 @@
+{
+  "id": "pl_e37cd2f6f1",
+  "code": "JP-KYO-S-0021",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-railway-museum",
+  "kind": "sight",
+  "name_ko": "교토 철도박물관",
+  "name_sub": "Kyoto Railway Museum",
+  "name_local": "京都鉄道博物館",
+  "lat": 34.98722,
+  "lng": 135.7425,
+  "area": "교토역",
+  "lead": "증기기관차부터 신칸센까지 실물 차량이 모인 박물관. 아이와 함께 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "철도박물관"
+    ],
+    [
+      "위치",
+      "교토역 서쪽"
+    ],
+    [
+      "특징",
+      "증기기관차 전시·운전 시뮬레이터"
+    ],
+    [
+      "연도(Wikidata)",
+      "1972년"
+    ]
+  ],
+  "tip": "체험 일부는 번호표나 예약이 필요할 수 있어요.",
+  "open_hours": "Th-Tu 10:00-16:30; We off; Dec 30-Jan 01 off (OSM)",
+  "stay_min": 120,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "기차",
+    "아이와"
+  ],
+  "art_key": "train",
+  "local_search": "京都鉄道博物館",
+  "photos": [
+    "JP-KYO-S-0021-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q24014029",
+    "https://en.wikipedia.org/wiki/Kyoto_Railway_Museum",
+    "https://www.openstreetmap.org/way/290375264",
+    "https://www.kyotorailwaymuseum.jp/en/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 83,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "railway museum in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:10.010Z"
+}

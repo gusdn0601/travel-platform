@@ -1,0 +1,68 @@
+{
+  "id": "pl_8e58906ffb",
+  "code": "JP-KYO-S-0022",
+  "city_id": "JP-KYO",
+  "slug": "three-year-slope",
+  "kind": "sight",
+  "name_ko": "산넨자카",
+  "name_sub": "Three-year Slope",
+  "name_local": "産寧坂",
+  "lat": 34.99647,
+  "lng": 135.78093,
+  "area": "히가시야마",
+  "lead": "기요미즈데라로 오르는 돌계단 골목. 전통 가게가 이어져 걷기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전통 거리"
+    ],
+    [
+      "특징",
+      "돌길, 목조 가게"
+    ],
+    [
+      "주변",
+      "니넨자카와 이어짐"
+    ]
+  ],
+  "tip": "돌계단이라 미끄러운 신발은 피하세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "골목",
+    "전통",
+    "기요미즈"
+  ],
+  "art_key": "lantern",
+  "local_search": "産寧坂",
+  "photos": [
+    "JP-KYO-S-0022-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11574990",
+    "https://ko.wikipedia.org/wiki/%EC%82%B0%EB%84%A8%EC%9E%90%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Sannenzaka",
+    "https://www.openstreetmap.org/way/1569088146"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 11,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "street in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:15.983Z"
+}

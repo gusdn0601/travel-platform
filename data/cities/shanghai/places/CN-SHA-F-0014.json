@@ -1,0 +1,86 @@
+{
+  "id": "pl_42e0305c6c",
+  "code": "CN-SHA-F-0014",
+  "city_id": "CN-SHA",
+  "slug": "dexingguan",
+  "kind": "food",
+  "name_ko": "더싱관 (德兴馆)",
+  "name_local": "德兴馆 黄浦区",
+  "lat": 31.22959,
+  "lng": 121.47693,
+  "area": "황푸",
+  "lead": "전통 상하이 본토식 노포. 훈툰·국수·간장 볶음 요리로 오래 알려졌어요.",
+  "facts": [
+    [
+      "종류",
+      "상하이 본토식 노포"
+    ],
+    [
+      "대표",
+      "홍샤오·면류"
+    ],
+    [
+      "분위기",
+      "소박한 옛 식당"
+    ],
+    [
+      "예약",
+      "피크 시간 대기 가능"
+    ]
+  ],
+  "origin": [
+    "더싱관은 상하이 본토식(本帮菜)을 오래 이어온 노포로 소개돼요.",
+    "본토식은 간장과 설탕으로 진하고 부드럽게 졸이는 조림이 중심이에요.",
+    "지금은 여러 지점이 있고 관광 코스에서 본토식 한 끼를 해결하려는 여행자가 찾아요."
+  ],
+  "practical": [
+    "지점마다 메뉴가 조금씩 달라요"
+  ],
+  "tip": "본토식은 달고 진한 편이라 쌀밥과 함께 시키세요.",
+  "order": [
+    "<b>红烧肉</b> 홍샤오러우",
+    "<b>响油鳝丝</b> 장어채 볶음",
+    "<b>蟹粉豆腐</b> 게살 두부"
+  ],
+  "open_hours": null,
+  "stay_min": 75,
+  "price_hint": "1인 80~150위안 추정",
+  "must": 0,
+  "tags": [
+    "본토식",
+    "노포",
+    "면"
+  ],
+  "art_key": "basket",
+  "local_search": "德兴馆 黄浦区",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C",
+    "https://www.openstreetmap.org/node/5229563121"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 본토식 노포로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.071Z"
+}

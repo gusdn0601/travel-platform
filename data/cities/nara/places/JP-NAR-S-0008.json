@@ -1,0 +1,71 @@
+{
+  "id": "pl_a9f1f73de0",
+  "code": "JP-NAR-S-0008",
+  "city_id": "JP-NAR",
+  "slug": "nara-national-museum",
+  "kind": "sight",
+  "name_ko": "나라 국립박물관",
+  "name_sub": "Nara National Museum",
+  "name_local": "奈良国立博物館",
+  "lat": 34.6837,
+  "lng": 135.8364,
+  "area": "나라 공원",
+  "lead": "불교 미술을 중심으로 한 국립박물관. 비 오는 날 일정으로 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "박물관"
+    ],
+    [
+      "특징",
+      "불상·불교 회화"
+    ],
+    [
+      "위치",
+      "나라 공원 내"
+    ],
+    [
+      "연도(Wikidata)",
+      "1889년"
+    ]
+  ],
+  "tip": "특별전은 일정이 달라 공식 사이트로 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "상설전 입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "불교미술",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "奈良国立博物館",
+  "photos": [
+    "JP-NAR-S-0008-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q147312",
+    "https://ko.wikipedia.org/wiki/%EB%82%98%EB%9D%BC_%EA%B5%AD%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Nara_National_Museum",
+    "https://www.narahaku.go.jp"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "art museum in Nara, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:29.720Z"
+}

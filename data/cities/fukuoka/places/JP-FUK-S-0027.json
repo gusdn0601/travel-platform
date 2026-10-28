@@ -1,0 +1,83 @@
+{
+  "id": "pl_6c00d1038e",
+  "code": "JP-FUK-S-0027",
+  "city_id": "JP-FUK",
+  "slug": "lake-kinrin",
+  "kind": "sight",
+  "name_ko": "긴린코 호수",
+  "name_sub": "Lake Kinrin",
+  "name_local": "金鱗湖",
+  "lat": 33.26667,
+  "lng": 131.36917,
+  "area": "근교(유후인)",
+  "lead": "온천수가 섞여 드는 작은 호수. 이른 아침이면 물 위로 안개가 피어올라 사진 명소로 알려져요.",
+  "facts": [
+    [
+      "종류",
+      "호수"
+    ],
+    [
+      "특징",
+      "온천수 유입, 아침 안개"
+    ],
+    [
+      "위치",
+      "유후인 마을 안쪽"
+    ],
+    [
+      "접근",
+      "유노츠보 거리 끝"
+    ]
+  ],
+  "origin": [
+    "긴린코는 호수 바닥에서 따뜻한 물이 솟아 겨울 아침에 수면 위로 안개가 올라오는 모습으로 유명해요.",
+    "이름은 물고기 비늘이 석양에 금빛으로 빛났다는 데서 유래했다고 전해져요.",
+    "호숫가에는 작은 카페와 산책로가 있어 유노츠보 거리와 묶어서 천천히 걷기 좋아요."
+  ],
+  "practical": [
+    "안개는 이른 아침 겨울에 잘 보임",
+    "호수 주변 카페는 오전부터 영업"
+  ],
+  "tip": "아침 안개를 보려면 숙박이 유리해요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "호수",
+    "아침안개",
+    "유후인"
+  ],
+  "art_key": "lake",
+  "local_search": "金鱗湖",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%87%91%E9%B1%97%E6%B9%96",
+    "https://www.openstreetmap.org/way/162781794"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 13,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 유후인 필수 포인트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:25.534Z"
+}

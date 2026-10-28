@@ -1,0 +1,83 @@
+{
+  "id": "pl_e52a1572eb",
+  "code": "JP-NAR-S-0028",
+  "city_id": "JP-NAR",
+  "slug": "omiwa-shrine",
+  "kind": "sight",
+  "name_ko": "오미와 신사",
+  "name_sub": "Ōmiwa Shrine",
+  "name_local": "大神神社",
+  "lat": 34.52889,
+  "lng": 135.85278,
+  "area": "교외(사쿠라이)",
+  "lead": "본전 대신 산 자체를 신체로 모시는 일본에서 가장 오래된 신사로 알려진 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "산을 신체로 모심"
+    ],
+    [
+      "위치",
+      "미와산 기슭"
+    ]
+  ],
+  "origin": [
+    "오미와 신사는 미와산을 신체로 삼아 본전을 두지 않은 것으로 알려져 있어요.",
+    "삼나무 숲길과 작은 사당들이 이어져 고요한 분위기가 나요.",
+    "참배 후 미와 소멘을 먹는 코스가 현지에서도 익숙한 방식이에요.",
+    "사쿠라이 지역이라 나라 시내에서 조금 떨어져 있어요."
+  ],
+  "practical": [
+    "등산로 있음",
+    "편한 신발"
+  ],
+  "tip": "미와 소멘집과 함께 반나절 코스로 묶어 보세요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "산",
+    "최고(最古)"
+  ],
+  "art_key": "shrine",
+  "local_search": "大神神社",
+  "photos": [
+    "JP-NAR-S-0028-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C5%8Cmiwa_Shrine",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E7%A5%9E%E7%A4%BE",
+    "https://www.openstreetmap.org/way/592051568"
+  ],
+  "meta": {
+    "priority": 28,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 95,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 사쿠라이 근교 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:30:46.753Z"
+}

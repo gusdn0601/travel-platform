@@ -1,0 +1,83 @@
+{
+  "id": "pl_8efa035645",
+  "code": "JP-NAR-S-0032",
+  "city_id": "JP-NAR",
+  "slug": "asukadera",
+  "kind": "sight",
+  "name_ko": "아스카데라",
+  "name_sub": "Asuka-dera",
+  "name_local": "飛鳥寺",
+  "lat": 34.47865,
+  "lng": 135.82018,
+  "area": "교외(아스카)",
+  "lead": "일본에서 가장 먼저 세운 본격 사찰로 알려진 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "일본 최초의 사찰(전승)"
+    ],
+    [
+      "본존",
+      "석가여래상"
+    ]
+  ],
+  "origin": [
+    "아스카데라는 6세기 말에 세워졌다고 전해지는 일본 최초의 본격 사찰이에요.",
+    "본존은 아스카 시대에 만든 청동 불상으로 알려져 있어 불교 조각을 보려는 사람이 찾아요.",
+    "규모는 작지만 남아 있는 시대의 깊이가 느껴지는 곳이에요.",
+    "아스카 지역 코스의 중심에 있어요."
+  ],
+  "practical": [
+    "입장료 소액",
+    "경내 정숙"
+  ],
+  "tip": "이시부타이 고분과 도보 거리예요.",
+  "open_hours": "09:00-17:30 (OSM)",
+  "stay_min": 30,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "일본 최초",
+    "불상"
+  ],
+  "art_key": "temple",
+  "local_search": "飛鳥寺",
+  "photos": [
+    "JP-NAR-S-0032-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asuka-dera",
+    "https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E5%AF%BA",
+    "https://www.openstreetmap.org/way/813386514"
+  ],
+  "meta": {
+    "priority": 39,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 3,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아스카 역사 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:30:57.292Z"
+}

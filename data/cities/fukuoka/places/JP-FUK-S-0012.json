@@ -1,0 +1,67 @@
+{
+  "id": "pl_e86cf184c2",
+  "code": "JP-FUK-S-0012",
+  "city_id": "JP-FUK",
+  "slug": "noko-island",
+  "kind": "sight",
+  "name_ko": "노코노시마",
+  "name_sub": "Noko Island",
+  "name_local": "能古島",
+  "lat": 33.62083,
+  "lng": 130.30333,
+  "area": "하카타 만",
+  "lead": "하카타 만에 떠 있는 작은 섬. 페리로 짧게 건너가 꽃 공원과 바다 풍경을 즐겨요.",
+  "facts": [
+    [
+      "종류",
+      "섬 공원"
+    ],
+    [
+      "접근",
+      "페리"
+    ],
+    [
+      "특징",
+      "꽃 공원·전망"
+    ]
+  ],
+  "tip": "페리 운항 시간표를 먼저 확인하세요.",
+  "open_hours": null,
+  "stay_min": 240,
+  "price_hint": "배삯·공원 별도",
+  "must": 0,
+  "tags": [
+    "섬",
+    "꽃",
+    "전망"
+  ],
+  "art_key": "island",
+  "local_search": "能古島",
+  "photos": [
+    "JP-FUK-S-0012-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10859834",
+    "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%BD%94%EB%85%B8%EC%84%AC",
+    "https://www.openstreetmap.org/relation/8364095"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 200,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "island and neighborhood at Hakata Bay in Fukuoka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:02.462Z"
+}

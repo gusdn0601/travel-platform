@@ -1,0 +1,71 @@
+{
+  "id": "pl_9ba0d73b08",
+  "code": "JP-NAR-S-0003",
+  "city_id": "JP-NAR",
+  "slug": "kasuga-taisha",
+  "kind": "sight",
+  "name_ko": "가스가타이샤",
+  "name_sub": "Kasuga-taisha",
+  "name_local": "春日大社",
+  "lat": 34.68134,
+  "lng": 135.84835,
+  "area": "나라 공원",
+  "lead": "수많은 석등과 등롱이 늘어선 숲속 신사. 주홍색 본전이 나무 사이에서 눈에 띄어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "대표",
+      "석등·등롱 참배길"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "768년"
+    ]
+  ],
+  "tip": "비 온 뒤에는 참배길이 미끄러워요.",
+  "open_hours": null,
+  "stay_min": 75,
+  "price_hint": "본전 참배 별도",
+  "must": 0,
+  "tags": [
+    "신사",
+    "석등",
+    "세계유산"
+  ],
+  "art_key": "shrine",
+  "local_search": "春日大社",
+  "photos": [
+    "JP-NAR-S-0003-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q714559",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8A%A4%EA%B0%80%ED%83%80%EC%9D%B4%EC%83%A4",
+    "https://en.wikipedia.org/wiki/Kasuga-taisha",
+    "https://www.kasugataisha.or.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:07.855Z"
+}

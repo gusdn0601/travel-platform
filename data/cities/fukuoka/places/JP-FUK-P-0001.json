@@ -1,0 +1,73 @@
+{
+  "id": "pl_1254816226",
+  "code": "JP-FUK-P-0001",
+  "city_id": "JP-FUK",
+  "slug": "canal-city-hakata",
+  "kind": "shop",
+  "name_ko": "캐널시티 하카타",
+  "name_sub": "Canal City Hakata",
+  "name_local": "キャナルシティ博多",
+  "lat": 33.59111,
+  "lng": 130.41056,
+  "area": "하카타",
+  "lead": "운하를 낀 대형 복합 상업시설. 분수 쇼와 극장, 상점이 한곳에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "복합 쇼핑시설"
+    ],
+    [
+      "특징",
+      "분수 쇼, 라멘 스타디움"
+    ],
+    [
+      "위치",
+      "나카스 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "1996년"
+    ]
+  ],
+  "tip": "라멘 매장 모음 구역이 있어 식사 시간과 묶기 좋아요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "복합시설",
+    "분수쇼"
+  ],
+  "art_key": "neon",
+  "local_search": "キャナルシティ博多",
+  "photos": [
+    "JP-FUK-P-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1050353",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%84%90%EC%8B%9C%ED%8B%B0_%ED%95%98%EC%B9%B4%ED%83%80",
+    "https://en.wikipedia.org/wiki/Canal_City_Hakata",
+    "https://www.openstreetmap.org/way/751001483",
+    "https://canalcity.co.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 194,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "shopping mall",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:46.381Z"
+}

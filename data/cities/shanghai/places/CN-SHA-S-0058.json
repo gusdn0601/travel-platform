@@ -1,0 +1,79 @@
+{
+  "id": "pl_e9b547254d",
+  "code": "CN-SHA-S-0058",
+  "city_id": "CN-SHA",
+  "slug": "yongkang-road",
+  "kind": "sight",
+  "name_ko": "융캉루 (永康路) 바 거리",
+  "name_sub": "Yongkang Road",
+  "name_local": "永康路",
+  "lat": 31.21195,
+  "lng": 121.45136,
+  "area": "프랑스 조계지",
+  "lead": "작은 바와 레스토랑이 모인 프랑스 조계지의 저녁 골목. 외국인과 젊은 층이 많이 모여요.",
+  "facts": [
+    [
+      "성격",
+      "바·레스토랑 골목"
+    ],
+    [
+      "시간대",
+      "저녁 이후"
+    ],
+    [
+      "분위기",
+      "캐주얼 야외석"
+    ],
+    [
+      "인근",
+      "안푸루, 우캉루"
+    ]
+  ],
+  "origin": [
+    "융캉루는 프랑스 조계지 한 골목으로, 2000년대 이후 카페와 바가 들어서며 “바 거리”로 알려졌어요.",
+    "단속과 임대 변화로 분위기가 자주 바뀌어 왔지만, 야외석에서 맥주나 칵테일을 즐기는 모습은 지금도 이어져요.",
+    "우캉루·안푸루 낮 산책 후 저녁 코스로 이어가기 좋아요."
+  ],
+  "tip": "영업하는 가게는 시기마다 달라요. 지도 앱에서 현재 영업 여부를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(음료 별도)",
+  "must": 0,
+  "tags": [
+    "바",
+    "야간",
+    "프랑스조계지"
+  ],
+  "art_key": "night",
+  "local_search": "永康路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%BA%B7%E8%B7%AF",
+    "https://en.wikipedia.org/wiki/Shanghai_French_Concession",
+    "https://www.openstreetmap.org/way/760475718"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 일정 후보로 소개되는 곳(수집가 판단, 방문자 수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.651Z"
+}

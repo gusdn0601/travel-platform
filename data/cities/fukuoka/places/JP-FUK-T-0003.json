@@ -1,0 +1,82 @@
+{
+  "id": "pl_a12b1031ae",
+  "code": "JP-FUK-T-0003",
+  "city_id": "JP-FUK",
+  "slug": "hakata-port-ferry-terminal",
+  "kind": "transit",
+  "name_ko": "하카타 항 국제터미널",
+  "name_sub": "Hakata Port International Terminal",
+  "name_local": "博多港国際ターミナル",
+  "lat": null,
+  "lng": null,
+  "area": "하카타",
+  "lead": "부산과 오가는 쾌속선·페리가 닿는 후쿠오카의 바다 현관. 한국인 여행객이 입국하는 또 하나의 길이에요.",
+  "facts": [
+    [
+      "종류",
+      "교통 · 국제여객터미널"
+    ],
+    [
+      "노선",
+      "부산 직항 선박"
+    ],
+    [
+      "위치",
+      "하카타 항"
+    ],
+    [
+      "접근",
+      "하카타역에서 버스"
+    ]
+  ],
+  "origin": [
+    "하카타 항은 오래전부터 대륙과의 교류 창구였던 항구로, 지금도 부산과 연결되는 여객선이 운항해요.",
+    "비행기보다 시간이 걸리지만 가격과 감성 때문에 선택하는 여행자가 있어요.",
+    "쾌속선 이용 시 입출국 수속 시간을 고려해야 해요."
+  ],
+  "practical": [
+    "운항 시간·편수는 시기별 변동",
+    "터미널에서 하카타역까지 버스·택시 이용"
+  ],
+  "tip": "배편 시간표와 시내 이동 시간을 함께 계산하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "부산항",
+    "국제선",
+    "페리",
+    "교통"
+  ],
+  "art_key": "harbor",
+  "local_search": "博多港国際ターミナル",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%B8%AF",
+    "https://www.openstreetmap.org/way/302351120"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 부산 출발 배편로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "flag": "coord conflict 2.0km (wikipedia city center vs OSM); coords left null"
+  },
+  "sanitized_at": "2026-10-28T10:02:55.168Z"
+}

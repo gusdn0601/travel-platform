@@ -1,0 +1,67 @@
+{
+  "id": "pl_79774dcaf4",
+  "code": "JP-NAR-S-0019",
+  "city_id": "JP-NAR",
+  "slug": "mount-yoshino",
+  "kind": "sight",
+  "name_ko": "요시노야마",
+  "name_sub": "Mount Yoshino",
+  "name_local": "吉野山",
+  "lat": 34.35643,
+  "lng": 135.87062,
+  "area": "교외(요시노)",
+  "lead": "봄 산벚꽃 명소로 이름난 산. 산 전체가 구역별로 다른 시기에 꽃을 피워요.",
+  "facts": [
+    [
+      "종류",
+      "산 · 벚꽃 명소"
+    ],
+    [
+      "유산",
+      "세계유산(키이 산지)"
+    ],
+    [
+      "시즌",
+      "4월 초중순"
+    ]
+  ],
+  "tip": "나라 시내에서 멀어 하루 일정으로 계획하세요.",
+  "open_hours": null,
+  "stay_min": 300,
+  "price_hint": "로프웨이 별도",
+  "must": 0,
+  "tags": [
+    "벚꽃",
+    "산",
+    "세계유산"
+  ],
+  "art_key": "mountain",
+  "local_search": "吉野山",
+  "photos": [
+    "JP-NAR-S-0019-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1036938",
+    "https://ko.wikipedia.org/wiki/%EC%9A%94%EC%8B%9C%EB%85%B8%EC%82%B0",
+    "https://en.wikipedia.org/wiki/Mount_Yoshino",
+    "http://www.yoshinoyama-sakura.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "mountain in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:03:15.508Z"
+}

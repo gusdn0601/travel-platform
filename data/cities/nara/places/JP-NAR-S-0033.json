@@ -1,0 +1,80 @@
+{
+  "id": "pl_aa9bd1d755",
+  "code": "JP-NAR-S-0033",
+  "city_id": "JP-NAR",
+  "slug": "takamatsuzuka-museum",
+  "kind": "sight",
+  "name_ko": "다카마쓰즈카 고분벽화관",
+  "name_sub": "Takamatsuzuka Tomb",
+  "name_local": "高松塚古墳",
+  "lat": 34.46222,
+  "lng": 135.80647,
+  "area": "교외(아스카)",
+  "lead": "사신도 벽화로 알려진 7세기 고분. 옆 벽화관에서 모사 벽화를 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "고분"
+    ],
+    [
+      "특징",
+      "사신도 벽화"
+    ],
+    [
+      "위치",
+      "아스카 역사공원 내"
+    ]
+  ],
+  "origin": [
+    "다카마쓰즈카 고분은 1972년에 벽화가 발견되며 큰 화제가 된 고분으로 알려져 있어요.",
+    "청룡·백호·주작·현무 사신도가 그려져 있었고, 지금은 보존을 위해 원래 벽화를 옮겨 보관해요.",
+    "인근 벽화관에서 재현 벽화를 볼 수 있어요.",
+    "아스카 역사공원 산책로와 이어져 걷기 좋아요."
+  ],
+  "practical": [
+    "벽화관 관람 여부 현장 확인"
+  ],
+  "tip": "아스카 지역은 자전거 대여로 돌면 편해요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "벽화관 무료(추정)",
+  "must": 0,
+  "tags": [
+    "고분",
+    "벽화",
+    "아스카"
+  ],
+  "art_key": "museum",
+  "local_search": "高松塚古墳",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Takamatsuzuka_Tomb",
+    "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%A1%9A%E5%8F%A4%E5%A2%B3",
+    "https://www.openstreetmap.org/way/1566437308"
+  ],
+  "meta": {
+    "priority": 44,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 30,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아스카 역사공원 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:30:58.813Z"
+}

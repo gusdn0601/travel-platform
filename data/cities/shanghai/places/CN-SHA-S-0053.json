@@ -1,0 +1,79 @@
+{
+  "id": "pl_7ad6f9d09a",
+  "code": "CN-SHA-S-0053",
+  "city_id": "CN-SHA",
+  "slug": "long-museum-westbund",
+  "kind": "sight",
+  "name_ko": "룽 미술관 (웨스트번드)",
+  "name_sub": "Long Museum West Bund",
+  "name_local": "龙美术馆(西岸馆)",
+  "lat": 31.18592,
+  "lng": 121.46019,
+  "area": "황푸강 서안(웨스트번드)",
+  "lead": "콘크리트 구조가 독특한 사립 현대미술관. 웨스트번드 강변 산책과 묶기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "사립 현대미술관"
+    ],
+    [
+      "건물",
+      "옛 석탄 하역 시설 개조"
+    ],
+    [
+      "위치",
+      "웨스트번드"
+    ],
+    [
+      "특징",
+      "독특한 우산 구조"
+    ]
+  ],
+  "origin": [
+    "룽 미술관은 개인 컬렉터가 설립한 사립 미술관으로, 웨스트번드 지역에 분관이 있어요.",
+    "옛 석탄 하역 시설의 콘크리트 구조를 살려 지은 건물이 특징이에요.",
+    "황푸강 서안은 한때 공업 지대였지만 미술관과 공원이 들어서 문화 지구로 변모했어요."
+  ],
+  "tip": "월요일 휴관이 일반적이에요. 웨스트번드 강변 산책을 곁들이세요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "입장권 별도(추정)",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "현대미술",
+    "강변"
+  ],
+  "art_key": "museum",
+  "local_search": "龙美术馆(西岸馆)",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Long_Museum",
+    "https://zh.wikipedia.org/wiki/%E9%BE%99%E7%BE%8E%E6%9C%AF%E9%A6%86",
+    "https://www.openstreetmap.org/node/3126004579"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 일정 후보로 소개되는 곳(수집가 판단, 방문자 수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.638Z"
+}

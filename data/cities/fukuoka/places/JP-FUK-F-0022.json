@@ -1,0 +1,87 @@
+{
+  "id": "pl_c72ecf064f",
+  "code": "JP-FUK-F-0022",
+  "city_id": "JP-FUK",
+  "slug": "ishimura-manseido-tsurunoko",
+  "kind": "food",
+  "name_ko": "이시무라 만세이도 (츠루노코)",
+  "name_sub": "Ishimura Manseido",
+  "name_local": "石村萬盛堂 博多",
+  "lat": 33.59592,
+  "lng": 130.40436,
+  "area": "하카타",
+  "lead": "1905년 창업으로 알려진 하카타 과자점. 달걀 모양 마시멜로 안에 노른자 소를 넣은 츠루노코가 시그니처예요.",
+  "facts": [
+    [
+      "종류",
+      "화과자"
+    ],
+    [
+      "시그니처",
+      "츠루노코"
+    ],
+    [
+      "창업",
+      "1905년으로 알려짐"
+    ],
+    [
+      "위치",
+      "하카타"
+    ]
+  ],
+  "origin": [
+    "이시무라 만세이도는 1905년 하카타에서 시작된 과자점으로 알려져 있어요.",
+    "대표 과자 츠루노코는 흰 마시멜로로 감싼 달걀 모양에 노른자 소를 넣은 것으로, 서양 과자 제조법을 일본식 화과자에 접목한 사례로 소개돼요.",
+    "선물용 포장이 깔끔해 한국 여행객이 지인 선물로 사 가는 경우가 많아요."
+  ],
+  "practical": [
+    "유통기한이 짧을 수 있음",
+    "공항 매장에서도 구입 가능한 경우가 있음"
+  ],
+  "tip": "귀국 선물이라면 여행 마지막 날 구입하세요.",
+  "order": [
+    "<b>鶴乃子</b> 츠루노코"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "1개 150~300엔 추정",
+  "must": 0,
+  "tags": [
+    "화과자",
+    "마시멜로",
+    "선물"
+  ],
+  "art_key": "dessert",
+  "local_search": "石村萬盛堂 博多",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%9D%91%E8%90%AC%E7%9B%9B%E5%A0%82",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E4%B9%83%E5%AD%90",
+    "https://www.openstreetmap.org/node/5030007822"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 5,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 전통 과자 선물로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:10.116Z"
+}

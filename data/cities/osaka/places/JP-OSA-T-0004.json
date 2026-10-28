@@ -1,0 +1,69 @@
+{
+  "id": "pl_98425acae7",
+  "code": "JP-OSA-T-0004",
+  "city_id": "JP-OSA",
+  "slug": "tennoji-station",
+  "kind": "transit",
+  "name_ko": "덴노지역",
+  "name_sub": "Tennōji Station",
+  "name_local": "天王寺駅",
+  "addr_local": "〒543-0055 大阪府 大阪市 天王寺区 7-eleven",
+  "lat": 34.64736,
+  "lng": 135.51389,
+  "area": "덴노지",
+  "lead": "JR과 지하철이 만나는 남부 환승 거점. 간사이공항행 특급(하루카)이 정차해요.",
+  "facts": [
+    [
+      "종류",
+      "JR·지하철 역"
+    ],
+    [
+      "연결",
+      "아베노 하루카스 직결"
+    ],
+    [
+      "용도",
+      "남부 이동 거점"
+    ]
+  ],
+  "tip": "시텐노지·덴노지 공원과 가까워 관광 출발점으로 좋아요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "JR",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "天王寺駅",
+  "photos": [
+    "JP-OSA-T-0004-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1132328",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B4%EB%85%B8%EC%A7%80%EC%97%AD",
+    "https://en.wikipedia.org/wiki/Tenn%C5%8Dji_Station",
+    "https://www.openstreetmap.org/node/3632179681"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 124,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "railway station in Osaka, Osaka prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:51:00.147Z"
+}

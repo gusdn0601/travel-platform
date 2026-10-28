@@ -1,0 +1,80 @@
+{
+  "id": "pl_4532753843",
+  "code": "JP-NAR-T-0003",
+  "city_id": "JP-NAR",
+  "slug": "shinomiya-station",
+  "kind": "transit",
+  "name_ko": "신오미야역",
+  "name_sub": "Shin-Ōmiya Station",
+  "name_local": "新大宮駅",
+  "lat": 34.68545,
+  "lng": 135.81151,
+  "area": "나라마치",
+  "lead": "긴테쓰선 나라 방면 역. 나라 시내 서쪽과 가까워 숙소 접근에 쓰여요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "긴테쓰 나라선"
+    ],
+    [
+      "특징",
+      "나라역 바로 앞 정류장"
+    ]
+  ],
+  "origin": [
+    "신오미야역은 긴테쓰 나라선에서 나라역 바로 앞에 있는 역이에요.",
+    "나라마치 서쪽 숙소를 잡았을 때 내리기 좋은 위치로 알려져 있어요.",
+    "역 주변은 주택과 상점이 섞인 조용한 동네예요.",
+    "나라역까지는 한 정거장이라 걸어도 이동할 수 있어요."
+  ],
+  "practical": [
+    "급행 정차 여부 확인"
+  ],
+  "tip": "숙소가 나라마치 서쪽이면 여기서 내리는 편이 가까워요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "구간 요금",
+  "must": 0,
+  "tags": [
+    "교통",
+    "긴테쓰",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "新大宮駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shin-%C5%8Cmiya_Station",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A4%A7%E5%AE%AE%E9%A7%85",
+    "https://www.openstreetmap.org/node/2419634760"
+  ],
+  "meta": {
+    "priority": 62,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 134,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "숙소 접근 동선(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:24.170Z"
+}

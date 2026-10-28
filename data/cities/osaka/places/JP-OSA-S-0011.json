@@ -1,0 +1,72 @@
+{
+  "id": "pl_b32f7dd15c",
+  "code": "JP-OSA-S-0011",
+  "city_id": "JP-OSA",
+  "slug": "universal-studios-japan",
+  "kind": "sight",
+  "name_ko": "유니버설 스튜디오 재팬",
+  "name_sub": "Universal Studios Japan",
+  "name_local": "ユニバーサル・スタジオ・ジャパン",
+  "addr_local": "〒554-0031 大阪府 大阪市 此花区 桜島二丁目 Fulton Street",
+  "lat": 34.6647,
+  "lng": 135.433,
+  "area": "오사카코/덴포잔",
+  "lead": "영화·게임 세계를 재현한 대형 테마파크. 구역마다 어트랙션과 포토 스폿이 밀집해 있어요.",
+  "facts": [
+    [
+      "종류",
+      "테마파크"
+    ],
+    [
+      "위치",
+      "유니버설시티역 앞"
+    ],
+    [
+      "포인트",
+      "구역별 어트랙션, 시즌 이벤트"
+    ],
+    [
+      "연도(Wikidata)",
+      "2001년"
+    ]
+  ],
+  "tip": "인기 어트랙션은 오픈 직후가 가장 한가해요. 입장권과 패스는 공식 사이트 가격을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 480,
+  "price_hint": "입장권 별도(일자별 변동)",
+  "must": 0,
+  "tags": [
+    "테마파크",
+    "아이와",
+    "체험"
+  ],
+  "art_key": "park",
+  "local_search": "ユニバーサル・スタジオ・ジャパン",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1375103",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%9E%AC%ED%8C%AC",
+    "https://en.wikipedia.org/wiki/Universal_Studios_Japan",
+    "https://www.openstreetmap.org/way/32560852",
+    "https://www.usj.co.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 121,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "theme park in Osaka, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:04.308Z"
+}

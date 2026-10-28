@@ -1,0 +1,72 @@
+{
+  "id": "pl_aa6c990ceb",
+  "code": "JP-FUK-S-0007",
+  "city_id": "JP-FUK",
+  "slug": "marine-world-uminonakamichi",
+  "kind": "sight",
+  "name_ko": "마린월드 우미노나카미치",
+  "name_sub": "Marine World Uminonakamichi",
+  "name_local": "マリンワールド海の中道",
+  "lat": 33.66083,
+  "lng": 130.36333,
+  "area": "교외(우미노나카미치)",
+  "lead": "돌고래 쇼와 대형 수조가 있는 수족관. 우미노나카미치 해변 공원과 가까워요.",
+  "facts": [
+    [
+      "종류",
+      "수족관"
+    ],
+    [
+      "특징",
+      "돌고래 쇼"
+    ],
+    [
+      "접근",
+      "JR 우미노나카미치역"
+    ],
+    [
+      "연도(Wikidata)",
+      "1988년"
+    ]
+  ],
+  "tip": "공원과 묶어 반나절 이상 잡는 것이 좋아요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "수족관",
+    "아이와",
+    "바다"
+  ],
+  "art_key": "aquarium",
+  "local_search": "マリンワールド海の中道",
+  "photos": [
+    "JP-FUK-S-0007-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6764266",
+    "https://en.wikipedia.org/wiki/Marine_World_Uminonakamichi",
+    "https://www.openstreetmap.org/node/4619781595",
+    "http://www.marine-world.co.jp/english/index.html"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 26,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "aquarium in Fukuoka, Fukuoka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:22.398Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_873661f45a",
+  "code": "JP-NAR-F-0013",
+  "city_id": "JP-NAR",
+  "slug": "starbucks-nara-park",
+  "kind": "food",
+  "name_ko": "스타벅스 나라 공원점",
+  "name_sub": "Starbucks Nara Park",
+  "name_local": "スターバックス 奈良公園店",
+  "lat": null,
+  "lng": null,
+  "area": "나라 공원",
+  "lead": "나라 공원 안쪽에 있어 사슴을 보며 쉬기 좋은 카페예요.",
+  "facts": [
+    [
+      "종류",
+      "커피 전문점"
+    ],
+    [
+      "특징",
+      "공원 인접, 테라스"
+    ],
+    [
+      "위치",
+      "도다이지 참배길"
+    ]
+  ],
+  "origin": [
+    "나라 공원 안쪽에 있어 사찰 산책 중 잠시 쉬기 좋은 지점이에요.",
+    "창밖으로 공원 풍경이 보이고 테라스 자리도 있어요.",
+    "여름에는 냉방과 화장실을 겸해 들르는 여행자가 많아요.",
+    "공원 특성상 좌석 회전이 느려 대기하는 경우가 있어요."
+  ],
+  "practical": [
+    "좌석 대기 가능",
+    "공원 산책 중 휴식"
+  ],
+  "tip": "오전에 들러 자리 잡고 공원을 걷는 방식도 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 600~1,200엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "공원",
+    "쉼터"
+  ],
+  "art_key": "cafe",
+  "local_search": "スターバックス 奈良公園店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 19,
+    "expansion": "nara-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 공원 휴식 지점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:01.670Z"
+}

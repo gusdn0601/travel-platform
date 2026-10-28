@@ -1,0 +1,75 @@
+{
+  "id": "pl_c6297d90ef",
+  "code": "CN-SHA-P-0003",
+  "city_id": "CN-SHA",
+  "slug": "k11-art-mall",
+  "kind": "shop",
+  "name_ko": "K11 아트몰",
+  "name_sub": "K11 Art Mall",
+  "name_local": "K11艺术购物中心 淮海中路",
+  "lat": null,
+  "lng": null,
+  "area": "프랑스 조계지",
+  "lead": "미술 작품이 매장 사이사이에 놓인 복합 쇼핑몰. 쇼핑과 전시를 한 번에 즐겨요.",
+  "facts": [
+    [
+      "성격",
+      "아트 쇼핑몰"
+    ],
+    [
+      "특징",
+      "전시 공간 · 식당가"
+    ],
+    [
+      "위치",
+      "화이하이중루"
+    ],
+    [
+      "접근",
+      "지하철 10·13호선 신천지역"
+    ]
+  ],
+  "origin": [
+    "K11은 홍콩 기업이 만든 “예술과 쇼핑을 합친” 몰 브랜드로, 상하이 점은 화이하이로에 문을 열었어요.",
+    "매장 사이에 설치 작품과 전시가 있고 미술관 같은 동선을 만든 점이 특징이에요.",
+    "신천지, 화이하이로 산책과 이어서 들르기 좋아요."
+  ],
+  "tip": "비 오는 날 실내 코스로 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "미술",
+    "카페"
+  ],
+  "art_key": "street",
+  "local_search": "K11艺术购物中心 淮海中路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_French_Concession"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.974Z"
+}

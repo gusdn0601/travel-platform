@@ -1,0 +1,87 @@
+{
+  "id": "pl_7db6cd19dc",
+  "code": "CN-SHA-F-0018",
+  "city_id": "CN-SHA",
+  "slug": "shendacheng",
+  "kind": "food",
+  "name_ko": "선다청 (沈大成)",
+  "name_local": "沈大成 南京东路",
+  "lat": 31.24028,
+  "lng": 121.48278,
+  "area": "난징둥루",
+  "lead": "난징둥루에서 만나는 상하이 전통 과자·떡 가게. 찹쌀떡과 구운 과자로 가볍게 당 충전하기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전통 과자·떡"
+    ],
+    [
+      "위치",
+      "난징둥루"
+    ],
+    [
+      "대표",
+      "쌀떡·구운 만두"
+    ],
+    [
+      "시즌",
+      "봄 청퇀"
+    ]
+  ],
+  "origin": [
+    "선다청은 상하이식 전통 간식을 파는 가게예요.",
+    "쌀가루 반죽과 팥소를 쓴 떡류, 구운 만두류가 대표적이에요.",
+    "봄에는 쑥 반죽의 푸른 떡(청퇀)이 시즌 메뉴로 나와요.",
+    "난징둥루 구경 중 짧게 들러 간식으로 먹기 좋은 곳이에요."
+  ],
+  "practical": [
+    "포장 중심, 줄 짧은 시간 선택"
+  ],
+  "tip": "선물용 소포장도 있어요. 가볍게 한두 개만 맛보세요.",
+  "order": [
+    "<b>条头糕</b> 길쭉한 떡",
+    "<b>青团</b> 쑥떡(봄)",
+    "<b>鲜肉月饼</b> 고기소 월병"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "1인 15~40위안 추정",
+  "must": 0,
+  "tags": [
+    "디저트",
+    "전통간식",
+    "난징둥루"
+  ],
+  "art_key": "tart",
+  "local_search": "沈大成 南京东路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Qingtuan",
+    "https://zh.wikipedia.org/wiki/%E9%9D%92%E5%9B%A2",
+    "https://www.openstreetmap.org/node/4685202694"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 전통 간식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.074Z"
+}

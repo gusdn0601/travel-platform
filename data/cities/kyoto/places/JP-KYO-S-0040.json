@@ -1,0 +1,78 @@
+{
+  "id": "pl_0f112a5cad",
+  "code": "JP-KYO-S-0040",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-international-manga-museum",
+  "kind": "sight",
+  "name_ko": "교토 국제 만화 박물관",
+  "name_sub": "Kyoto International Manga Museum",
+  "name_local": "京都国際マンガミュージアム",
+  "lat": 35.01165,
+  "lng": 135.75924,
+  "area": "나카교구",
+  "lead": "옛 초등학교 건물을 활용한 만화 박물관. 비 오는 날 실내 일정으로 소개돼요.",
+  "facts": [
+    [
+      "종류",
+      "박물관"
+    ],
+    [
+      "개관",
+      "2006년"
+    ],
+    [
+      "특징",
+      "30만 점 소장 규모로 소개"
+    ]
+  ],
+  "origin": [
+    "교토 국제 만화 박물관은 2006년 문을 연 곳으로, 폐교된 초등학교 건물을 활용했어요.",
+    "만화책을 자유롭게 꺼내 읽을 수 있는 서가가 길게 이어져 있다고 소개돼요.",
+    "비 오는 날이나 휴식이 필요한 일정에 어울리는 실내 코스예요."
+  ],
+  "practical": [
+    "휴관일 확인"
+  ],
+  "tip": "잔디밭에서 만화를 읽는 시간도 인기예요.",
+  "open_hours": "Th-Mo 10:00-17:00; We off (OSM)",
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "만화",
+    "박물관",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "京都国際マンガミュージアム",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyoto_International_Manga_Museum",
+    "https://www.openstreetmap.org/way/314446153"
+  ],
+  "meta": {
+    "priority": 25,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 8,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 실내 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:12.184Z"
+}

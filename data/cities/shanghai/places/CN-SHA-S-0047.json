@@ -1,0 +1,80 @@
+{
+  "id": "pl_7ee9da25e6",
+  "code": "CN-SHA-S-0047",
+  "city_id": "CN-SHA",
+  "slug": "xujiahui",
+  "kind": "sight",
+  "name_ko": "쉬자후이 상권",
+  "name_sub": "Xujiahui",
+  "name_local": "徐家汇",
+  "lat": 31.18333,
+  "lng": 121.43333,
+  "area": "쉬후이",
+  "lead": "대형 백화점과 쇼핑몰, 성당이 함께 있는 서남권 번화가. 한국인 거주 지역과도 가까워요.",
+  "facts": [
+    [
+      "성격",
+      "대형 쇼핑 상권"
+    ],
+    [
+      "지하철",
+      "1·9·11호선"
+    ],
+    [
+      "인근",
+      "쉬자후이 성당"
+    ],
+    [
+      "특징",
+      "전자제품 상가 · 백화점"
+    ]
+  ],
+  "origin": [
+    "쉬자후이는 명나라 재상이자 학자였던 쉬광치(서광계)의 이름에서 나온 지명이에요.",
+    "19세기 이후 가톨릭 선교 중심지가 되어 성당과 도서관, 천문대가 이곳에 세워졌어요.",
+    "지금은 대형 백화점과 쇼핑몰이 모인 번화가로 발전해 신구 문화가 섞여 있어요."
+  ],
+  "tip": "쇼핑 목적이 없다면 성당과 상권만 가볍게 둘러보면 돼요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "전자상가",
+    "교통"
+  ],
+  "art_key": "street",
+  "local_search": "徐家汇",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xujiahui",
+    "https://zh.wikipedia.org/wiki/%E5%BE%90%E5%AE%B6%E6%B1%87",
+    "https://www.openstreetmap.org/node/9270694559"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1361,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.966Z"
+}

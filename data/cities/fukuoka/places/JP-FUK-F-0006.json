@@ -1,0 +1,91 @@
+{
+  "id": "pl_94a5ebe2ab",
+  "code": "JP-FUK-F-0006",
+  "city_id": "JP-FUK",
+  "slug": "nakasu-yatai-street",
+  "kind": "food",
+  "name_ko": "나카스 야타이 거리",
+  "name_sub": "Nakasu Yatai",
+  "name_local": "中洲屋台街",
+  "lat": 33.59139,
+  "lng": 130.40706,
+  "area": "나카스",
+  "lead": "나카가와 강변을 따라 포장마차가 줄지어 서는 후쿠오카 야타이 문화의 대표 거리. 저녁부터 불이 켜져요.",
+  "facts": [
+    [
+      "종류",
+      "야타이(포장마차)"
+    ],
+    [
+      "시간대",
+      "저녁~심야"
+    ],
+    [
+      "위치",
+      "나카스 강변"
+    ],
+    [
+      "메뉴",
+      "라멘·오뎅·꼬치·교자"
+    ]
+  ],
+  "origin": [
+    "야타이는 전후 혼란기에 노점으로 퍼졌다가 도시 계획과 위생 문제로 숫자가 줄었지만 후쿠오카는 지금도 시내 곳곳에 남아 있는 드문 도시예요.",
+    "시는 가이드라인과 공개 모집으로 영업자를 관리하며 야타이 문화를 관광 자원으로 유지하고 있어요.",
+    "나카스 쪽은 강물에 비친 불빛과 어우러져 사진 찍기 좋고, 관광객이 가장 먼저 찾는 구역이에요.",
+    "한 곳에 오래 앉기보다 두세 곳을 옮겨 가며 한 접시씩 맛보는 이용 방식이 흔해요."
+  ],
+  "practical": [
+    "좌석 8~10석 안팎으로 좁음",
+    "저녁 6시 이후 대기 줄",
+    "현금 위주, 일부 휴무일 있음"
+  ],
+  "tip": "관광객이 몰리는 피크를 피하려면 개점 직후나 밤 10시 이후가 좋아요.",
+  "order": [
+    "<b>焼きラーメン</b> 야끼라멘",
+    "<b>おでん</b> 오뎅",
+    "<b>焼き鳥</b> 꼬치",
+    "<b>餃子</b> 교자"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 2,500~4,500엔 추정",
+  "must": 0,
+  "tags": [
+    "야타이",
+    "야경",
+    "저녁"
+  ],
+  "art_key": "lantern",
+  "local_search": "中洲屋台街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yatai_(food_cart)",
+    "https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%8F%B0",
+    "https://www.openstreetmap.org/node/4908537226"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 야타이 필수 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:43.659Z"
+}

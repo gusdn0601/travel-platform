@@ -1,0 +1,67 @@
+{
+  "id": "pl_fced92f906",
+  "code": "JP-KYO-P-0001",
+  "city_id": "JP-KYO",
+  "slug": "nishiki-market",
+  "kind": "shop",
+  "name_ko": "니시키 시장",
+  "name_sub": "Nishiki Market",
+  "name_local": "錦市場",
+  "lat": 35.00503,
+  "lng": 135.76614,
+  "area": "시조/가와라마치",
+  "lead": "‘교토의 부엌’으로 불리는 좁고 긴 시장. 절임, 어묵, 두부 간식을 걸으며 맛볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "재래시장"
+    ],
+    [
+      "특징",
+      "아케이드 아래 점포 밀집"
+    ],
+    [
+      "주의",
+      "걸으며 먹기를 제한하는 가게가 있음"
+    ]
+  ],
+  "tip": "점포 앞에서 먹고 가는 것이 매너인 곳이 많으니 안내를 확인하세요.",
+  "open_hours": "Mo-Su,PH 10:00-18:00+ (OSM)",
+  "stay_min": 75,
+  "price_hint": "먹거리 1,000~3,000엔",
+  "must": 0,
+  "tags": [
+    "시장",
+    "먹거리",
+    "아케이드"
+  ],
+  "art_key": "market",
+  "local_search": "錦市場",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11650434",
+    "https://ko.wikipedia.org/wiki/%EB%8B%88%EC%8B%9C%ED%82%A4_%EC%8B%9C%EC%9E%A5",
+    "https://en.wikipedia.org/wiki/Nishiki_Market",
+    "https://www.openstreetmap.org/way/772134672",
+    "http://www.kyoto-nishiki.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 130,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "marketplace in downtown Kyoto, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:21.535Z"
+}

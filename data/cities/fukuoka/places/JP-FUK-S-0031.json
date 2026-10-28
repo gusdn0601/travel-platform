@@ -1,0 +1,83 @@
+{
+  "id": "pl_f4675a54d4",
+  "code": "JP-FUK-S-0031",
+  "city_id": "JP-FUK",
+  "slug": "beppu-ropeway-tsurumi",
+  "kind": "sight",
+  "name_ko": "벳푸 로프웨이 (쓰루미다케)",
+  "name_sub": "Beppu Ropeway",
+  "name_local": "別府ロープウェイ 鶴見岳",
+  "lat": 33.28667,
+  "lng": 131.42972,
+  "area": "근교(벳푸)",
+  "lead": "쓰루미다케 정상에서 벳푸 시내와 벳푸만이 한눈에 내려다보이는 로프웨이 전망대.",
+  "facts": [
+    [
+      "종류",
+      "로프웨이 · 전망"
+    ],
+    [
+      "목적지",
+      "쓰루미다케 정상 부근"
+    ],
+    [
+      "볼거리",
+      "벳푸만·시내 전경"
+    ],
+    [
+      "시즌",
+      "단풍·설경"
+    ]
+  ],
+  "origin": [
+    "쓰루미다케는 벳푸를 내려다보는 화산으로, 로프웨이를 타면 짧은 시간에 정상 부근까지 오를 수 있어요.",
+    "맑은 날에는 벳푸만과 시내 전체가 보이고, 가을 단풍과 겨울 설경이 특히 아름답다는 평이 많아요.",
+    "지고쿠 순례와 같은 날 일정에 넣기도 하지만 날씨 영향이 커서 운행 여부를 확인해야 해요."
+  ],
+  "practical": [
+    "기상 악화 시 운행 중지",
+    "정상은 도심보다 기온이 낮아 겉옷 준비"
+  ],
+  "tip": "날씨가 흐리면 시야가 막히니 맑은 날에 맞추세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "왕복 약 1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "벳푸",
+    "전망",
+    "로프웨이",
+    "야경"
+  ],
+  "art_key": "skyline",
+  "local_search": "別府ロープウェイ 鶴見岳",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Tsurumi",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E5%B2%B3"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 벳푸 전망로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:31.782Z"
+}

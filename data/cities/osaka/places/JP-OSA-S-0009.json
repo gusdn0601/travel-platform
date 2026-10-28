@@ -1,0 +1,70 @@
+{
+  "id": "pl_47f16de701",
+  "code": "JP-OSA-S-0009",
+  "city_id": "JP-OSA",
+  "slug": "nakanoshima-park",
+  "kind": "sight",
+  "name_ko": "나카노시마 공원",
+  "name_sub": "Nakanoshima Park",
+  "name_local": "中之島公園",
+  "addr_local": "〒541-0041 大阪府 大阪市 北区 中之島一丁目 大阪吹田自転車道線",
+  "lat": 34.69306,
+  "lng": 135.50643,
+  "area": "나카노시마",
+  "lead": "두 강 사이 모래톱에 조성된 도심 공원. 장미 정원과 강변 산책로가 있어 쉬어 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "도심 공원"
+    ],
+    [
+      "개원",
+      "1891년"
+    ],
+    [
+      "대표",
+      "장미 정원, 강변 산책"
+    ]
+  ],
+  "tip": "장미는 대체로 5월과 10월 하순 무렵이 볼만해요(해마다 다름).",
+  "open_hours": "상시 개방 (추정)",
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "공원",
+    "강변",
+    "산책"
+  ],
+  "art_key": "park",
+  "local_search": "中之島公園",
+  "photos": [
+    "JP-OSA-S-0009-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6960289",
+    "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%EB%85%B8%EC%8B%9C%EB%A7%88_%EA%B3%B5%EC%9B%90_(%EC%98%A4%EC%82%AC%EC%B9%B4%EC%8B%9C)",
+    "https://en.wikipedia.org/wiki/Nakanoshima_Park",
+    "https://www.openstreetmap.org/way/54037338",
+    "https://www.osakapark.osgf.or.jp/nakanoshima/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 141,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "public park in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:03.676Z"
+}

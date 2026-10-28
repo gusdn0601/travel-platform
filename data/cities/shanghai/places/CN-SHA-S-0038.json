@@ -1,0 +1,79 @@
+{
+  "id": "pl_65790dd2ce",
+  "code": "CN-SHA-S-0038",
+  "city_id": "CN-SHA",
+  "slug": "soong-ching-ling-residence",
+  "kind": "sight",
+  "name_ko": "쑹칭링 고거",
+  "name_sub": "Soong Ching-ling Former Residence",
+  "name_local": "宋庆龄故居",
+  "lat": 31.20577,
+  "lng": 121.43442,
+  "area": "쉬후이/프랑스 조계지",
+  "lead": "쑨원의 부인 쑹칭링이 오래 거주한 서양식 저택. 작은 정원과 가구가 당시 생활을 그대로 보여 줘요.",
+  "facts": [
+    [
+      "인물",
+      "쑹칭링(쑨원 부인)"
+    ],
+    [
+      "거주 기간",
+      "1948~1981년"
+    ],
+    [
+      "양식",
+      "서양식 저택"
+    ],
+    [
+      "위치",
+      "화이하이중루"
+    ]
+  ],
+  "origin": [
+    "쑹칭링은 쑨원의 부인으로, 중국 현대 정치에서 중요한 역할을 한 인물이에요.",
+    "상하이 화이하이중루 저택에서 1948년부터 세상을 떠나는 1981년까지 오랜 기간을 살았어요.",
+    "저택은 지금 박물관으로 공개되어 정원, 응접실, 서재가 당시 모습으로 남아 있어요."
+  ],
+  "tip": "내부 사진 촬영 규정이 있어요. 현장 안내판을 확인하세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "입장료 소액(추정)",
+  "must": 0,
+  "tags": [
+    "고택",
+    "근현대사",
+    "정원"
+  ],
+  "art_key": "garden",
+  "local_search": "宋庆龄故居",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%BA%86%E9%BE%84%E6%95%85%E5%B1%85",
+    "https://en.wikipedia.org/wiki/Soong_Ching-ling",
+    "https://www.openstreetmap.org/way/490214455"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.942Z"
+}

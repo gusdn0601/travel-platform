@@ -1,0 +1,81 @@
+{
+  "id": "pl_96f30b6070",
+  "code": "JP-KYO-F-0024",
+  "city_id": "JP-KYO",
+  "slug": "okutan",
+  "kind": "food",
+  "name_ko": "오쿠단",
+  "name_sub": "Okutan",
+  "name_local": "奥丹 清水店",
+  "lat": 35.01243,
+  "lng": 135.79306,
+  "area": "히가시야마",
+  "lead": "유도후(두부 요리)만 내는 집. 정원 자리가 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "유도후 전문점"
+    ],
+    [
+      "특징",
+      "정원 좌석"
+    ],
+    [
+      "위치",
+      "기요미즈데라 아래"
+    ]
+  ],
+  "origin": [
+    "오쿠단은 교토에서 유도후를 내는 오래된 집 중 하나로 알려져 있어요.",
+    "뜨거운 냄비에 두부를 넣어 간장과 양념을 곁들여 먹는 방식이에요.",
+    "정원을 보며 먹는 자리가 있어 기요미즈데라 관광 후 쉬어 가기 좋아요.",
+    "두부 위주 메뉴라 든든함은 크지 않아요."
+  ],
+  "practical": [
+    "예약 여부 확인",
+    "채식 위주"
+  ],
+  "tip": "기요미즈데라 내려오는 길에 들르기 좋아요.",
+  "order": [
+    "<b>湯どうふ</b> 유도후"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 3,000엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "유도후",
+    "정원",
+    "채식"
+  ],
+  "art_key": "food",
+  "local_search": "奥丹 清水店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/5177427921"
+  ],
+  "meta": {
+    "priority": 26,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 유도후로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:07.184Z"
+}

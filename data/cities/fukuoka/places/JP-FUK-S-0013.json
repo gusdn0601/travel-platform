@@ -1,0 +1,73 @@
+{
+  "id": "pl_e1215bf97e",
+  "code": "JP-FUK-S-0013",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-city-museum",
+  "kind": "sight",
+  "name_ko": "후쿠오카시 박물관",
+  "name_sub": "Fukuoka City Museum",
+  "name_local": "福岡市博物館",
+  "lat": 33.58975,
+  "lng": 130.35308,
+  "area": "모모치",
+  "lead": "‘한위노국왕’ 금도장(금인)이 전시된 박물관으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "시립 박물관"
+    ],
+    [
+      "대표",
+      "금인(국보)"
+    ],
+    [
+      "위치",
+      "모모치"
+    ],
+    [
+      "연도(Wikidata)",
+      "1990년"
+    ]
+  ],
+  "tip": "모모치 해변 일정과 이어서 보기 좋아요.",
+  "open_hours": "Tu-Su,PH 09:30-17:30 \"last admission at 17:00\" (OSM)",
+  "stay_min": 75,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "역사",
+    "금인"
+  ],
+  "art_key": "museum",
+  "local_search": "福岡市博物館",
+  "photos": [
+    "JP-FUK-S-0013-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11592224",
+    "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4%EC%8B%9C_%EB%B0%95%EB%AC%BC%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Fukuoka_City_Museum",
+    "https://www.openstreetmap.org/way/210616030",
+    "http://museum.city.fukuoka.jp/en/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 2,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "museum in Fukuoka City, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:07.811Z"
+}

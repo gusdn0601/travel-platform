@@ -1,0 +1,83 @@
+{
+  "id": "pl_b92c8caf91",
+  "code": "JP-NAR-S-0036",
+  "city_id": "JP-NAR",
+  "slug": "hashihaka-kofun",
+  "kind": "sight",
+  "name_ko": "하시하카 고분",
+  "name_sub": "Hashihaka Kofun",
+  "name_local": "箸墓古墳",
+  "lat": 34.53921,
+  "lng": 135.8411,
+  "area": "교외(사쿠라이)",
+  "lead": "일본 초기 대규모 전방후원분으로, 히미코의 무덤이라는 설이 있는 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "전방후원분"
+    ],
+    [
+      "특징",
+      "초기 대형 고분"
+    ],
+    [
+      "위치",
+      "사쿠라이시"
+    ]
+  ],
+  "origin": [
+    "하시하카 고분은 3세기 무렵에 만들어졌다고 보는 대형 전방후원분이에요.",
+    "야마타이국 히미코의 무덤이라는 설이 있지만 확정된 것은 아니에요.",
+    "궁내청 관리 구역이라 봉분에 올라갈 수는 없고 물길을 따라 둘레를 바라볼 수 있어요.",
+    "고분을 직접 올라가 보고 싶다면 다른 곳을 골라야 해요."
+  ],
+  "practical": [
+    "봉분 출입 불가",
+    "주변 산책로"
+  ],
+  "tip": "고분 둘레 길은 조용히 걷는 코스로 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "고분",
+    "전방후원",
+    "야마토"
+  ],
+  "art_key": "museum",
+  "local_search": "箸墓古墳",
+  "photos": [
+    "JP-NAR-S-0036-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hashihaka_Kofun",
+    "https://ja.wikipedia.org/wiki/%E7%AE%B8%E5%A2%93%E5%8F%A4%E5%A2%B3",
+    "https://www.openstreetmap.org/way/41125619"
+  ],
+  "meta": {
+    "priority": 52,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 61,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "고분 마니아 코스(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:07.693Z"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pl_0662b857ed",
+  "code": "CN-SHA-S-0036",
+  "city_id": "CN-SHA",
+  "slug": "fuxing-park",
+  "kind": "sight",
+  "name_ko": "푸싱공원",
+  "name_sub": "Fuxing Park",
+  "name_local": "复兴公园",
+  "lat": 31.21899,
+  "lng": 121.46416,
+  "area": "프랑스 조계지",
+  "lead": "프랑스 조계지 시절 조성된 유럽식 정원 공원. 아침엔 태극권과 노래하는 어르신들을 만나요.",
+  "facts": [
+    [
+      "조성",
+      "1909년(프랑스 조계 공원)"
+    ],
+    [
+      "양식",
+      "프랑스식 정원 + 중국식 요소"
+    ],
+    [
+      "위치",
+      "신천지·시난루 인근"
+    ],
+    [
+      "특징",
+      "장미원, 분수"
+    ]
+  ],
+  "origin": [
+    "푸싱공원은 1909년 프랑스 조계 당국이 조성한 공원으로 시작했어요.",
+    "당시 상하이 거주 프랑스인들의 산책 공간이었고, 이후 중국인에게도 개방되면서 시민 공원이 됐어요.",
+    "잘 가꾼 정원과 오래된 나무가 어우러져 상하이 시민의 일상을 엿보기 좋아요."
+  ],
+  "tip": "오전 일찍 가면 현지인 모임과 운동 풍경이 활기차요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "공원",
+    "프랑스식",
+    "산책"
+  ],
+  "art_key": "park",
+  "local_search": "复兴公园",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fuxing_Park",
+    "https://zh.wikipedia.org/wiki/%E5%A4%8D%E5%85%B4%E5%85%AC%E5%9B%AD",
+    "https://www.openstreetmap.org/way/39961770"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 59,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.938Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pl_9880b5fc82",
+  "code": "CN-SHA-S-0019",
+  "city_id": "CN-SHA",
+  "slug": "swfc",
+  "kind": "sight",
+  "name_ko": "상하이 세계금융센터 (병따개)",
+  "name_sub": "Shanghai World Financial Center",
+  "name_local": "上海环球金融中心",
+  "lat": 31.23667,
+  "lng": 121.50278,
+  "area": "푸동/루자쭈이",
+  "lead": "꼭대기가 병따개처럼 뚫린 492m 빌딩. 100층 전망대 바닥 유리에서 땅을 내려다보는 짜릿함이 있어요.",
+  "facts": [
+    [
+      "완공",
+      "2008년"
+    ],
+    [
+      "높이",
+      "약 492m, 101층"
+    ],
+    [
+      "특징",
+      "꼭대기 사다리꼴 개구부"
+    ],
+    [
+      "전망",
+      "100층 전망대"
+    ]
+  ],
+  "origin": [
+    "2008년에 완공된 이 건물은 일본 기업 주도로 계획됐고, 1990년대 아시아 금융위기로 공사가 한동안 멈췄다가 설계를 바꿔 다시 진행됐어요.",
+    "원래 설계는 꼭대기에 원형 구멍이 있었는데 일장기를 닮았다는 논란이 있어 지금의 사다리꼴 개구부로 바뀌었다고 전해져요.",
+    "이 구멍은 강풍 부담을 줄이는 구조적 이유도 있어요.",
+    "완공 당시 세계에서 가장 높은 전망대 중 하나였어요."
+  ],
+  "tip": "날씨가 흐린 날은 위층이 구름에 가려져요. 당일 시야를 확인하고 예매하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "전망대(100층) 입장권 별도(추정)",
+  "must": 0,
+  "tags": [
+    "랜드마크",
+    "전망",
+    "건축"
+  ],
+  "art_key": "tower",
+  "local_search": "上海环球金融中心",
+  "photos": [
+    "CN-SHA-S-0019-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_World_Financial_Center",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E7%8E%AF%E7%90%83%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83",
+    "https://www.openstreetmap.org/way/10691100"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 27,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.886Z"
+}

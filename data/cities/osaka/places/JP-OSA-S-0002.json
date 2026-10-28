@@ -1,0 +1,70 @@
+{
+  "id": "pl_e83454520f",
+  "code": "JP-OSA-S-0002",
+  "city_id": "JP-OSA",
+  "slug": "dotonbori",
+  "kind": "sight",
+  "name_ko": "도톤보리",
+  "name_sub": "Dōtonbori",
+  "name_local": "道頓堀",
+  "addr_local": "〒542-0071 大阪府 大阪市 中央区 道頓堀一丁目 道頓堀",
+  "lat": 34.66861,
+  "lng": 135.50139,
+  "area": "난바/도톤보리",
+  "lead": "운하를 따라 네온 간판과 먹거리 가게가 이어지는 오사카 대표 번화가. 해가 지면 더 화려해져요.",
+  "facts": [
+    [
+      "종류",
+      "번화가(지구)"
+    ],
+    [
+      "대표",
+      "글리코 간판, 타코야키, 오코노미야키"
+    ],
+    [
+      "참고",
+      "이름이 같은 운하(도톤보리강)와 별개의 지구 항목으로 수집"
+    ]
+  ],
+  "tip": "글리코 간판 앞 에비스 다리는 늘 붐비니 저녁 시간 전후로 사진 줄을 감안하세요.",
+  "open_hours": "상시 보행 가능(점포별 상이) (추정)",
+  "stay_min": 120,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "야경",
+    "먹거리",
+    "번화가"
+  ],
+  "art_key": "neon",
+  "local_search": "道頓堀",
+  "photos": [
+    "JP-OSA-S-0002-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q964876",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/D%C5%8Dtonbori",
+    "https://www.openstreetmap.org/node/4029007869",
+    "http://www.dotonbori.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 50,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "human settlement in Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:48:59.500Z"
+}

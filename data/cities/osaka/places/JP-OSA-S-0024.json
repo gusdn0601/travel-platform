@@ -1,0 +1,74 @@
+{
+  "id": "pl_aee2463835",
+  "code": "JP-OSA-S-0024",
+  "city_id": "JP-OSA",
+  "slug": "osaka-city-central-public-hall",
+  "kind": "sight",
+  "name_ko": "오사카 시중앙공회당",
+  "name_sub": "Osaka City Central Public Hall",
+  "name_local": "大阪市中央公会堂",
+  "addr_local": "大阪市 北区 中之島一丁目 1 27",
+  "lat": 34.69353,
+  "lng": 135.504,
+  "area": "나카노시마",
+  "lead": "붉은 벽돌의 근대 건축으로 알려진 공회당. 외관과 야간 조명이 볼만해요.",
+  "facts": [
+    [
+      "종류",
+      "근대 건축"
+    ],
+    [
+      "위치",
+      "나카노시마"
+    ],
+    [
+      "특징",
+      "붉은 벽돌 외관"
+    ],
+    [
+      "연도(Wikidata)",
+      "1918년"
+    ]
+  ],
+  "tip": "내부 공개는 행사·투어 일정에 따라 달라 외관 감상 위주로 계획하세요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "외관 무료",
+  "must": 0,
+  "tags": [
+    "건축",
+    "근대",
+    "나카노시마"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪市中央公会堂",
+  "photos": [
+    "JP-OSA-S-0024-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10938355",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4%EC%8B%9C_%EC%A4%91%EC%95%99%EA%B3%B5%ED%9A%8C%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/Osaka_City_Central_Public_Hall",
+    "https://www.openstreetmap.org/way/162382613",
+    "https://osaka-chuokokaido.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 1,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "public building in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:27.851Z"
+}

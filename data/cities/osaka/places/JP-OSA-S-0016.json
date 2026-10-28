@@ -1,0 +1,74 @@
+{
+  "id": "pl_e1e31c5385",
+  "code": "JP-OSA-S-0016",
+  "city_id": "JP-OSA",
+  "slug": "expo-70-commemorative-park",
+  "kind": "sight",
+  "name_ko": "만국박람회 기념공원",
+  "name_sub": "Expo '70 Commemorative Park",
+  "name_local": "万博記念公園",
+  "addr_local": "〒565-8511 大阪府 吹田市 千里万博公園 下津道",
+  "lat": 34.81012,
+  "lng": 135.5276,
+  "area": "교외(스이타)",
+  "lead": "1970년 박람회 터에 조성된 대형 공원. 태양의 탑이 상징이에요.",
+  "facts": [
+    [
+      "종류",
+      "대형 공원"
+    ],
+    [
+      "대표",
+      "태양의 탑"
+    ],
+    [
+      "위치",
+      "스이타시"
+    ],
+    [
+      "연도(Wikidata)",
+      "1972년"
+    ]
+  ],
+  "tip": "넓어서 걷는 시간이 길어요. 계절 꽃밭 일정은 공식 사이트로 확인하세요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "공원 입장료 별도",
+  "must": 0,
+  "tags": [
+    "공원",
+    "예술",
+    "산책"
+  ],
+  "art_key": "park",
+  "local_search": "万博記念公園",
+  "photos": [
+    "JP-OSA-S-0016-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4817249",
+    "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%8C%8C%EC%BF%A0_%EA%B8%B0%EB%85%90%EA%B3%B5%EC%9B%90",
+    "https://en.wikipedia.org/wiki/Expo_Commemoration_Park",
+    "https://www.openstreetmap.org/relation/10576976",
+    "https://www.expo70-park.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 383,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "park in Suita, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:38.522Z"
+}

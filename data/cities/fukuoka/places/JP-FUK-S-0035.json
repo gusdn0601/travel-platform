@@ -1,0 +1,85 @@
+{
+  "id": "pl_8a9ba3ae54",
+  "code": "JP-FUK-S-0035",
+  "city_id": "JP-FUK",
+  "slug": "kawachi-fuji-garden",
+  "kind": "sight",
+  "name_ko": "가와치 후지엔",
+  "name_sub": "Kawachi Wisteria Garden",
+  "name_local": "河内藤園",
+  "lat": 33.83222,
+  "lng": 130.79222,
+  "area": "근교(기타큐슈)",
+  "lead": "4월 하순~5월 초 등나무 꽃이 터널을 이루는 사설 정원. 한국 SNS에서 유명해진 봄 명소예요.",
+  "facts": [
+    [
+      "종류",
+      "정원"
+    ],
+    [
+      "볼거리",
+      "등나무 꽃터널·꽃 돔"
+    ],
+    [
+      "시즌",
+      "4월 하순~5월 초"
+    ],
+    [
+      "특징",
+      "입장 요금은 개화 상황에 따라 변동"
+    ]
+  ],
+  "origin": [
+    "가와치 후지엔은 기타큐슈 산자락에 조성된 등나무 정원으로, 등나무 터널과 꽃으로 덮인 돔이 대표 풍경이에요.",
+    "해외 매체와 SNS에서 일본 최고의 꽃 터널로 소개되며 한국인 방문이 크게 늘었다고 알려져 있어요.",
+    "개화 시기에는 입장 인원이 몰려 예약·대기를 요구하는 경우가 있어요."
+  ],
+  "practical": [
+    "개화 시기엔 사전 예약 또는 대기",
+    "대중교통이 불편해 택시·셔틀 이용 사례 많음",
+    "비개화 시기엔 볼거리가 적음"
+  ],
+  "tip": "개화 상황은 방문 직전 공식 안내에서 확인하세요.",
+  "open_hours": "Apr 21-May 06 08:00-18:00; Dec 01-15 08:00-18:00 (OSM)",
+  "stay_min": 120,
+  "price_hint": "시즌별 1,000~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "등나무",
+    "꽃터널",
+    "봄",
+    "사진"
+  ],
+  "art_key": "park",
+  "local_search": "河内藤園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B2%B3%E5%86%85%E8%97%A4%E5%9C%92",
+    "https://www.openstreetmap.org/way/541232948"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 38,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 규슈 봄꽃 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:39.648Z"
+}

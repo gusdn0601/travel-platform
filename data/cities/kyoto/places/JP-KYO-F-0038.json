@@ -1,0 +1,81 @@
+{
+  "id": "pl_faf11c4b24",
+  "code": "JP-KYO-F-0038",
+  "city_id": "JP-KYO",
+  "slug": "blue-bottle-kyoto",
+  "kind": "food",
+  "name_ko": "블루보틀 커피 교토",
+  "name_sub": "Blue Bottle Coffee Kyoto",
+  "name_local": "ブルーボトルコーヒー 京都",
+  "lat": 35.00743,
+  "lng": 135.76115,
+  "area": "나카교구",
+  "lead": "오래된 집을 고친 블루보틀 교토 매장이에요.",
+  "facts": [
+    [
+      "종류",
+      "커피 전문점"
+    ],
+    [
+      "특징",
+      "전통 가옥 매장"
+    ],
+    [
+      "위치",
+      "로쿠카쿠 인근"
+    ]
+  ],
+  "origin": [
+    "블루보틀 교토 매장은 오래된 건물을 고쳐 만든 카페로 알려져 있어요.",
+    "마당을 바라보는 자리와 목재 구조가 인상적이에요.",
+    "커피 외에 교토 한정 굿즈를 사는 사람도 많아요.",
+    "주말 오후에는 자리를 기다리는 경우가 있어요."
+  ],
+  "practical": [
+    "대기 가능",
+    "굿즈 판매"
+  ],
+  "tip": "오전에 가면 자리를 잡기 쉬워요.",
+  "order": [
+    "<b>カフェラテ</b> 카페라테"
+  ],
+  "open_hours": "Th-Tu 10:00-19:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "1인 700~1,200엔 추정",
+  "must": 0,
+  "tags": [
+    "커피",
+    "전통가옥",
+    "교토"
+  ],
+  "art_key": "cafe",
+  "local_search": "ブルーボトルコーヒー 京都",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/6657059776"
+  ],
+  "meta": {
+    "priority": 12,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 카페 투어로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:24.865Z"
+}

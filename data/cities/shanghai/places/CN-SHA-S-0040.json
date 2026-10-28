@@ -1,0 +1,83 @@
+{
+  "id": "pl_51541d3098",
+  "code": "CN-SHA-S-0040",
+  "city_id": "CN-SHA",
+  "slug": "qibao",
+  "kind": "sight",
+  "name_ko": "치바오 고진",
+  "name_sub": "Qibao Ancient Town",
+  "name_local": "七宝古镇",
+  "lat": 31.15778,
+  "lng": 121.35139,
+  "area": "민항구",
+  "lead": "지하철로 닿는 가장 가까운 옛 마을. 시간이 없을 때 수향마을 분위기를 맛볼 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "옛 시장 거리"
+    ],
+    [
+      "접근",
+      "지하철 9호선 치바오역"
+    ],
+    [
+      "시대",
+      "송대부터 알려진 시가"
+    ],
+    [
+      "특징",
+      "운하 · 사찰 · 간식 골목"
+    ]
+  ],
+  "origin": [
+    "치바오는 지금의 상하이 서쪽 변두리에 있는 옛 시가지예요.",
+    "송나라 때부터 상업과 불교 사찰을 중심으로 마을이 자랐다고 전해져요.",
+    "이름 치바오(七宝)는 일곱 보물에서 유래했다는 설이 있어요.",
+    "도심에서 지하철만으로 갈 수 있어 수향마을 느낌을 짧게 체험하려는 여행자가 찾아요."
+  ],
+  "tip": "규모가 작아 2~3시간이면 충분해요. 주자자오나 우전처럼 큰 고진을 이미 간다면 건너뛰어도 좋아요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "무료(일부 유료 명소 별도, 추정)",
+  "must": 0,
+  "tags": [
+    "고진",
+    "시내근교",
+    "간식"
+  ],
+  "art_key": "street",
+  "local_search": "七宝古镇",
+  "photos": [
+    "CN-SHA-S-0040-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Qibao",
+    "https://zh.wikipedia.org/wiki/%E4%B8%83%E5%AE%9D%E9%95%87",
+    "https://www.openstreetmap.org/way/1212781236"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 475,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.948Z"
+}

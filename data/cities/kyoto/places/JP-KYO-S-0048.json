@@ -1,0 +1,82 @@
+{
+  "id": "pl_d1a648aeef",
+  "code": "JP-KYO-S-0048",
+  "city_id": "JP-KYO",
+  "slug": "ine-no-funaya",
+  "kind": "sight",
+  "name_ko": "이네 후나야",
+  "name_sub": "Ine no Funaya",
+  "name_local": "伊根の舟屋",
+  "lat": null,
+  "lng": null,
+  "area": "교외(교탄고)",
+  "lead": "바다 위에 1층이 배 차고인 목조 가옥이 늘어선 어촌. 교토 북부 바닷가의 특이한 풍경으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "어촌 마을"
+    ],
+    [
+      "특징",
+      "후나야(배집)"
+    ],
+    [
+      "위치",
+      "교토 북부"
+    ]
+  ],
+  "origin": [
+    "이네의 후나야는 1층에 배를 넣고 2층에 사는 독특한 가옥 구조로 알려져 있어요.",
+    "만 안쪽이라 파도가 잔잔해 이런 마을이 이어져 왔다고 해요.",
+    "시내에서 멀어 당일치기로 가기에는 이동이 길어서, 렌터카나 투어를 쓰는 사람이 많다고 소개돼요."
+  ],
+  "practical": [
+    "시내에서 약 2시간 이상 이동(추정)",
+    "대중교통 배차 적음"
+  ],
+  "tip": "당일치기는 투어 이용이 편해요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "무료(유람선 별도)",
+  "must": 0,
+  "tags": [
+    "근교",
+    "어촌",
+    "해변"
+  ],
+  "art_key": "village",
+  "local_search": "伊根の舟屋",
+  "photos": [
+    "JP-KYO-S-0048-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ine%2C_Kyoto",
+    "https://www.openstreetmap.org/way/958880696"
+  ],
+  "meta": {
+    "priority": 30,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1084,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 근교 풍경로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28",
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+  },
+  "sanitized_at": "2026-10-28T10:09:28.271Z"
+}

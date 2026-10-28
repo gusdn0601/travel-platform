@@ -1,0 +1,75 @@
+{
+  "id": "pl_5432fb7266",
+  "code": "JP-OSA-S-0013",
+  "city_id": "JP-OSA",
+  "slug": "osaka-science-museum",
+  "kind": "sight",
+  "name_ko": "오사카 과학관",
+  "name_sub": "Osaka Science Museum",
+  "name_local": "大阪市立科学館",
+  "addr_local": "大阪市 北区 中之島四丁目 2 1",
+  "lat": 34.69124,
+  "lng": 135.49152,
+  "area": "나카노시마",
+  "lead": "체험형 전시와 대형 플라네타륨이 있는 과학관. 비 오는 날 아이와 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "과학관"
+    ],
+    [
+      "위치",
+      "나카노시마 서쪽"
+    ],
+    [
+      "특징",
+      "체험 전시, 플라네타륨"
+    ],
+    [
+      "연도(Wikidata)",
+      "1989년"
+    ]
+  ],
+  "tip": "플라네타륨은 상영 시간표가 정해져 있어 입장 시 함께 예약하면 편해요.",
+  "open_hours": "Tu-Su 09:30-17:00 (OSM)",
+  "stay_min": 120,
+  "price_hint": "입장료 별도(플라네타륨 별도)",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "과학",
+    "아이와",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪市立科学館",
+  "photos": [
+    "JP-OSA-S-0013-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q875709",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4_%EC%8B%9C%EB%A6%BD_%EA%B3%BC%ED%95%99%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Osaka_Science_Museum",
+    "https://www.openstreetmap.org/way/231449111",
+    "https://www.sci-museum.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 6,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "science museum",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:24.196Z"
+}

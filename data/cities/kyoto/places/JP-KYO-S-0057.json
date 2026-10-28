@@ -1,0 +1,76 @@
+{
+  "id": "pl_0b5704e153",
+  "code": "JP-KYO-S-0057",
+  "city_id": "JP-KYO",
+  "slug": "keage-incline",
+  "kind": "sight",
+  "name_ko": "게아게 인클라인",
+  "name_sub": "Keage Incline",
+  "name_local": "蹴上インクライン",
+  "lat": 35.00944,
+  "lng": 135.78962,
+  "area": "사쿄구",
+  "lead": "배를 비탈 위로 끌어올리던 옛 선로. 벚꽃철에 선로 양옆이 분홍빛으로 물드는 곳으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "옛 인클라인"
+    ],
+    [
+      "특징",
+      "벚꽃 명소"
+    ],
+    [
+      "위치",
+      "난젠지 인근"
+    ]
+  ],
+  "origin": [
+    "게아게 인클라인은 비와호 소수로 물길과 도시 사이의 높이 차를 배를 실어 넘기기 위해 만든 선로로 알려져 있어요.",
+    "지금은 운행을 멈추고 산책로로 남았고, 봄에는 벚꽃 풍경으로 사진 찍는 사람이 많아요.",
+    "난젠지와 철학의 길 코스와 가까워요."
+  ],
+  "practical": [
+    "선로 안 들어가기"
+  ],
+  "tip": "난젠지와 철학의 길과 한 동선이에요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "철길",
+    "벚꽃",
+    "난젠지"
+  ],
+  "art_key": "train",
+  "local_search": "蹴上インクライン",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/299212088"
+  ],
+  "meta": {
+    "priority": 19,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 벚꽃 포토 스팟로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:45.698Z"
+}

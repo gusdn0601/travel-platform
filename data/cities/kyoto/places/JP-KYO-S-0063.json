@@ -1,0 +1,76 @@
+{
+  "id": "pl_f7011c9d6b",
+  "code": "JP-KYO-S-0063",
+  "city_id": "JP-KYO",
+  "slug": "jojakko-ji",
+  "kind": "sight",
+  "name_ko": "조자코지",
+  "name_sub": "Jojakko-ji",
+  "name_local": "常寂光寺",
+  "lat": 35.01969,
+  "lng": 135.66865,
+  "area": "아라시야마",
+  "lead": "아라시야마 산자락의 단풍 사찰. 가을 단풍으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "일련종 사찰"
+    ],
+    [
+      "특징",
+      "단풍"
+    ],
+    [
+      "위치",
+      "사가노"
+    ]
+  ],
+  "origin": [
+    "조자코지는 아라시야마 서북쪽 산비탈에 자리한 사찰로, 16세기 말에 열렸다고 전해져요.",
+    "경사면을 따라 단풍나무가 많아 가을 풍경으로 알려져 있어요.",
+    "대나무 숲에서 도보로 이동 가능해 사가노 일대 코스에 넣기 좋아요."
+  ],
+  "practical": [
+    "단풍철 혼잡"
+  ],
+  "tip": "대나무 숲~오코치 산소와 같이 걸어요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "단풍",
+    "사찰",
+    "아라시야마"
+  ],
+  "art_key": "temple",
+  "local_search": "常寂光寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/925807376"
+  ],
+  "meta": {
+    "priority": 20,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 단풍로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:10:59.608Z"
+}

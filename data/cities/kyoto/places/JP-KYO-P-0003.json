@@ -1,0 +1,76 @@
+{
+  "id": "pl_d6ecf0f415",
+  "code": "JP-KYO-P-0003",
+  "city_id": "JP-KYO",
+  "slug": "daimaru-kyoto",
+  "kind": "shop",
+  "name_ko": "다이마루 교토점",
+  "name_sub": "Daimaru Kyoto",
+  "name_local": "大丸京都店",
+  "lat": 35.00437,
+  "lng": 135.7619,
+  "area": "시조/가와라마치",
+  "lead": "시조 가라스마의 백화점. 닌텐도·포켓몬 스토어가 입점한 곳으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "닌텐도·포켓몬 스토어"
+    ],
+    [
+      "위치",
+      "시조 가라스마"
+    ]
+  ],
+  "origin": [
+    "다이마루 교토점은 시조 가라스마 교차로 근처에 자리한 백화점이에요.",
+    "지하 식품관과 함께 게임·캐릭터 스토어가 있어 게임 팬이 찾아오는 곳이라고 소개돼요.",
+    "면세 카운터가 있어 쇼핑 일정에 넣기 쉬워요."
+  ],
+  "practical": [
+    "면세 절차 여권 지참"
+  ],
+  "tip": "지하 식품관 간식도 기념품으로 괜찮아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "닌텐도",
+    "포켓몬"
+  ],
+  "art_key": "shop",
+  "local_search": "大丸京都店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/205748651"
+  ],
+  "meta": {
+    "priority": 5,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 게임·캐릭터 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:43.026Z"
+}

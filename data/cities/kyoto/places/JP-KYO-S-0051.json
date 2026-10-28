@@ -1,0 +1,83 @@
+{
+  "id": "pl_6c9cf80599",
+  "code": "JP-KYO-S-0051",
+  "city_id": "JP-KYO",
+  "slug": "enryakuji",
+  "kind": "sight",
+  "name_ko": "엔랴쿠지(히에이잔)",
+  "name_sub": "Enryaku-ji",
+  "name_local": "延暦寺",
+  "lat": null,
+  "lng": null,
+  "area": "교외(히에이잔)",
+  "lead": "8세기 말에 시작된 천태종 총본산. 교토와 비와호를 내려다보는 히에이잔 산 위에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "천태종 총본산"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "위치",
+      "히에이잔 산 정상 일대"
+    ]
+  ],
+  "origin": [
+    "엔랴쿠지는 사이초가 788년 무렵 연 것으로 알려진 천태종 총본산이에요.",
+    "일본 불교의 여러 종파 창시자들이 이곳에서 수행했다고 전해져요.",
+    "산 위에 건물이 여러 구역으로 흩어져 있어 이동에 시간이 들고, 케이블카와 버스를 조합해 오르는 방식이 소개돼요."
+  ],
+  "practical": [
+    "구역 간 이동 시간 소요",
+    "산 위는 시내보다 기온 낮음"
+  ],
+  "tip": "반나절 이상 여유를 잡고 가요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "세계유산",
+    "산사",
+    "근교"
+  ],
+  "art_key": "temple",
+  "local_search": "延暦寺",
+  "photos": [
+    "JP-KYO-S-0051-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enryaku-ji",
+    "https://ja.wikipedia.org/wiki/%E5%BB%B6%E6%9A%A6%E5%AF%BA",
+    "https://www.openstreetmap.org/node/10105902145"
+  ],
+  "meta": {
+    "priority": 32,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 1408,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 근교 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28",
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+  },
+  "sanitized_at": "2026-10-28T10:09:36.002Z"
+}

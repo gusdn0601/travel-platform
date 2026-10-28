@@ -1,0 +1,69 @@
+{
+  "id": "pl_69f38c38ce",
+  "code": "JP-OSA-F-0001",
+  "city_id": "JP-OSA",
+  "slug": "kuromon-market",
+  "kind": "food",
+  "name_ko": "구로몬 시장",
+  "name_sub": "Kuromon Market",
+  "name_local": "黒門市場",
+  "addr_local": "〒542-0073 大阪府 大阪市 中央区 日本橋一丁目 黒門市場 日二会",
+  "lat": 34.66533,
+  "lng": 135.50698,
+  "area": "난바/니혼바시",
+  "lead": "‘오사카의 부엌’으로 불리는 아케이드 시장. 해산물 꼬치와 과일을 서서 맛보는 재미가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "재래시장 · 먹거리"
+    ],
+    [
+      "특징",
+      "아케이드 아래 점포가 길게 이어짐"
+    ],
+    [
+      "휴무",
+      "점포별로 달라 일요일 쉬는 곳이 많음"
+    ]
+  ],
+  "tip": "오전에 가장 활기차고 오후 늦게는 문 닫는 점포가 늘어요.",
+  "open_hours": "Su off (OSM)",
+  "stay_min": 90,
+  "price_hint": "먹거리 1인 2,000~4,000엔",
+  "must": 0,
+  "tags": [
+    "시장",
+    "해산물",
+    "먹거리"
+  ],
+  "art_key": "market",
+  "local_search": "黒門市場",
+  "photos": [
+    "JP-OSA-F-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q10855506",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A1%9C%EB%AA%AC_%EC%8B%9C%EC%9E%A5",
+    "https://www.openstreetmap.org/node/4161997589",
+    "https://kuromon.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 0,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": null,
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:00.569Z"
+}

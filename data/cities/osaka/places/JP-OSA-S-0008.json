@@ -1,0 +1,66 @@
+{
+  "id": "pl_4529d39c44",
+  "code": "JP-OSA-S-0008",
+  "city_id": "JP-OSA",
+  "slug": "abeno-harukas",
+  "kind": "sight",
+  "name_ko": "아베노 하루카스",
+  "name_sub": "Abeno Harukas",
+  "name_local": "あべのハルカス",
+  "addr_local": "大阪府 大阪市 阿倍野区 阿倍野筋 1 1 43",
+  "lat": 34.64595,
+  "lng": 135.51427,
+  "area": "덴노지",
+  "lead": "높이 300m로 일본에서 가장 높은 빌딩 중 하나. 위쪽 전망대에서 오사카 평야 전체가 보여요.",
+  "facts": [
+    [
+      "종류",
+      "전망 · 쇼핑"
+    ],
+    [
+      "개장",
+      "2014년 전체 개업"
+    ]
+  ],
+  "tip": "덴노지역 바로 위라 시텐노지와 하루 코스로 묶기 좋아요.",
+  "open_hours": "09:00-22:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "전망대 입장료 별도",
+  "must": 0,
+  "tags": [
+    "전망",
+    "쇼핑",
+    "야경"
+  ],
+  "art_key": "skyline",
+  "local_search": "あべのハルカス",
+  "photos": [
+    "JP-OSA-S-0008-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q16318627",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B2%A0%EB%85%B8%ED%95%98%EB%A3%A8%EC%B9%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Abeno_Harukas",
+    "https://www.openstreetmap.org/way/187296989",
+    "https://www.abenoharukas-300.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 27,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "skyscraper in Osaka",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:03.176Z"
+}

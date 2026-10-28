@@ -1,0 +1,78 @@
+{
+  "id": "pl_4ef48b17ff",
+  "code": "JP-NAR-P-0005",
+  "city_id": "JP-NAR",
+  "slug": "nara-family",
+  "kind": "shop",
+  "name_ko": "나라 패밀리",
+  "name_sub": "Nara Family",
+  "name_local": "ならファミリー",
+  "lat": 34.69511,
+  "lng": 135.78508,
+  "area": "니시노쿄",
+  "lead": "야마토사이다이지역 앞의 대형 쇼핑몰. 식당가와 잡화점이 함께 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "식당가·슈퍼"
+    ],
+    [
+      "위치",
+      "야마토사이다이지역 앞"
+    ]
+  ],
+  "origin": [
+    "나라 패밀리는 야마토사이다이지역과 이어진 대형 쇼핑몰이에요.",
+    "식당가와 슈퍼, 잡화점이 모여 있어 비 오는 날 일정 대안으로 쓰기 좋아요.",
+    "나라 공원에서 떨어져 있어 관광지 느낌은 덜해요.",
+    "근처에 묵는다면 저녁 해결 장소로 편해요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "역과 연결"
+  ],
+  "tip": "비가 오는 날 오후 일정으로 고려해 보세요.",
+  "open_hours": "Mo-Su 10:00-20:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "식당가",
+    "비 오는 날"
+  ],
+  "art_key": "shop",
+  "local_search": "ならファミリー",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/98093573"
+  ],
+  "meta": {
+    "priority": 46,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "실내 대안 코스(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:19.115Z"
+}

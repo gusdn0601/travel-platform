@@ -1,0 +1,85 @@
+{
+  "id": "pl_75c8630b55",
+  "code": "JP-FUK-S-0032",
+  "city_id": "JP-FUK",
+  "slug": "kurokawa-onsen",
+  "kind": "sight",
+  "name_ko": "구로카와 온천",
+  "name_sub": "Kurokawa Onsen",
+  "name_local": "黒川温泉",
+  "lat": 33.07806,
+  "lng": 131.14172,
+  "area": "근교(구마모토)",
+  "lead": "구마모토현 산골의 온천 마을. 숲속 노천탕을 돌며 입욕하는 ‘입욕 수첩’으로 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "온천 마을"
+    ],
+    [
+      "특징",
+      "노천탕 순례(입욕 수첩)"
+    ],
+    [
+      "위치",
+      "구마모토현 미나미오구니"
+    ],
+    [
+      "분위기",
+      "숲과 개울"
+    ]
+  ],
+  "origin": [
+    "구로카와 온천은 구마모토현 산속 계곡에 자리한 작은 온천 마을로, 여관들이 협력해 마을 경관을 정비하며 인기를 얻었다고 알려져 있어요.",
+    "숲과 어우러진 노천탕이 많고, 입욕 수첩 한 권으로 여러 여관 탕을 돌아볼 수 있다는 점이 특징이에요.",
+    "후쿠오카에서 버스로 가는 당일 코스도 있지만 숙박을 해야 제대로 즐길 수 있다는 후기가 많아요."
+  ],
+  "practical": [
+    "후쿠오카에서 버스 약 2시간~2시간 반 안팎",
+    "입욕 수첩 이용 가능 시간대 확인",
+    "문신 규정 여관마다 다름"
+  ],
+  "tip": "1박을 하면 밤과 아침의 분위기를 모두 즐길 수 있어요.",
+  "open_hours": null,
+  "stay_min": 240,
+  "price_hint": "노천탕 순례권 약 1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "구로카와",
+    "온천",
+    "노천탕",
+    "산골"
+  ],
+  "art_key": "onsen",
+  "local_search": "黒川温泉",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B7%9D%E6%B8%A9%E6%B3%89",
+    "https://www.openstreetmap.org/node/2753566590"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 44,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 규슈 온천 마을로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:32.949Z"
+}

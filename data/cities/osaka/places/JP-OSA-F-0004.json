@@ -1,0 +1,89 @@
+{
+  "id": "pl_9647238d5e",
+  "code": "JP-OSA-F-0004",
+  "city_id": "JP-OSA",
+  "slug": "wanaka-sennichimae",
+  "kind": "food",
+  "name_ko": "타코야키 와나카 센니치마에 본점",
+  "name_sub": "Wanaka Takoyaki",
+  "name_local": "たこ焼道楽 わなか 千日前本店",
+  "lat": 34.66521,
+  "lng": 135.5034,
+  "area": "난바/도톤보리",
+  "lead": "센니치마에 골목에서 줄을 서는 타코야키 노점. 겉은 바삭하고 속은 부드러운 스타일이에요.",
+  "facts": [
+    [
+      "종류",
+      "타코야키"
+    ],
+    [
+      "특징",
+      "겉바삭·속촉촉"
+    ],
+    [
+      "위치",
+      "센니치마에"
+    ],
+    [
+      "주문",
+      "소스·소금 선택"
+    ]
+  ],
+  "origin": [
+    "와나카는 센니치마에 일대에서 타코야키를 만들어 온 가게로 소개돼요.",
+    "반죽을 자주 뒤집어 겉을 바삭하게 익히는 방식이 특징이고, 소스 외에 소금이나 간장 맛을 고를 수 있어요.",
+    "도톤보리와 가까운 골목에 있어 쇼핑 중간에 한 접시 먹으러 들르는 코스가 많아요."
+  ],
+  "practical": [
+    "뜨거우니 한입에 먹지 않기",
+    "줄이 길면 번호표 확인",
+    "길거리에서 서서 먹는 자리"
+  ],
+  "tip": "소스와 소금을 반씩 주문하면 비교해 먹기 좋아요.",
+  "order": [
+    "<b>たこ焼き ソース</b> 소스 타코야키",
+    "<b>塩たこ焼き</b> 소금 타코야키"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "8개 600~800엔 추정",
+  "must": 0,
+  "tags": [
+    "타코야키",
+    "길거리",
+    "간식"
+  ],
+  "art_key": "takoyaki",
+  "local_search": "たこ焼道楽 わなか 千日前本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Takoyaki",
+    "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D",
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A5%E5%89%8D",
+    "https://www.openstreetmap.org/way/180244952"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 타코야키로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.881Z"
+}

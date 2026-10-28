@@ -1,0 +1,81 @@
+{
+  "id": "pl_2e62e11b33",
+  "code": "JP-NAR-F-0004",
+  "city_id": "JP-NAR",
+  "slug": "mentoan",
+  "kind": "food",
+  "name_ko": "멘토안",
+  "name_sub": "Mentoan",
+  "name_local": "麺闘庵",
+  "lat": 34.68185,
+  "lng": 135.82895,
+  "area": "나라마치",
+  "lead": "카레 우동이 유부주머니 안에 들어 있어 눈에 띄는 메뉴로 알려진 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "우동집"
+    ],
+    [
+      "대표",
+      "카레 우동 긴자쿠"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "멘토안은 나라마치에서 우동을 내는 작은 집이에요.",
+    "유부주머니에 카레 우동을 담아 내는 메뉴가 독특해 사진으로 자주 소개돼요.",
+    "국물이 진하고 면이 두꺼운 편이라 든든하게 먹기 좋아요.",
+    "점심에는 대기하는 경우가 많아요."
+  ],
+  "practical": [
+    "점심 대기",
+    "현금 결제 편함"
+  ],
+  "tip": "카레 국물이 옷에 튀지 않게 주의하세요.",
+  "order": [
+    "<b>巾着きつねうどん</b> 유부주머니 우동"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "카레",
+    "독특한 메뉴"
+  ],
+  "art_key": "noodle",
+  "local_search": "麺闘庵",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/3538712375"
+  ],
+  "meta": {
+    "priority": 10,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 이색 우동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:52.241Z"
+}

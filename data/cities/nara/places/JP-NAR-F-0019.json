@@ -1,0 +1,77 @@
+{
+  "id": "pl_996514c55b",
+  "code": "JP-NAR-F-0019",
+  "city_id": "JP-NAR",
+  "slug": "awamochi-sawaya",
+  "kind": "food",
+  "name_ko": "아와모치 사와야",
+  "name_sub": "Awamochi Sawaya",
+  "name_local": "粟餅所 澤屋",
+  "lat": null,
+  "lng": null,
+  "area": "나라마치",
+  "lead": "조와 기장으로 만든 아와모치를 그 자리에서 만들어 내는 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "떡 전문점"
+    ],
+    [
+      "대표",
+      "아와모치"
+    ],
+    [
+      "위치",
+      "나라마치 북쪽"
+    ]
+  ],
+  "origin": [
+    "아와모치 사와야는 오래전부터 아와모치를 만들어 온 가게로 알려져 있어요.",
+    "찹쌀 대신 조와 기장을 섞어 만든 떡에 팥고물과 콩고물을 묻혀 내요.",
+    "갓 만든 떡은 쫄깃하고 고소해 차와 함께 먹기 좋아요.",
+    "매장 안에서 먹거나 포장할 수 있어요."
+  ],
+  "practical": [
+    "포장 가능",
+    "조기 마감"
+  ],
+  "tip": "늦은 오후에는 재료가 떨어질 수 있어요.",
+  "order": [
+    "<b>粟餅</b> 아와모치"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "1인 700~1,000엔 추정",
+  "must": 0,
+  "tags": [
+    "아와모치",
+    "전통",
+    "간식"
+  ],
+  "art_key": "food",
+  "local_search": "粟餅所 澤屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 8,
+    "expansion": "nara-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 전통 간식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:09.399Z"
+}

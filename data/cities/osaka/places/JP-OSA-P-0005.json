@@ -1,0 +1,69 @@
+{
+  "id": "pl_e39ef52646",
+  "code": "JP-OSA-P-0005",
+  "city_id": "JP-OSA",
+  "slug": "grand-front-osaka",
+  "kind": "shop",
+  "name_ko": "그랑 프론트 오사카",
+  "name_sub": "Grand Front Osaka",
+  "name_local": "グランフロント大阪",
+  "addr_local": "〒530-0011 大阪府 大阪市 北区 大深町 大阪市道九条梅田線",
+  "lat": 34.70578,
+  "lng": 135.49436,
+  "area": "우메다",
+  "lead": "오사카역 북쪽의 대형 복합 상업시설. 푸드코트와 전망 공간이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "복합 쇼핑시설"
+    ],
+    [
+      "위치",
+      "오사카역 북쪽"
+    ],
+    [
+      "특징",
+      "쇼핑·식당·업무"
+    ]
+  ],
+  "tip": "비 오는 날 오사카역에서 지하로 이어져 이동하기 편해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "복합시설",
+    "우메다"
+  ],
+  "art_key": "skyline",
+  "local_search": "グランフロント大阪",
+  "photos": [
+    "JP-OSA-P-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q24899387",
+    "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%9C%EB%93%9C_%ED%94%84%EB%A1%A0%ED%8A%B8_%EC%98%A4%EC%82%AC%EC%B9%B4",
+    "https://www.openstreetmap.org/relation/13166723",
+    "https://www.grandfront-osaka.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 68,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": null,
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:17.319Z"
+}

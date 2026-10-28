@@ -1,0 +1,81 @@
+{
+  "id": "pl_e36eed71d4",
+  "code": "JP-NAR-S-0044",
+  "city_id": "JP-NAR",
+  "slug": "yoshimizu-shrine",
+  "kind": "sight",
+  "name_ko": "요시미즈 신사",
+  "name_sub": "Yoshimizu Shrine",
+  "name_local": "吉水神社",
+  "lat": 34.36764,
+  "lng": 135.86187,
+  "area": "교외(요시노)",
+  "lead": "요시노산 중턱의 작은 신사. 한때 천황의 임시 거처로 쓰인 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "남조 임시 궁"
+    ],
+    [
+      "위치",
+      "요시노산"
+    ]
+  ],
+  "origin": [
+    "요시미즈 신사는 요시노산 중턱에 있는 신사로, 남북조 시기에 천황의 거처로 쓰였다고 전해져요.",
+    "신사 안에서 요시노 골짜기를 내려다보는 전망이 좋아 사진을 찍는 사람이 많아요.",
+    "벚꽃철에는 산 전체가 붐비니 이른 시간이 좋아요.",
+    "신사 자체는 규모가 작아 금방 둘러봐요."
+  ],
+  "practical": [
+    "요시노산 도보 코스",
+    "벚꽃철 혼잡"
+  ],
+  "tip": "전망 좋은 자리에서 잠시 쉬어 가기 좋아요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 소액",
+  "must": 0,
+  "tags": [
+    "신사",
+    "요시노",
+    "역사"
+  ],
+  "art_key": "shrine",
+  "local_search": "吉水神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yoshimizu_Shrine",
+    "https://ja.wikipedia.org/wiki/%E5%90%89%E6%B0%B4%E7%A5%9E%E7%A4%BE",
+    "https://www.openstreetmap.org/way/218660992"
+  ],
+  "meta": {
+    "priority": 49,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 39,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 요시노 전망 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:23.678Z"
+}

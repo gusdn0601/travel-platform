@@ -1,0 +1,86 @@
+{
+  "id": "pl_c939a7aa3a",
+  "code": "JP-FUK-F-0011",
+  "city_id": "JP-FUK",
+  "slug": "motsunabe-ooyama",
+  "kind": "food",
+  "name_ko": "모츠나베 오오야마",
+  "name_sub": "Ooyama",
+  "name_local": "もつ鍋 おおやま",
+  "lat": null,
+  "lng": null,
+  "area": "하카타",
+  "lead": "여러 지점을 둔 모츠나베 체인으로, 된장 맛 국물과 고소한 곱창으로 인기 있어요.",
+  "facts": [
+    [
+      "종류",
+      "모츠나베"
+    ],
+    [
+      "특징",
+      "된장·간장 국물 선택"
+    ],
+    [
+      "곁들임",
+      "마무리 면"
+    ],
+    [
+      "접근",
+      "하카타·텐진 근처 지점"
+    ]
+  ],
+  "origin": [
+    "오오야마는 후쿠오카 시내에 여러 지점을 둔 모츠나베 전문 체인이에요.",
+    "곱창을 아낌없이 올리고 부추와 양배추를 가득 넣어 푹 끓이는 스타일로 알려져 있어요.",
+    "모츠나베는 지역 향토 요리지만 여행객이 많이 찾는 만큼 예약이 필수에 가까운 날이 많아요.",
+    "지점별 영업시간이 달라 방문 전 공식 안내를 확인해야 해요."
+  ],
+  "practical": [
+    "대기가 길어 예약 권장",
+    "2인분 이상 주문"
+  ],
+  "tip": "여러 지점 중 숙소와 가까운 곳을 고르면 이동이 편해요.",
+  "order": [
+    "<b>もつ鍋 味噌</b> 된장 전골",
+    "<b>もつ鍋 醤油</b> 간장 전골",
+    "<b>ちゃんぽん麺</b> 마무리 면"
+  ],
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "1인 2,500~3,800엔 추정",
+  "must": 0,
+  "tags": [
+    "모츠나베",
+    "전골",
+    "체인"
+  ],
+  "art_key": "hotpot",
+  "local_search": "もつ鍋 おおやま",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Motsunabe",
+    "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A4%E9%8D%8B"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 모츠나베로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:50.799Z"
+}

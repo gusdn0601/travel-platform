@@ -1,0 +1,81 @@
+{
+  "id": "pl_bf2a40cdb9",
+  "code": "JP-KYO-S-0032",
+  "city_id": "JP-KYO",
+  "slug": "tofukuji",
+  "kind": "sight",
+  "name_ko": "도후쿠지",
+  "name_sub": "Tofuku-ji",
+  "name_local": "東福寺",
+  "lat": 34.97705,
+  "lng": 135.77409,
+  "area": "히가시야마",
+  "lead": "가을 단풍 명소로 손꼽히는 대형 선종 사찰. 계곡 위 다리 쓰텐교에서 본 단풍으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "임제종 사찰"
+    ],
+    [
+      "창건",
+      "1236년 착공 전해짐"
+    ],
+    [
+      "특징",
+      "단풍 명소"
+    ]
+  ],
+  "origin": [
+    "도후쿠지는 13세기에 세워지기 시작했다고 전해지는 선종 사찰이에요.",
+    "이름은 나라의 도다이지와 고후쿠지에서 한 글자씩 따왔다고 알려져 있어요.",
+    "계곡을 가로지르는 쓰텐교와 그 아래로 펼쳐지는 단풍이 대표 풍경으로 소개돼요.",
+    "단풍철에는 입장 줄이 길어 이른 시간대가 좋아요."
+  ],
+  "practical": [
+    "단풍철(11월 중하순) 매우 혼잡",
+    "입장 제한 있을 수 있음"
+  ],
+  "tip": "개문 직후 도착이 안전해요.",
+  "open_hours": "Mo-Su 08:30-16:30 (OSM)",
+  "stay_min": 70,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "단풍",
+    "사찰",
+    "쓰텐교"
+  ],
+  "art_key": "temple",
+  "local_search": "東福寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dfuku-ji",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%A6%8F%E5%AF%BA",
+    "https://www.openstreetmap.org/way/768987591"
+  ],
+  "meta": {
+    "priority": 6,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 46,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 단풍 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:08:57.292Z"
+}

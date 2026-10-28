@@ -1,0 +1,78 @@
+{
+  "id": "pl_c3685a1c82",
+  "code": "JP-NAR-F-0008",
+  "city_id": "JP-NAR",
+  "slug": "kanakana",
+  "kind": "food",
+  "name_ko": "카나카나",
+  "name_sub": "Kanakana",
+  "name_local": "カナカナ",
+  "lat": 34.67729,
+  "lng": 135.83321,
+  "area": "나라마치",
+  "lead": "나라마치 고택을 고친 카페. 창가 자리와 밥 메뉴로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "카페"
+    ],
+    [
+      "대표",
+      "카나카나 밥"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "카나카나는 나라마치의 오래된 집을 고쳐 만든 카페예요.",
+    "창가에 앉으면 골목 풍경이 그대로 보여 사진 찍기 좋아요.",
+    "밥과 반찬을 한 접시에 담아 내는 메뉴가 인기로 소개돼요.",
+    "자리가 많지 않아 대기하는 경우가 있어요."
+  ],
+  "practical": [
+    "좌석 적음",
+    "대기 가능"
+  ],
+  "tip": "이른 점심 시간에 가면 창가 자리를 잡기 쉬워요.",
+  "open_hours": "11:00-19:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "1인 1,200~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "나라마치",
+    "고택"
+  ],
+  "art_key": "cafe",
+  "local_search": "カナカナ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/236802417"
+  ],
+  "meta": {
+    "priority": 18,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라마치 감성 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:56.081Z"
+}

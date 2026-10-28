@@ -1,0 +1,80 @@
+{
+  "id": "pl_2370eba8bd",
+  "code": "CN-SHA-S-0026",
+  "city_id": "CN-SHA",
+  "slug": "huangpu-cruise",
+  "kind": "sight",
+  "name_ko": "황푸강 유람선 야경 크루즈",
+  "name_sub": "Huangpu River Cruise",
+  "name_local": "黄浦江游览",
+  "lat": 31.23059,
+  "lng": 121.49378,
+  "area": "와이탄",
+  "lead": "푸동과 와이탄 양쪽 야경을 물 위에서 한 번에 보는 유람선. 해 진 직후 승선이 가장 인기예요.",
+  "facts": [
+    [
+      "소요",
+      "약 50~60분"
+    ],
+    [
+      "출발",
+      "16푸 부두 등"
+    ],
+    [
+      "풍경",
+      "와이탄 만국건축 + 푸동 스카이라인"
+    ],
+    [
+      "시간대",
+      "일몰 후 야경"
+    ]
+  ],
+  "origin": [
+    "황푸강은 상하이 도심을 가르며 양쯔강으로 흐르는 강이에요.",
+    "서쪽 강변에는 19세기 후반~20세기 초 조계 시절 지은 서양식 건물군(와이탄)이, 동쪽에는 1990년대 이후 솟은 푸동 마천루가 있어요.",
+    "한 배에서 두 시대의 스카이라인을 동시에 볼 수 있는 점이 유람선의 가장 큰 매력이에요.",
+    "여러 회사가 운항하고, 시간대와 선착장에 따라 가격이 달라요."
+  ],
+  "tip": "2층 야외석이 시야는 좋지만 바람이 차요. 가을~겨울엔 겉옷을 챙기세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "선착장·시간대별 상이(추정 100위안 안팎, 현장 확인)",
+  "must": 0,
+  "tags": [
+    "야경",
+    "유람선",
+    "황푸강"
+  ],
+  "art_key": "ship",
+  "local_search": "黄浦江游览",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%B5%A6%E6%B1%9F",
+    "https://en.wikipedia.org/wiki/Huangpu_River",
+    "https://www.openstreetmap.org/node/530696824"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.909Z"
+}

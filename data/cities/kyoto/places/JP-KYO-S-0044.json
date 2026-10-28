@@ -1,0 +1,81 @@
+{
+  "id": "pl_4c07c179e5",
+  "code": "JP-KYO-S-0044",
+  "city_id": "JP-KYO",
+  "slug": "kifune-jinja",
+  "kind": "sight",
+  "name_ko": "기후네 신사",
+  "name_sub": "Kifune Shrine",
+  "name_local": "貴船神社",
+  "lat": 35.12167,
+  "lng": 135.76278,
+  "area": "교외(구라마)",
+  "lead": "물의 신을 모신 산속 신사. 붉은 등불이 늘어선 돌계단 길로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "특징",
+      "물점 부적"
+    ],
+    [
+      "위치",
+      "교외 계곡"
+    ]
+  ],
+  "origin": [
+    "기후네 신사는 물의 신을 모신 곳으로 알려져 있고, 산골 계곡에 자리해요.",
+    "물에 적시면 글씨가 나타나는 물점 운세가 대표 체험으로 소개돼요.",
+    "여름에는 계곡 위 마루에서 식사하는 가와도코 문화가 알려져 있어 시원한 피서지로 찾는 사람도 많아요.",
+    "구라마데라와 능선을 이어 걷는 코스가 유명해요."
+  ],
+  "practical": [
+    "산길 편한 신발",
+    "가와도코는 여름 한정"
+  ],
+  "tip": "구라마에서 능선을 넘어오는 코스가 유명해요.",
+  "open_hours": "Dec 01-Apr 30 Mo-Su 06:00-18:00; May 01-Nov 30 Mo-Su 06:00-20:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "수신",
+    "계곡"
+  ],
+  "art_key": "shrine",
+  "local_search": "貴船神社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kifune_Shrine",
+    "https://ja.wikipedia.org/wiki/%E8%B2%B4%E8%88%B9%E7%A5%9E%E7%A4%BE",
+    "https://www.openstreetmap.org/way/343853160"
+  ],
+  "meta": {
+    "priority": 15,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 29,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교외 힐링로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:20.902Z"
+}

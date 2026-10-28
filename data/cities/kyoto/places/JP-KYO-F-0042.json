@@ -1,0 +1,81 @@
+{
+  "id": "pl_a336307a8f",
+  "code": "JP-KYO-F-0042",
+  "city_id": "JP-KYO",
+  "slug": "izuu",
+  "kind": "food",
+  "name_ko": "이즈",
+  "name_sub": "Izū",
+  "name_local": "いづう",
+  "lat": 35.00486,
+  "lng": 135.7745,
+  "area": "기온/히가시야마",
+  "lead": "기온에서 사바(고등어) 초밥으로 알려진 오래된 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "초밥집"
+    ],
+    [
+      "대표",
+      "사바즈시"
+    ],
+    [
+      "위치",
+      "기온"
+    ]
+  ],
+  "origin": [
+    "이즈는 기온에서 사바즈시를 만들어 온 집으로 알려져 있어요.",
+    "소금에 절인 고등어를 다시마로 감싸 숙성한 초밥이 대표예요.",
+    "매장에서 먹거나 포장할 수 있어요.",
+    "기온 산책 중 저녁 겸 들르기 좋은 위치예요."
+  ],
+  "practical": [
+    "포장 가능",
+    "조기 마감"
+  ],
+  "tip": "포장해 숙소에서 먹어도 맛이 좋아요.",
+  "order": [
+    "<b>鯖寿司</b> 사바즈시"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 2,000~3,500엔 추정",
+  "must": 0,
+  "tags": [
+    "사바즈시",
+    "기온",
+    "노포"
+  ],
+  "art_key": "food",
+  "local_search": "いづう",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/13778683606"
+  ],
+  "meta": {
+    "priority": 27,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 사바즈시로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:28.736Z"
+}

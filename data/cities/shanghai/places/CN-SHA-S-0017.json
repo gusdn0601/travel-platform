@@ -1,0 +1,83 @@
+{
+  "id": "pl_9dca59596c",
+  "code": "CN-SHA-S-0017",
+  "city_id": "CN-SHA",
+  "slug": "oriental-pearl",
+  "kind": "sight",
+  "name_ko": "동방명주탑",
+  "name_sub": "Oriental Pearl Tower",
+  "name_local": "东方明珠广播电视塔",
+  "lat": 31.24167,
+  "lng": 121.49472,
+  "area": "푸동/루자쭈이",
+  "lead": "구슬 모양 구체가 꿰어진 푸동의 상징 탑. 와이탄 건너편에서 가장 먼저 눈에 들어오는 야경 포인트예요.",
+  "facts": [
+    [
+      "종류",
+      "방송탑 · 전망대"
+    ],
+    [
+      "완공",
+      "1994년"
+    ],
+    [
+      "높이",
+      "약 468m"
+    ],
+    [
+      "특징",
+      "유리 바닥 전망대"
+    ]
+  ],
+  "origin": [
+    "1990년대 초 푸동 개발이 시작되면서 상하이는 “도시의 새 얼굴”이 될 탑을 구상했어요.",
+    "1991년 착공해 1994년 완공된 이 탑은 당시 아시아에서 가장 높은 탑으로 불렸고, 구슬이 옥쟁반에 떨어지는 모습을 형상화했다고 설명돼요.",
+    "탑 아래 구체들 사이로 전망 층이 이어지며, 지금은 방송탑 기능보다 관광 명소 성격이 더 강해요.",
+    "푸동 스카이라인이 만들어지기 전 논밭이던 곳에 서 있다는 점이 이 탑의 이야기를 특별하게 만들어요."
+  ],
+  "tip": "입장권은 전망대 층 구성에 따라 가격이 달라요. 야경만 보려면 입장 대신 와이탄 쪽에서 바라보는 것으로도 충분해요.",
+  "open_hours": "08:00-21:30 (OSM)",
+  "stay_min": 90,
+  "price_hint": "전망대 입장권 별도(추정 2~3만원대, 현장·앱 확인)",
+  "must": 0,
+  "tags": [
+    "랜드마크",
+    "야경",
+    "전망"
+  ],
+  "art_key": "tower",
+  "local_search": "东方明珠广播电视塔",
+  "photos": [
+    "CN-SHA-S-0017-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower",
+    "https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%A1%94",
+    "https://www.openstreetmap.org/way/40778038"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 60,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.879Z"
+}

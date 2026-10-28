@@ -1,0 +1,88 @@
+{
+  "id": "pl_a4320f380c",
+  "code": "CN-SHA-F-0008",
+  "city_id": "CN-SHA",
+  "slug": "jiajia-tangbao",
+  "kind": "food",
+  "name_ko": "자자탕바오 (佳家汤包)",
+  "name_local": "佳家汤包 黄河路",
+  "lat": 31.23642,
+  "lng": 121.46631,
+  "area": "인민광장/황허루",
+  "lead": "큼직한 탕바오(湯包)에 빨대를 꽂아 육즙부터 마시는 집. 줄이 길어도 회전이 빠른 편이에요.",
+  "facts": [
+    [
+      "종류",
+      "탕바오(국물 만두)"
+    ],
+    [
+      "먹는 법",
+      "빨대로 국물 먼저"
+    ],
+    [
+      "위치",
+      "인민광장 인근 황허루"
+    ],
+    [
+      "메뉴",
+      "게살·새우·돼지고기 탕바오"
+    ]
+  ],
+  "origin": [
+    "샤오룽바오는 상하이 근교 난샹(南翔)에서 1871년 황밍셴이 만두를 작게 빚어 판 데서 시작됐다고 전해져요.",
+    "이후 쑤저우·난징·상하이로 퍼지며 육즙을 담는 방식이 다양해졌어요.",
+    "탕바오는 그 계열에서 더 큰 만두에 국물을 더 많이 담아 빨대로 먹는 변형이에요.",
+    "한국 여행객은 육즙과 쫄깃한 피 식감을 즐기는 샤오룽바오 대표 코스로 이 계열의 집을 찾아요."
+  ],
+  "practical": [
+    "점심·저녁 피크엔 번호표 필요",
+    "국물이 매우 뜨거우니 천천히"
+  ],
+  "tip": "숟가락에 만두를 올려 껍질을 살짝 찢고 국물부터 마셔요.",
+  "order": [
+    "<b>蟹粉汤包</b> 게살 탕바오",
+    "<b>鲜肉汤包</b> 돼지고기 탕바오",
+    "<b>虾仁汤包</b> 새우 탕바오"
+  ],
+  "open_hours": "Mo-Su 07:30-20:00 (OSM)",
+  "stay_min": 45,
+  "price_hint": "1인 30~60위안 추정",
+  "must": 0,
+  "tags": [
+    "샤오룽바오",
+    "탕바오",
+    "줄서는집"
+  ],
+  "art_key": "basket",
+  "local_search": "佳家汤包 黄河路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xiaolongbao",
+    "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%AC%BC%E5%8C%85",
+    "https://www.openstreetmap.org/node/4543454589"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 샤오룽바오 맛집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.060Z"
+}

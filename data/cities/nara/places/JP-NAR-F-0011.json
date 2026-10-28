@@ -1,0 +1,80 @@
+{
+  "id": "pl_42025e79e3",
+  "code": "JP-NAR-F-0011",
+  "city_id": "JP-NAR",
+  "slug": "izasa-nara",
+  "kind": "food",
+  "name_ko": "이자사 나라 본점",
+  "name_sub": "Izasa",
+  "name_local": "ゐざさ 奈良本店",
+  "lat": 34.68375,
+  "lng": 135.83898,
+  "area": "나라마치",
+  "lead": "카키노하즈시와 소면을 함께 내는 향토 음식점이에요.",
+  "facts": [
+    [
+      "종류",
+      "향토 요리점"
+    ],
+    [
+      "대표",
+      "카키노하즈시 정식"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "이자사는 나라에서 카키노하즈시를 만들어 온 가게로 알려져 있어요.",
+    "초밥과 소면, 조림을 함께 내는 정식이 여행자에게 익숙한 구성이에요.",
+    "감잎 초밥은 씹을수록 잎 향이 은은하게 도는 맛이에요.",
+    "시내에 지점이 있고 역 안에서도 살 수 있어요."
+  ],
+  "practical": [
+    "포장 가능"
+  ],
+  "tip": "점심 세트에 소면이 함께 나와 든든해요.",
+  "order": [
+    "<b>柿の葉すし定食</b> 카키노하즈시 정식"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,300~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "카키노하즈시",
+    "점심",
+    "포장"
+  ],
+  "art_key": "food",
+  "local_search": "ゐざさ 奈良本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/5603040066"
+  ],
+  "meta": {
+    "priority": 14,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 향토 음식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:59.669Z"
+}

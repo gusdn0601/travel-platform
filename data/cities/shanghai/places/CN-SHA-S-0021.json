@@ -1,0 +1,84 @@
+{
+  "id": "pl_a3e3044400",
+  "code": "CN-SHA-S-0021",
+  "city_id": "CN-SHA",
+  "slug": "shanghai-disney",
+  "kind": "sight",
+  "name_ko": "상하이 디즈니랜드",
+  "name_sub": "Shanghai Disney Resort",
+  "name_local": "上海迪士尼度假区",
+  "lat": 31.144,
+  "lng": 121.657,
+  "area": "푸동/촨사(근교)",
+  "lead": "2016년 개장한 중국 본토 첫 디즈니 파크. 중심에 가장 큰 성인 ‘에터널 어드벤처 성’이 서 있어요.",
+  "facts": [
+    [
+      "개장",
+      "2016년 6월 16일"
+    ],
+    [
+      "특징",
+      "세계 디즈니 성 중 최대급"
+    ],
+    [
+      "신설 구역",
+      "주토피아 · 트론 라이트사이클"
+    ],
+    [
+      "위치",
+      "푸동 촨사, 지하철 11호선 종점 부근"
+    ]
+  ],
+  "origin": [
+    "상하이 디즈니 리조트는 2016년 6월 16일에 개장했어요.",
+    "중국 본토에서는 처음 생긴 디즈니 테마파크예요.",
+    "성 이름은 ‘에터널 어드벤처 성’이고, 여러 디즈니 성 가운데 가장 크다고 소개돼요.",
+    "트론 라이트사이클 파워런 등 이곳에서만 먼저 탈 수 있는 어트랙션이 있는 점이 특징이에요.",
+    "중국 문화 요소를 넣은 정원도 따로 마련돼 있어요."
+  ],
+  "tip": "입장권은 날짜에 따라 가격이 달라요. 공식 앱으로 줄 서는 시간 확인, 대기가 긴 탈것은 오픈 직후에 타세요. 시내에서 이동 시간이 1시간 이상 걸려요.",
+  "open_hours": null,
+  "stay_min": 480,
+  "price_hint": "입장권 날짜별 변동(추정 성인 약 400~700위안, 공식 앱 확인)",
+  "must": 0,
+  "tags": [
+    "테마파크",
+    "아이와",
+    "온종일"
+  ],
+  "art_key": "park",
+  "local_search": "上海迪士尼度假区",
+  "photos": [
+    "CN-SHA-S-0021-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Disney_Resort",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92",
+    "https://www.openstreetmap.org/way/328312304"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 480,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.892Z"
+}

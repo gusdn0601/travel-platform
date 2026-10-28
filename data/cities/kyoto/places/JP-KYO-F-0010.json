@@ -1,0 +1,80 @@
+{
+  "id": "pl_15476d273a",
+  "code": "JP-KYO-F-0010",
+  "city_id": "JP-KYO",
+  "slug": "inoda-coffee-honten",
+  "kind": "food",
+  "name_ko": "이노다 커피 본점",
+  "name_sub": "Inoda Coffee",
+  "name_local": "イノダコーヒ 本店",
+  "lat": 35.00817,
+  "lng": 135.76319,
+  "area": "나카교구",
+  "lead": "교토 사람들의 오랜 아침 커피 가게로 알려진 곳. 크림과 설탕을 미리 넣어 내는 방식이 특징으로 전해져요.",
+  "facts": [
+    [
+      "종류",
+      "커피 노포"
+    ],
+    [
+      "특징",
+      "아침 세트"
+    ],
+    [
+      "위치",
+      "나카교구"
+    ]
+  ],
+  "origin": [
+    "이노다 커피는 1940년 교토에서 시작했다고 알려진 커피 가게예요.",
+    "크림과 설탕을 미리 넣어 서빙하는 방식이 이 집의 개성으로 소개돼요.",
+    "아침 메뉴 세트가 인기로 알려져 있어 아침 일정 전에 들르기 좋아요."
+  ],
+  "practical": [
+    "아침 시간대 가장 붐빔"
+  ],
+  "tip": "설탕 없이 마시고 싶으면 주문 때 말해요.",
+  "order": [
+    "<b>アラビアの真珠</b> 대표 블렌드",
+    "<b>朝食セット</b> 아침 세트"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 900~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "노포",
+    "교토커피"
+  ],
+  "art_key": "cafe",
+  "local_search": "イノダコーヒ 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/8979987987"
+  ],
+  "meta": {
+    "priority": 10,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 커피 노포로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:17.163Z"
+}

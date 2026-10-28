@@ -1,0 +1,76 @@
+{
+  "id": "pl_c9c29df59a",
+  "code": "CN-SHA-S-0052",
+  "city_id": "CN-SHA",
+  "slug": "m50",
+  "kind": "sight",
+  "name_ko": "M50 예술구",
+  "name_sub": "M50 Creative Park",
+  "name_local": "M50创意园",
+  "lat": null,
+  "lng": null,
+  "area": "푸퉈/모간산로",
+  "lead": "옛 방직 공장을 개조한 예술가 작업실·갤러리 단지. 벽화와 소규모 전시가 많아요.",
+  "facts": [
+    [
+      "성격",
+      "현대미술 갤러리 단지"
+    ],
+    [
+      "전신",
+      "방직 공장"
+    ],
+    [
+      "위치",
+      "모간산로"
+    ],
+    [
+      "특징",
+      "벽화 · 작업실"
+    ]
+  ],
+  "origin": [
+    "M50은 쑤저우허 가까이 자리한 옛 방직 공장 건물을 예술가들이 작업실로 쓰면서 형성된 문화 단지예요.",
+    "이후 갤러리와 카페가 들어서며 상하이의 대표 현대미술 지구 중 하나가 되었어요.",
+    "낡은 공장 벽에 그려진 벽화가 포토존으로 알려져 있어요."
+  ],
+  "tip": "갤러리 대부분은 월요일 휴관일 수 있어요. 방문 전 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(갤러리별 상이)",
+  "must": 0,
+  "tags": [
+    "예술",
+    "갤러리",
+    "공장개조"
+  ],
+  "art_key": "museum",
+  "local_search": "M50创意园",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/M50",
+    "https://zh.wikipedia.org/wiki/M50%E5%88%9B%E6%84%8F%E5%9B%AD"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 일정 후보로 소개되는 곳(수집가 판단, 방문자 수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.635Z"
+}

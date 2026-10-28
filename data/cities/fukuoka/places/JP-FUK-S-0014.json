@@ -1,0 +1,74 @@
+{
+  "id": "pl_234c0dd483",
+  "code": "JP-FUK-S-0014",
+  "city_id": "JP-FUK",
+  "slug": "kyushu-national-museum",
+  "kind": "sight",
+  "name_ko": "규슈 국립박물관",
+  "name_sub": "Kyushu National Museum",
+  "name_local": "九州国立博物館",
+  "addr_local": "福岡県太宰府市石坂4-7-2",
+  "lat": 33.51836,
+  "lng": 130.5383,
+  "area": "교외(다자이후)",
+  "lead": "일본 문화의 아시아 교류를 주제로 한 국립박물관. 다자이후 텐만구 바로 옆이에요.",
+  "facts": [
+    [
+      "종류",
+      "국립박물관"
+    ],
+    [
+      "특징",
+      "아시아 교류 주제"
+    ],
+    [
+      "위치",
+      "다자이후"
+    ],
+    [
+      "연도(Wikidata)",
+      "2005년"
+    ]
+  ],
+  "tip": "다자이후 일정과 묶어 오후에 들르기 좋아요.",
+  "open_hours": "Su, Tu-Th 09:30-17:00; Fr-Sa 09:30-20:00; \"last admission: 16:30\" (OSM)",
+  "stay_min": 90,
+  "price_hint": "상설전 입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "역사",
+    "다자이후"
+  ],
+  "art_key": "museum",
+  "local_search": "九州国立博物館",
+  "photos": [
+    "JP-FUK-S-0014-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q148543",
+    "https://ko.wikipedia.org/wiki/%EA%B7%9C%EC%8A%88_%EA%B5%AD%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Kyushu_National_Museum",
+    "https://www.openstreetmap.org/way/134721523",
+    "https://www.kyuhaku.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 23,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "national museum in Fukuoka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:10.898Z"
+}

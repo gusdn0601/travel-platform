@@ -1,0 +1,70 @@
+{
+  "id": "pl_854f335d56",
+  "code": "JP-NAR-S-0021",
+  "city_id": "JP-NAR",
+  "slug": "nigatsu-do",
+  "kind": "sight",
+  "name_ko": "니가쓰도",
+  "name_sub": "Nigatsu-dō",
+  "name_local": "東大寺二月堂",
+  "lat": 34.68928,
+  "lng": 135.84428,
+  "area": "나라 공원",
+  "lead": "도다이지 경내 언덕 위 불당. 나라 시내를 내려다보는 전망 포인트예요.",
+  "facts": [
+    [
+      "종류",
+      "불당"
+    ],
+    [
+      "위치",
+      "도다이지 동쪽"
+    ],
+    [
+      "특징",
+      "시가지 전망"
+    ],
+    [
+      "연도(Wikidata)",
+      "800년"
+    ]
+  ],
+  "tip": "일몰 무렵 조명이 켜지는 시간대가 분위기가 좋아요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "불당",
+    "전망",
+    "도다이지"
+  ],
+  "art_key": "temple",
+  "local_search": "東大寺二月堂",
+  "photos": [
+    "JP-NAR-S-0021-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3341341",
+    "https://en.wikipedia.org/wiki/Nigatsu-d%C5%8D",
+    "http://www.todaiji.or.jp/contents/guidance/guidance6.html"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:03:22.398Z"
+}

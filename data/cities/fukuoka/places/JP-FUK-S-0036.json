@@ -1,0 +1,85 @@
+{
+  "id": "pl_367e957f8e",
+  "code": "JP-FUK-S-0036",
+  "city_id": "JP-FUK",
+  "slug": "sarakurayama-night-view",
+  "kind": "sight",
+  "name_ko": "사라쿠라야마 야경",
+  "name_sub": "Mount Sarakura",
+  "name_local": "皿倉山",
+  "lat": 33.84639,
+  "lng": 130.79639,
+  "area": "근교(기타큐슈)",
+  "lead": "‘1000만 달러 야경’으로 불리는 기타큐슈 야경 명소. 케이블카로 정상 전망대에 올라요.",
+  "facts": [
+    [
+      "종류",
+      "야경 전망"
+    ],
+    [
+      "높이",
+      "해발 약 622m"
+    ],
+    [
+      "접근",
+      "케이블카+슬로프카"
+    ],
+    [
+      "볼거리",
+      "기타큐슈 시가지·바다"
+    ]
+  ],
+  "origin": [
+    "사라쿠라야마는 기타큐슈 야하타 지구 뒤편에 솟은 산으로, 정상에서 도시와 바다가 어우러진 야경이 펼쳐져요.",
+    "일본 신3대 야경으로 꼽는 순위에 이름이 오르내리며 여행 후기에서도 자주 언급돼요.",
+    "케이블카와 슬로프카를 갈아타는 방식으로 오를 수 있어 접근이 쉬운 편이에요."
+  ],
+  "practical": [
+    "야경 시간대에 맞춰 올라가기",
+    "정상은 바람이 차서 겉옷 필요",
+    "케이블카 운행 시간 확인"
+  ],
+  "tip": "해 지기 한 시간 전에 올라가 노을과 야경을 모두 보세요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "케이블카+슬로프카 왕복 약 1,230엔 추정",
+  "must": 0,
+  "tags": [
+    "야경",
+    "기타큐슈",
+    "케이블카"
+  ],
+  "art_key": "skyline",
+  "local_search": "皿倉山",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Sarakura",
+    "https://ja.wikipedia.org/wiki/%E7%9A%BF%E5%80%89%E5%B1%B1",
+    "https://www.openstreetmap.org/node/1250723383"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 10,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 규슈 야경로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:41.607Z"
+}

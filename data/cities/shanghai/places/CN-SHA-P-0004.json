@@ -1,0 +1,82 @@
+{
+  "id": "pl_b29aa08a29",
+  "code": "CN-SHA-P-0004",
+  "city_id": "CN-SHA",
+  "slug": "ifc-mall",
+  "kind": "shop",
+  "name_ko": "상하이 IFC 몰",
+  "name_sub": "IFC Mall Shanghai",
+  "name_local": "上海国金中心商场",
+  "lat": 31.2385,
+  "lng": 121.497,
+  "area": "푸동/루자쭈이",
+  "lead": "루자쭈이 한복판의 쇼핑몰. 동방명주 맞은편에서 야경과 식사를 함께 즐길 수 있어요.",
+  "facts": [
+    [
+      "위치",
+      "루자쭈이"
+    ],
+    [
+      "성격",
+      "고급 쇼핑몰"
+    ],
+    [
+      "인근",
+      "동방명주, 진마오타워"
+    ],
+    [
+      "접근",
+      "지하철 2호선 루자쭈이역"
+    ]
+  ],
+  "origin": [
+    "상하이 IFC는 푸동 금융구 한복판에 들어선 복합 건물 중 하나로 쇼핑몰, 오피스, 호텔이 한 단지로 이어져 있어요.",
+    "루자쭈이의 마천루 군을 도보로 한 번에 보기 쉬운 위치예요.",
+    "동방명주와 해양수족관, 정대광장이 도보권이라 푸동 일정의 거점으로 쓰기 좋아요."
+  ],
+  "tip": "식사나 휴식을 하러 들어가 실내에서 마천루 구경을 잇기 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "루자쭈이",
+    "명품"
+  ],
+  "art_key": "street",
+  "local_search": "上海国金中心商场",
+  "photos": [
+    "CN-SHA-P-0004-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_IFC",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83",
+    "https://www.openstreetmap.org/way/526005642"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 96,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.978Z"
+}

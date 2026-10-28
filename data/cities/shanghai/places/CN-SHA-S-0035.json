@@ -1,0 +1,78 @@
+{
+  "id": "pl_b85f76cf34",
+  "code": "CN-SHA-S-0035",
+  "city_id": "CN-SHA",
+  "slug": "duolun-road",
+  "kind": "sight",
+  "name_ko": "둬룬루 문화명인거리",
+  "name_sub": "Duolun Road Cultural Street",
+  "name_local": "多伦路文化名人街",
+  "lat": 31.262,
+  "lng": 121.4823,
+  "area": "훙커우",
+  "lead": "루쉰·궈모뤄 등 근대 문인들이 살던 짧은 골목. 골동품 가게와 옛 건물이 이어져요.",
+  "facts": [
+    [
+      "성격",
+      "문화 거리(보행)"
+    ],
+    [
+      "연관 인물",
+      "루쉰, 궈모뤄 등"
+    ],
+    [
+      "분위기",
+      "근대 양옥·골동"
+    ],
+    [
+      "위치",
+      "훙커우 루쉰공원 인근"
+    ]
+  ],
+  "origin": [
+    "둬룬루는 짧은 보행 골목이지만 1930년대 좌익 작가 연맹 활동이 이뤄졌던 곳으로 알려져요.",
+    "루쉰, 궈모뤄 등 근대 문인들이 이 일대에 살았거나 자주 오갔고, 지금은 골동품 가게와 카페가 늘어서 있어요.",
+    "골목 안 작은 건물마다 안내판이 붙어 있어 산책하며 근대사를 읽기 좋아요."
+  ],
+  "tip": "루쉰공원 + 유태난민기념관 + 둬룬루를 훙커우 반나절 코스로 연결해 보세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "문학",
+    "옛거리",
+    "골동"
+  ],
+  "art_key": "street",
+  "local_search": "多伦路文化名人街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Duolun_Road",
+    "https://zh.wikipedia.org/wiki/%E5%A4%9A%E4%BC%A6%E8%B7%AF"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.936Z"
+}

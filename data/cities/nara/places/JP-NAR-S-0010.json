@@ -1,0 +1,70 @@
+{
+  "id": "pl_06755a060b",
+  "code": "JP-NAR-S-0010",
+  "city_id": "JP-NAR",
+  "slug": "isui-en",
+  "kind": "sight",
+  "name_ko": "이스이엔",
+  "name_sub": "Isui-en",
+  "name_local": "依水園",
+  "lat": 34.68579,
+  "lng": 135.83774,
+  "area": "나라 공원",
+  "lead": "도다이지 대불전이 정원 풍경에 어우러지는 차경 정원.",
+  "facts": [
+    [
+      "종류",
+      "일본식 정원"
+    ],
+    [
+      "특징",
+      "차경 기법"
+    ],
+    [
+      "위치",
+      "도다이지 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "1673년"
+    ]
+  ],
+  "tip": "정원 안 찻집에서 쉬어 가기 좋아요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "정원",
+    "차경",
+    "도다이지"
+  ],
+  "art_key": "garden",
+  "local_search": "依水園",
+  "photos": [
+    "JP-NAR-S-0010-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2745677",
+    "https://en.wikipedia.org/wiki/Isui-en",
+    "https://isuien.or.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Meiji era garden in Nara, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:38.462Z"
+}

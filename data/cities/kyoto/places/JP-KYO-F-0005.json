@@ -1,0 +1,83 @@
+{
+  "id": "pl_2468673d3a",
+  "code": "JP-KYO-F-0005",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-ramen-koji",
+  "kind": "food",
+  "name_ko": "교토 라멘 코지",
+  "name_sub": "Kyoto Ramen Koji",
+  "name_local": "京都拉麺小路",
+  "lat": 34.98556,
+  "lng": 135.75861,
+  "area": "교토역",
+  "lead": "교토역 빌딩 10층에 라멘집이 모여 있는 골목. 지역별 라멘을 골라 먹을 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "라멘 모음 거리"
+    ],
+    [
+      "위치",
+      "교토역 빌딩 10층"
+    ],
+    [
+      "특징",
+      "전국 라멘집 입점"
+    ]
+  ],
+  "origin": [
+    "교토역 빌딩은 1997년 개장한 대형 복합 건물로, 위층에 라멘 가게들이 모인 골목이 있어요.",
+    "환승 시간이 애매할 때 한 끼 해결하기 좋아서 열차 시간에 쫓기는 여행자가 자주 찾아요.",
+    "입점 가게는 바뀔 수 있어 현장 확인이 필요해요."
+  ],
+  "practical": [
+    "각 가게별 영업시간 상이"
+  ],
+  "tip": "열차 시간 전 30분 여유면 충분해요.",
+  "order": [
+    "<b>各店の看板ラーメン</b> 가게별 대표 라멘"
+  ],
+  "open_hours": "Mo-Su 11:00-22:00 (OSM)",
+  "stay_min": 45,
+  "price_hint": "1인 1,000~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "교토역",
+    "푸드코트"
+  ],
+  "art_key": "noodle",
+  "local_search": "京都拉麺小路",
+  "photos": [
+    "JP-KYO-F-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station",
+    "https://www.openstreetmap.org/node/4775546784"
+  ],
+  "meta": {
+    "priority": 5,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 64,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토역 환승 중 식사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:11.075Z"
+}

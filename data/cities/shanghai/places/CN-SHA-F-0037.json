@@ -1,0 +1,81 @@
+{
+  "id": "pl_44cba3bdbf",
+  "code": "CN-SHA-F-0037",
+  "city_id": "CN-SHA",
+  "slug": "huanghe-road-food",
+  "kind": "food",
+  "name_ko": "황허루 먹자골목 (黄河路美食街)",
+  "name_local": "黄河路美食街",
+  "lat": 31.23907,
+  "lng": 121.46486,
+  "area": "인민광장",
+  "lead": "인민광장 인근 음식점이 줄지어 선 거리. 자자탕바오가 있는 골목이기도 해요.",
+  "facts": [
+    [
+      "성격",
+      "먹자 골목"
+    ],
+    [
+      "위치",
+      "인민광장 북쪽"
+    ],
+    [
+      "대표",
+      "탕바오, 본토식, 분식"
+    ],
+    [
+      "시간",
+      "점심·저녁"
+    ]
+  ],
+  "origin": [
+    "황허루는 인민광장 북쪽에 자리한 짧은 음식 거리로 오랫동안 상하이 사람들의 외식 골목이었어요.",
+    "현재도 탕바오와 본토 요리를 비롯한 다양한 가게가 이어져요.",
+    "관광지 가격이라기보다 현지인도 찾는 곳이라는 점이 특징이에요."
+  ],
+  "practical": [
+    "가게 영업시간은 개별 확인"
+  ],
+  "tip": "자자탕바오와 가까워 점심 코스로 묶기 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "식당별 상이",
+  "must": 0,
+  "tags": [
+    "먹자골목",
+    "저녁",
+    "인민광장"
+  ],
+  "art_key": "street",
+  "local_search": "黄河路美食街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%8F%9C",
+    "https://www.openstreetmap.org/way/238477350"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 인민광장 인근 먹자골목로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.383Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_0f89df0b7e",
+  "code": "JP-OSA-S-0014",
+  "city_id": "JP-OSA",
+  "slug": "national-museum-of-art-osaka",
+  "kind": "sight",
+  "name_ko": "국립국제미술관",
+  "name_sub": "National Museum of Art, Osaka",
+  "name_local": "国立国際美術館",
+  "addr_local": "大阪市 北区 中之島四丁目 2 55",
+  "lat": 34.69179,
+  "lng": 135.49202,
+  "area": "나카노시마",
+  "lead": "지하에 전시 공간을 둔 현대미술 중심 국립 미술관. 나카노시마의 건축 산책과 어울려요.",
+  "facts": [
+    [
+      "종류",
+      "미술관"
+    ],
+    [
+      "위치",
+      "나카노시마"
+    ],
+    [
+      "특징",
+      "지하 구조의 전시장"
+    ],
+    [
+      "연도(Wikidata)",
+      "1977년"
+    ]
+  ],
+  "tip": "특별전 일정에 따라 관람 시간이 달라져요. 월요일 휴관인 경우가 많아요.",
+  "open_hours": "Sa-Su 10:00-17:00,Tu-Th 10:00-19:00,Fr 10:00-19:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "전시별 입장료",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "현대미술",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "国立国際美術館",
+  "photos": [
+    "JP-OSA-S-0014-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1055037",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B5%AD%EC%A0%9C%EB%AF%B8%EC%88%A0%EA%B4%80",
+    "https://en.wikipedia.org/wiki/National_Museum_of_Art%2C_Osaka",
+    "https://www.openstreetmap.org/way/231449189",
+    "http://www.nmao.go.jp"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 12,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "museum in Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:26.733Z"
+}

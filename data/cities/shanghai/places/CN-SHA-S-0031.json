@@ -1,0 +1,81 @@
+{
+  "id": "pl_9a5bfb0a67",
+  "code": "CN-SHA-S-0031",
+  "city_id": "CN-SHA",
+  "slug": "longhua-temple",
+  "kind": "sight",
+  "name_ko": "룽화사",
+  "name_sub": "Longhua Temple",
+  "name_local": "龙华寺",
+  "lat": 31.17266,
+  "lng": 121.45126,
+  "area": "쉬후이",
+  "lead": "상하이에서 가장 오래된 사찰 중 하나로 알려진 곳. 칠층 룽화탑이 대표적인 볼거리예요.",
+  "facts": [
+    [
+      "창건",
+      "전승으로 3세기(오나라)"
+    ],
+    [
+      "현 건물",
+      "송·청대 양식 재건"
+    ],
+    [
+      "대표",
+      "룽화탑(7층)"
+    ],
+    [
+      "행사",
+      "음력 3월 룽화 사원 시장"
+    ]
+  ],
+  "origin": [
+    "전승에 따르면 룽화사는 삼국시대 오나라 때(3세기) 처음 세워졌다고 해요.",
+    "지금 건물은 대부분 훗날 재건된 것이지만 송대 양식의 배치를 따르는 점이 특징이에요.",
+    "경내의 7층 룽화탑은 사찰의 상징이고, 매년 음력 3월에는 사원 주변에서 큰 시장이 열려요.",
+    "도심에 있지만 향 냄새와 종소리 덕에 분위기가 사뭇 달라요."
+  ],
+  "tip": "향 피우는 의식은 구경만 하고 사진은 허용 구역에서만 찍으세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 소액(추정)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "역사",
+    "탑"
+  ],
+  "art_key": "temple",
+  "local_search": "龙华寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Longhua_Temple",
+    "https://zh.wikipedia.org/wiki/%E9%BE%99%E5%8D%8E%E5%AF%BA",
+    "https://www.openstreetmap.org/way/404694432"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 597,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.925Z"
+}

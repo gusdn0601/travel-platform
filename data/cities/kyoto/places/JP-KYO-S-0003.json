@@ -1,0 +1,72 @@
+{
+  "id": "pl_afe125e71e",
+  "code": "JP-KYO-S-0003",
+  "city_id": "JP-KYO",
+  "slug": "kinkaku-ji-temple",
+  "kind": "sight",
+  "name_ko": "킨카쿠지",
+  "name_sub": "Kinkaku-ji Temple",
+  "name_local": "鹿苑寺",
+  "addr_local": "京都府 京都市 北区 金閣寺町 1",
+  "lat": 35.0395,
+  "lng": 135.7285,
+  "area": "기타구",
+  "lead": "금박을 입힌 누각이 연못에 비치는 사찰. 한 바퀴 도는 관람 동선이 짧아 부담이 없어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰(선종)"
+    ],
+    [
+      "대표",
+      "금각 사리전"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "1397년"
+    ]
+  ],
+  "tip": "오후 일찍 가면 햇빛에 금빛이 가장 잘 살아요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "세계유산",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "鹿苑寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q270983",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%BF%A0%EC%98%A8%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Kinkaku-ji",
+    "https://www.openstreetmap.org/way/98115917",
+    "https://www.shokoku-ji.jp/kinkakuji/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 92,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "Zen Buddhist temple in Kyoto, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:39.773Z"
+}

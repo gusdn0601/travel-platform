@@ -1,0 +1,72 @@
+{
+  "id": "pl_c9c2ddd672",
+  "code": "JP-FUK-S-0009",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-asian-art-museum",
+  "kind": "sight",
+  "name_ko": "후쿠오카 아시아미술관",
+  "name_sub": "Fukuoka Asian Art Museum",
+  "name_local": "福岡アジア美術館",
+  "lat": 33.59503,
+  "lng": 130.40592,
+  "area": "하카타",
+  "lead": "아시아 근현대 미술을 모으는 미술관. 하카타 리버레인 안에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "미술관"
+    ],
+    [
+      "특징",
+      "아시아 현대 미술"
+    ],
+    [
+      "위치",
+      "하카타 리버레인 건물"
+    ],
+    [
+      "연도(Wikidata)",
+      "1999년"
+    ]
+  ],
+  "tip": "쇼핑몰 안에 있어 쇼핑과 함께 방문하기 편해요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "아시아",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "福岡アジア美術館",
+  "photos": [
+    "JP-FUK-S-0009-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3330163",
+    "https://en.wikipedia.org/wiki/Fukuoka_Asian_Art_Museum",
+    "https://www.openstreetmap.org/node/1423779941",
+    "https://faam.city.fukuoka.lg.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 11,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "museum in Fukuoka City, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:35.928Z"
+}

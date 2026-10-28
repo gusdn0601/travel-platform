@@ -1,0 +1,62 @@
+{
+  "id": "pl_b8a865b487",
+  "code": "JP-KYO-S-0030",
+  "city_id": "JP-KYO",
+  "slug": "philosopher-s-path",
+  "kind": "sight",
+  "name_ko": "철학의 길",
+  "name_sub": "Philosopher's Path",
+  "name_local": "哲学の道",
+  "lat": 35.01837,
+  "lng": 135.79409,
+  "area": "사쿄구",
+  "lead": "수로를 따라 벚나무가 늘어선 산책로. 긴카쿠지에서 난젠지 방향으로 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "산책로"
+    ],
+    [
+      "길이",
+      "약 2km (추정)"
+    ],
+    [
+      "시즌",
+      "벚꽃·신록·단풍"
+    ]
+  ],
+  "tip": "도중에 작은 카페와 절이 있어 쉬엄쉬엄 걷기 좋아요.",
+  "open_hours": "상시 통행 (추정)",
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "산책",
+    "벚꽃",
+    "수로"
+  ],
+  "art_key": "park",
+  "local_search": "哲学の道",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/685140843"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:45.913Z"
+}

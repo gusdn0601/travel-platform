@@ -1,0 +1,737 @@
+[
+  {
+    "id": "pl_lhzp4fndnd",
+    "code": "CN-SHA-F-0001",
+    "slug": "siji",
+    "kind": "food",
+    "name_ko": "사계민복 오리구이"
+  },
+  {
+    "id": "pl_rlieth44ou",
+    "code": "CN-SHA-F-0002",
+    "slug": "nanxiang",
+    "kind": "food",
+    "name_ko": "남상만두점"
+  },
+  {
+    "id": "pl_5qvleh2eib",
+    "code": "CN-SHA-F-0003",
+    "slug": "newworld",
+    "kind": "food",
+    "name_ko": "신세계성 · 릴리안 에그타르트"
+  },
+  {
+    "id": "pl_3zjsxtxdab",
+    "code": "CN-SHA-F-0004",
+    "slug": "skewer",
+    "kind": "food",
+    "name_ko": "헌지우이치엔 양꼬치"
+  },
+  {
+    "id": "pl_5wyuxgqdjg",
+    "code": "CN-SHA-F-0005",
+    "slug": "hotpot",
+    "kind": "food",
+    "name_ko": "좌정우원 소고기 훠궈"
+  },
+  {
+    "id": "pl_4g17whmqs2",
+    "code": "CN-SHA-F-0006",
+    "slug": "laojishi",
+    "kind": "food",
+    "name_ko": "라오지스 주가"
+  },
+  {
+    "id": "pl_5m4j9h37la",
+    "code": "CN-SHA-F-0007",
+    "slug": "dintaifung",
+    "kind": "food",
+    "name_ko": "딘타이펑"
+  },
+  {
+    "id": "pl_a4320f380c",
+    "code": "CN-SHA-F-0008",
+    "slug": "jiajia-tangbao",
+    "kind": "food",
+    "name_ko": "자자탕바오 (佳家汤包)"
+  },
+  {
+    "id": "pl_ef76269977",
+    "code": "CN-SHA-F-0009",
+    "slug": "yangs-fry-dumpling",
+    "kind": "food",
+    "name_ko": "샤오양셩젠 (小杨生煎)"
+  },
+  {
+    "id": "pl_b62c1dd795",
+    "code": "CN-SHA-F-0010",
+    "slug": "dahuchun",
+    "kind": "food",
+    "name_ko": "다후춘 (大壶春)"
+  },
+  {
+    "id": "pl_39d37b718e",
+    "code": "CN-SHA-F-0011",
+    "slug": "adacongyoubing",
+    "kind": "food",
+    "name_ko": "아다 총요우빙 (阿大葱油饼)"
+  },
+  {
+    "id": "pl_bb2ccec24c",
+    "code": "CN-SHA-F-0012",
+    "slug": "chenghuangmiao-snacks",
+    "kind": "food",
+    "name_ko": "성황묘 샤오츠 광장 (먹자골목)"
+  },
+  {
+    "id": "pl_72b276defd",
+    "code": "CN-SHA-F-0013",
+    "slug": "lubolang",
+    "kind": "food",
+    "name_ko": "뤼보랑 (绿波廊)"
+  },
+  {
+    "id": "pl_42e0305c6c",
+    "code": "CN-SHA-F-0014",
+    "slug": "dexingguan",
+    "kind": "food",
+    "name_ko": "더싱관 (德兴馆)"
+  },
+  {
+    "id": "pl_c7804fc871",
+    "code": "CN-SHA-F-0015",
+    "slug": "laozhengxing",
+    "kind": "food",
+    "name_ko": "라오정싱 (老正兴)"
+  },
+  {
+    "id": "pl_6e92838e60",
+    "code": "CN-SHA-F-0016",
+    "slug": "wangbaohe",
+    "kind": "food",
+    "name_ko": "왕바오허 (王宝和酒家)"
+  },
+  {
+    "id": "pl_70ebbc27a9",
+    "code": "CN-SHA-F-0017",
+    "slug": "xiaoshaoxing",
+    "kind": "food",
+    "name_ko": "샤오사오싱 (小绍兴)"
+  },
+  {
+    "id": "pl_7db6cd19dc",
+    "code": "CN-SHA-F-0018",
+    "slug": "shendacheng",
+    "kind": "food",
+    "name_ko": "선다청 (沈大成)"
+  },
+  {
+    "id": "pl_f62d00915c",
+    "code": "CN-SHA-F-0019",
+    "slug": "guangmingcun",
+    "kind": "food",
+    "name_ko": "광밍춘 (光明邨大酒家)"
+  },
+  {
+    "id": "pl_0b849696e3",
+    "code": "CN-SHA-F-0020",
+    "slug": "haidilao",
+    "kind": "food",
+    "name_ko": "하이디라오 훠궈"
+  },
+  {
+    "id": "pl_7bac3bb816",
+    "code": "CN-SHA-F-0021",
+    "slug": "banu-hotpot",
+    "kind": "food",
+    "name_ko": "바누 마오두 훠궈 (巴奴毛肚火锅)"
+  },
+  {
+    "id": "pl_68744a76ae",
+    "code": "CN-SHA-F-0022",
+    "slug": "dadong-duck",
+    "kind": "food",
+    "name_ko": "다둥 오리구이 (大董烤鸭)"
+  },
+  {
+    "id": "pl_2487c070d0",
+    "code": "CN-SHA-F-0023",
+    "slug": "quanjude-shanghai",
+    "kind": "food",
+    "name_ko": "전취덕 오리구이 (全聚德)"
+  },
+  {
+    "id": "pl_e42bfb8884",
+    "code": "CN-SHA-F-0024",
+    "slug": "crystal-jade",
+    "kind": "food",
+    "name_ko": "크리스탈 제이드 (翡翠酒家)"
+  },
+  {
+    "id": "pl_0a3e455302",
+    "code": "CN-SHA-F-0025",
+    "slug": "diandude",
+    "kind": "food",
+    "name_ko": "디엔두더 (点都德)"
+  },
+  {
+    "id": "pl_606b1e9eff",
+    "code": "CN-SHA-F-0026",
+    "slug": "aniang-noodle",
+    "kind": "food",
+    "name_ko": "아냥 국수집 (阿娘面馆)"
+  },
+  {
+    "id": "pl_3e1cb5770a",
+    "code": "CN-SHA-F-0027",
+    "slug": "nanjing-impression",
+    "kind": "food",
+    "name_ko": "난징 임프레션 (南京大排档)"
+  },
+  {
+    "id": "pl_6d867e9dea",
+    "code": "CN-SHA-F-0028",
+    "slug": "grandmas-home",
+    "kind": "food",
+    "name_ko": "와이포자 (外婆家)"
+  },
+  {
+    "id": "pl_e8833d75b0",
+    "code": "CN-SHA-F-0029",
+    "slug": "korean-bbq-area",
+    "kind": "food",
+    "name_ko": "한식당 · 한국식 고깃집 (한인타운 일대)"
+  },
+  {
+    "id": "pl_53d8bddeb0",
+    "code": "CN-SHA-F-0030",
+    "slug": "manner-coffee",
+    "kind": "food",
+    "name_ko": "매너 커피 (Manner Coffee)"
+  },
+  {
+    "id": "pl_df58cce8e6",
+    "code": "CN-SHA-F-0031",
+    "slug": "arabica-bund",
+    "kind": "food",
+    "name_ko": "% 아라비카 와이탄"
+  },
+  {
+    "id": "pl_cfba8ca861",
+    "code": "CN-SHA-F-0032",
+    "slug": "seesaw-coffee",
+    "kind": "food",
+    "name_ko": "시소 커피 (Seesaw Coffee)"
+  },
+  {
+    "id": "pl_22e05ffd1d",
+    "code": "CN-SHA-F-0033",
+    "slug": "heytea",
+    "kind": "food",
+    "name_ko": "헤이티 (HEYTEA, 喜茶)"
+  },
+  {
+    "id": "pl_c44e7bee85",
+    "code": "CN-SHA-F-0034",
+    "slug": "m-on-the-bund",
+    "kind": "food",
+    "name_ko": "엠 온 더 번드 (M on the Bund)"
+  },
+  {
+    "id": "pl_18b11ea059",
+    "code": "CN-SHA-F-0035",
+    "slug": "vue-bar",
+    "kind": "food",
+    "name_ko": "뷰 바 (Vue Bar, 하얏트 온 더 번드)"
+  },
+  {
+    "id": "pl_3e04fc4b3b",
+    "code": "CN-SHA-F-0036",
+    "slug": "shengjian-street",
+    "kind": "food",
+    "name_ko": "아침식사 골목 투어 (또우장·유탸오·간빙)"
+  },
+  {
+    "id": "pl_44cba3bdbf",
+    "code": "CN-SHA-F-0037",
+    "slug": "huanghe-road-food",
+    "kind": "food",
+    "name_ko": "황허루 먹자골목 (黄河路美食街)"
+  },
+  {
+    "id": "pl_3d80cdc4d1",
+    "code": "CN-SHA-F-0038",
+    "slug": "xiaonanguo",
+    "kind": "food",
+    "name_ko": "샤오난궈 (小南国)"
+  },
+  {
+    "id": "pl_e3ea9ea16b",
+    "code": "CN-SHA-F-0039",
+    "slug": "fu-1088",
+    "kind": "food",
+    "name_ko": "푸 1088 (福1088)"
+  },
+  {
+    "id": "pl_52lx50mfql",
+    "code": "CN-SHA-P-0001",
+    "slug": "roastery",
+    "kind": "shop",
+    "name_ko": "스타벅스 리저브 로스터리"
+  },
+  {
+    "id": "pl_2w4wqel4dz",
+    "code": "CN-SHA-P-0002",
+    "slug": "louis",
+    "kind": "shop",
+    "name_ko": "루이호"
+  },
+  {
+    "id": "pl_c6297d90ef",
+    "code": "CN-SHA-P-0003",
+    "slug": "k11-art-mall",
+    "kind": "shop",
+    "name_ko": "K11 아트몰"
+  },
+  {
+    "id": "pl_b29aa08a29",
+    "code": "CN-SHA-P-0004",
+    "slug": "ifc-mall",
+    "kind": "shop",
+    "name_ko": "상하이 IFC 몰"
+  },
+  {
+    "id": "pl_f85f950bb2",
+    "code": "CN-SHA-P-0005",
+    "slug": "super-brand-mall",
+    "kind": "shop",
+    "name_ko": "정대광장 (슈퍼 브랜드 몰)"
+  },
+  {
+    "id": "pl_10b9324146",
+    "code": "CN-SHA-P-0006",
+    "slug": "qipu-road",
+    "kind": "shop",
+    "name_ko": "치푸루 의류 도매시장"
+  },
+  {
+    "id": "pl_3c4defc7e8",
+    "code": "CN-SHA-P-0007",
+    "slug": "dragonfly-spa",
+    "kind": "shop",
+    "name_ko": "드래곤플라이 마사지 (蜻蜓)"
+  },
+  {
+    "id": "pl_1402c12466",
+    "code": "CN-SHA-P-0008",
+    "slug": "foot-massage-area",
+    "kind": "shop",
+    "name_ko": "발마사지·전신마사지 (가성비 동네 마사지)"
+  },
+  {
+    "id": "pl_1tau5ayq75",
+    "code": "CN-SHA-S-0001",
+    "slug": "yuyuanEve",
+    "kind": "sight",
+    "name_ko": "성황묘 · 구곡교 · 호심정"
+  },
+  {
+    "id": "pl_2phgekwv1e",
+    "code": "CN-SHA-S-0002",
+    "slug": "bund",
+    "kind": "sight",
+    "name_ko": "와이탄"
+  },
+  {
+    "id": "pl_gl6tg3shf7",
+    "code": "CN-SHA-S-0003",
+    "slug": "yugarden",
+    "kind": "sight",
+    "name_ko": "예원 정원"
+  },
+  {
+    "id": "pl_44h0wannf1",
+    "code": "CN-SHA-S-0004",
+    "slug": "xizha",
+    "kind": "sight",
+    "name_ko": "우전 서책(시자)"
+  },
+  {
+    "id": "pl_4z13qnitv9",
+    "code": "CN-SHA-S-0005",
+    "slug": "jingan",
+    "kind": "sight",
+    "name_ko": "정안사"
+  },
+  {
+    "id": "pl_19sn07pzdw",
+    "code": "CN-SHA-S-0006",
+    "slug": "nanjing",
+    "kind": "sight",
+    "name_ko": "난징둥루 보행가"
+  },
+  {
+    "id": "pl_4e6ws18uk3",
+    "code": "CN-SHA-S-0007",
+    "slug": "lujiazui",
+    "kind": "sight",
+    "name_ko": "루자쭈이"
+  },
+  {
+    "id": "pl_oj83a5uvw3",
+    "code": "CN-SHA-S-0008",
+    "slug": "shtower",
+    "kind": "sight",
+    "name_ko": "상하이타워"
+  },
+  {
+    "id": "pl_1dvgiwlx8h",
+    "code": "CN-SHA-S-0009",
+    "slug": "binjiang",
+    "kind": "sight",
+    "name_ko": "빈장다다오 강변 야경"
+  },
+  {
+    "id": "pl_3pau7pzqvp",
+    "code": "CN-SHA-S-0010",
+    "slug": "wukang",
+    "kind": "sight",
+    "name_ko": "우캉루 · 우캉빌딩"
+  },
+  {
+    "id": "pl_3ouw6c93lo",
+    "code": "CN-SHA-S-0011",
+    "slug": "tianzifang",
+    "kind": "sight",
+    "name_ko": "티엔즈팡"
+  },
+  {
+    "id": "pl_5osv6zhven",
+    "code": "CN-SHA-S-0012",
+    "slug": "sinan",
+    "kind": "sight",
+    "name_ko": "쓰난루 역사 산책"
+  },
+  {
+    "id": "pl_3z74yryin5",
+    "code": "CN-SHA-S-0013",
+    "slug": "madi",
+    "kind": "sight",
+    "name_ko": "대한민국 임시정부 청사"
+  },
+  {
+    "id": "pl_3dilg5ixjj",
+    "code": "CN-SHA-S-0014",
+    "slug": "xintiandi",
+    "kind": "sight",
+    "name_ko": "신천지"
+  },
+  {
+    "id": "pl_31mxkgmbpd",
+    "code": "CN-SHA-S-0015",
+    "slug": "circus",
+    "kind": "sight",
+    "name_ko": "상하이 마시청"
+  },
+  {
+    "id": "pl_1gvu5tq9f3",
+    "code": "CN-SHA-S-0016",
+    "slug": "beiwaitan",
+    "kind": "sight",
+    "name_ko": "북외탄 · 쑤저우허 야경"
+  },
+  {
+    "id": "pl_9dca59596c",
+    "code": "CN-SHA-S-0017",
+    "slug": "oriental-pearl",
+    "kind": "sight",
+    "name_ko": "동방명주탑"
+  },
+  {
+    "id": "pl_d5c8c7b900",
+    "code": "CN-SHA-S-0018",
+    "slug": "jin-mao",
+    "kind": "sight",
+    "name_ko": "진마오타워"
+  },
+  {
+    "id": "pl_9880b5fc82",
+    "code": "CN-SHA-S-0019",
+    "slug": "swfc",
+    "kind": "sight",
+    "name_ko": "상하이 세계금융센터 (병따개)"
+  },
+  {
+    "id": "pl_f7dbe23f4b",
+    "code": "CN-SHA-S-0020",
+    "slug": "shanghai-ocean-aquarium",
+    "kind": "sight",
+    "name_ko": "상하이 해양수족관"
+  },
+  {
+    "id": "pl_a3e3044400",
+    "code": "CN-SHA-S-0021",
+    "slug": "shanghai-disney",
+    "kind": "sight",
+    "name_ko": "상하이 디즈니랜드"
+  },
+  {
+    "id": "pl_295dfb8a53",
+    "code": "CN-SHA-S-0022",
+    "slug": "sstm",
+    "kind": "sight",
+    "name_ko": "상하이 과학기술관"
+  },
+  {
+    "id": "pl_08ab8af45b",
+    "code": "CN-SHA-S-0023",
+    "slug": "century-park",
+    "kind": "sight",
+    "name_ko": "세기공원"
+  },
+  {
+    "id": "pl_cf724b6f77",
+    "code": "CN-SHA-S-0024",
+    "slug": "peace-hotel",
+    "kind": "sight",
+    "name_ko": "화평반점 (페이스 호텔)"
+  },
+  {
+    "id": "pl_a53a378ee9",
+    "code": "CN-SHA-S-0025",
+    "slug": "bund-tunnel",
+    "kind": "sight",
+    "name_ko": "와이탄 관광터널"
+  },
+  {
+    "id": "pl_2370eba8bd",
+    "code": "CN-SHA-S-0026",
+    "slug": "huangpu-cruise",
+    "kind": "sight",
+    "name_ko": "황푸강 유람선 야경 크루즈"
+  },
+  {
+    "id": "pl_1495c0eb8b",
+    "code": "CN-SHA-S-0027",
+    "slug": "shanghai-museum",
+    "kind": "sight",
+    "name_ko": "상하이 박물관"
+  },
+  {
+    "id": "pl_ba3976e9b3",
+    "code": "CN-SHA-S-0028",
+    "slug": "peoples-square",
+    "kind": "sight",
+    "name_ko": "인민광장"
+  },
+  {
+    "id": "pl_cb607bc469",
+    "code": "CN-SHA-S-0029",
+    "slug": "urban-planning-hall",
+    "kind": "sight",
+    "name_ko": "상하이 도시계획전시관"
+  },
+  {
+    "id": "pl_7556589f64",
+    "code": "CN-SHA-S-0030",
+    "slug": "power-station-art",
+    "kind": "sight",
+    "name_ko": "당대예술박물관 (파워 스테이션 오브 아트)"
+  },
+  {
+    "id": "pl_9a5bfb0a67",
+    "code": "CN-SHA-S-0031",
+    "slug": "longhua-temple",
+    "kind": "sight",
+    "name_ko": "룽화사"
+  },
+  {
+    "id": "pl_071e3e3642",
+    "code": "CN-SHA-S-0032",
+    "slug": "xujiahui-cathedral",
+    "kind": "sight",
+    "name_ko": "쉬자후이 성당"
+  },
+  {
+    "id": "pl_90e5a363a8",
+    "code": "CN-SHA-S-0033",
+    "slug": "ohel-moishe",
+    "kind": "sight",
+    "name_ko": "상하이 유태난민기념관"
+  },
+  {
+    "id": "pl_8a7708d5c4",
+    "code": "CN-SHA-S-0034",
+    "slug": "lu-xun-park",
+    "kind": "sight",
+    "name_ko": "루쉰공원 · 윤봉길 의사 의거지 (매헌)"
+  },
+  {
+    "id": "pl_b85f76cf34",
+    "code": "CN-SHA-S-0035",
+    "slug": "duolun-road",
+    "kind": "sight",
+    "name_ko": "둬룬루 문화명인거리"
+  },
+  {
+    "id": "pl_0662b857ed",
+    "code": "CN-SHA-S-0036",
+    "slug": "fuxing-park",
+    "kind": "sight",
+    "name_ko": "푸싱공원"
+  },
+  {
+    "id": "pl_320456efeb",
+    "code": "CN-SHA-S-0037",
+    "slug": "cpc-first-congress",
+    "kind": "sight",
+    "name_ko": "중국공산당 제1차 전국대표대회 회지"
+  },
+  {
+    "id": "pl_65790dd2ce",
+    "code": "CN-SHA-S-0038",
+    "slug": "soong-ching-ling-residence",
+    "kind": "sight",
+    "name_ko": "쑹칭링 고거"
+  },
+  {
+    "id": "pl_28bc12e534",
+    "code": "CN-SHA-S-0039",
+    "slug": "zhujiajiao",
+    "kind": "sight",
+    "name_ko": "주자자오 (주가각) 수향마을"
+  },
+  {
+    "id": "pl_51541d3098",
+    "code": "CN-SHA-S-0040",
+    "slug": "qibao",
+    "kind": "sight",
+    "name_ko": "치바오 고진"
+  },
+  {
+    "id": "pl_b98a373a90",
+    "code": "CN-SHA-S-0041",
+    "slug": "tongli",
+    "kind": "sight",
+    "name_ko": "퉁리 고진"
+  },
+  {
+    "id": "pl_60d2d59af7",
+    "code": "CN-SHA-S-0042",
+    "slug": "suzhou-humble-garden",
+    "kind": "sight",
+    "name_ko": "쑤저우 졸정원"
+  },
+  {
+    "id": "pl_d72051b4cb",
+    "code": "CN-SHA-S-0043",
+    "slug": "suzhou-shantang",
+    "kind": "sight",
+    "name_ko": "쑤저우 산탕제"
+  },
+  {
+    "id": "pl_a75d25f8a6",
+    "code": "CN-SHA-S-0044",
+    "slug": "hangzhou-west-lake",
+    "kind": "sight",
+    "name_ko": "항저우 서호"
+  },
+  {
+    "id": "pl_96944f065e",
+    "code": "CN-SHA-S-0045",
+    "slug": "nanjing-road-west",
+    "kind": "sight",
+    "name_ko": "난징시루 · 타이구리 쇼핑 구역"
+  },
+  {
+    "id": "pl_22d2bc4617",
+    "code": "CN-SHA-S-0046",
+    "slug": "huaihai-road",
+    "kind": "sight",
+    "name_ko": "화이하이중루"
+  },
+  {
+    "id": "pl_7ee9da25e6",
+    "code": "CN-SHA-S-0047",
+    "slug": "xujiahui",
+    "kind": "sight",
+    "name_ko": "쉬자후이 상권"
+  },
+  {
+    "id": "pl_13cb80d307",
+    "code": "CN-SHA-S-0048",
+    "slug": "hongmei-korean-street",
+    "kind": "sight",
+    "name_ko": "홍메이루 한국거리 (한인타운)"
+  },
+  {
+    "id": "pl_688160f4d4",
+    "code": "CN-SHA-S-0049",
+    "slug": "dongtai-road-antiques",
+    "kind": "sight",
+    "name_ko": "둥타이루 골동품 거리"
+  },
+  {
+    "id": "pl_62c2bc4f36",
+    "code": "CN-SHA-S-0050",
+    "slug": "jade-buddha-temple",
+    "kind": "sight",
+    "name_ko": "옥불사"
+  },
+  {
+    "id": "pl_491d05295d",
+    "code": "CN-SHA-S-0051",
+    "slug": "natural-history-museum",
+    "kind": "sight",
+    "name_ko": "상하이 자연사박물관"
+  },
+  {
+    "id": "pl_c9c29df59a",
+    "code": "CN-SHA-S-0052",
+    "slug": "m50",
+    "kind": "sight",
+    "name_ko": "M50 예술구"
+  },
+  {
+    "id": "pl_7ad6f9d09a",
+    "code": "CN-SHA-S-0053",
+    "slug": "long-museum-westbund",
+    "kind": "sight",
+    "name_ko": "룽 미술관 (웨스트번드)"
+  },
+  {
+    "id": "pl_eb2c0bec22",
+    "code": "CN-SHA-S-0054",
+    "slug": "astronomy-museum",
+    "kind": "sight",
+    "name_ko": "상하이 천문관"
+  },
+  {
+    "id": "pl_df46af1347",
+    "code": "CN-SHA-S-0055",
+    "slug": "waibaidu-bridge",
+    "kind": "sight",
+    "name_ko": "와이바이두 다리 (가든 브리지)"
+  },
+  {
+    "id": "pl_8f673ab9d7",
+    "code": "CN-SHA-S-0056",
+    "slug": "rockbund",
+    "kind": "sight",
+    "name_ko": "와이탄위안 (외탄원, 로크번드)"
+  },
+  {
+    "id": "pl_18788e0e02",
+    "code": "CN-SHA-S-0057",
+    "slug": "anfu-road",
+    "kind": "sight",
+    "name_ko": "안푸루 (安福路)"
+  },
+  {
+    "id": "pl_e9b547254d",
+    "code": "CN-SHA-S-0058",
+    "slug": "yongkang-road",
+    "kind": "sight",
+    "name_ko": "융캉루 (永康路) 바 거리"
+  }
+]

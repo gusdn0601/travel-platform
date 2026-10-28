@@ -1,0 +1,79 @@
+{
+  "id": "pl_8f673ab9d7",
+  "code": "CN-SHA-S-0056",
+  "city_id": "CN-SHA",
+  "slug": "rockbund",
+  "kind": "sight",
+  "name_ko": "와이탄위안 (외탄원, 로크번드)",
+  "name_sub": "Rockbund / The Bund Origin",
+  "name_local": "外滩源",
+  "lat": 31.24439,
+  "lng": 121.48416,
+  "area": "와이탄",
+  "lead": "와이탄 북쪽의 옛 조계 건물을 복원한 문화 구역. 박물관과 정원이 어우러져 한적해요.",
+  "facts": [
+    [
+      "성격",
+      "복원된 근대 건축 구역"
+    ],
+    [
+      "위치",
+      "와이탄 북쪽"
+    ],
+    [
+      "포함",
+      "미술관·교회·옛 사무실"
+    ],
+    [
+      "분위기",
+      "한적한 산책"
+    ]
+  ],
+  "origin": [
+    "와이탄 북쪽 일대는 20세기 초 영국계 단체와 은행이 모여 있던 구역이에요.",
+    "오래 방치되다 21세기 들어 복원 사업이 진행되어 미술관, 성공회 교회, 레스토랑이 들어섰어요.",
+    "번잡한 와이탄 본거리와 달리 건물의 세부를 감상하며 걷기 좋아요."
+  ],
+  "tip": "와이탄 전망 코스와 이어 걷기 좋아요. 관람 동선은 도보 20~30분이면 충분해요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "근대건축",
+    "산책",
+    "뮤지엄"
+  ],
+  "art_key": "street",
+  "local_search": "外滩源",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%A4%96%E6%BB%A9%E6%BA%90",
+    "https://en.wikipedia.org/wiki/The_Bund",
+    "https://www.openstreetmap.org/node/11135889798"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 일정 후보로 소개되는 곳(수집가 판단, 방문자 수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.646Z"
+}

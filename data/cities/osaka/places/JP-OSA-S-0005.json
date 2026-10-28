@@ -1,0 +1,70 @@
+{
+  "id": "pl_bc966546b9",
+  "code": "JP-OSA-S-0005",
+  "city_id": "JP-OSA",
+  "slug": "sumiyoshi-taisha",
+  "kind": "sight",
+  "name_ko": "스미요시 타이샤",
+  "name_sub": "Sumiyoshi Taisha",
+  "name_local": "住吉大社",
+  "addr_local": "大阪府 大阪市 住吉区 住吉 2丁目 9 89",
+  "lat": 34.61251,
+  "lng": 135.49293,
+  "area": "스미요시",
+  "lead": "전국 스미요시 신사의 총본사로 알려진 고요한 신사. 둥글게 휜 붉은 다리가 상징이에요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "유래",
+      "3세기 창건 전승"
+    ],
+    [
+      "대표",
+      "소리하시(반원형 다리), 본전 4채"
+    ]
+  ],
+  "tip": "본전 구역이 넓지 않아 한 시간이면 충분하고, 난카이 전철로 접근이 쉬워요.",
+  "open_hours": "경내 상시 개방(본전 참배 시간은 별도) (추정)",
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "전통",
+    "한적"
+  ],
+  "art_key": "shrine",
+  "local_search": "住吉大社",
+  "photos": [
+    "JP-OSA-S-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q705949",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%AF%B8%EC%9A%94%EC%8B%9C_%EB%8C%80%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Sumiyoshi-taisha",
+    "https://www.openstreetmap.org/way/186423245",
+    "https://www.sumiyoshitaisha.net/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 23,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "Shinto shrine in Osaka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:01.610Z"
+}

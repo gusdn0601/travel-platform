@@ -1,0 +1,72 @@
+{
+  "id": "pl_f194f4154b",
+  "code": "JP-FUK-S-0004",
+  "city_id": "JP-FUK",
+  "slug": "kushida-shrine",
+  "kind": "sight",
+  "name_ko": "구시다 신사",
+  "name_sub": "Kushida Shrine",
+  "name_local": "櫛田神社",
+  "lat": 33.59311,
+  "lng": 130.41069,
+  "area": "하카타",
+  "lead": "하카타 기온 야마카사 축제의 중심 신사. 화려한 장식 가마를 상설 전시해요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "행사",
+      "7월 하카타 기온 야마카사"
+    ],
+    [
+      "위치",
+      "가와바타 상점가 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "757년"
+    ]
+  ],
+  "tip": "축제 시기에는 일대가 크게 붐벼요.",
+  "open_hours": "Mo-Su 04:00-22:00 (OSM)",
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "축제",
+    "전통"
+  ],
+  "art_key": "shrine",
+  "local_search": "櫛田神社",
+  "photos": [
+    "JP-FUK-S-0004-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q865839",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%8B%9C%EB%8B%A4_%EC%8B%A0%EC%82%AC_(%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4%EC%8B%9C)",
+    "https://en.wikipedia.org/wiki/Kushida_Shrine",
+    "https://www.openstreetmap.org/way/45779975"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 4,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Fukuoka City, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:42.435Z"
+}

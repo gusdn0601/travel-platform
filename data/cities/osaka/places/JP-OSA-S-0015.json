@@ -1,0 +1,74 @@
+{
+  "id": "pl_75a0094f87",
+  "code": "JP-OSA-S-0015",
+  "city_id": "JP-OSA",
+  "slug": "museum-of-oriental-ceramics-osaka",
+  "kind": "sight",
+  "name_ko": "오사카시립 동양도자미술관",
+  "name_sub": "Museum of Oriental Ceramics, Osaka",
+  "name_local": "大阪市立東洋陶磁美術館",
+  "addr_local": "〒541-0041 大阪府 大阪市 北区 中之島一丁目 大阪吹田自転車道線",
+  "lat": 34.69344,
+  "lng": 135.50547,
+  "area": "나카노시마",
+  "lead": "동아시아 도자기를 모은 미술관. 한국 도자 컬렉션도 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "도자 전문 미술관"
+    ],
+    [
+      "위치",
+      "나카노시마 공원 인근"
+    ],
+    [
+      "특징",
+      "한국·중국·일본 도자"
+    ],
+    [
+      "연도(Wikidata)",
+      "1982년"
+    ]
+  ],
+  "tip": "규모가 크지 않아 한 시간이면 충분해요. 나카노시마 산책 중 들르기 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "미술관",
+    "도자기",
+    "조용한"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪市立東洋陶磁美術館",
+  "photos": [
+    "JP-OSA-S-0015-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11440555",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4%EC%8B%9C%EB%A6%BD%EB%8F%99%EC%96%91%EB%8F%84%EC%9E%90%EB%AF%B8%EC%88%A0%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Museum_of_Oriental_Ceramics%2C_Osaka",
+    "https://www.openstreetmap.org/way/162382612",
+    "https://www.moco.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 5,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "art museum in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:31.492Z"
+}

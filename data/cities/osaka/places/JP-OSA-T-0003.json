@@ -1,0 +1,73 @@
+{
+  "id": "pl_26b2edf0f5",
+  "code": "JP-OSA-T-0003",
+  "city_id": "JP-OSA",
+  "slug": "osaka-namba-station",
+  "kind": "transit",
+  "name_ko": "오사카난바역",
+  "name_sub": "Ōsaka Namba Station",
+  "name_local": "大阪難波駅",
+  "addr_local": "〒542-0076 大阪府 大阪市 中央区 難波二丁目 なんばウォーク",
+  "lat": 34.66711,
+  "lng": 135.49914,
+  "area": "난바/도톤보리",
+  "lead": "미나미 지역의 중심 역. 난카이 전철 간사이공항 방면 열차가 출발해요.",
+  "facts": [
+    [
+      "종류",
+      "사철 터미널 역"
+    ],
+    [
+      "연결",
+      "지하철 미도스지선·센니치마에선"
+    ],
+    [
+      "용도",
+      "간사이공항행 난카이선"
+    ],
+    [
+      "연도(Wikidata)",
+      "1970년"
+    ]
+  ],
+  "tip": "간사이공항 급행 탑승 시 좌석 지정 열차 요금을 별도로 확인하세요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "난카이",
+    "공항"
+  ],
+  "art_key": "train",
+  "local_search": "大阪難波駅",
+  "photos": [
+    "JP-OSA-T-0003-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2310134",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%82%9C%EB%B0%94%EC%97%AD",
+    "https://en.wikipedia.org/wiki/%C5%8Csaka_Namba_Station",
+    "https://www.openstreetmap.org/node/8151373322"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 125,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "railway station in Osaka, Osaka prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:54.647Z"
+}

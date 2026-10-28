@@ -1,0 +1,73 @@
+{
+  "id": "pl_e49c9d67d1",
+  "code": "JP-OSA-P-0001",
+  "city_id": "JP-OSA",
+  "slug": "nipponbashi",
+  "kind": "shop",
+  "name_ko": "닛폰바시 덴덴타운",
+  "name_sub": "Nipponbashi",
+  "name_local": "日本橋",
+  "addr_local": "〒542-0084 大阪府 大阪市 中央区 道頓堀一丁目 堺筋",
+  "lat": 34.66904,
+  "lng": 135.50617,
+  "area": "난바/니혼바시",
+  "lead": "전자제품과 애니·게임 상점이 이어진 오사카의 오타쿠 거리. 피규어와 중고 게임을 구경하기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전문 상점가"
+    ],
+    [
+      "특징",
+      "애니·게임·피규어 상점 밀집"
+    ],
+    [
+      "위치",
+      "사카이스지 서쪽 일대"
+    ],
+    [
+      "연도(Wikidata)",
+      "1969년"
+    ]
+  ],
+  "tip": "점포별 휴무가 달라 수요일 쉬는 곳이 있으니 방문 전 확인해 보세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "서브컬처",
+    "전자"
+  ],
+  "art_key": "market",
+  "local_search": "日本橋",
+  "photos": [
+    "JP-OSA-P-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q5191476",
+    "https://ko.wikipedia.org/wiki/%EB%8B%9B%ED%8F%B0%EB%B0%94%EC%8B%9C",
+    "https://en.wikipedia.org/wiki/Nipponbashi",
+    "https://www.openstreetmap.org/way/586577050"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 1,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "shopping district in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:04.747Z"
+}

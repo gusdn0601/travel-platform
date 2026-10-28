@@ -1,0 +1,81 @@
+{
+  "id": "pl_c859aec8e8",
+  "code": "JP-NAR-F-0020",
+  "city_id": "JP-NAR",
+  "slug": "daibutsu-pudding",
+  "kind": "food",
+  "name_ko": "대불 푸딩 본포",
+  "name_sub": "Daibutsu Pudding",
+  "name_local": "まほろば大仏プリン本舗",
+  "lat": 34.70764,
+  "lng": 135.82506,
+  "area": "나라마치",
+  "lead": "병에 담긴 푸딩으로 알려진 나라 디저트 가게예요.",
+  "facts": [
+    [
+      "종류",
+      "푸딩 전문점"
+    ],
+    [
+      "특징",
+      "병 포장"
+    ],
+    [
+      "위치",
+      "나라마치 인근"
+    ]
+  ],
+  "origin": [
+    "대불 푸딩은 나라 여행 기념품으로 알려진 디저트 브랜드예요.",
+    "유리병에 담긴 푸딩을 여러 가지 맛으로 골라 살 수 있어요.",
+    "한두 개만 사서 숙소에서 먹기에도 부담이 없어요.",
+    "병은 재사용하거나 돌려주는 방식으로 안내되는 경우가 많아요."
+  ],
+  "practical": [
+    "냉장 보관",
+    "기념품 포장"
+  ],
+  "tip": "숙소 냉장고에 넣어 두고 저녁에 먹기 좋아요.",
+  "order": [
+    "<b>大仏プリン</b> 푸딩"
+  ],
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "1개 400엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "푸딩",
+    "기념품",
+    "디저트"
+  ],
+  "art_key": "food",
+  "local_search": "まほろば大仏プリン本舗",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/781296685"
+  ],
+  "meta": {
+    "priority": 11,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 기념 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:10.270Z"
+}

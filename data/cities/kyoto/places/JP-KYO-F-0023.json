@@ -1,0 +1,83 @@
+{
+  "id": "pl_6a294dafe0",
+  "code": "JP-KYO-F-0023",
+  "city_id": "JP-KYO",
+  "slug": "hyotei",
+  "kind": "food",
+  "name_ko": "효테이",
+  "name_sub": "Hyōtei",
+  "name_local": "瓢亭",
+  "lat": 35.01136,
+  "lng": 135.7865,
+  "area": "기온/히가시야마",
+  "lead": "교토 아침 죽(아사가유)으로 알려진 오래된 료테이예요.",
+  "facts": [
+    [
+      "종류",
+      "일본 요리(료테이)"
+    ],
+    [
+      "대표",
+      "아침 죽"
+    ],
+    [
+      "위치",
+      "난젠지 인근"
+    ]
+  ],
+  "origin": [
+    "효테이는 난젠지 근처에 있는 오래된 일본 요리집이에요.",
+    "반숙 달걀과 죽을 곁들이는 아침 식사가 유명해 일찍 찾는 사람이 많아요.",
+    "가격대가 높고 예약이 필요한 코스가 대부분이에요.",
+    "사찰 산책 전에 들르는 일정으로 소개돼요."
+  ],
+  "practical": [
+    "예약 필수에 가까움",
+    "오전 영업"
+  ],
+  "tip": "아침 일정으로 넣으면 하루가 길게 느껴져요.",
+  "order": [
+    "<b>朝粥</b> 아침 죽"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "아침죽 코스 5,000엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "아침죽",
+    "료테이",
+    "예약"
+  ],
+  "art_key": "food",
+  "local_search": "瓢亭",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%93%A2%E4%BA%AD",
+    "https://www.openstreetmap.org/way/301527780"
+  ],
+  "meta": {
+    "priority": 41,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 4679,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 아침 죽로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:06.122Z"
+}

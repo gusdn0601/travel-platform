@@ -1,0 +1,78 @@
+{
+  "id": "pl_db8273c4a4",
+  "code": "JP-NAR-P-0002",
+  "city_id": "JP-NAR",
+  "slug": "higashimuki-shotengai",
+  "kind": "shop",
+  "name_ko": "히가시무키 상점가",
+  "name_sub": "Higashimuki Shopping Street",
+  "name_local": "東向商店街",
+  "lat": 34.68278,
+  "lng": 135.82949,
+  "area": "나라마치",
+  "lead": "긴테쓰 나라역 앞에서 공원 쪽으로 이어지는 지붕 있는 상점가예요.",
+  "facts": [
+    [
+      "종류",
+      "상점가"
+    ],
+    [
+      "특징",
+      "아케이드(지붕)"
+    ],
+    [
+      "위치",
+      "긴테쓰 나라역 앞"
+    ]
+  ],
+  "origin": [
+    "히가시무키 상점가는 긴테쓰 나라역에서 나라 공원 방향으로 이어지는 상점가예요.",
+    "지붕이 있어 비가 와도 우산 없이 걸을 수 있어요.",
+    "식당과 약국, 기념품점이 섞여 있어 여행 중 필요한 것을 사기 좋아요.",
+    "공원으로 걸어 들어가는 첫 구간이라 자연스럽게 지나게 돼요."
+  ],
+  "practical": [
+    "비 오는 날 유용",
+    "저녁에는 일부 점포 영업 종료"
+  ],
+  "tip": "공원으로 가는 길에 필요한 물을 여기서 사 두세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "상점가",
+    "먹거리",
+    "비 오는 날"
+  ],
+  "art_key": "street",
+  "local_search": "東向商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/2421558665"
+  ],
+  "meta": {
+    "priority": 20,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 시내 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:16.004Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "pl_db8b0997f7",
+  "code": "JP-NAR-S-0041",
+  "city_id": "JP-NAR",
+  "slug": "ikoma-sanjo-park",
+  "kind": "sight",
+  "name_ko": "이코마산조 유원지",
+  "name_sub": "Ikoma Sanjo Amusement Park",
+  "name_local": "生駒山上遊園地",
+  "lat": 34.67913,
+  "lng": 135.6791,
+  "area": "교외(이코마)",
+  "lead": "산 정상의 작은 유원지. 전망대에서 나라와 오사카가 함께 보여요.",
+  "facts": [
+    [
+      "종류",
+      "유원지"
+    ],
+    [
+      "특징",
+      "산 정상 전망"
+    ],
+    [
+      "접근",
+      "케이블카·로프웨이"
+    ]
+  ],
+  "origin": [
+    "이코마산조 유원지는 이코마산 정상 부근에 있는 오래된 유원지예요.",
+    "케이블카와 로프웨이를 갈아타고 올라가며, 정상에서는 나라 분지와 오사카 방면이 함께 내려다보여요.",
+    "놀이기구는 규모가 크지 않지만 밤 전망과 놀이기구를 함께 즐기려는 사람이 찾아요.",
+    "운영일이 계절에 따라 달라 방문 전 확인이 필요해요."
+  ],
+  "practical": [
+    "운행일·운영시간 확인",
+    "산 위 기온 낮음"
+  ],
+  "tip": "해질 무렵 올라가면 전망이 가장 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "이용권 별도(추정)",
+  "must": 0,
+  "tags": [
+    "유원지",
+    "전망",
+    "아이"
+  ],
+  "art_key": "park",
+  "local_search": "生駒山上遊園地",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/256526395"
+  ],
+  "meta": {
+    "priority": 57,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 이코마 전망 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:16.832Z"
+}

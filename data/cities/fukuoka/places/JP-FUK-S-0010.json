@@ -1,0 +1,65 @@
+{
+  "id": "pl_854085f607",
+  "code": "JP-FUK-S-0010",
+  "city_id": "JP-FUK",
+  "slug": "hakata-machiya-folk-museum",
+  "kind": "sight",
+  "name_ko": "하카타 마치야 후루사토관",
+  "name_sub": "Hakata Machiya Folk Museum",
+  "name_local": "「博多町家」ふるさと館",
+  "lat": 33.59364,
+  "lng": 130.41139,
+  "area": "하카타",
+  "lead": "옛 하카타 마치야와 생활 풍습을 소개하는 작은 박물관. 전통 공예 시연을 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "민속 박물관"
+    ],
+    [
+      "특징",
+      "전통 공예 시연"
+    ],
+    [
+      "위치",
+      "구시다 신사 인근"
+    ]
+  ],
+  "tip": "구시다 신사와 함께 둘러보면 좋아요.",
+  "open_hours": "Mo-Su 10:00-18:00 (OSM)",
+  "stay_min": 45,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "민속",
+    "전통",
+    "체험"
+  ],
+  "art_key": "museum",
+  "local_search": "「博多町家」ふるさと館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q55528690",
+    "https://www.openstreetmap.org/node/4293172389",
+    "http://www.hakatamachiya.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 11,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "museum in Hakata-ku, Fukuoka City, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:43.154Z"
+}

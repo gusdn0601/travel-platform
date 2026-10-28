@@ -1,0 +1,81 @@
+{
+  "id": "pl_a0bd8f9f84",
+  "code": "JP-NAR-F-0009",
+  "city_id": "JP-NAR",
+  "slug": "hosekibako",
+  "kind": "food",
+  "name_ko": "호세키바코",
+  "name_sub": "Hosekibako",
+  "name_local": "ほうせき箱",
+  "lat": 34.68018,
+  "lng": 135.82893,
+  "area": "나라마치",
+  "lead": "여름철 카키고리(빙수)로 줄이 길어지는 디저트 가게예요.",
+  "facts": [
+    [
+      "종류",
+      "카키고리 전문점"
+    ],
+    [
+      "대표",
+      "과일 카키고리"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "호세키바코는 나라마치에서 카키고리를 내는 가게로 알려져 있어요.",
+    "얼음을 얇게 갈아 과일과 크림을 얹은 메뉴가 사진으로 자주 소개돼요.",
+    "여름 성수기에는 번호표를 받고 오래 기다리는 경우가 많아요.",
+    "겨울에는 영업하지 않는 시기가 있어요."
+  ],
+  "practical": [
+    "여름 대기 김",
+    "계절 영업"
+  ],
+  "tip": "오픈 직후에 가면 대기가 짧아요.",
+  "order": [
+    "<b>いちごミルク</b> 딸기 밀크 카키고리"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 1,200~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "카키고리",
+    "여름",
+    "디저트"
+  ],
+  "art_key": "food",
+  "local_search": "ほうせき箱",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/5676838221"
+  ],
+  "meta": {
+    "priority": 13,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 카키고리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:57.354Z"
+}

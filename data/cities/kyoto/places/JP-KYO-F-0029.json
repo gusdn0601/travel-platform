@@ -1,0 +1,81 @@
+{
+  "id": "pl_a4963b140f",
+  "code": "JP-KYO-F-0029",
+  "city_id": "JP-KYO",
+  "slug": "yamamoto-menzo",
+  "kind": "food",
+  "name_ko": "야마모토 멘조",
+  "name_sub": "Yamamoto Menzo",
+  "name_local": "山元麺蔵",
+  "lat": 35.02793,
+  "lng": 135.71429,
+  "area": "사쿄구",
+  "lead": "사쿄 지역에서 줄이 길게 늘어서는 것으로 알려진 우동집이에요.",
+  "facts": [
+    [
+      "종류",
+      "우동집"
+    ],
+    [
+      "특징",
+      "대기 줄"
+    ],
+    [
+      "위치",
+      "헤이안 신궁 인근"
+    ]
+  ],
+  "origin": [
+    "야마모토 멘조는 교토 사쿄 지역의 우동집으로, 오픈 전부터 줄이 서는 곳으로 알려져 있어요.",
+    "면을 주문 후 삶아 내고, 튀김 우동과 붓카케가 대표예요.",
+    "골목에 있어 자리도 많지 않아요.",
+    "헤이안 신궁이나 난젠지 일정과 묶기 좋아요."
+  ],
+  "practical": [
+    "대기 김",
+    "오픈 전 대기"
+  ],
+  "tip": "오픈 30분 전에 가면 첫 순서에 들어갈 수 있어요.",
+  "order": [
+    "<b>ごぼう天うどん</b> 우엉 튀김 우동"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,200~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "줄서기",
+    "사쿄"
+  ],
+  "art_key": "noodle",
+  "local_search": "山元麺蔵",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/3786111453"
+  ],
+  "meta": {
+    "priority": 17,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 우동 줄서기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:14.456Z"
+}

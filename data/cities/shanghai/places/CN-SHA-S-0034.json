@@ -1,0 +1,84 @@
+{
+  "id": "pl_8a7708d5c4",
+  "code": "CN-SHA-S-0034",
+  "city_id": "CN-SHA",
+  "slug": "lu-xun-park",
+  "kind": "sight",
+  "name_ko": "루쉰공원 · 윤봉길 의사 의거지 (매헌)",
+  "name_sub": "Lu Xun Park / Hongkou Park",
+  "name_local": "鲁迅公园",
+  "lat": 31.27284,
+  "lng": 121.47843,
+  "area": "훙커우",
+  "lead": "1932년 윤봉길 의사가 일본 군부를 향해 폭탄을 던진 훙커우공원이 지금의 루쉰공원이에요. 공원 안에 매헌(梅轩) 기념관이 있어요.",
+  "facts": [
+    [
+      "의거",
+      "1932년 4월 29일"
+    ],
+    [
+      "옛 이름",
+      "훙커우공원"
+    ],
+    [
+      "기념 공간",
+      "매헌(윤봉길 기념관)"
+    ],
+    [
+      "함께 있는 곳",
+      "루쉰 묘 · 기념관"
+    ]
+  ],
+  "origin": [
+    "1932년 4월 29일, 일본의 상하이 침략을 기념하는 행사장에서 윤봉길 의사가 물통형 폭탄을 던졌어요.",
+    "이 거사는 중국 사회에 한국 독립운동의 의지를 알린 사건으로 평가받아요.",
+    "이후 이 공원은 중국의 문호 루쉰의 묘가 옮겨오면서 루쉰공원으로 이름이 바뀌었어요.",
+    "공원 안 ‘매헌’은 윤 의사의 호를 딴 기념 공간으로, 한국인 방문객이 꾸준히 찾는 역사 순례지예요."
+  ],
+  "tip": "임시정부 청사(마당로)와 묶으면 하루 독립운동 코스가 돼요. 전시 개방 시간은 방문 전 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(추정)",
+  "must": 0,
+  "tags": [
+    "한국사",
+    "독립운동",
+    "공원",
+    "역사"
+  ],
+  "art_key": "park",
+  "local_search": "鲁迅公园",
+  "photos": [
+    "CN-SHA-S-0034-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lu_Xun_Park",
+    "https://zh.wikipedia.org/wiki/%E9%B2%81%E8%BF%85%E5%85%AC%E5%9B%AD",
+    "https://www.openstreetmap.org/relation/6262915"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 129,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국 독립운동사와 직접 연결돼 한국인 단체·가족 여행에서 자주 찾는 곳(수집가 판단, 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.933Z"
+}

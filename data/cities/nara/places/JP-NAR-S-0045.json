@@ -1,0 +1,79 @@
+{
+  "id": "pl_abd9defd73",
+  "code": "JP-NAR-S-0045",
+  "city_id": "JP-NAR",
+  "slug": "nara-kenko-land",
+  "kind": "sight",
+  "name_ko": "나라 건강랜드",
+  "name_sub": "Nara Kenko Land",
+  "name_local": "奈良健康ランド",
+  "lat": 34.59222,
+  "lng": 135.79624,
+  "area": "교외(텐리)",
+  "lead": "텐리 지역의 대형 온천·사우나 시설. 여행 중 쉬어 가기 좋은 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "온천·사우나"
+    ],
+    [
+      "특징",
+      "노천탕·휴게실"
+    ],
+    [
+      "위치",
+      "텐리시"
+    ]
+  ],
+  "origin": [
+    "나라 건강랜드는 텐리시에 있는 대형 온천 시설로 알려져 있어요.",
+    "노천탕과 사우나, 휴게실과 식당이 함께 있어 반나절 머물 수 있어요.",
+    "사찰 일정으로 지친 날 저녁에 들르는 방식이 여행자에게 소개돼요.",
+    "문신·수영복 착용 등 이용 규칙은 현장 안내를 따라야 해요."
+  ],
+  "practical": [
+    "문신 규정 확인",
+    "수건 대여 여부"
+  ],
+  "tip": "저녁 시간대에 가면 비교적 한산해요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "입관료 1,000엔대 추정",
+  "must": 0,
+  "tags": [
+    "온천",
+    "사우나",
+    "숙박"
+  ],
+  "art_key": "onsen",
+  "local_search": "奈良健康ランド",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E5%95%86%E4%BA%8B",
+    "https://www.openstreetmap.org/way/227483017"
+  ],
+  "meta": {
+    "priority": 56,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 온천 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:24.811Z"
+}

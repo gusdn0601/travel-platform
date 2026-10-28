@@ -1,0 +1,86 @@
+{
+  "id": "pl_b62c1dd795",
+  "code": "CN-SHA-F-0010",
+  "city_id": "CN-SHA",
+  "slug": "dahuchun",
+  "kind": "food",
+  "name_ko": "다후춘 (大壶春)",
+  "name_local": "大壶春 云南南路",
+  "lat": 31.22939,
+  "lng": 121.47649,
+  "area": "황푸/윈난남로",
+  "lead": "1932년부터 이어졌다고 소개되는 생젠 노포. 두꺼운 반죽과 바삭한 바닥으로 팬이 많아요.",
+  "facts": [
+    [
+      "종류",
+      "생젠 노포"
+    ],
+    [
+      "시작",
+      "1932년(소개 기준)"
+    ],
+    [
+      "스타일",
+      "두껍고 바삭한 번"
+    ],
+    [
+      "위치",
+      "윈난남로 일대"
+    ]
+  ],
+  "origin": [
+    "다후춘은 1932년에 문을 연 생젠 전문점으로 알려져 있어요.",
+    "반죽이 두툼하고 바닥이 두껍게 눌어붙어 식감이 달라요.",
+    "오래된 노포라는 이야기와 함께 지금도 상하이 현지인이 아침에 줄을 서는 곳으로 자주 소개돼요.",
+    "성황묘 근처 분점도 있다고 알려져 있어요."
+  ],
+  "practical": [
+    "점심 전 한산한 시간대 추천"
+  ],
+  "tip": "바삭한 바닥이 매력이라 포장보다 현장에서 바로 먹는 것이 좋아요.",
+  "order": [
+    "<b>鲜肉生煎</b> 대표 메뉴",
+    "<b>大馄饨</b> 큰 완탕"
+  ],
+  "open_hours": "Mo-Su 07:30-19:30 (OSM)",
+  "stay_min": 30,
+  "price_hint": "1인 20~40위안 추정",
+  "must": 0,
+  "tags": [
+    "생젠",
+    "노포",
+    "아침식사"
+  ],
+  "art_key": "basket",
+  "local_search": "大壶春 云南南路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shengjian_mantou",
+    "https://zh.wikipedia.org/wiki/%E7%94%9F%E7%85%8E%E9%A6%92%E5%A4%B4",
+    "https://www.openstreetmap.org/node/4698907891"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 생젠 노포로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.065Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "pl_f4f8d6ccb8",
+  "code": "JP-OSA-S-0027",
+  "city_id": "JP-OSA",
+  "slug": "hozenji-yokocho",
+  "kind": "sight",
+  "name_ko": "호젠지 요코초",
+  "name_sub": "Hozenji Yokocho",
+  "name_local": "法善寺横丁",
+  "addr_local": "〒542-0071 大阪府 大阪市 中央区 道頓堀一丁目 法善寺横丁",
+  "lat": 34.66818,
+  "lng": 135.50267,
+  "area": "난바/도톤보리",
+  "lead": "이끼 낀 불상과 석판길이 남은 좁은 골목. 도톤보리 바로 옆이라 분위기가 확 달라져요.",
+  "facts": [
+    [
+      "종류",
+      "전통 골목"
+    ],
+    [
+      "대표",
+      "이끼 낀 부동명왕상"
+    ],
+    [
+      "위치",
+      "도톤보리 남쪽"
+    ]
+  ],
+  "tip": "불상에 물을 끼얹는 풍습이 있으니 가까이 가서 구경할 때 주변을 살펴 주세요.",
+  "open_hours": "상시 보행 가능(점포별 상이) (추정)",
+  "stay_min": 45,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "골목",
+    "전통",
+    "야경"
+  ],
+  "art_key": "lantern",
+  "local_search": "法善寺横丁",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/411095063"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:38.859Z"
+}

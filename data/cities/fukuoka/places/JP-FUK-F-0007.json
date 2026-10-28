@@ -1,0 +1,89 @@
+{
+  "id": "pl_a07d3ea0a6",
+  "code": "JP-FUK-F-0007",
+  "city_id": "JP-FUK",
+  "slug": "tenjin-yatai",
+  "kind": "food",
+  "name_ko": "텐진 야타이",
+  "name_sub": "Tenjin Yatai",
+  "name_local": "天神 屋台",
+  "lat": 33.58917,
+  "lng": 130.39306,
+  "area": "텐진",
+  "lead": "쇼핑가 텐진 뒤편 거리와 공원 옆에 서는 야타이. 퇴근한 현지인과 여행객이 섞여 앉는 분위기예요.",
+  "facts": [
+    [
+      "종류",
+      "야타이"
+    ],
+    [
+      "시간대",
+      "저녁~심야"
+    ],
+    [
+      "위치",
+      "텐진 일대"
+    ],
+    [
+      "특징",
+      "현지인 비율이 높음"
+    ]
+  ],
+  "origin": [
+    "텐진의 야타이는 상업 지구 한복판에 자리 잡은 포장마차 군집으로, 나카스보다 현지 직장인 손님이 많다는 인상으로 소개돼요.",
+    "야타이 영업은 도로 사용과 위생 문제 때문에 규제를 받아 왔고, 현재는 시가 기준을 세워 운영자를 선정하는 방식이에요.",
+    "메뉴는 오뎅·꼬치·라멘·교자가 중심이라 가볍게 한두 접시 맛보기 좋아요."
+  ],
+  "practical": [
+    "가게마다 개점·휴무일이 다름",
+    "가격은 앉을 때 대략 확인"
+  ],
+  "tip": "쇼핑 후 마무리 한 잔과 함께 가기 좋아요.",
+  "order": [
+    "<b>おでん</b> 오뎅",
+    "<b>牛すじ</b> 소힘줄 조림",
+    "<b>ラーメン</b> 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "1인 2,500~4,500엔 추정",
+  "must": 0,
+  "tags": [
+    "야타이",
+    "저녁",
+    "텐진"
+  ],
+  "art_key": "lantern",
+  "local_search": "天神 屋台",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D-ku%2C_Fukuoka",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E_(%E7%A6%8F%E5%B2%A1%E5%B8%82)",
+    "https://en.wikipedia.org/wiki/Yatai_(food_cart)",
+    "https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%8F%B0"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 야타이로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:45.272Z"
+}

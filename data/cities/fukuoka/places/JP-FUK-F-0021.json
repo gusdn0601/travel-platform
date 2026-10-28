@@ -1,0 +1,84 @@
+{
+  "id": "pl_25fcfc7164",
+  "code": "JP-FUK-F-0021",
+  "city_id": "JP-FUK",
+  "slug": "milch-yufuin",
+  "kind": "food",
+  "name_ko": "밀히 (유후인 치즈케이크)",
+  "name_sub": "Milch Yufuin",
+  "name_local": "湯布院 ミルヒ",
+  "lat": null,
+  "lng": null,
+  "area": "근교(유후인)",
+  "lead": "유후인 산책로에서 만나는 유제품 디저트 가게. 부드러운 치즈케이크와 푸딩이 대표 메뉴로 알려져요.",
+  "facts": [
+    [
+      "종류",
+      "디저트 · 유제품"
+    ],
+    [
+      "특징",
+      "치즈케이크 · 푸딩"
+    ],
+    [
+      "위치",
+      "유후인"
+    ],
+    [
+      "포장",
+      "야외 판매 코너"
+    ]
+  ],
+  "origin": [
+    "유후인은 목장이 많은 오이타현의 산간 지역이라 유제품을 사용한 디저트가 이름을 얻었어요.",
+    "밀히는 그런 지역 분위기에서 치즈케이크와 푸딩 등으로 인기를 얻은 가게로 소개돼요.",
+    "유노츠보 거리를 걷다 지나치기 쉬운 곳이니 지도로 위치를 확인하면 좋아요."
+  ],
+  "practical": [
+    "현금·카드 지점별 상이",
+    "야외 취식 위주"
+  ],
+  "tip": "걷기 전 간식으로 하나만 사서 나눠 먹어요.",
+  "order": [
+    "<b>チーズケーキ</b> 치즈케이크",
+    "<b>プリン</b> 푸딩"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1개 400~800엔 추정",
+  "must": 0,
+  "tags": [
+    "치즈케이크",
+    "푸딩",
+    "유후인"
+  ],
+  "art_key": "dessert",
+  "local_search": "湯布院 ミルヒ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yufuin",
+    "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E9%99%A2%E6%B8%A9%E6%B3%89"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 유후인 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:06.552Z"
+}

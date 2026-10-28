@@ -1,0 +1,80 @@
+{
+  "id": "pl_cb607bc469",
+  "code": "CN-SHA-S-0029",
+  "city_id": "CN-SHA",
+  "slug": "urban-planning-hall",
+  "kind": "sight",
+  "name_ko": "상하이 도시계획전시관",
+  "name_sub": "Shanghai Urban Planning Exhibition Center",
+  "name_local": "上海城市规划展示馆",
+  "lat": 31.23337,
+  "lng": 121.47048,
+  "area": "인민광장",
+  "lead": "상하이 전체를 축소한 거대한 모형이 있는 전시관. 도시의 규모를 한눈에 가늠할 수 있어요.",
+  "facts": [
+    [
+      "개관",
+      "2000년"
+    ],
+    [
+      "특징",
+      "도심 축소 모형"
+    ],
+    [
+      "위치",
+      "인민광장"
+    ],
+    [
+      "주제",
+      "도시 계획과 미래"
+    ]
+  ],
+  "origin": [
+    "도시계획전시관은 상하이 시가지를 정교한 축소 모형으로 보여 주는 전시관이에요.",
+    "2000년에 개관했고, 도시가 어떻게 확장되고 계획되어 왔는지 사진과 영상으로 설명해요.",
+    "와이탄·푸동의 건물이 작게 재현돼 있어 일정 초반에 방문하면 도시의 구조를 이해하기 좋아요."
+  ],
+  "tip": "실내라서 비 오는 날 대안으로 좋아요. 사진이 많이 알려진 모형 구간부터 시작하세요.",
+  "open_hours": "Th-Tu 09:00-17:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 소액(추정)",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "축소모형",
+    "도시"
+  ],
+  "art_key": "museum",
+  "local_search": "上海城市规划展示馆",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Urban_Planning_Exhibition_Center",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92%E5%B1%95%E7%A4%BA%E9%A6%86",
+    "https://www.openstreetmap.org/way/39763847"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 38,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.920Z"
+}

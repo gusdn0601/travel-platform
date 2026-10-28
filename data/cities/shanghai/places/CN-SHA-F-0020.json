@@ -1,0 +1,92 @@
+{
+  "id": "pl_0b849696e3",
+  "code": "CN-SHA-F-0020",
+  "city_id": "CN-SHA",
+  "slug": "haidilao",
+  "kind": "food",
+  "name_ko": "하이디라오 훠궈",
+  "name_sub": "Haidilao",
+  "name_local": "海底捞火锅",
+  "lat": 31.17958,
+  "lng": 121.38176,
+  "area": "도심 여러 지점",
+  "lead": "대기 중 간식·네일 서비스로 유명한 훠궈 체인. 한국어 메뉴가 있는 지점도 있어요.",
+  "facts": [
+    [
+      "종류",
+      "훠궈(중국식 샤브)"
+    ],
+    [
+      "창업",
+      "1994년 쓰촨"
+    ],
+    [
+      "서비스",
+      "대기 간식·종이앞치마"
+    ],
+    [
+      "주문",
+      "앱 예약 가능"
+    ]
+  ],
+  "origin": [
+    "하이디라오는 1994년 쓰촨성 젠양에서 시작한 훠궈 체인이에요.",
+    "창업자 장융이 작은 훠궈집에서 출발해 서비스 중심 운영으로 성장했다고 소개돼요.",
+    "대기 손님에게 간식과 음료를 제공하고 일부 지점에서는 면 뽑기 퍼포먼스도 보여 줘요."
+  ],
+  "practical": [
+    "앱·전화로 사전 예약 권장",
+    "마라 육수는 맵기 조절(微辣 약간 매움)"
+  ],
+  "tip": "두 가지 육수를 반반 시키는 원앙(鸳鸯)이 무난해요.",
+  "order": [
+    "<b>红汤锅底</b> 마라 육수",
+    "<b>清汤锅底</b> 맑은 육수",
+    "<b>番茄锅底</b> 토마토 육수",
+    "<b>毛肚</b> 소 양"
+  ],
+  "open_hours": null,
+  "stay_min": 100,
+  "price_hint": "1인 120~200위안 추정",
+  "must": 0,
+  "tags": [
+    "훠궈",
+    "서비스",
+    "체인"
+  ],
+  "art_key": "hotpot",
+  "local_search": "海底捞火锅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haidilao",
+    "https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%BA%95%E6%8D%9E",
+    "https://www.openstreetmap.org/node/6534717758",
+    "https://en.wikipedia.org/wiki/Haidilao"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 훠궈 체인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haidilao"
+      ]
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.356Z"
+}

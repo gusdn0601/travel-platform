@@ -1,0 +1,73 @@
+{
+  "id": "pl_790215e1eb",
+  "code": "JP-FUK-S-0003",
+  "city_id": "JP-FUK",
+  "slug": "dazaifu-tenmangu",
+  "kind": "sight",
+  "name_ko": "다자이후 텐만구",
+  "name_sub": "Dazaifu Tenmangū",
+  "name_local": "太宰府天満宮",
+  "lat": 33.52143,
+  "lng": 130.535,
+  "area": "교외(다자이후)",
+  "lead": "학문의 신을 모신 신사. 입시 기원 참배객으로 붐비고, 참배길의 매화떡이 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "제신",
+      "학문의 신(스가와라노 미치자네)"
+    ],
+    [
+      "시즌",
+      "매화(2~3월)"
+    ],
+    [
+      "연도(Wikidata)",
+      "919년"
+    ]
+  ],
+  "tip": "참배길에서 매화떡을 맛보는 코스를 많이 이용해요.",
+  "open_hours": "Mo-Su 06:30-19:00 (OSM)",
+  "stay_min": 150,
+  "price_hint": "무료(보물전 별도)",
+  "must": 0,
+  "tags": [
+    "신사",
+    "학문",
+    "매화"
+  ],
+  "art_key": "shrine",
+  "local_search": "太宰府天満宮",
+  "photos": [
+    "JP-FUK-S-0003-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q710786",
+    "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9E%90%EC%9D%B4%ED%9B%84%ED%85%90%EB%A7%8C%EA%B5%AC",
+    "https://en.wikipedia.org/wiki/Dazaifu_Tenmang%C5%AB",
+    "https://www.openstreetmap.org/way/1353165321",
+    "http://www.dazaifutenmangu.or.jp"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 181,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Fukuoka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:38.417Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pl_d8410ec64e",
+  "code": "JP-OSA-S-0026",
+  "city_id": "JP-OSA",
+  "slug": "hirakata-park",
+  "kind": "sight",
+  "name_ko": "히라카타 파크",
+  "name_sub": "Hirakata Park",
+  "name_local": "ひらかたパーク",
+  "addr_local": "〒573-0067 大阪府 枚方市 伊加賀寿町 アドベンチャーサファリ",
+  "lat": 34.80578,
+  "lng": 135.63813,
+  "area": "교외(히라카타)",
+  "lead": "요도가와 근처의 오래된 놀이공원. 계절 이벤트가 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "놀이공원"
+    ],
+    [
+      "위치",
+      "히라카타시"
+    ],
+    [
+      "접근",
+      "게이한 전철"
+    ],
+    [
+      "연도(Wikidata)",
+      "1910년"
+    ]
+  ],
+  "tip": "당일 일정으로 오사카 시내와 떨어져 있어 이동 시간을 넉넉히 잡으세요.",
+  "open_hours": null,
+  "stay_min": 360,
+  "price_hint": "입장권 별도",
+  "must": 0,
+  "tags": [
+    "놀이공원",
+    "아이와",
+    "교외"
+  ],
+  "art_key": "park",
+  "local_search": "ひらかたパーク",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q302897",
+    "https://ko.wikipedia.org/wiki/%ED%9E%88%EB%9D%BC%EC%B9%B4%ED%83%80_%ED%8C%8C%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Hirakata_Park",
+    "https://www.openstreetmap.org/way/200858353",
+    "http://www.hirakatapark.co.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 108,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "amusement park",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:37.271Z"
+}

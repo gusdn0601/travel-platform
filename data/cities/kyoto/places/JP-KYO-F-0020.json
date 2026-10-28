@@ -1,0 +1,82 @@
+{
+  "id": "pl_2926120461",
+  "code": "JP-KYO-F-0020",
+  "city_id": "JP-KYO",
+  "slug": "moritaya",
+  "kind": "food",
+  "name_ko": "모리타야 본점",
+  "name_sub": "Moritaya",
+  "name_local": "モリタ屋 四条猪熊本店",
+  "lat": 34.96521,
+  "lng": 135.73124,
+  "area": "시조/가와라마치",
+  "lead": "교토에서 오래 이어온 고기 요리점. 스키야키와 샤브샤브를 내요.",
+  "facts": [
+    [
+      "종류",
+      "고기 요리점"
+    ],
+    [
+      "대표",
+      "스키야키·샤브샤브"
+    ],
+    [
+      "위치",
+      "시조 거리"
+    ]
+  ],
+  "origin": [
+    "모리타야는 교토에서 19세기부터 고기 요리를 해 온 집으로 알려져 있어요.",
+    "스키야키와 샤브샤브를 방에서 조리해 먹는 방식이에요.",
+    "와규 등급을 골라 주문할 수 있어 가격 차이가 커요.",
+    "저녁은 미리 자리를 잡는 편이 안전해요."
+  ],
+  "practical": [
+    "예약 권장",
+    "코스 선택"
+  ],
+  "tip": "점심 코스를 노리면 비용을 줄일 수 있어요.",
+  "order": [
+    "<b>すき焼き</b> 스키야키",
+    "<b>しゃぶしゃぶ</b> 샤브샤브"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 6,000엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "스키야키",
+    "샤브샤브",
+    "와규"
+  ],
+  "art_key": "food",
+  "local_search": "モリタ屋 四条猪熊本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/189973273"
+  ],
+  "meta": {
+    "priority": 9,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 와규 식사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:02.355Z"
+}

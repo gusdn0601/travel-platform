@@ -1,0 +1,83 @@
+{
+  "id": "pl_0df79f1f33",
+  "code": "JP-NAR-S-0031",
+  "city_id": "JP-NAR",
+  "slug": "okadera",
+  "kind": "sight",
+  "name_ko": "오카데라",
+  "name_sub": "Oka-dera",
+  "name_local": "岡寺",
+  "lat": 34.47179,
+  "lng": 135.82837,
+  "area": "교외(아스카)",
+  "lead": "아스카 산기슭에 자리한 관음 사찰. 일본에서 가장 큰 흙으로 만든 불상으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "본존",
+      "소조 관음상"
+    ],
+    [
+      "위치",
+      "아스카 지역"
+    ]
+  ],
+  "origin": [
+    "오카데라는 아스카 지역 산기슭에 자리한 사찰로, 7세기 후반에 세워졌다고 전해져요.",
+    "본존은 흙으로 빚은 관음상으로 일본에서 가장 큰 것으로 알려져 있어요.",
+    "경내 계단에서 아스카 평야가 내려다보이는 전망도 인상적이에요.",
+    "봄에는 모란으로도 알려져 있어요."
+  ],
+  "practical": [
+    "계단·경사 있음",
+    "입장 시간 확인"
+  ],
+  "tip": "아스카데라·이시부타이와 도보로 이어 걸을 수 있어요.",
+  "open_hours": "Mar-Nov Mo-Su 08:30-17:00; Dec-Feb Mo-Su 08:30-16:30 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "관음",
+    "아스카"
+  ],
+  "art_key": "temple",
+  "local_search": "岡寺",
+  "photos": [
+    "JP-NAR-S-0031-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oka-dera",
+    "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%AF%BA",
+    "https://www.openstreetmap.org/way/491841439"
+  ],
+  "meta": {
+    "priority": 40,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 13,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아스카 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:30:54.533Z"
+}

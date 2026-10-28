@@ -1,0 +1,84 @@
+{
+  "id": "pl_c5d6d4e12b",
+  "code": "JP-FUK-P-0007",
+  "city_id": "JP-FUK",
+  "slug": "kitte-hakata",
+  "kind": "shop",
+  "name_ko": "킷테 하카타",
+  "name_sub": "KITTE Hakata",
+  "name_local": "KITTE博多",
+  "lat": 33.58889,
+  "lng": 130.41942,
+  "area": "하카타",
+  "lead": "하카타역 옆 복합 상업시설. 옥상 정원에서 도시 전경을 즐길 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "복합 쇼핑"
+    ],
+    [
+      "위치",
+      "하카타역"
+    ],
+    [
+      "볼거리",
+      "옥상 정원"
+    ],
+    [
+      "함께",
+      "식당가"
+    ]
+  ],
+  "origin": [
+    "킷테 하카타는 하카타역 바로 옆에 자리한 상업 시설로, 상점·식당가와 옥상 정원이 있어요.",
+    "여행 시작이나 끝에 시간이 남을 때 가볍게 들르기 좋은 곳이에요.",
+    "옥상에서는 역 주변의 기차 풍경도 볼 수 있어요."
+  ],
+  "practical": [
+    "하카타역에서 도보 1~2분",
+    "옥상 정원은 시간 제한 가능"
+  ],
+  "tip": "짐을 맡긴 뒤 출발 전 한 시간 쇼핑하기 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "하카타역",
+    "루프가든"
+  ],
+  "art_key": "mall",
+  "local_search": "KITTE博多",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/KITTE%E5%8D%9A%E5%A4%9A",
+    "https://en.wikipedia.org/wiki/Hakata_Station",
+    "https://www.openstreetmap.org/way/683271777"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 2,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타역 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:28.731Z"
+}

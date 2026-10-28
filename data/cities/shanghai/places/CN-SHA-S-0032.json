@@ -1,0 +1,79 @@
+{
+  "id": "pl_071e3e3642",
+  "code": "CN-SHA-S-0032",
+  "city_id": "CN-SHA",
+  "slug": "xujiahui-cathedral",
+  "kind": "sight",
+  "name_ko": "쉬자후이 성당",
+  "name_sub": "St. Ignatius Cathedral",
+  "name_local": "徐家汇天主堂",
+  "lat": 31.19306,
+  "lng": 121.43139,
+  "area": "쉬자후이",
+  "lead": "쌍탑이 솟은 고딕 양식 가톨릭 성당. 쉬자후이 상권 한복판에서 만나는 고요한 공간이에요.",
+  "facts": [
+    [
+      "준공",
+      "1910년"
+    ],
+    [
+      "양식",
+      "네오고딕"
+    ],
+    [
+      "관련 인물",
+      "쉬광치(서광계)"
+    ],
+    [
+      "위치",
+      "쉬자후이"
+    ]
+  ],
+  "origin": [
+    "쉬자후이는 명나라 학자 쉬광치(서광계)의 가문이 있던 곳이라 이름이 붙었어요.",
+    "쉬광치는 예수회 선교사 마테오 리치와 교류하며 서양 과학을 중국에 소개한 인물이에요.",
+    "이곳에 1910년 완공된 성당은 두 개의 높은 첨탑이 특징이고 한때 극동에서 가장 큰 성당으로 꼽혔다고 해요.",
+    "지금은 도심 속 휴식처이자 건축 명소로 사랑받아요."
+  ],
+  "tip": "미사 시간대에는 내부 관람이 제한될 수 있어요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료(미사 시간 방문 주의)",
+  "must": 0,
+  "tags": [
+    "성당",
+    "고딕",
+    "역사"
+  ],
+  "art_key": "temple",
+  "local_search": "徐家汇天主堂",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._Ignatius_Cathedral",
+    "https://zh.wikipedia.org/wiki/%E5%BE%90%E5%AE%B6%E6%B1%87%E5%9C%A3%E4%BE%9D%E7%BA%B3%E7%88%B5%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.928Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "pl_beb9f4f57f",
+  "code": "JP-KYO-S-0042",
+  "city_id": "JP-KYO",
+  "slug": "ninna-ji",
+  "kind": "sight",
+  "name_ko": "닌나지",
+  "name_sub": "Ninna-ji",
+  "name_local": "仁和寺",
+  "lat": 35.03106,
+  "lng": 135.71381,
+  "area": "기타구",
+  "lead": "늦게 피는 겹벚꽃 오무로자쿠라로 알려진 세계유산 사찰이에요.",
+  "facts": [
+    [
+      "종류",
+      "진언종 사찰"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "특징",
+      "늦봄 벚꽃"
+    ]
+  ],
+  "origin": [
+    "닌나지는 9세기 말 우다 천황 때 완성됐다고 전해지는 사찰로, 퇴위한 천황이 승려로 지낸 문적 사찰로 알려져 있어요.",
+    "키가 낮은 겹벚꽃 오무로자쿠라가 4월 중하순에 피어 다른 벚꽃이 진 뒤에도 꽃을 즐길 수 있다고 소개돼요.",
+    "킨카쿠지, 료안지와 같은 서북 코스로 묶여요."
+  ],
+  "practical": [
+    "벚꽃철 입장 혼잡"
+  ],
+  "tip": "다른 서쪽 명소와 버스로 이어져요.",
+  "open_hours": "Mar-Nov Mo-Su 09:00-17:00; Dec-Feb Mo-Su 09:00-16:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "세계유산",
+    "벚꽃",
+    "사찰"
+  ],
+  "art_key": "temple",
+  "local_search": "仁和寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ninna-ji",
+    "https://ja.wikipedia.org/wiki/%E4%BB%81%E5%92%8C%E5%AF%BA",
+    "https://www.openstreetmap.org/way/98103060"
+  ],
+  "meta": {
+    "priority": 16,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 142,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 벚꽃로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:16.973Z"
+}

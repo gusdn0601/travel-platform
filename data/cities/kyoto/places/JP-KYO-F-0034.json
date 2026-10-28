@@ -1,0 +1,81 @@
+{
+  "id": "pl_57e3076864",
+  "code": "JP-KYO-F-0034",
+  "city_id": "JP-KYO",
+  "slug": "saryo-tsujiri",
+  "kind": "food",
+  "name_ko": "사료 쓰지리 기온 본점",
+  "name_sub": "Saryo Tsujiri",
+  "name_local": "茶寮都路里 祇園本店",
+  "lat": 35.0037,
+  "lng": 135.77448,
+  "area": "기온/히가시야마",
+  "lead": "말차 디저트로 알려진 가게의 기온 본점이에요.",
+  "facts": [
+    [
+      "종류",
+      "말차 디저트"
+    ],
+    [
+      "대표",
+      "츠지리 파르페"
+    ],
+    [
+      "위치",
+      "기온"
+    ]
+  ],
+  "origin": [
+    "사료 쓰지리는 우지 차를 다루는 가게에서 시작한 말차 디저트 전문점이에요.",
+    "말차 아이스크림과 젤리, 팥을 층층이 담은 파르페가 대표로 소개돼요.",
+    "기온 본점은 좌석이 많지 않아 대기하는 경우가 많아요.",
+    "단맛이 강하지 않아 말차를 좋아하면 만족도가 높아요."
+  ],
+  "practical": [
+    "대기 김",
+    "영업시간 확인"
+  ],
+  "tip": "오픈 직후나 늦은 오후가 덜 붐벼요.",
+  "order": [
+    "<b>都路里パフェ</b> 쓰지리 파르페"
+  ],
+  "open_hours": "Mo-Su 10:00-22:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "1인 1,300~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "말차",
+    "디저트",
+    "기온"
+  ],
+  "art_key": "cafe",
+  "local_search": "茶寮都路里 祇園本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/4775546783"
+  ],
+  "meta": {
+    "priority": 11,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 말차 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:20.065Z"
+}

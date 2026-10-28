@@ -1,0 +1,74 @@
+{
+  "id": "pl_1d5ba6a20f",
+  "code": "JP-KYO-S-0013",
+  "city_id": "JP-KYO",
+  "slug": "to-ji-temple",
+  "kind": "sight",
+  "name_ko": "도지",
+  "name_sub": "Tō-ji Temple",
+  "name_local": "東寺",
+  "addr_local": "京都市南区九条町1番地",
+  "lat": 34.98056,
+  "lng": 135.74778,
+  "area": "미나미구",
+  "lead": "일본에서 가장 높은 목조탑이 있는 사찰. 교토역에서 가까워 도보로 갈 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰(진언종)"
+    ],
+    [
+      "대표",
+      "5층탑"
+    ],
+    [
+      "행사",
+      "매월 21일 벼룩시장"
+    ],
+    [
+      "연도(Wikidata)",
+      "676년"
+    ]
+  ],
+  "tip": "매월 21일에는 시장이 서서 평소보다 붐벼요.",
+  "open_hours": "Mo-Su 05:00-17:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "경내 입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "5층탑",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "東寺",
+  "photos": [
+    "JP-KYO-S-0013-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1046403",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%A7%80",
+    "https://en.wikipedia.org/wiki/T%C5%8D-ji",
+    "https://www.openstreetmap.org/way/359896810",
+    "http://www.toji.or.jp"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 71,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "building in Kyoto Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:31.496Z"
+}

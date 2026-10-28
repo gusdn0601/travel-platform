@@ -1,0 +1,80 @@
+{
+  "id": "pl_a53a378ee9",
+  "code": "CN-SHA-S-0025",
+  "city_id": "CN-SHA",
+  "slug": "bund-tunnel",
+  "kind": "sight",
+  "name_ko": "와이탄 관광터널",
+  "name_sub": "Bund Sightseeing Tunnel",
+  "name_local": "外滩观光隧道",
+  "lat": 31.24068,
+  "lng": 121.48956,
+  "area": "와이탄",
+  "lead": "황푸강 아래를 무인 열차로 건너는 환상적인 조명 터널. 짧지만 호불호가 갈리는 이색 체험이에요.",
+  "facts": [
+    [
+      "개통",
+      "2000년"
+    ],
+    [
+      "길이",
+      "약 646m"
+    ],
+    [
+      "구간",
+      "와이탄~푸동"
+    ],
+    [
+      "특징",
+      "조명 연출 구간"
+    ]
+  ],
+  "origin": [
+    "와이탄과 푸동 사이를 황푸강 아래로 잇는 관광 전용 터널이에요.",
+    "2000년 개통했고 한 구간 약 6~7분 정도 걸려요.",
+    "네온과 영상, 음향으로 우주 공간을 지나는 듯한 연출이 나오는데 취향에 따라 즉흥적이라는 평도 있어요.",
+    "두 강변의 풍경을 오가는 이동 수단으로 보기보다는 이색 체험으로 즐기는 편이 맞아요."
+  ],
+  "tip": "야경 이동 중 짧게 넣는 코스로 적합해요. 기대치를 낮추고 가면 더 즐거워요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "편도·왕복 요금 별도(추정)",
+  "must": 0,
+  "tags": [
+    "이색",
+    "야경",
+    "황푸강"
+  ],
+  "art_key": "neon",
+  "local_search": "外滩观光隧道",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bund_Sightseeing_Tunnel",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E9%9A%A7%E9%81%93",
+    "https://www.openstreetmap.org/way/39774420"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.906Z"
+}

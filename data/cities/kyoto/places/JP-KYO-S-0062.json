@@ -1,0 +1,76 @@
+{
+  "id": "pl_6e4f5e7dd2",
+  "code": "JP-KYO-S-0062",
+  "city_id": "JP-KYO",
+  "slug": "okochi-sanso",
+  "kind": "sight",
+  "name_ko": "오코치 산소",
+  "name_sub": "Okochi Sanso",
+  "name_local": "大河内山荘庭園",
+  "lat": 35.01652,
+  "lng": 135.67025,
+  "area": "아라시야마",
+  "lead": "대나무 숲 길 끝에 이어지는 시대극 배우의 별장 정원. 입장료에 말차가 포함돼 있어요.",
+  "facts": [
+    [
+      "종류",
+      "정원"
+    ],
+    [
+      "특징",
+      "전망, 말차 포함"
+    ],
+    [
+      "위치",
+      "대나무 숲 북쪽"
+    ]
+  ],
+  "origin": [
+    "오코치 산소는 시대극 배우 오코치 덴지로가 수십 년에 걸쳐 가꾼 별장 정원으로 알려져 있어요.",
+    "언덕을 따라 걸으면 교토 시내와 아라시야마 일대가 내려다보이는 전망이 열려요.",
+    "입장료에 말차와 과자가 포함되어 있어 대나무 숲 산책 뒤 쉬어 가기 좋아요."
+  ],
+  "practical": [
+    "입장료 포함 내용은 현장 확인"
+  ],
+  "tip": "대나무 숲 북쪽 끝에서 바로 이어져요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "입장료 약 1,000엔(추정, 말차 포함)",
+  "must": 0,
+  "tags": [
+    "정원",
+    "아라시야마",
+    "전망"
+  ],
+  "art_key": "garden",
+  "local_search": "大河内山荘庭園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/8614950965"
+  ],
+  "meta": {
+    "priority": 12,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 한적한 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:10:58.185Z"
+}

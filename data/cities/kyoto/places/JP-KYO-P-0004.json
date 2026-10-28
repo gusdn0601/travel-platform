@@ -1,0 +1,72 @@
+{
+  "id": "pl_5990512a31",
+  "code": "JP-KYO-P-0004",
+  "city_id": "JP-KYO",
+  "slug": "don-quijote-kyoto",
+  "kind": "shop",
+  "name_ko": "돈키호테 교토 가와라마치",
+  "name_sub": "Don Quijote Kyoto",
+  "name_local": "ドン・キホーテ 京都",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "약국·과자·잡화가 한곳에 있는 대형 할인점. 한국 여행자의 쇼핑 리스트에 거의 늘 오르는 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "할인 잡화점"
+    ],
+    [
+      "특징",
+      "면세, 심야 영업"
+    ],
+    [
+      "위치",
+      "시내"
+    ]
+  ],
+  "origin": [
+    "돈키호테는 일본 전국에 지점이 있는 잡화 할인점으로, 약·화장품·과자·기념품을 한 번에 살 수 있다고 알려져 있어요.",
+    "한국어 안내와 면세 서비스가 있는 지점이 많다고 소개돼요.",
+    "지점별 위치와 영업시간은 현장 확인이 필요해요."
+  ],
+  "practical": [
+    "지점 위치 현장 확인(미검증)"
+  ],
+  "tip": "약·화장품은 면세 기준 금액 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "잡화",
+    "면세",
+    "심야"
+  ],
+  "art_key": "shop",
+  "local_search": "ドン・キホーテ 京都",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 4,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:43.027Z"
+}

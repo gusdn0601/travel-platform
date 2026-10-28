@@ -1,0 +1,583 @@
+[
+  {
+    "id": "pl_83f10213a6",
+    "code": "JP-NAR-F-0001",
+    "slug": "nakatanido",
+    "kind": "food",
+    "name_ko": "나카타니도"
+  },
+  {
+    "id": "pl_f8b45d7a0c",
+    "code": "JP-NAR-F-0002",
+    "slug": "shizuka-kamameshi",
+    "kind": "food",
+    "name_ko": "시즈카(카마메시)"
+  },
+  {
+    "id": "pl_fddb2d5dfb",
+    "code": "JP-NAR-F-0003",
+    "slug": "tenkodo",
+    "kind": "food",
+    "name_ko": "텐고쿠도 나라 본점"
+  },
+  {
+    "id": "pl_2e62e11b33",
+    "code": "JP-NAR-F-0004",
+    "slug": "mentoan",
+    "kind": "food",
+    "name_ko": "멘토안"
+  },
+  {
+    "id": "pl_0b18f7698c",
+    "code": "JP-NAR-F-0005",
+    "slug": "harushika-brewery",
+    "kind": "food",
+    "name_ko": "하루시카 양조장"
+  },
+  {
+    "id": "pl_c0beba1567",
+    "code": "JP-NAR-F-0007",
+    "slug": "kurumi-no-ki",
+    "kind": "food",
+    "name_ko": "쿠루미노키"
+  },
+  {
+    "id": "pl_c3685a1c82",
+    "code": "JP-NAR-F-0008",
+    "slug": "kanakana",
+    "kind": "food",
+    "name_ko": "카나카나"
+  },
+  {
+    "id": "pl_a0bd8f9f84",
+    "code": "JP-NAR-F-0009",
+    "slug": "hosekibako",
+    "kind": "food",
+    "name_ko": "호세키바코"
+  },
+  {
+    "id": "pl_f424591744",
+    "code": "JP-NAR-F-0010",
+    "slug": "hiraso-nara",
+    "kind": "food",
+    "name_ko": "히라소 나라 본점"
+  },
+  {
+    "id": "pl_42025e79e3",
+    "code": "JP-NAR-F-0011",
+    "slug": "izasa-nara",
+    "kind": "food",
+    "name_ko": "이자사 나라 본점"
+  },
+  {
+    "id": "pl_aa08d81589",
+    "code": "JP-NAR-F-0012",
+    "slug": "miwa-somen-yamamoto",
+    "kind": "food",
+    "name_ko": "미와 소멘 야마모토"
+  },
+  {
+    "id": "pl_873661f45a",
+    "code": "JP-NAR-F-0013",
+    "slug": "starbucks-nara-park",
+    "kind": "food",
+    "name_ko": "스타벅스 나라 공원점"
+  },
+  {
+    "id": "pl_79737c5f2e",
+    "code": "JP-NAR-F-0014",
+    "slug": "nara-hotel-dining",
+    "kind": "food",
+    "name_ko": "나라 호텔 다이닝"
+  },
+  {
+    "id": "pl_33fdec05b5",
+    "code": "JP-NAR-F-0015",
+    "slug": "tawaraya-udon",
+    "kind": "food",
+    "name_ko": "타와라야"
+  },
+  {
+    "id": "pl_dee741326c",
+    "code": "JP-NAR-F-0016",
+    "slug": "saika-ramen-honten",
+    "kind": "food",
+    "name_ko": "사이카 라멘 본점"
+  },
+  {
+    "id": "pl_0820fd3f00",
+    "code": "JP-NAR-F-0017",
+    "slug": "tenri-stamina-ramen",
+    "kind": "food",
+    "name_ko": "텐리 스타미나 라멘"
+  },
+  {
+    "id": "pl_3b899073b5",
+    "code": "JP-NAR-F-0018",
+    "slug": "tanaka-kakinoha",
+    "kind": "food",
+    "name_ko": "카키노하즈시 다나카"
+  },
+  {
+    "id": "pl_996514c55b",
+    "code": "JP-NAR-F-0019",
+    "slug": "awamochi-sawaya",
+    "kind": "food",
+    "name_ko": "아와모치 사와야"
+  },
+  {
+    "id": "pl_c859aec8e8",
+    "code": "JP-NAR-F-0020",
+    "slug": "daibutsu-pudding",
+    "kind": "food",
+    "name_ko": "대불 푸딩 본포"
+  },
+  {
+    "id": "pl_d7738ad91f",
+    "code": "JP-NAR-F-0021",
+    "slug": "unagi-kawahara",
+    "kind": "food",
+    "name_ko": "우나기 카와하라"
+  },
+  {
+    "id": "pl_04e347266e",
+    "code": "JP-NAR-F-0022",
+    "slug": "mizutani-chaya",
+    "kind": "food",
+    "name_ko": "미즈타니차야"
+  },
+  {
+    "id": "pl_0090ea3c1c",
+    "code": "JP-NAR-F-0023",
+    "slug": "kasuga-ni-chaya",
+    "kind": "food",
+    "name_ko": "가스가니차야"
+  },
+  {
+    "id": "pl_68b1d25404",
+    "code": "JP-NAR-F-0024",
+    "slug": "tenkaippin-nara",
+    "kind": "food",
+    "name_ko": "천하일품 나라점"
+  },
+  {
+    "id": "pl_a86f4609ab",
+    "code": "JP-NAR-F-0025",
+    "slug": "marugame-seimen-nara",
+    "kind": "food",
+    "name_ko": "마루가메 제면 나라점"
+  },
+  {
+    "id": "pl_3ac352c865",
+    "code": "JP-NAR-P-0001",
+    "slug": "nakagawa-masashichi-nara",
+    "kind": "shop",
+    "name_ko": "나카가와 마사시치 상점 나라 본점"
+  },
+  {
+    "id": "pl_db8273c4a4",
+    "code": "JP-NAR-P-0002",
+    "slug": "higashimuki-shotengai",
+    "kind": "shop",
+    "name_ko": "히가시무키 상점가"
+  },
+  {
+    "id": "pl_308ca55102",
+    "code": "JP-NAR-P-0003",
+    "slug": "mochiidono-center-gai",
+    "kind": "shop",
+    "name_ko": "모치이도노 상점가"
+  },
+  {
+    "id": "pl_1d087e1084",
+    "code": "JP-NAR-P-0004",
+    "slug": "sanjo-dori-nara",
+    "kind": "shop",
+    "name_ko": "산조도리"
+  },
+  {
+    "id": "pl_4ef48b17ff",
+    "code": "JP-NAR-P-0005",
+    "slug": "nara-family",
+    "kind": "shop",
+    "name_ko": "나라 패밀리"
+  },
+  {
+    "id": "pl_bdbc55b118",
+    "code": "JP-NAR-P-0006",
+    "slug": "kintetsu-department-nara",
+    "kind": "shop",
+    "name_ko": "긴테쓰 백화점 나라점"
+  },
+  {
+    "id": "pl_78afc66770",
+    "code": "JP-NAR-P-0007",
+    "slug": "yu-nakagawa",
+    "kind": "shop",
+    "name_ko": "유추가와"
+  },
+  {
+    "id": "pl_78d482ea46",
+    "code": "JP-NAR-S-0001",
+    "slug": "todai-ji-temple",
+    "kind": "sight",
+    "name_ko": "도다이지"
+  },
+  {
+    "id": "pl_477f31441f",
+    "code": "JP-NAR-S-0002",
+    "slug": "nara-park",
+    "kind": "sight",
+    "name_ko": "나라 공원"
+  },
+  {
+    "id": "pl_9ba0d73b08",
+    "code": "JP-NAR-S-0003",
+    "slug": "kasuga-taisha",
+    "kind": "sight",
+    "name_ko": "가스가타이샤"
+  },
+  {
+    "id": "pl_90bac94496",
+    "code": "JP-NAR-S-0004",
+    "slug": "kofuku-ji-temple",
+    "kind": "sight",
+    "name_ko": "고후쿠지"
+  },
+  {
+    "id": "pl_b7a7da39b2",
+    "code": "JP-NAR-S-0005",
+    "slug": "horyu-ji-temple",
+    "kind": "sight",
+    "name_ko": "호류지"
+  },
+  {
+    "id": "pl_a16d06f7a2",
+    "code": "JP-NAR-S-0006",
+    "slug": "yakushi-ji-temple",
+    "kind": "sight",
+    "name_ko": "야쿠시지"
+  },
+  {
+    "id": "pl_5dc0ace24a",
+    "code": "JP-NAR-S-0007",
+    "slug": "toshodai-ji-temple",
+    "kind": "sight",
+    "name_ko": "도쇼다이지"
+  },
+  {
+    "id": "pl_a9f1f73de0",
+    "code": "JP-NAR-S-0008",
+    "slug": "nara-national-museum",
+    "kind": "sight",
+    "name_ko": "나라 국립박물관"
+  },
+  {
+    "id": "pl_11636d9ea2",
+    "code": "JP-NAR-S-0009",
+    "slug": "naramachi",
+    "kind": "sight",
+    "name_ko": "나라마치"
+  },
+  {
+    "id": "pl_06755a060b",
+    "code": "JP-NAR-S-0010",
+    "slug": "isui-en",
+    "kind": "sight",
+    "name_ko": "이스이엔"
+  },
+  {
+    "id": "pl_13d00811d8",
+    "code": "JP-NAR-S-0011",
+    "slug": "heijo-palace",
+    "kind": "sight",
+    "name_ko": "헤이조큐"
+  },
+  {
+    "id": "pl_ad22a41def",
+    "code": "JP-NAR-S-0012",
+    "slug": "hase-dera-temple",
+    "kind": "sight",
+    "name_ko": "하세데라"
+  },
+  {
+    "id": "pl_5eb54022f3",
+    "code": "JP-NAR-S-0013",
+    "slug": "muro-ji-temple",
+    "kind": "sight",
+    "name_ko": "무로지"
+  },
+  {
+    "id": "pl_49611399e3",
+    "code": "JP-NAR-S-0014",
+    "slug": "mount-wakakusa",
+    "kind": "sight",
+    "name_ko": "와카쿠사야마"
+  },
+  {
+    "id": "pl_d1d1dca164",
+    "code": "JP-NAR-S-0015",
+    "slug": "yoshiki-en",
+    "kind": "sight",
+    "name_ko": "요시키엔"
+  },
+  {
+    "id": "pl_3e647b8d42",
+    "code": "JP-NAR-S-0016",
+    "slug": "kasugayama-primeval-forest",
+    "kind": "sight",
+    "name_ko": "가스가야마 원시림"
+  },
+  {
+    "id": "pl_73a83f4d25",
+    "code": "JP-NAR-S-0017",
+    "slug": "saidai-ji-temple",
+    "kind": "sight",
+    "name_ko": "사이다이지"
+  },
+  {
+    "id": "pl_6ab764aa2f",
+    "code": "JP-NAR-S-0018",
+    "slug": "shin-yakushi-ji-temple",
+    "kind": "sight",
+    "name_ko": "신야쿠시지"
+  },
+  {
+    "id": "pl_79774dcaf4",
+    "code": "JP-NAR-S-0019",
+    "slug": "mount-yoshino",
+    "kind": "sight",
+    "name_ko": "요시노야마"
+  },
+  {
+    "id": "pl_ba65fe4fbf",
+    "code": "JP-NAR-S-0020",
+    "slug": "ishibutai-kofun",
+    "kind": "sight",
+    "name_ko": "이시부타이 고분"
+  },
+  {
+    "id": "pl_854f335d56",
+    "code": "JP-NAR-S-0021",
+    "slug": "nigatsu-do",
+    "kind": "sight",
+    "name_ko": "니가쓰도"
+  },
+  {
+    "id": "pl_402dda1f95",
+    "code": "JP-NAR-S-0022",
+    "slug": "gango-ji-temple",
+    "kind": "sight",
+    "name_ko": "간고지"
+  },
+  {
+    "id": "pl_957a7edaf4",
+    "code": "JP-NAR-S-0023",
+    "slug": "man-yo-botanical-garden-nara",
+    "kind": "sight",
+    "name_ko": "만요 식물원"
+  },
+  {
+    "id": "pl_0b28eec8e5",
+    "code": "JP-NAR-S-0024",
+    "slug": "nara-prefecture-complex-of-man-yo-culture",
+    "kind": "sight",
+    "name_ko": "나라현립 만요문화관"
+  },
+  {
+    "id": "pl_df05e24d8b",
+    "code": "JP-NAR-S-0025",
+    "slug": "sangatsu-do",
+    "kind": "sight",
+    "name_ko": "산가쓰도(법화당)"
+  },
+  {
+    "id": "pl_9e91d1033f",
+    "code": "JP-NAR-S-0026",
+    "slug": "shosoin",
+    "kind": "sight",
+    "name_ko": "쇼소인(정창원)"
+  },
+  {
+    "id": "pl_80bbc92aff",
+    "code": "JP-NAR-S-0027",
+    "slug": "ishigami-shrine",
+    "kind": "sight",
+    "name_ko": "이시가미 신사"
+  },
+  {
+    "id": "pl_e52a1572eb",
+    "code": "JP-NAR-S-0028",
+    "slug": "omiwa-shrine",
+    "kind": "sight",
+    "name_ko": "오미와 신사"
+  },
+  {
+    "id": "pl_9e6c635802",
+    "code": "JP-NAR-S-0029",
+    "slug": "tanzan-shrine",
+    "kind": "sight",
+    "name_ko": "단잔 신사"
+  },
+  {
+    "id": "pl_ec1f8f3410",
+    "code": "JP-NAR-S-0030",
+    "slug": "abe-monjuin",
+    "kind": "sight",
+    "name_ko": "아베 분카무라(아베 문주인)"
+  },
+  {
+    "id": "pl_0df79f1f33",
+    "code": "JP-NAR-S-0031",
+    "slug": "okadera",
+    "kind": "sight",
+    "name_ko": "오카데라"
+  },
+  {
+    "id": "pl_8efa035645",
+    "code": "JP-NAR-S-0032",
+    "slug": "asukadera",
+    "kind": "sight",
+    "name_ko": "아스카데라"
+  },
+  {
+    "id": "pl_aa9bd1d755",
+    "code": "JP-NAR-S-0033",
+    "slug": "takamatsuzuka-museum",
+    "kind": "sight",
+    "name_ko": "다카마쓰즈카 고분벽화관"
+  },
+  {
+    "id": "pl_bbac6baf56",
+    "code": "JP-NAR-S-0034",
+    "slug": "kitora-tomb",
+    "kind": "sight",
+    "name_ko": "기토라 고분"
+  },
+  {
+    "id": "pl_56e3a5fe0b",
+    "code": "JP-NAR-S-0035",
+    "slug": "hokiji",
+    "kind": "sight",
+    "name_ko": "호키지"
+  },
+  {
+    "id": "pl_b92c8caf91",
+    "code": "JP-NAR-S-0036",
+    "slug": "hashihaka-kofun",
+    "kind": "sight",
+    "name_ko": "하시하카 고분"
+  },
+  {
+    "id": "pl_ae766f4dcb",
+    "code": "JP-NAR-S-0037",
+    "slug": "fujiwara-palace-site",
+    "kind": "sight",
+    "name_ko": "후지와라노미야 터"
+  },
+  {
+    "id": "pl_605a373159",
+    "code": "JP-NAR-S-0038",
+    "slug": "kashihara-jingu",
+    "kind": "sight",
+    "name_ko": "가시하라 신궁"
+  },
+  {
+    "id": "pl_fbfd5f9717",
+    "code": "JP-NAR-S-0039",
+    "slug": "chikurin-in",
+    "kind": "sight",
+    "name_ko": "지쿠린인"
+  },
+  {
+    "id": "pl_c20b6dd3ca",
+    "code": "JP-NAR-S-0040",
+    "slug": "shigisan-chogosonshiji",
+    "kind": "sight",
+    "name_ko": "시기산 조코신지지"
+  },
+  {
+    "id": "pl_db8b0997f7",
+    "code": "JP-NAR-S-0041",
+    "slug": "ikoma-sanjo-park",
+    "kind": "sight",
+    "name_ko": "이코마산조 유원지"
+  },
+  {
+    "id": "pl_d2c94c4cf3",
+    "code": "JP-NAR-S-0042",
+    "slug": "nara-prefectural-museum-of-art",
+    "kind": "sight",
+    "name_ko": "나라 현립 미술관"
+  },
+  {
+    "id": "pl_ff60e58c9a",
+    "code": "JP-NAR-S-0043",
+    "slug": "kofukuji-national-treasure-museum",
+    "kind": "sight",
+    "name_ko": "고후쿠지 국보관"
+  },
+  {
+    "id": "pl_e36eed71d4",
+    "code": "JP-NAR-S-0044",
+    "slug": "yoshimizu-shrine",
+    "kind": "sight",
+    "name_ko": "요시미즈 신사"
+  },
+  {
+    "id": "pl_abd9defd73",
+    "code": "JP-NAR-S-0045",
+    "slug": "nara-kenko-land",
+    "kind": "sight",
+    "name_ko": "나라 건강랜드"
+  },
+  {
+    "id": "pl_84a634a548",
+    "code": "JP-NAR-S-0046",
+    "slug": "asuka-historical-museum",
+    "kind": "sight",
+    "name_ko": "아스카 자료관"
+  },
+  {
+    "id": "pl_7a7bf0ab09",
+    "code": "JP-NAR-T-0001",
+    "slug": "kintetsu-nara-station",
+    "kind": "transit",
+    "name_ko": "긴테쓰 나라역"
+  },
+  {
+    "id": "pl_0d6ae6b767",
+    "code": "JP-NAR-T-0002",
+    "slug": "nara-station",
+    "kind": "transit",
+    "name_ko": "JR 나라역"
+  },
+  {
+    "id": "pl_4532753843",
+    "code": "JP-NAR-T-0003",
+    "slug": "shinomiya-station",
+    "kind": "transit",
+    "name_ko": "신오미야역"
+  },
+  {
+    "id": "pl_648e1cd16f",
+    "code": "JP-NAR-T-0004",
+    "slug": "yamato-saidaiji-station",
+    "kind": "transit",
+    "name_ko": "야마토사이다이지역"
+  },
+  {
+    "id": "pl_7ee29e49c6",
+    "code": "JP-NAR-T-0005",
+    "slug": "horyuji-station",
+    "kind": "transit",
+    "name_ko": "JR 호류지역"
+  },
+  {
+    "id": "pl_e0945ce5d1",
+    "code": "JP-NAR-T-0006",
+    "slug": "yoshino-station",
+    "kind": "transit",
+    "name_ko": "긴테쓰 요시노역"
+  }
+]

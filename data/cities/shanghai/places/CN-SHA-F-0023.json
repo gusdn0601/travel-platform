@@ -1,0 +1,85 @@
+{
+  "id": "pl_2487c070d0",
+  "code": "CN-SHA-F-0023",
+  "city_id": "CN-SHA",
+  "slug": "quanjude-shanghai",
+  "kind": "food",
+  "name_ko": "전취덕 오리구이 (全聚德)",
+  "name_local": "全聚德烤鸭 上海",
+  "lat": 31.23006,
+  "lng": 121.51906,
+  "area": "도심",
+  "lead": "1864년 베이징에서 시작된 오리구이 명가. 괘로식 장작불 오리를 맛볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "베이징덕"
+    ],
+    [
+      "시작",
+      "1864년 베이징"
+    ],
+    [
+      "방식",
+      "괘로(挂炉)"
+    ],
+    [
+      "지점",
+      "상하이 지점"
+    ]
+  ],
+  "origin": [
+    "전취덕은 1864년 베이징에서 문을 열었다고 알려진 오리구이 노포예요.",
+    "오리를 화덕에 매달아 구워 껍질을 바삭하게 하는 괘로 방식을 대표해요.",
+    "베이징에서 상하이로 가져온 지점에서는 전통 방식으로 얇게 썰어 주는 서비스를 제공한다고 소개돼요."
+  ],
+  "practical": [
+    "단체는 예약 권장"
+  ],
+  "tip": "한 마리를 시키고 껍질→쌈→뼈 국물 순으로 즐기세요.",
+  "order": [
+    "<b>挂炉烤鸭</b> 괘로 오리구이",
+    "<b>鸭架汤</b> 오리 뼈 국물"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 150~300위안 추정",
+  "must": 0,
+  "tags": [
+    "베이징덕",
+    "노포",
+    "오리구이"
+  ],
+  "art_key": "duck",
+  "local_search": "全聚德烤鸭 上海",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quanjude",
+    "https://zh.wikipedia.org/wiki/%E5%85%A8%E8%81%9A%E5%BE%B7",
+    "https://www.openstreetmap.org/node/8954338833"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 전통 오리구이로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.361Z"
+}

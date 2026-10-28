@@ -1,0 +1,73 @@
+{
+  "id": "pl_4ab774b153",
+  "code": "JP-OSA-S-0019",
+  "city_id": "JP-OSA",
+  "slug": "imamiya-ebisu-shrine",
+  "kind": "sight",
+  "name_ko": "이마미야 에비스 신사",
+  "name_sub": "Imamiya Ebisu Shrine",
+  "name_local": "今宮戎神社",
+  "addr_local": "〒556-0003 大阪府 大阪市 浪速区 恵美須西二丁目 国道25号",
+  "lat": 34.65533,
+  "lng": 135.50247,
+  "area": "신세카이",
+  "lead": "장사 번창을 기원하는 에비스 신을 모신 신사. 매년 1월 도카 에비스 축제 때 크게 붐벼요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "제신",
+      "에비스(상업 번창)"
+    ],
+    [
+      "행사",
+      "1월 도카 에비스"
+    ],
+    [
+      "연도(Wikidata)",
+      "600년"
+    ]
+  ],
+  "tip": "신세카이와 가까워 츠텐카쿠 일정과 함께 들르기 쉬워요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "상업",
+    "신세카이"
+  ],
+  "art_key": "shrine",
+  "local_search": "今宮戎神社",
+  "photos": [
+    "JP-OSA-S-0019-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11376859",
+    "https://en.wikipedia.org/wiki/Imamiya_Ebisu_Shrine",
+    "https://www.openstreetmap.org/way/447890316",
+    "https://www.imamiya-ebisu.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 17,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "shrine in Naniwa-ku, Osaka, Osaka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:56.465Z"
+}

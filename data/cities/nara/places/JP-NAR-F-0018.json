@@ -1,0 +1,81 @@
+{
+  "id": "pl_3b899073b5",
+  "code": "JP-NAR-F-0018",
+  "city_id": "JP-NAR",
+  "slug": "tanaka-kakinoha",
+  "kind": "food",
+  "name_ko": "카키노하즈시 다나카",
+  "name_sub": "Tanaka",
+  "name_local": "柿の葉すし たなか",
+  "lat": 34.5135,
+  "lng": 135.79387,
+  "area": "나라마치",
+  "lead": "감잎 초밥을 작은 상자에 담아 파는 가게예요.",
+  "facts": [
+    [
+      "종류",
+      "카키노하즈시 전문점"
+    ],
+    [
+      "특징",
+      "포장 판매"
+    ],
+    [
+      "위치",
+      "나라 시내"
+    ]
+  ],
+  "origin": [
+    "카키노하즈시는 나라·요시노 지역에서 이어져 온 향토 음식이에요.",
+    "다나카는 감잎 초밥을 상자에 담아 파는 가게로 알려져 있어요.",
+    "기차에서 먹거나 숙소에서 야식으로 먹기 좋아요.",
+    "보관 기간이 짧아 사는 날 먹는 편이 좋아요."
+  ],
+  "practical": [
+    "유통기한 짧음",
+    "포장 전용"
+  ],
+  "tip": "기차 여행 중 간식으로 사 두면 좋아요.",
+  "order": [
+    "<b>柿の葉すし</b> 카키노하즈시 상자"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "1인 1,000엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "카키노하즈시",
+    "포장",
+    "기념품"
+  ],
+  "art_key": "food",
+  "local_search": "柿の葉すし たなか",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/6277969092"
+  ],
+  "meta": {
+    "priority": 27,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 기념 간식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:07.913Z"
+}

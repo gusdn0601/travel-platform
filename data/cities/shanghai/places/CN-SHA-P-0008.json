@@ -1,0 +1,76 @@
+{
+  "id": "pl_1402c12466",
+  "code": "CN-SHA-P-0008",
+  "city_id": "CN-SHA",
+  "slug": "foot-massage-area",
+  "kind": "shop",
+  "name_ko": "발마사지·전신마사지 (가성비 동네 마사지)",
+  "name_sub": "Neighborhood foot massage",
+  "name_local": "足疗 按摩 上海",
+  "lat": null,
+  "lng": null,
+  "area": "도심 곳곳",
+  "lead": "지하철역 근처마다 있는 현지식 마사지숍. 걷기가 많은 여행 후반에 가볍게 넣기 좋아요.",
+  "facts": [
+    [
+      "성격",
+      "동네 마사지 · 발마사지"
+    ],
+    [
+      "가격대",
+      "체인·지점별 상이"
+    ],
+    [
+      "예약",
+      "앱 예약 가능"
+    ],
+    [
+      "주의",
+      "간판 있는 정식 업소 위주로 선택"
+    ]
+  ],
+  "origin": [
+    "중국에서는 발마사지(足疗)와 전신 마사지(推拿) 문화가 대중적이에요.",
+    "상하이도 지하철 역 주변에 크고 작은 업소가 많고, 호텔식 고급 스파부터 동네 가게까지 가격 폭이 커요.",
+    "여행자는 사전에 리뷰와 가격을 비교하고 정식 영업 간판이 있는 곳을 고르는 것이 안전해요."
+  ],
+  "tip": "이 항목은 특정 업소가 아닌 “유형” 항목이에요. 구체 업소는 지도 앱 리뷰로 최신 평가를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "발마사지 1시간 추정 80~200위안, 전신은 더 비쌈(지점 확인)",
+  "must": 0,
+  "tags": [
+    "마사지",
+    "가성비",
+    "휴식"
+  ],
+  "art_key": "spa",
+  "local_search": "足疗 按摩 上海",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reflexology",
+    "https://en.wikipedia.org/wiki/Shanghai"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "업소별 인기 순위는 확인하지 못함 — 유형 항목(수집가 메모)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.983Z"
+}

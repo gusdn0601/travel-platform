@@ -1,0 +1,80 @@
+{
+  "id": "pl_83f10213a6",
+  "code": "JP-NAR-F-0001",
+  "city_id": "JP-NAR",
+  "slug": "nakatanido",
+  "kind": "food",
+  "name_ko": "나카타니도",
+  "name_sub": "Nakatanido",
+  "name_local": "中谷堂",
+  "lat": 34.68193,
+  "lng": 135.82886,
+  "area": "나라마치",
+  "lead": "절구로 떡을 빠르게 치는 퍼포먼스로 알려진 야키모치 가게예요.",
+  "facts": [
+    [
+      "종류",
+      "일본 떡 과자점"
+    ],
+    [
+      "대표",
+      "야키모치(풋쓰 떡)"
+    ],
+    [
+      "위치",
+      "산조도리 인근"
+    ]
+  ],
+  "origin": [
+    "나카타니도는 나라마치 입구에서 야키모치를 파는 가게로, 절구질을 빠르게 반복하는 모습이 구경거리로 알려져 있어요.",
+    "쑥을 넣은 떡을 구워 팥소를 채운 과자로, 갓 만든 것을 받는 경우가 많아요.",
+    "오후에는 줄이 길어질 수 있어요."
+  ],
+  "practical": [
+    "현금 결제 위주",
+    "줄 설 수 있음"
+  ],
+  "tip": "식어도 쫄깃함이 남아 포장해 가도 괜찮아요.",
+  "order": [
+    "<b>よもぎ餅</b> 쑥 야키모치"
+  ],
+  "open_hours": "Mo-Su 10:00-19:00 (OSM)",
+  "stay_min": 15,
+  "price_hint": "1인 200엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "떡",
+    "야키모치",
+    "나라마치"
+  ],
+  "art_key": "food",
+  "local_search": "中谷堂",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/1852762778"
+  ],
+  "meta": {
+    "priority": 4,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 간식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:29:05.744Z"
+}

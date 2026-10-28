@@ -1,0 +1,78 @@
+{
+  "id": "pl_c0beba1567",
+  "code": "JP-NAR-F-0007",
+  "city_id": "JP-NAR",
+  "slug": "kurumi-no-ki",
+  "kind": "food",
+  "name_ko": "쿠루미노키",
+  "name_sub": "Kurumi no Ki",
+  "name_local": "くるみの木",
+  "lat": 34.69174,
+  "lng": 135.81414,
+  "area": "도미오",
+  "lead": "정원이 있는 카페형 식당으로, 소품점이 함께 붙어 있어요.",
+  "facts": [
+    [
+      "종류",
+      "카페·식당"
+    ],
+    [
+      "대표",
+      "런치 정식"
+    ],
+    [
+      "위치",
+      "도미오초"
+    ]
+  ],
+  "origin": [
+    "쿠루미노키는 나라 시내 외곽에 있는 카페로 알려져 있어요.",
+    "집을 개조한 공간과 정원, 함께 운영하는 소품점이 특징이에요.",
+    "정갈한 반찬이 오르는 런치가 대표 메뉴로 소개돼요.",
+    "시내 중심에서 차로 이동해야 해요."
+  ],
+  "practical": [
+    "차 또는 버스 접근",
+    "예약 여부 확인"
+  ],
+  "tip": "소품점 구경을 함께 하려면 시간 여유를 두세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,500~2,200엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "정식",
+    "소품"
+  ],
+  "art_key": "cafe",
+  "local_search": "くるみの木",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/3203974661"
+  ],
+  "meta": {
+    "priority": 21,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 근교 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:55.647Z"
+}

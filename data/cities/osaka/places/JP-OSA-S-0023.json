@@ -1,0 +1,69 @@
+{
+  "id": "pl_c66acaed38",
+  "code": "JP-OSA-S-0023",
+  "city_id": "JP-OSA",
+  "slug": "tempozan-giant-ferris-wheel",
+  "kind": "sight",
+  "name_ko": "덴포잔 대관람차",
+  "name_sub": "Tempōzan Giant Ferris Wheel",
+  "name_local": "天保山大観覧車",
+  "addr_local": "〒552-0021 大阪府 大阪市 港区 海岸通一丁目 海岸通",
+  "lat": 34.6562,
+  "lng": 135.431,
+  "area": "오사카코/덴포잔",
+  "lead": "오사카 만에 서 있는 대형 관람차. 해유관과 가까워 함께 묶기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "대관람차"
+    ],
+    [
+      "위치",
+      "덴포잔 하버빌리지"
+    ],
+    [
+      "특징",
+      "한 바퀴에 약 15분"
+    ]
+  ],
+  "tip": "해가 지기 전에 타면 낮과 석양을 함께 볼 수 있어요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "탑승료 별도",
+  "must": 0,
+  "tags": [
+    "관람차",
+    "야경",
+    "항구"
+  ],
+  "art_key": "tower",
+  "local_search": "天保山大観覧車",
+  "photos": [
+    "JP-OSA-S-0023-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q548263",
+    "https://en.wikipedia.org/wiki/Tempozan_Ferris_Wheel",
+    "https://www.openstreetmap.org/way/382746499",
+    "http://www.senyo.co.jp/tempozan/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 8,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "Ferris wheel in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:20.107Z"
+}

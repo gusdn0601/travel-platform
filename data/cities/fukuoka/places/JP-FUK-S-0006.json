@@ -1,0 +1,72 @@
+{
+  "id": "pl_b8010aeb8b",
+  "code": "JP-FUK-S-0006",
+  "city_id": "JP-FUK",
+  "slug": "seaside-momochi-seaside-park",
+  "kind": "sight",
+  "name_ko": "모모치 해변 공원",
+  "name_sub": "Seaside Momochi Seaside Park",
+  "name_local": "シーサイドももち海浜公園",
+  "lat": 33.59412,
+  "lng": 130.35135,
+  "area": "모모치",
+  "lead": "도심 바로 옆 인공 해변 공원. 석양 무렵 산책하기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "해변 공원"
+    ],
+    [
+      "위치",
+      "후쿠오카 타워 옆"
+    ],
+    [
+      "특징",
+      "인공 백사장"
+    ],
+    [
+      "연도(Wikidata)",
+      "1989년"
+    ]
+  ],
+  "tip": "해 질 무렵의 산책을 추천해요.",
+  "open_hours": "상시 개방(추정) (추정)",
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "해변",
+    "산책",
+    "석양"
+  ],
+  "art_key": "park",
+  "local_search": "シーサイドももち海浜公園",
+  "photos": [
+    "JP-FUK-S-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q115792838",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%82%AC%EC%9D%B4%EB%93%9C%EB%AA%A8%EB%AA%A8%EC%B9%98_%ED%95%B4%EB%B3%80%EA%B3%B5%EC%9B%90",
+    "https://www.openstreetmap.org/way/900420523",
+    "https://www.marizon-kankyo.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 88,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "public seaside park in Seaside Momochi, Fukuoka City, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:15.198Z"
+}

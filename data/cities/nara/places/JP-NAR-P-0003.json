@@ -1,0 +1,78 @@
+{
+  "id": "pl_308ca55102",
+  "code": "JP-NAR-P-0003",
+  "city_id": "JP-NAR",
+  "slug": "mochiidono-center-gai",
+  "kind": "shop",
+  "name_ko": "모치이도노 상점가",
+  "name_sub": "Mochiidono Center Gai",
+  "name_local": "餅飯殿センター街",
+  "lat": 34.68063,
+  "lng": 135.8289,
+  "area": "나라마치",
+  "lead": "나라마치로 이어지는 지붕 있는 좁은 상점가예요.",
+  "facts": [
+    [
+      "종류",
+      "상점가"
+    ],
+    [
+      "특징",
+      "아케이드"
+    ],
+    [
+      "위치",
+      "나라마치 입구"
+    ]
+  ],
+  "origin": [
+    "모치이도노 상점가는 나라마치로 들어가는 길목의 아케이드 상점가예요.",
+    "히가시무키 상점가보다 폭이 좁고 골목 느낌이 강해요.",
+    "간식집과 잡화점이 이어져 있어 천천히 걷기 좋아요.",
+    "나라마치 산책의 시작점으로 쓰기 좋은 위치예요."
+  ],
+  "practical": [
+    "좁은 통로",
+    "일부 점포 휴무일"
+  ],
+  "tip": "여기서부터 나라마치 골목으로 들어가면 동선이 자연스러워요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "상점가",
+    "아케이드",
+    "간식"
+  ],
+  "art_key": "street",
+  "local_search": "餅飯殿センター街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/2447752332"
+  ],
+  "meta": {
+    "priority": 34,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라마치 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:16.923Z"
+}

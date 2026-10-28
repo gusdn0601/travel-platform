@@ -1,0 +1,87 @@
+{
+  "id": "pl_5bf0dbeb0f",
+  "code": "JP-FUK-S-0029",
+  "city_id": "JP-FUK",
+  "slug": "beppu-jigoku-meguri",
+  "kind": "sight",
+  "name_ko": "벳푸 지옥 순례",
+  "name_sub": "Beppu Hells",
+  "name_local": "別府地獄めぐり",
+  "lat": 33.31611,
+  "lng": 131.46889,
+  "area": "근교(벳푸)",
+  "lead": "푸른 물, 붉은 물, 끓는 진흙 등 색다른 온천 연못을 돌아보는 벳푸 대표 관광 코스. 관람용이라 입욕은 별도예요.",
+  "facts": [
+    [
+      "종류",
+      "관람용 온천 연못"
+    ],
+    [
+      "대표",
+      "우미지고쿠(바다 지옥)·치노이케 지고쿠(피 연못)"
+    ],
+    [
+      "특징",
+      "뜨거운 물·증기·진흙"
+    ],
+    [
+      "위치",
+      "벳푸 간나와 일대"
+    ]
+  ],
+  "origin": [
+    "벳푸는 일본에서 온천 용출량이 많은 도시로 알려져 있으며, 시내 곳곳에서 김이 올라오는 풍경이 상징이에요.",
+    "지고쿠는 너무 뜨거워 사람이 들어가지 못하는 온천 연못을 뜻하며, 보는 것으로 즐기도록 정비되어 있어요.",
+    "우미지고쿠는 코발트빛 물이, 치노이케 지고쿠는 붉은 점토가 섞인 물이 대표적이에요.",
+    "한국 여행객은 유후인과 함께 오이타 일정에 넣는 경우가 많아요."
+  ],
+  "practical": [
+    "후쿠오카에서 JR로 약 2시간 안팎",
+    "간나와 지역 지옥은 걸어서도 이동 가능, 일부는 버스",
+    "지옥 온천 증기로 달걀을 삶아 먹는 가게가 있음"
+  ],
+  "tip": "묶음 입장권이 있는 경우가 많아 현장에서 확인하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "지옥별 400~450엔·공통권 2,000엔대 추정",
+  "must": 0,
+  "tags": [
+    "벳푸",
+    "온천",
+    "지옥",
+    "족욕"
+  ],
+  "art_key": "steam",
+  "local_search": "別府地獄めぐり",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hells_of_Beppu",
+    "https://en.wikipedia.org/wiki/Beppu",
+    "https://www.openstreetmap.org/way/417893209"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 78,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 벳푸 온천 필수 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:28.531Z"
+}

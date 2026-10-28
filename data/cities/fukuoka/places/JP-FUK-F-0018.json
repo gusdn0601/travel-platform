@@ -1,0 +1,88 @@
+{
+  "id": "pl_20ec59b2f4",
+  "code": "JP-FUK-F-0018",
+  "city_id": "JP-FUK",
+  "slug": "starbucks-dazaifu",
+  "kind": "food",
+  "name_ko": "스타벅스 다자이후 텐만구 오모테산도점",
+  "name_sub": "Starbucks Dazaifu Tenmangu",
+  "name_local": "スターバックス 太宰府天満宮表参道店",
+  "lat": 33.52153,
+  "lng": 130.53486,
+  "area": "교외(다자이후)",
+  "lead": "건축가 구마 겐고가 설계한 나무 격자 외관의 스타벅스. 다자이후 참배길의 사진 명소예요.",
+  "facts": [
+    [
+      "종류",
+      "카페"
+    ],
+    [
+      "설계",
+      "구마 겐고"
+    ],
+    [
+      "특징",
+      "나무 막대를 엮은 외관"
+    ],
+    [
+      "위치",
+      "다자이후 텐만구 참배길"
+    ]
+  ],
+  "origin": [
+    "이 매장은 일본 건축가 구마 겐고가 설계했고, 가느다란 나무 막대를 입체적으로 엮어 천장과 외벽을 이루는 모습이 특징이에요.",
+    "전통 상점이 늘어선 참배길에 자연스럽게 녹아들도록 지었고, 2011년 개점한 이후 건축과 카페를 함께 즐기려는 한국인 여행객이 많이 찾는 명소가 되었어요.",
+    "관광 사진 포인트로 유명해 주말에는 줄이 길어요.",
+    "다자이후 텐만구 참배와 묶어서 방문하는 코스가 정석이에요."
+  ],
+  "practical": [
+    "주말·휴일 대기",
+    "내부 사진 촬영 매너 지키기"
+  ],
+  "tip": "이른 오전에 가면 한적하게 사진 찍기 좋아요.",
+  "order": [
+    "<b>ドリンク</b> 음료",
+    "<b>梅ヶ枝餅</b> 매화떡(인근 가게)"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "음료 500~800엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "건축",
+    "다자이후"
+  ],
+  "art_key": "cafe",
+  "local_search": "スターバックス 太宰府天満宮表参道店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Starbucks",
+    "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE",
+    "https://en.wikipedia.org/wiki/Kengo_Kuma"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 다자이후 인기 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:02.867Z"
+}

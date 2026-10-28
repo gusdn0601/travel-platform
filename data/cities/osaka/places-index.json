@@ -1,0 +1,394 @@
+[
+  {
+    "id": "pl_69f38c38ce",
+    "code": "JP-OSA-F-0001",
+    "slug": "kuromon-market",
+    "kind": "food",
+    "name_ko": "구로몬 시장"
+  },
+  {
+    "id": "pl_78b420e526",
+    "code": "JP-OSA-F-0002",
+    "slug": "ichiran-dotonbori",
+    "kind": "food",
+    "name_ko": "이치란 도톤보리 본관"
+  },
+  {
+    "id": "pl_0b36bc1104",
+    "code": "JP-OSA-F-0003",
+    "slug": "kinryu-ramen-dotonbori",
+    "kind": "food",
+    "name_ko": "킨류 라멘 도톤보리"
+  },
+  {
+    "id": "pl_9647238d5e",
+    "code": "JP-OSA-F-0004",
+    "slug": "wanaka-sennichimae",
+    "kind": "food",
+    "name_ko": "타코야키 와나카 센니치마에 본점"
+  },
+  {
+    "id": "pl_99a7cb7e19",
+    "code": "JP-OSA-F-0005",
+    "slug": "kogaryu-amerikamura",
+    "kind": "food",
+    "name_ko": "타코야키 코가류 아메리카무라"
+  },
+  {
+    "id": "pl_1709e72fcc",
+    "code": "JP-OSA-F-0006",
+    "slug": "kukuru-dotonbori",
+    "kind": "food",
+    "name_ko": "쿠쿠루 도톤보리"
+  },
+  {
+    "id": "pl_ae7468421c",
+    "code": "JP-OSA-F-0007",
+    "slug": "ikayaki-dotonbori",
+    "kind": "food",
+    "name_ko": "이카야키 도톤보리"
+  },
+  {
+    "id": "pl_9e67858b4c",
+    "code": "JP-OSA-F-0008",
+    "slug": "mizuno-okonomiyaki",
+    "kind": "food",
+    "name_ko": "오코노미야키 미즈노"
+  },
+  {
+    "id": "pl_47d9e930cc",
+    "code": "JP-OSA-F-0009",
+    "slug": "chibo-dotonbori",
+    "kind": "food",
+    "name_ko": "치보 도톤보리"
+  },
+  {
+    "id": "pl_716cd18a0d",
+    "code": "JP-OSA-F-0010",
+    "slug": "yukari-namba",
+    "kind": "food",
+    "name_ko": "오코노미야키 유키 난바"
+  },
+  {
+    "id": "pl_804389a490",
+    "code": "JP-OSA-F-0011",
+    "slug": "kanidoraku-dotonbori",
+    "kind": "food",
+    "name_ko": "카니도라쿠 도톤보리 본점"
+  },
+  {
+    "id": "pl_d70bc1d7f6",
+    "code": "JP-OSA-F-0012",
+    "slug": "daruma-shinsekai",
+    "kind": "food",
+    "name_ko": "쿠시카츠 다루마 신세카이 본점"
+  },
+  {
+    "id": "pl_62b0c5809c",
+    "code": "JP-OSA-F-0013",
+    "slug": "jiyuken-namba",
+    "kind": "food",
+    "name_ko": "자유켄 난바 본점"
+  },
+  {
+    "id": "pl_532d505bb2",
+    "code": "JP-OSA-F-0014",
+    "slug": "551-horai-ebisubashi",
+    "kind": "food",
+    "name_ko": "551 호라이 에비스바시 본점"
+  },
+  {
+    "id": "pl_b8a24419f8",
+    "code": "JP-OSA-F-0015",
+    "slug": "rikuro-namba",
+    "kind": "food",
+    "name_ko": "리쿠로 오지상의 가게 난바 본점"
+  },
+  {
+    "id": "pl_e49c9d67d1",
+    "code": "JP-OSA-P-0001",
+    "slug": "nipponbashi",
+    "kind": "shop",
+    "name_ko": "닛폰바시 덴덴타운"
+  },
+  {
+    "id": "pl_b4d9383fce",
+    "code": "JP-OSA-P-0002",
+    "slug": "shinsaibashi-suji",
+    "kind": "shop",
+    "name_ko": "신사이바시스지"
+  },
+  {
+    "id": "pl_75b1ebe15c",
+    "code": "JP-OSA-P-0003",
+    "slug": "amerikamura",
+    "kind": "shop",
+    "name_ko": "아메리카무라"
+  },
+  {
+    "id": "pl_8ea436a95e",
+    "code": "JP-OSA-P-0004",
+    "slug": "hep",
+    "kind": "shop",
+    "name_ko": "HEP FIVE"
+  },
+  {
+    "id": "pl_e39ef52646",
+    "code": "JP-OSA-P-0005",
+    "slug": "grand-front-osaka",
+    "kind": "shop",
+    "name_ko": "그랑 프론트 오사카"
+  },
+  {
+    "id": "pl_8ee76cb31c",
+    "code": "JP-OSA-P-0007",
+    "slug": "namba-parks",
+    "kind": "shop",
+    "name_ko": "난바 파크스"
+  },
+  {
+    "id": "pl_490dc471e7",
+    "code": "JP-OSA-P-0009",
+    "slug": "yodobashi-umeda",
+    "kind": "shop",
+    "name_ko": "요도바시 우메다"
+  },
+  {
+    "id": "pl_9c25154834",
+    "code": "JP-OSA-S-0001",
+    "slug": "osaka-castle",
+    "kind": "sight",
+    "name_ko": "오사카성"
+  },
+  {
+    "id": "pl_e83454520f",
+    "code": "JP-OSA-S-0002",
+    "slug": "dotonbori",
+    "kind": "sight",
+    "name_ko": "도톤보리"
+  },
+  {
+    "id": "pl_da49d17720",
+    "code": "JP-OSA-S-0003",
+    "slug": "tsutenkaku",
+    "kind": "sight",
+    "name_ko": "츠텐카쿠"
+  },
+  {
+    "id": "pl_860836dc30",
+    "code": "JP-OSA-S-0004",
+    "slug": "umeda-sky-building",
+    "kind": "sight",
+    "name_ko": "우메다 스카이 빌딩"
+  },
+  {
+    "id": "pl_bc966546b9",
+    "code": "JP-OSA-S-0005",
+    "slug": "sumiyoshi-taisha",
+    "kind": "sight",
+    "name_ko": "스미요시 타이샤"
+  },
+  {
+    "id": "pl_29ea298fa2",
+    "code": "JP-OSA-S-0006",
+    "slug": "shitenno-ji-temple",
+    "kind": "sight",
+    "name_ko": "시텐노지"
+  },
+  {
+    "id": "pl_bf90f2963d",
+    "code": "JP-OSA-S-0007",
+    "slug": "osaka-aquarium-kaiyukan",
+    "kind": "sight",
+    "name_ko": "오사카 해유관"
+  },
+  {
+    "id": "pl_4529d39c44",
+    "code": "JP-OSA-S-0008",
+    "slug": "abeno-harukas",
+    "kind": "sight",
+    "name_ko": "아베노 하루카스"
+  },
+  {
+    "id": "pl_47f16de701",
+    "code": "JP-OSA-S-0009",
+    "slug": "nakanoshima-park",
+    "kind": "sight",
+    "name_ko": "나카노시마 공원"
+  },
+  {
+    "id": "pl_f4eb27140a",
+    "code": "JP-OSA-S-0010",
+    "slug": "shinsekai",
+    "kind": "sight",
+    "name_ko": "신세카이"
+  },
+  {
+    "id": "pl_b32f7dd15c",
+    "code": "JP-OSA-S-0011",
+    "slug": "universal-studios-japan",
+    "kind": "sight",
+    "name_ko": "유니버설 스튜디오 재팬"
+  },
+  {
+    "id": "pl_4595283b25",
+    "code": "JP-OSA-S-0012",
+    "slug": "osaka-museum-of-history",
+    "kind": "sight",
+    "name_ko": "오사카 역사박물관"
+  },
+  {
+    "id": "pl_5432fb7266",
+    "code": "JP-OSA-S-0013",
+    "slug": "osaka-science-museum",
+    "kind": "sight",
+    "name_ko": "오사카 과학관"
+  },
+  {
+    "id": "pl_0f89df0b7e",
+    "code": "JP-OSA-S-0014",
+    "slug": "national-museum-of-art-osaka",
+    "kind": "sight",
+    "name_ko": "국립국제미술관"
+  },
+  {
+    "id": "pl_75a0094f87",
+    "code": "JP-OSA-S-0015",
+    "slug": "museum-of-oriental-ceramics-osaka",
+    "kind": "sight",
+    "name_ko": "오사카시립 동양도자미술관"
+  },
+  {
+    "id": "pl_e1e31c5385",
+    "code": "JP-OSA-S-0016",
+    "slug": "expo-70-commemorative-park",
+    "kind": "sight",
+    "name_ko": "만국박람회 기념공원"
+  },
+  {
+    "id": "pl_edb7536e02",
+    "code": "JP-OSA-S-0017",
+    "slug": "osaka-tenmangu",
+    "kind": "sight",
+    "name_ko": "오사카 텐만구"
+  },
+  {
+    "id": "pl_641a0210be",
+    "code": "JP-OSA-S-0018",
+    "slug": "namba-yasaka-shrine",
+    "kind": "sight",
+    "name_ko": "난바 야사카 신사"
+  },
+  {
+    "id": "pl_4ab774b153",
+    "code": "JP-OSA-S-0019",
+    "slug": "imamiya-ebisu-shrine",
+    "kind": "sight",
+    "name_ko": "이마미야 에비스 신사"
+  },
+  {
+    "id": "pl_19441e47c8",
+    "code": "JP-OSA-S-0020",
+    "slug": "tennoji-zoo",
+    "kind": "sight",
+    "name_ko": "덴노지 동물원"
+  },
+  {
+    "id": "pl_96f954ffd8",
+    "code": "JP-OSA-S-0021",
+    "slug": "tennoji-park",
+    "kind": "sight",
+    "name_ko": "덴노지 공원"
+  },
+  {
+    "id": "pl_b0c45e1066",
+    "code": "JP-OSA-S-0022",
+    "slug": "spa-world",
+    "kind": "sight",
+    "name_ko": "스파월드"
+  },
+  {
+    "id": "pl_c66acaed38",
+    "code": "JP-OSA-S-0023",
+    "slug": "tempozan-giant-ferris-wheel",
+    "kind": "sight",
+    "name_ko": "덴포잔 대관람차"
+  },
+  {
+    "id": "pl_aee2463835",
+    "code": "JP-OSA-S-0024",
+    "slug": "osaka-city-central-public-hall",
+    "kind": "sight",
+    "name_ko": "오사카 시중앙공회당"
+  },
+  {
+    "id": "pl_d8410ec64e",
+    "code": "JP-OSA-S-0026",
+    "slug": "hirakata-park",
+    "kind": "sight",
+    "name_ko": "히라카타 파크"
+  },
+  {
+    "id": "pl_f4f8d6ccb8",
+    "code": "JP-OSA-S-0027",
+    "slug": "hozenji-yokocho",
+    "kind": "sight",
+    "name_ko": "호젠지 요코초"
+  },
+  {
+    "id": "pl_659a4268d4",
+    "code": "JP-OSA-S-0028",
+    "slug": "cupnoodles-museum-osaka-ikeda",
+    "kind": "sight",
+    "name_ko": "컵누들 박물관 오사카 이케다"
+  },
+  {
+    "id": "pl_b9024861fa",
+    "code": "JP-OSA-S-0029",
+    "slug": "minoo-park",
+    "kind": "sight",
+    "name_ko": "미노오 공원"
+  },
+  {
+    "id": "pl_f7be50174d",
+    "code": "JP-OSA-T-0001",
+    "slug": "osaka-station",
+    "kind": "transit",
+    "name_ko": "오사카역"
+  },
+  {
+    "id": "pl_6d1d95b4f6",
+    "code": "JP-OSA-T-0002",
+    "slug": "shin-osaka-station",
+    "kind": "transit",
+    "name_ko": "신오사카역"
+  },
+  {
+    "id": "pl_26b2edf0f5",
+    "code": "JP-OSA-T-0003",
+    "slug": "osaka-namba-station",
+    "kind": "transit",
+    "name_ko": "오사카난바역"
+  },
+  {
+    "id": "pl_98425acae7",
+    "code": "JP-OSA-T-0004",
+    "slug": "tennoji-station",
+    "kind": "transit",
+    "name_ko": "덴노지역"
+  },
+  {
+    "id": "pl_990fa93415",
+    "code": "JP-OSA-T-0005",
+    "slug": "kansai-international-airport",
+    "kind": "transit",
+    "name_ko": "간사이 국제공항"
+  },
+  {
+    "id": "pl_366505e9df",
+    "code": "JP-OSA-T-0006",
+    "slug": "osaka-international-airport",
+    "kind": "transit",
+    "name_ko": "오사카 이타미 공항"
+  }
+]

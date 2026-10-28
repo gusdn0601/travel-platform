@@ -1,0 +1,82 @@
+{
+  "id": "pl_f8b45d7a0c",
+  "code": "JP-NAR-F-0002",
+  "city_id": "JP-NAR",
+  "slug": "shizuka-kamameshi",
+  "kind": "food",
+  "name_ko": "시즈카(카마메시)",
+  "name_sub": "Shizuka Park",
+  "name_local": "志津香 公園店",
+  "lat": 34.68432,
+  "lng": 135.83694,
+  "area": "나라 공원",
+  "lead": "나라 공원 앞에서 카마메시(솥밥)를 내는 집. 웨이팅으로 입소문이 난 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "카마메시 전문점"
+    ],
+    [
+      "대표",
+      "카마메시"
+    ],
+    [
+      "위치",
+      "도다이지·공원 인근"
+    ]
+  ],
+  "origin": [
+    "시즈카는 나라에서 카마메시를 대표하는 집으로 알려져 있어요.",
+    "작은 솥에 쌀과 재료를 담아 불에 올려 정해진 시간 익혀 내는 방식이에요.",
+    "갓 지은 밥과 눌은 밥을 함께 즐기도록 순서 안내가 붙어 있는 것으로 소개돼요.",
+    "점심에는 대기가 길어 이름을 적고 기다리는 방식인 경우가 많아요."
+  ],
+  "practical": [
+    "점심 대기 김",
+    "이름 적고 대기"
+  ],
+  "tip": "오픈 시간에 맞춰 가면 대기를 줄일 수 있어요.",
+  "order": [
+    "<b>奈良定食</b> 나라 정식 카마메시",
+    "<b>かに飯</b> 게 카마메시"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,500~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "카마메시",
+    "나라 공원",
+    "줄서기"
+  ],
+  "art_key": "food",
+  "local_search": "志津香 公園店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/344610862"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 대표 카마메시로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:50.081Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pl_66bb791000",
+  "code": "JP-FUK-S-0040",
+  "city_id": "JP-FUK",
+  "slug": "munakata-taisha",
+  "kind": "sight",
+  "name_ko": "무나카타 대사",
+  "name_sub": "Munakata Taisha",
+  "name_local": "宗像大社",
+  "lat": 33.83139,
+  "lng": 130.51389,
+  "area": "근교(무나카타)",
+  "lead": "바다의 신을 모신 신사로, 오키노시마와 관련 유산군이 세계유산에 등재된 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "제신",
+      "세 여신"
+    ],
+    [
+      "유산",
+      "‘신이 머무는 섬 오키노시마’ 관련 유산"
+    ],
+    [
+      "위치",
+      "무나카타"
+    ]
+  ],
+  "origin": [
+    "무나카타 대사는 바다 건너 대륙과 교류하던 고대 일본에서 항해의 안전을 비는 신으로 모셔져 온 신사예요.",
+    "오키노시마는 일반인의 상륙이 엄격히 제한되어 ‘신이 머무는 섬’으로 불리며, 그와 관련된 유산군이 2017년 세계유산에 등재되었다고 알려져 있어요.",
+    "한국과의 해상 교류사와 맞닿아 있어 역사 여행으로도 흥미로워요."
+  ],
+  "practical": [
+    "JR+버스 환승으로 약 1시간 안팎",
+    "보물관에서 오키노시마 출토품 일부 전시"
+  ],
+  "tip": "자동차로 이동하면 신사 인근 다른 명소와 함께 돌기 쉬워요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(보물관 별도)",
+  "must": 0,
+  "tags": [
+    "신사",
+    "세계유산",
+    "바다의신"
+  ],
+  "art_key": "shrine",
+  "local_search": "宗像大社",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Munakata_Taisha",
+    "https://ja.wikipedia.org/wiki/%E5%AE%97%E5%83%8F%E5%A4%A7%E7%A4%BE"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 규슈 신사 · 세계유산로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:48.514Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pl_d96d86b0a4",
+  "code": "JP-FUK-F-0001",
+  "city_id": "JP-FUK",
+  "slug": "ichiran-honten",
+  "kind": "food",
+  "name_ko": "이치란 본점",
+  "name_sub": "Ichiran Honten",
+  "name_local": "一蘭 本社総本店",
+  "lat": 33.59322,
+  "lng": 130.40464,
+  "area": "나카스",
+  "lead": "칸막이 1인석(맛 집중 카운터)에서 라멘만 마주하는 집. 한국 여행객에게 사실상 후쿠오카 첫 라멘으로 꼽혀요.",
+  "facts": [
+    [
+      "종류",
+      "하카타 돈코츠 라멘"
+    ],
+    [
+      "특징",
+      "1인 칸막이 좌석, 주문지로 맛 조절"
+    ],
+    [
+      "위치",
+      "나카스"
+    ],
+    [
+      "시작",
+      "후쿠오카 발상"
+    ]
+  ],
+  "origin": [
+    "이치란은 1960년 후쿠오카에서 돈코츠 라멘 가게로 시작했다고 알려져 있어요.",
+    "사람 눈을 의식하지 않고 맛에만 집중하게 한다는 발상으로 칸막이 좌석을 도입했고, 점원과 얼굴을 마주치지 않고 주문지로 면 굵기·맛 농도·매운 정도를 고르는 방식이 자리 잡았어요.",
+    "이 방식은 혼자 여행하는 사람에게도 부담이 적어 해외에서도 입소문이 났어요.",
+    "본점 격인 나카스 매장은 24시간 가까이 운영된다고 소개되는 때가 많아 늦은 밤 첫 끼로도 많이 찾아요."
+  ],
+  "practical": [
+    "주문지에 면 굵기·맛·마늘·파·매운 소스를 체크",
+    "식권 자판기 방식, 줄이 길면 대기 번호 확인",
+    "영업시간은 지점·시기별로 달라 출발 전 확인"
+  ],
+  "tip": "피크 시간대(저녁 7~9시)를 피하면 대기가 훨씬 짧아요.",
+  "order": [
+    "<b>天然とんこつラーメン</b> 기본 돈코츠 라멘",
+    "<b>替玉</b> 면 추가",
+    "<b>半熟塩ゆでたまご</b> 반숙 계란"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,200~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "돈코츠",
+    "1인석"
+  ],
+  "art_key": "noodle",
+  "local_search": "一蘭 本社総本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ichiran",
+    "https://ja.wikipedia.org/wiki/%E4%B8%80%E8%98%AD",
+    "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 대표 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:36.834Z"
+}

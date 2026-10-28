@@ -1,0 +1,66 @@
+{
+  "id": "pl_957a7edaf4",
+  "code": "JP-NAR-S-0023",
+  "city_id": "JP-NAR",
+  "slug": "man-yo-botanical-garden-nara",
+  "kind": "sight",
+  "name_ko": "만요 식물원",
+  "name_sub": "Man'yō Botanical Garden (Nara)",
+  "name_local": "萬葉植物園",
+  "lat": 34.68231,
+  "lng": 135.8445,
+  "area": "나라 공원",
+  "lead": "시 가인들이 읊은 식물을 모아 놓은 식물원. 계절 꽃이 잘 어울리는 산책로가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "식물원"
+    ],
+    [
+      "특징",
+      "시에 나오는 식물"
+    ],
+    [
+      "위치",
+      "가스가타이샤 경내"
+    ]
+  ],
+  "tip": "꽃 시기는 해마다 달라 개화 정보를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "식물원",
+    "꽃",
+    "가스가"
+  ],
+  "art_key": "garden",
+  "local_search": "萬葉植物園",
+  "photos": [
+    "JP-NAR-S-0023-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q3162376",
+    "https://en.wikipedia.org/wiki/Manyo_Botanical_Garden%2C_Nara",
+    "https://www.kasugataisha.or.jp/manyou-s/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "botanical garden in Nara, Nara, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:03:30.576Z"
+}

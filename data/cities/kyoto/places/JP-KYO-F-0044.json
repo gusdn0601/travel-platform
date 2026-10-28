@@ -1,0 +1,82 @@
+{
+  "id": "pl_38e1f38cfe",
+  "code": "JP-KYO-F-0044",
+  "city_id": "JP-KYO",
+  "slug": "grill-kobo",
+  "kind": "food",
+  "name_ko": "그릴 고보",
+  "name_sub": "Grill Kobo",
+  "name_local": "グリル小宝",
+  "lat": 35.01594,
+  "lng": 135.78479,
+  "area": "사쿄구",
+  "lead": "교토에서 오래된 양식당. 오므라이스와 비프카츠로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "양식당(요쇼쿠)"
+    ],
+    [
+      "대표",
+      "오므라이스"
+    ],
+    [
+      "위치",
+      "헤이안 신궁 인근"
+    ]
+  ],
+  "origin": [
+    "그릴 고보는 교토 사쿄 지역에서 오래 영업해 온 양식당이에요.",
+    "오므라이스와 비프카츠 같은 일본식 양식이 대표로 소개돼요.",
+    "현지 손님이 많아 점심에는 대기하는 경우가 있어요.",
+    "헤이안 신궁이나 철학의 길 일정과 묶기 좋아요."
+  ],
+  "practical": [
+    "점심 대기",
+    "현금 편함"
+  ],
+  "tip": "오픈 시간에 맞춰 가면 대기를 줄일 수 있어요.",
+  "order": [
+    "<b>オムライス</b> 오므라이스",
+    "<b>ビーフカツ</b> 비프카츠"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,500~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "요쇼쿠",
+    "오므라이스",
+    "노포"
+  ],
+  "art_key": "food",
+  "local_search": "グリル小宝",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/789396064"
+  ],
+  "meta": {
+    "priority": 34,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 요쇼쿠로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:30.996Z"
+}

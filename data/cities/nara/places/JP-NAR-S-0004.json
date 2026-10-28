@@ -1,0 +1,71 @@
+{
+  "id": "pl_90bac94496",
+  "code": "JP-NAR-S-0004",
+  "city_id": "JP-NAR",
+  "slug": "kofuku-ji-temple",
+  "kind": "sight",
+  "name_ko": "고후쿠지",
+  "name_sub": "Kōfuku-ji Temple",
+  "name_local": "興福寺",
+  "lat": 34.68321,
+  "lng": 135.8313,
+  "area": "나라 공원",
+  "lead": "5층탑이 상징인 사찰. 나라 공원에서 가까워 동선에 넣기 쉬워요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "5층탑, 국보관"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "710년"
+    ]
+  ],
+  "tip": "탑은 나라 시내 풍경의 표지처럼 보여 사진을 담기 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "국보관 입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "5층탑",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "興福寺",
+  "photos": [
+    "JP-NAR-S-0004-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1070863",
+    "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%9B%84%EC%BF%A0%EC%A7%80",
+    "https://en.wikipedia.org/wiki/K%C5%8Dfuku-ji",
+    "http://www.kohfukuji.com/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:12.192Z"
+}

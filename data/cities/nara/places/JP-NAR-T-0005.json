@@ -1,0 +1,83 @@
+{
+  "id": "pl_7ee29e49c6",
+  "code": "JP-NAR-T-0005",
+  "city_id": "JP-NAR",
+  "slug": "horyuji-station",
+  "kind": "transit",
+  "name_ko": "JR 호류지역",
+  "name_sub": "Hōryūji Station",
+  "name_local": "法隆寺駅",
+  "lat": 34.60162,
+  "lng": 135.73921,
+  "area": "교외(이카루가)",
+  "lead": "호류지로 가는 JR 역. 역에서 절까지는 버스나 걷기가 필요해요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "JR 야마토지선"
+    ],
+    [
+      "특징",
+      "호류지 접근역"
+    ]
+  ],
+  "origin": [
+    "호류지역은 JR 야마토지선에서 호류지로 가는 가장 가까운 역이에요.",
+    "역에서 절까지는 거리가 있어 버스나 걷기가 필요해요.",
+    "나라역에서도 오사카 방면에서도 접근할 수 있어요.",
+    "역 앞에 자전거 대여나 택시가 있는지 현장에서 확인하는 편이 좋아요."
+  ],
+  "practical": [
+    "역에서 도보 거리 있음",
+    "버스 시간 확인"
+  ],
+  "tip": "시간이 넉넉하면 걸어가며 마을 풍경을 보는 것도 좋아요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "구간 요금",
+  "must": 0,
+  "tags": [
+    "교통",
+    "JR",
+    "호류지"
+  ],
+  "art_key": "train",
+  "local_search": "法隆寺駅",
+  "photos": [
+    "JP-NAR-T-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/H%C5%8Dry%C5%ABji_Station",
+    "https://ja.wikipedia.org/wiki/%E6%B3%95%E9%9A%86%E5%AF%BA%E9%A7%85",
+    "https://www.openstreetmap.org/node/11513439795"
+  ],
+  "meta": {
+    "priority": 54,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 47,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "호류지 접근 동선(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:29.476Z"
+}

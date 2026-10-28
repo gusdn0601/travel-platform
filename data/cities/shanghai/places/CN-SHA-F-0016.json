@@ -1,0 +1,85 @@
+{
+  "id": "pl_6e92838e60",
+  "code": "CN-SHA-F-0016",
+  "city_id": "CN-SHA",
+  "slug": "wangbaohe",
+  "kind": "food",
+  "name_ko": "왕바오허 (王宝和酒家)",
+  "name_local": "王宝和酒家 福州路",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/푸저우루",
+  "lead": "가을 대갈게(털게) 시즌에 특히 이름이 오르는 노포. 게 요리는 10~12월이 제철이에요.",
+  "facts": [
+    [
+      "종류",
+      "본토식 · 게 요리"
+    ],
+    [
+      "시작",
+      "1744년(전승)"
+    ],
+    [
+      "시즌",
+      "10~12월 대갈게"
+    ],
+    [
+      "위치",
+      "푸저우루 인근"
+    ]
+  ],
+  "origin": [
+    "왕바오허는 18세기(1744년)에 시작됐다고 전해지는 노포로, 원래 소흥주를 파는 가게였다고 알려져요.",
+    "상하이로 온 뒤에는 가을 대갈게 요리로 이름을 얻었어요.",
+    "털게는 가을, 특히 10~12월에 살이 오르는 것으로 유명해요.",
+    "쪄서 먹는 방식과 소흥주, 생강차를 곁들이는 전통이 이어져요."
+  ],
+  "practical": [
+    "시즌엔 예약 필수",
+    "게는 차가운 성질이라 생강차를 곁들이는 풍습"
+  ],
+  "tip": "10월 말 일정이라면 게 시즌에 딱 맞아요. 크기별 가격을 먼저 확인하세요.",
+  "order": [
+    "<b>清蒸大闸蟹</b> 찐 대갈게",
+    "<b>蟹粉豆腐</b> 게살 두부",
+    "<b>黄酒</b> 소흥주"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 200~400위안 추정(게 요리 시즌 변동)",
+  "must": 0,
+  "tags": [
+    "대갈게",
+    "본토식",
+    "계절메뉴"
+  ],
+  "art_key": "basket",
+  "local_search": "王宝和酒家 福州路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chinese_mitten_crab",
+    "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E7%BB%92%E8%9E%AF%E8%9F%B9"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 대갈게 시즌 맛집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.073Z"
+}

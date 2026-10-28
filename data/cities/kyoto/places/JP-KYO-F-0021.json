@@ -1,0 +1,82 @@
+{
+  "id": "pl_03bd455df0",
+  "code": "JP-KYO-F-0021",
+  "city_id": "JP-KYO",
+  "slug": "yakiniku-hiro",
+  "kind": "food",
+  "name_ko": "쿄노 야키니쿠도코로 히로",
+  "name_sub": "Yakiniku Hiro",
+  "name_local": "京の焼肉処 弘",
+  "lat": 35.0097,
+  "lng": 135.77095,
+  "area": "시조/가와라마치",
+  "lead": "교토에서 고기를 직접 다루는 야키니쿠 집으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "야키니쿠"
+    ],
+    [
+      "특징",
+      "부위별 주문"
+    ],
+    [
+      "위치",
+      "시내 여러 지점"
+    ]
+  ],
+  "origin": [
+    "히로는 교토에서 고기 유통과 식당을 함께 하는 곳으로 알려져 있어요.",
+    "부위를 골라 구워 먹는 방식이고, 세트 메뉴도 있어요.",
+    "시내에 지점이 여러 곳 있어 동선에 맞춰 고르기 쉬워요.",
+    "저녁에는 예약이 필요한 경우가 많아요."
+  ],
+  "practical": [
+    "예약 권장",
+    "지점별 영업시간"
+  ],
+  "tip": "지점마다 분위기가 달라 목적에 맞춰 고르세요.",
+  "order": [
+    "<b>焼肉盛り合わせ</b> 모둠",
+    "<b>ユッケ</b> 육회"
+  ],
+  "open_hours": "Mo-Su 17:00-23:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "1인 4,000~7,000엔 추정",
+  "must": 0,
+  "tags": [
+    "야키니쿠",
+    "와규",
+    "예약"
+  ],
+  "art_key": "food",
+  "local_search": "京の焼肉処 弘",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/4568773790"
+  ],
+  "meta": {
+    "priority": 8,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 야키니쿠로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:03.510Z"
+}

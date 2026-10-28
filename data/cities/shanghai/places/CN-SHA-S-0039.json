@@ -1,0 +1,81 @@
+{
+  "id": "pl_28bc12e534",
+  "code": "CN-SHA-S-0039",
+  "city_id": "CN-SHA",
+  "slug": "zhujiajiao",
+  "kind": "sight",
+  "name_ko": "주자자오 (주가각) 수향마을",
+  "name_sub": "Zhujiajiao",
+  "name_local": "朱家角古镇",
+  "lat": 31.11278,
+  "lng": 121.05028,
+  "area": "근교 수향마을(칭푸)",
+  "lead": "상하이 도심에서 1시간 안팎이면 닿는 운하 마을. 돌다리와 나룻배, 골목 간식을 반나절에 즐길 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "수향 고진"
+    ],
+    [
+      "대표",
+      "방생교(1571년)"
+    ],
+    [
+      "거리",
+      "도심에서 약 1시간 안팎"
+    ],
+    [
+      "즐길 거리",
+      "나룻배, 골목 간식"
+    ]
+  ],
+  "origin": [
+    "주자자오는 상하이 서쪽 칭푸구에 있는 옛 운하 마을이에요.",
+    "강남 지역의 수로를 따라 형성된 물길이 마을을 가르고, 돌다리가 여럿 놓여 있어요.",
+    "대표 다리인 방생교는 1571년 명대에 세워진 것으로 전해져요.",
+    "청나라 시기엔 쌀과 곡물 거래로 번성한 상업 마을이었고, 지금은 옛 모습을 유지하면서 관광 명소로 개발되었어요."
+  ],
+  "tip": "평일 오전에 가면 한적해요. 상하이 도심에서 지하철 17호선 종점 근처에서 가깝고, 택시·디디 이용도 쉬워요.",
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 240,
+  "price_hint": "고진 입장 무료(일부 유료 명소 별도, 추정)",
+  "must": 0,
+  "tags": [
+    "수향마을",
+    "당일치기",
+    "운하"
+  ],
+  "art_key": "water",
+  "local_search": "朱家角古镇",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zhujiajiao",
+    "https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%AE%B6%E8%A7%92%E9%95%87",
+    "https://www.openstreetmap.org/relation/21610209"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 409,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.945Z"
+}

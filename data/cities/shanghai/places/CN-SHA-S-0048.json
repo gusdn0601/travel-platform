@@ -1,0 +1,76 @@
+{
+  "id": "pl_13cb80d307",
+  "code": "CN-SHA-S-0048",
+  "city_id": "CN-SHA",
+  "slug": "hongmei-korean-street",
+  "kind": "sight",
+  "name_ko": "홍메이루 한국거리 (한인타운)",
+  "name_sub": "Hongmei Road Korean Street",
+  "name_local": "虹梅路韩国街",
+  "lat": null,
+  "lng": null,
+  "area": "민항구/구베이",
+  "lead": "상하이 최대 규모로 알려진 한인 상권. 한식당·치킨·노래방 간판이 한글로 이어져요.",
+  "facts": [
+    [
+      "성격",
+      "한인 상권 · 한식 거리"
+    ],
+    [
+      "구역",
+      "민항구 홍메이루 일대"
+    ],
+    [
+      "접근",
+      "지하철 10호선 허촨루 일대에서 택시"
+    ],
+    [
+      "분위기",
+      "한글 간판 · 야식"
+    ]
+  ],
+  "origin": [
+    "상하이에는 1990년대 이후 한국 기업과 가족이 모여 사는 한인 거주 지역이 생겨났어요.",
+    "민항구 홍메이루와 구베이 지역이 대표적으로, 한식당과 슈퍼마켓, 학원이 한글 간판으로 늘어서 있어요.",
+    "여행자에게는 한국 음식이 그리울 때 선택지가 많은 구역이에요."
+  ],
+  "tip": "개별 가게 영업은 자주 바뀌어요. 방문 직전에 현지 지도 앱으로 영업 여부를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "식당별 상이",
+  "must": 0,
+  "tags": [
+    "한식",
+    "한인타운",
+    "야식"
+  ],
+  "art_key": "street",
+  "local_search": "虹梅路韩国街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ko.wikipedia.org/wiki/%EC%83%81%ED%95%98%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Koreans_in_Shanghai"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어권 상하이 정보에서 한식 먹거리·한인 생활 거점으로 반복 언급(수집가 판단, 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.969Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "pl_9836747b9f",
+  "code": "JP-KYO-S-0053",
+  "city_id": "JP-KYO",
+  "slug": "toei-kyoto-studio-park",
+  "kind": "sight",
+  "name_ko": "도에이 교토 촬영소",
+  "name_sub": "Toei Kyoto Studio Park",
+  "name_local": "東映太秦映画村",
+  "lat": 35.016,
+  "lng": 135.708,
+  "area": "우쿄구",
+  "lead": "에도 시대 거리를 재현한 영화 촬영소 테마파크. 닌자·사무라이 체험이 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "테마파크"
+    ],
+    [
+      "특징",
+      "시대극 세트"
+    ],
+    [
+      "위치",
+      "우즈마사"
+    ]
+  ],
+  "origin": [
+    "도에이 교토 촬영소는 시대극 영화·드라마를 찍는 촬영 세트를 관광객에게 공개한 곳으로 알려져 있어요.",
+    "닌자 쇼와 의상 체험이 대표 콘텐츠라고 소개돼요.",
+    "가족 여행객이나 일본 시대극에 관심 있는 사람에게 어울려요."
+  ],
+  "practical": [
+    "쇼 시간표 현장 확인"
+  ],
+  "tip": "어린이 동반 일정으로 좋아요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "촬영소",
+    "체험",
+    "닌자"
+  ],
+  "art_key": "themepark",
+  "local_search": "東映太秦映画村",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Toei_Kyoto_Studio_Park",
+    "https://www.openstreetmap.org/relation/11500276"
+  ],
+  "meta": {
+    "priority": 38,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 55,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 가족 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:39.156Z"
+}

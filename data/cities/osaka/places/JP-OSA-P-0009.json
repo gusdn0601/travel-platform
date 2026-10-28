@@ -1,0 +1,72 @@
+{
+  "id": "pl_490dc471e7",
+  "code": "JP-OSA-P-0009",
+  "city_id": "JP-OSA",
+  "slug": "yodobashi-umeda",
+  "kind": "shop",
+  "name_ko": "요도바시 우메다",
+  "name_sub": "Yodobashi Umeda",
+  "name_local": "ヨドバシ梅田",
+  "addr_local": "大阪府 大阪市 北区 大深町 1 1",
+  "lat": 34.70419,
+  "lng": 135.49631,
+  "area": "우메다",
+  "lead": "오사카역 앞의 초대형 전자·잡화 쇼핑몰. 전자제품과 화장품, 완구까지 한곳에서 둘러볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "대형 매장"
+    ],
+    [
+      "위치",
+      "오사카역 북쪽"
+    ],
+    [
+      "특징",
+      "전자·완구·화장품"
+    ],
+    [
+      "연도(Wikidata)",
+      "2001년"
+    ]
+  ],
+  "tip": "면세 가능 여부와 조건은 매장 안내를 확인하세요.",
+  "open_hours": "Mo-Su 09:30-22:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "전자",
+    "우메다"
+  ],
+  "art_key": "market",
+  "local_search": "ヨドバシ梅田",
+  "photos": [
+    "JP-OSA-P-0009-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11346101",
+    "https://www.openstreetmap.org/node/6991502502",
+    "https://www.yodobashi.com/ec/store/0081/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 5,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": null,
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:31.405Z"
+}

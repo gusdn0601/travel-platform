@@ -1,0 +1,87 @@
+{
+  "id": "pl_c67a01d365",
+  "code": "JP-FUK-S-0033",
+  "city_id": "JP-FUK",
+  "slug": "yanagawa-donko-boat",
+  "kind": "sight",
+  "name_ko": "야나가와 뱃놀이",
+  "name_sub": "Yanagawa River Cruise",
+  "name_local": "柳川川下り",
+  "lat": 33.16306,
+  "lng": 130.40583,
+  "area": "근교(야나가와)",
+  "lead": "성하 마을을 가로지르는 수로를 사공이 노 저어 가는 작은 배(돈코부네)로 유람하는 코스.",
+  "facts": [
+    [
+      "종류",
+      "수로 유람"
+    ],
+    [
+      "소요",
+      "약 50~70분"
+    ],
+    [
+      "위치",
+      "야나가와 시내"
+    ],
+    [
+      "곁들임",
+      "장어 찜(세이로무시)"
+    ]
+  ],
+  "origin": [
+    "야나가와는 성을 중심으로 사방에 수로가 뻗은 물의 도시로, 옛 성하 마을의 모습이 남아 있어요.",
+    "돈코부네는 이 수로를 따라 사공이 노래를 곁들여 배를 모는 유람선이에요.",
+    "시인 기타하라 하쿠슈의 고향으로도 알려져 있어 문학 산책 코스와 함께 소개되곤 해요.",
+    "점심으로는 장어 세이로무시를 곁들이는 일정이 흔해요."
+  ],
+  "practical": [
+    "니시테쓰 덴진역에서 전철로 약 1시간",
+    "봄 벚꽃·여름 신록 시즌 인기",
+    "승선권은 현장 구입 가능"
+  ],
+  "tip": "뱃놀이 후 점심을 먹으려면 시간대를 잡고 예약하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "뱃놀이 약 1,800~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "야나가와",
+    "수로",
+    "뱃놀이",
+    "장어"
+  ],
+  "art_key": "boat",
+  "local_search": "柳川川下り",
+  "photos": [
+    "JP-FUK-S-0033-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yanagawa%2C_Fukuoka",
+    "https://ja.wikipedia.org/wiki/%E6%9F%B3%E5%B7%9D%E5%B8%82"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 규슈 수로 마을로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:36.532Z"
+}

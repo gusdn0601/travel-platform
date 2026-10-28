@@ -1,0 +1,81 @@
+{
+  "id": "pl_90e5a363a8",
+  "code": "CN-SHA-S-0033",
+  "city_id": "CN-SHA",
+  "slug": "ohel-moishe",
+  "kind": "sight",
+  "name_ko": "상하이 유태난민기념관",
+  "name_sub": "Shanghai Jewish Refugees Museum",
+  "name_local": "上海犹太难民纪念馆",
+  "lat": 31.25435,
+  "lng": 121.5092,
+  "area": "훙커우",
+  "lead": "2차 세계대전 때 나치를 피해 온 유대인 난민 2만여 명을 받아들인 상하이의 역사를 전하는 작은 기념관이에요.",
+  "facts": [
+    [
+      "건물",
+      "1927년 오헬 모이셰 유대교당"
+    ],
+    [
+      "주제",
+      "유대인 난민 이야기"
+    ],
+    [
+      "시기",
+      "1930~40년대"
+    ],
+    [
+      "위치",
+      "훙커우"
+    ]
+  ],
+  "origin": [
+    "1930~40년대 유럽에서 박해를 피해 많은 유대인이 상하이로 건너왔어요.",
+    "이 도시는 비자 없이도 입국이 가능한 몇 안 되는 곳이었다고 알려져 있어요.",
+    "난민들은 훙커우 일대에 모여 살았고 오헬 모이셰 유대교당은 그 중심이었어요.",
+    "지금은 당시 사진과 자료를 전시하는 기념관으로 쓰여 도시의 또 다른 역사를 보여 줘요."
+  ],
+  "tip": "규모가 크지 않아 1시간 안팎이면 충분해요. 윤봉길 의거지(루쉰공원)와 같은 훙커우 일정으로 묶기 좋아요.",
+  "open_hours": "09:00-16:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 소액(추정)",
+  "must": 0,
+  "tags": [
+    "역사",
+    "박물관",
+    "2차대전"
+  ],
+  "art_key": "museum",
+  "local_search": "上海犹太难民纪念馆",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Jewish_Refugees_Museum",
+    "https://zh.wikipedia.org/wiki/%E6%91%A9%E8%A5%BF%E4%BC%9A%E5%A0%82",
+    "https://www.openstreetmap.org/way/206608461"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 461,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.931Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pl_9f98eb0cde",
+  "code": "JP-KYO-F-0025",
+  "city_id": "JP-KYO",
+  "slug": "junsei",
+  "kind": "food",
+  "name_ko": "준세이 본점",
+  "name_sub": "Junsei",
+  "name_local": "順正 本店",
+  "lat": 35.01138,
+  "lng": 135.78992,
+  "area": "사쿄구",
+  "lead": "난젠지 앞에서 유바 요리를 내는 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "유바 요리"
+    ],
+    [
+      "특징",
+      "정원과 건물"
+    ],
+    [
+      "위치",
+      "난젠지 앞"
+    ]
+  ],
+  "origin": [
+    "준세이는 난젠지 근처에서 유바(두부 껍질) 요리를 내는 집이에요.",
+    "두유를 데워 표면에 생긴 막을 건져 먹는 방식이 대표로 소개돼요.",
+    "건물과 정원이 오래된 모습을 남기고 있어 식사와 구경을 함께 할 수 있어요.",
+    "코스 요리라 시간이 넉넉해야 해요."
+  ],
+  "practical": [
+    "예약 권장",
+    "코스 위주"
+  ],
+  "tip": "난젠지 관람 전후로 시간을 넉넉히 잡으세요.",
+  "order": [
+    "<b>湯葉コース</b> 유바 코스"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 3,500엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "유바",
+    "난젠지",
+    "정원"
+  ],
+  "art_key": "food",
+  "local_search": "順正 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/292177739"
+  ],
+  "meta": {
+    "priority": 23,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 유바 요리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:10.561Z"
+}

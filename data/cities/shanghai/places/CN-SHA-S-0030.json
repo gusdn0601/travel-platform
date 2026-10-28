@@ -1,0 +1,80 @@
+{
+  "id": "pl_7556589f64",
+  "code": "CN-SHA-S-0030",
+  "city_id": "CN-SHA",
+  "slug": "power-station-art",
+  "kind": "sight",
+  "name_ko": "당대예술박물관 (파워 스테이션 오브 아트)",
+  "name_sub": "Power Station of Art",
+  "name_local": "上海当代艺术博物馆",
+  "lat": 31.201,
+  "lng": 121.4979,
+  "area": "황푸강변(난스)",
+  "lead": "화력발전소를 개조한 중국 최초 국립 현대미술관. 굴뚝이 그대로 남은 외관이 인상적이에요.",
+  "facts": [
+    [
+      "전신",
+      "난스 발전소"
+    ],
+    [
+      "엑스포",
+      "2010 상하이 엑스포 미래관"
+    ],
+    [
+      "개관",
+      "2012년"
+    ],
+    [
+      "특징",
+      "굴뚝 · 산업 건축"
+    ]
+  ],
+  "origin": [
+    "이 건물은 원래 난스 발전소로, 오랫동안 상하이에 전기를 공급하던 산업 시설이었어요.",
+    "2010년 상하이 엑스포 때 도시 미래관으로 쓰인 뒤 2012년 현대미술관으로 개관했어요.",
+    "상하이 비엔날레 같은 큰 전시가 열리고, 옛 굴뚝이 그대로 남아 있어 산업 유산을 문화 공간으로 바꾼 대표 사례로 꼽혀요."
+  ],
+  "tip": "전시 일정에 따라 분위기가 많이 달라져요. 방문 전 현재 전시를 확인하세요.",
+  "open_hours": "Tu-Su 11:00-19:00 (OSM)",
+  "stay_min": 120,
+  "price_hint": "기획전별 상이(추정)",
+  "must": 0,
+  "tags": [
+    "현대미술",
+    "산업유산",
+    "전시"
+  ],
+  "art_key": "museum",
+  "local_search": "上海当代艺术博物馆",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Power_Station_of_Art",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86",
+    "https://www.openstreetmap.org/way/298132744"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 444,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.923Z"
+}

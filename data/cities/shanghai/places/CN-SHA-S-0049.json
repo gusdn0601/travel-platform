@@ -1,0 +1,76 @@
+{
+  "id": "pl_688160f4d4",
+  "code": "CN-SHA-S-0049",
+  "city_id": "CN-SHA",
+  "slug": "dongtai-road-antiques",
+  "kind": "sight",
+  "name_ko": "둥타이루 골동품 거리",
+  "name_sub": "Dongtai Road Antiques Market",
+  "name_local": "东台路古玩市场",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/라오시먼",
+  "lead": "골동품·옛 기념품 가게가 모인 짧은 골목. 구경만 해도 상하이 옛 분위기를 느낄 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "골동·소품 거리"
+    ],
+    [
+      "위치",
+      "라오시먼 인근"
+    ],
+    [
+      "주의",
+      "진품 여부 확인 어려움"
+    ],
+    [
+      "구매",
+      "흥정 문화"
+    ]
+  ],
+  "origin": [
+    "둥타이루는 라오시먼(옛 성곽 외곽) 일대에 형성된 소규모 골동품 골목이에요.",
+    "가게마다 옛 포스터, 도자기, 마오쩌둥 기념품 등이 쌓여 있어요.",
+    "대부분 오래된 물건처럼 만든 복제품도 섞여 있으므로 구경하는 재미를 중심으로 접근하는 편이 좋아요."
+  ],
+  "tip": "가격을 먼저 절반 이하로 흥정해 보세요. 고가 골동 구매는 신중히.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매는 흥정, 가짜·모조 주의)",
+  "must": 0,
+  "tags": [
+    "골동",
+    "기념품",
+    "시장"
+  ],
+  "art_key": "street",
+  "local_search": "东台路古玩市场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8F%B0%E8%B7%AF",
+    "https://en.wikipedia.org/wiki/Shanghai"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.971Z"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pl_20e6d28ae1",
+  "code": "JP-KYO-S-0064",
+  "city_id": "JP-KYO",
+  "slug": "adashino-nenbutsuji",
+  "kind": "sight",
+  "name_ko": "아다시노 넨부쓰지",
+  "name_sub": "Adashino Nenbutsu-ji",
+  "name_local": "化野念仏寺",
+  "lat": 35.02681,
+  "lng": 135.66452,
+  "area": "아라시야마",
+  "lead": "무수한 석불이 늘어선 경내와 대나무 길로 알려진 사찰이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "석불·석탑"
+    ],
+    [
+      "위치",
+      "사가노 북쪽"
+    ]
+  ],
+  "origin": [
+    "아다시노는 예로부터 망자를 장사 지내던 곳이라는 전승이 전해져요.",
+    "흩어져 있던 석불을 모아 모신 경내는 숙연한 분위기로 알려져 있어요.",
+    "여름 저녁에는 촛불을 밝히는 행사가 알려져 있으며, 사가노 북쪽 한적한 코스로 소개돼요."
+  ],
+  "practical": [
+    "행사일 혼잡"
+  ],
+  "tip": "사가노 북쪽 한적한 코스에 어울려요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "석불",
+    "대나무"
+  ],
+  "art_key": "temple",
+  "local_search": "化野念仏寺",
+  "photos": [
+    "JP-KYO-S-0064-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adashino_Nenbutsu-ji",
+    "https://www.openstreetmap.org/node/2854304815"
+  ],
+  "meta": {
+    "priority": 22,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 16,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 조용한 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:11:03.172Z"
+}

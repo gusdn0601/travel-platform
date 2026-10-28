@@ -1,0 +1,83 @@
+{
+  "id": "pl_c01b52b607",
+  "code": "JP-FUK-F-0023",
+  "city_id": "JP-FUK",
+  "slug": "hakata-torimon-meigetsudo",
+  "kind": "food",
+  "name_ko": "하카타 토리몬 (메이게츠도)",
+  "name_sub": "Hakata Torimon",
+  "name_local": "博多通りもん 明月堂",
+  "lat": null,
+  "lng": null,
+  "area": "하카타",
+  "lead": "하카타를 대표하는 선물 과자. 팥 소와 연유 크림이 든 부드러운 반죽이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "선물 과자"
+    ],
+    [
+      "특징",
+      "밀크 풍미의 부드러운 반죽과 팥소"
+    ],
+    [
+      "위치",
+      "하카타역·공항 등"
+    ],
+    [
+      "보관",
+      "실온(포장 기준)"
+    ]
+  ],
+  "origin": [
+    "하카타 토리몬은 팥소와 연유 풍미의 반죽을 결합한 선물 과자로 하카타역·후쿠오카 공항에서 쉽게 구할 수 있어요.",
+    "이름은 하카타 거리의 이름을 따 붙였다고 알려져 있어요.",
+    "출시 이후 후쿠오카 선물 과자로 자리 잡아 한국 여행객이 가장 많이 사 가는 품목으로 꼽혀요."
+  ],
+  "practical": [
+    "하카타역 지하에서 구입 가능",
+    "공항에서도 구입 가능"
+  ],
+  "tip": "짐이 부담스럽다면 공항에서 사세요.",
+  "order": [
+    "<b>博多通りもん</b> 하카타 토리몬"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "10개 1,200~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "선물",
+    "화과자",
+    "과자"
+  ],
+  "art_key": "dessert",
+  "local_search": "博多通りもん 明月堂",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%9C%88%E5%A0%82",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E9%80%9A%E3%82%8A%E3%82%82%E3%82%93"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 선물 과자로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:12.396Z"
+}

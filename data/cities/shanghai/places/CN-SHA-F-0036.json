@@ -1,0 +1,83 @@
+{
+  "id": "pl_3e04fc4b3b",
+  "code": "CN-SHA-F-0036",
+  "city_id": "CN-SHA",
+  "slug": "shengjian-street",
+  "kind": "food",
+  "name_ko": "아침식사 골목 투어 (또우장·유탸오·간빙)",
+  "name_local": "早餐 豆浆 油条 上海",
+  "lat": null,
+  "lng": null,
+  "area": "도심 곳곳",
+  "lead": "현지식 아침식사를 가볍게 경험하는 유형 항목. 또우장(두유)과 유탸오(꽈배기)가 기본이에요.",
+  "facts": [
+    [
+      "성격",
+      "유형 항목(아침 먹거리)"
+    ],
+    [
+      "대표",
+      "또우장·유탸오·찹쌀 주먹밥"
+    ],
+    [
+      "시간대",
+      "이른 아침"
+    ],
+    [
+      "가격",
+      "저렴(추정)"
+    ]
+  ],
+  "origin": [
+    "중국의 전통 아침 식사는 따뜻한 두유(豆浆)와 튀긴 꽈배기(油条) 조합이 중심이에요.",
+    "상하이는 여기에 찹쌀 주먹밥(粢饭团)과 생젠, 완탕 같은 가벼운 음식이 더해져요.",
+    "호텔 조식 대신 동네 가게를 찾아가면 현지 아침 풍경을 느낄 수 있어요."
+  ],
+  "practical": [
+    "이른 시간 방문"
+  ],
+  "tip": "특정 가게가 아닌 유형 항목이에요. 숙소 근처 간판 있는 아침가게를 찾아보세요.",
+  "order": [
+    "<b>豆浆</b> 두유",
+    "<b>油条</b> 꽈배기",
+    "<b>粢饭团</b> 찹쌀 주먹밥"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 10~25위안 추정",
+  "must": 0,
+  "tags": [
+    "아침식사",
+    "길거리",
+    "또우장"
+  ],
+  "art_key": "street",
+  "local_search": "早餐 豆浆 油条 上海",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chinese_breakfast",
+    "https://zh.wikipedia.org/wiki/%E6%97%A9%E9%A4%90"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "업소별 인기는 확인하지 못함 — 유형 항목(수집가 메모)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.382Z"
+}

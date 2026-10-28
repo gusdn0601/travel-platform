@@ -1,0 +1,78 @@
+{
+  "id": "pl_3ac352c865",
+  "code": "JP-NAR-P-0001",
+  "city_id": "JP-NAR",
+  "slug": "nakagawa-masashichi-nara",
+  "kind": "shop",
+  "name_ko": "나카가와 마사시치 상점 나라 본점",
+  "name_sub": "Nakagawa Masashichi Shoten",
+  "name_local": "中川政七商店",
+  "lat": 34.68248,
+  "lng": 135.80501,
+  "area": "나라마치",
+  "lead": "나라에서 시작한 생활 공예 브랜드의 본점. 수건과 소품이 대표예요.",
+  "facts": [
+    [
+      "종류",
+      "생활 공예품점"
+    ],
+    [
+      "대표",
+      "마사시치 수건"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "나카가와 마사시치는 나라에서 18세기에 시작한 상점으로 알려져 있어요.",
+    "현재는 수건과 주방용품, 지역 공예품을 다루는 브랜드가 되었어요.",
+    "본점은 나라마치 쪽에 있어 기념품을 고르기 좋아요.",
+    "포장이 깔끔해 선물용으로 사는 사람이 많아요."
+  ],
+  "practical": [
+    "면세 여부 확인",
+    "포장 서비스"
+  ],
+  "tip": "작은 소품이 가볍고 선물하기 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "수건 1,000엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "공예",
+    "기념품",
+    "수건"
+  ],
+  "art_key": "shop",
+  "local_search": "中川政七商店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/9027380253"
+  ],
+  "meta": {
+    "priority": 23,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 기념품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:14.912Z"
+}

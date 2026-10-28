@@ -1,0 +1,73 @@
+{
+  "id": "pl_4d32f3c860",
+  "code": "JP-KYO-S-0023",
+  "city_id": "JP-KYO",
+  "slug": "kamigamo-shrine",
+  "kind": "sight",
+  "name_ko": "가미가모 신사",
+  "name_sub": "Kamigamo Shrine",
+  "name_local": "賀茂別雷神社",
+  "lat": 35.06051,
+  "lng": 135.75275,
+  "area": "기타구",
+  "lead": "교토에서 가장 오래된 신사 중 하나로 알려진 곳. 널찍한 경내가 차분해요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "특징",
+      "넓은 잔디 경내"
+    ],
+    [
+      "연도(Wikidata)",
+      "678년"
+    ]
+  ],
+  "tip": "시내 중심에서 조금 떨어져 있어 버스 이동 시간을 계산하세요.",
+  "open_hours": "Mo-Su 08:30-17:00 (OSM)",
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "세계유산",
+    "고요"
+  ],
+  "art_key": "shrine",
+  "local_search": "賀茂別雷神社",
+  "photos": [
+    "JP-KYO-S-0023-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q700448",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%AA%A8%EC%99%80%EC%BC%80%EC%9D%B4%EC%B9%B4%EC%A6%88%EC%B9%98_%EC%8B%A0%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Kamigamo_Shrine",
+    "https://www.openstreetmap.org/way/98106482",
+    "https://www.kamigamojinja.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 26,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Kita-ku, Kyōto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:19.419Z"
+}

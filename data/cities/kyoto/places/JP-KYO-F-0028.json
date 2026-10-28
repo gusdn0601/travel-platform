@@ -1,0 +1,81 @@
+{
+  "id": "pl_5d9f5ae739",
+  "code": "JP-KYO-F-0028",
+  "city_id": "JP-KYO",
+  "slug": "gontaro",
+  "kind": "food",
+  "name_ko": "곤타로 본점",
+  "name_sub": "Gontaro",
+  "name_local": "権太呂 本店",
+  "lat": 35.01377,
+  "lng": 135.78546,
+  "area": "나카교구",
+  "lead": "교토에서 우동과 교토 요리를 함께 내는 오래된 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "우동·일본 요리"
+    ],
+    [
+      "대표",
+      "우동·도부리"
+    ],
+    [
+      "위치",
+      "니시키 시장 인근"
+    ]
+  ],
+  "origin": [
+    "곤타로는 교토 시내에서 우동과 일본 요리를 함께 내는 집이에요.",
+    "두꺼운 유부가 들어간 우동과 조림 요리가 대표로 소개돼요.",
+    "점심에는 근처 직장인과 여행자가 함께 앉아요.",
+    "메뉴가 많아 고르기 좋아요."
+  ],
+  "practical": [
+    "점심 대기",
+    "메뉴 다양"
+  ],
+  "tip": "시장 구경 전후로 들르면 동선이 짧아요.",
+  "order": [
+    "<b>きつねうどん</b> 유부 우동"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,500~2,500엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "교토 요리",
+    "노포"
+  ],
+  "art_key": "noodle",
+  "local_search": "権太呂 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/289132189"
+  ],
+  "meta": {
+    "priority": 28,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 우동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:13.419Z"
+}

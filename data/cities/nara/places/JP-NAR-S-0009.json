@@ -1,0 +1,64 @@
+{
+  "id": "pl_11636d9ea2",
+  "code": "JP-NAR-S-0009",
+  "city_id": "JP-NAR",
+  "slug": "naramachi",
+  "kind": "sight",
+  "name_ko": "나라마치",
+  "name_sub": "Naramachi",
+  "name_local": "ならまち",
+  "lat": 34.67584,
+  "lng": 135.82998,
+  "area": "나라마치",
+  "lead": "옛 상인 마을의 격자창 건물이 남은 골목. 카페와 공방을 구경하며 걷기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전통 마을"
+    ],
+    [
+      "특징",
+      "마치야 건축"
+    ],
+    [
+      "위치",
+      "고후쿠지 남쪽"
+    ]
+  ],
+  "tip": "점포 휴무일이 제각각이니 방문 전에 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "골목",
+    "마치야",
+    "카페"
+  ],
+  "art_key": "lantern",
+  "local_search": "ならまち",
+  "photos": [
+    "JP-NAR-S-0009-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11274524"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:32.437Z"
+}

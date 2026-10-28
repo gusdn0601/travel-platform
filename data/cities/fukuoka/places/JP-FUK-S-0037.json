@@ -1,0 +1,84 @@
+{
+  "id": "pl_7e5a521e90",
+  "code": "JP-FUK-S-0037",
+  "city_id": "JP-FUK",
+  "slug": "sakurai-futamigaura",
+  "kind": "sight",
+  "name_ko": "사쿠라이 후타미가우라 (부부바위)",
+  "name_sub": "Sakurai Futamigaura",
+  "name_local": "桜井二見ヶ浦",
+  "lat": 33.55389,
+  "lng": 130.19778,
+  "area": "근교(이토시마)",
+  "lead": "바다 위에 선 부부바위와 흰 도리이가 어우러진 이토시마의 일몰 명소. 한국 SNS 인기 포토스팟이에요.",
+  "facts": [
+    [
+      "종류",
+      "해안 명소"
+    ],
+    [
+      "볼거리",
+      "부부바위·흰 도리이·일몰"
+    ],
+    [
+      "위치",
+      "이토시마 해안"
+    ],
+    [
+      "접근",
+      "차량 또는 버스 환승"
+    ]
+  ],
+  "origin": [
+    "이토시마는 후쿠오카 서쪽의 반도로, 바다와 산이 가까워 드라이브·카페 명소가 많아요.",
+    "후타미가우라는 두 바위를 금줄로 이은 부부바위가 바다에 서 있는 곳으로, 바닷가 신사의 흰 도리이와 함께 일몰 명소로 소개돼요.",
+    "해질녘 바위 사이로 노을이 지는 풍경이 인기여서 한국 여행객도 많이 찾아요."
+  ],
+  "practical": [
+    "후쿠오카 시내에서 차로 약 1시간",
+    "버스는 배차가 적어 시간표 확인",
+    "일몰 시각 확인"
+  ],
+  "tip": "자동차 렌트 또는 투어를 이용하면 이토시마 카페와 엮기 쉬워요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "이토시마",
+    "바다",
+    "일몰",
+    "신사"
+  ],
+  "art_key": "beach",
+  "local_search": "桜井二見ヶ浦",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Itoshima",
+    "https://ja.wikipedia.org/wiki/%E7%B3%B8%E5%B3%B6%E5%B8%82"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 이토시마 드라이브로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:42.807Z"
+}

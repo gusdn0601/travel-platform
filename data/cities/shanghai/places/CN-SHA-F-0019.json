@@ -1,0 +1,85 @@
+{
+  "id": "pl_f62d00915c",
+  "code": "CN-SHA-F-0019",
+  "city_id": "CN-SHA",
+  "slug": "guangmingcun",
+  "kind": "food",
+  "name_ko": "광밍춘 (光明邨大酒家)",
+  "name_local": "光明邨大酒家 淮海中路",
+  "lat": 31.2224,
+  "lng": 121.46316,
+  "area": "황푸/화이하이",
+  "lead": "현지인에게 친숙한 노포 식당. 아이스크림과 샤오룽바오, 본토 디저트로 간단히 즐겨요.",
+  "facts": [
+    [
+      "종류",
+      "현지 노포"
+    ],
+    [
+      "메뉴",
+      "아이스크림·샤오룽·딤섬"
+    ],
+    [
+      "분위기",
+      "캐주얼"
+    ],
+    [
+      "위치",
+      "황푸 지점"
+    ]
+  ],
+  "origin": [
+    "광밍춘은 상하이 사람들에게 아이스크림과 딤섬으로 친숙한 가게예요.",
+    "여러 지점이 있고 대표 지점은 시기마다 보도가 달라요.",
+    "본토식 요리부터 간식까지 다양한 메뉴를 한곳에서 경험할 수 있어요."
+  ],
+  "practical": [
+    "지점별 분위기 차이 있음"
+  ],
+  "tip": "아이스크림은 계절 한정 맛이 있을 수 있어요.",
+  "order": [
+    "<b>冰淇淋</b> 아이스크림",
+    "<b>蟹粉小笼</b> 게살 샤오룽바오"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 40~100위안 추정",
+  "must": 0,
+  "tags": [
+    "아이스크림",
+    "샤오룽",
+    "본토식"
+  ],
+  "art_key": "tart",
+  "local_search": "光明邨大酒家 淮海中路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C",
+    "https://www.openstreetmap.org/node/4580624892"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 현지 가성비 식당로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.075Z"
+}

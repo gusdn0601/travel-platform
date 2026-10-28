@@ -1,0 +1,69 @@
+{
+  "id": "pl_8ea436a95e",
+  "code": "JP-OSA-P-0004",
+  "city_id": "JP-OSA",
+  "slug": "hep",
+  "kind": "shop",
+  "name_ko": "HEP FIVE",
+  "name_sub": "HEP",
+  "name_local": "HEP",
+  "addr_local": "〒530-0017 大阪府 大阪市 北区 15",
+  "lat": 34.704,
+  "lng": 135.50045,
+  "area": "우메다",
+  "lead": "건물 위에 붉은 대관람차가 올라가 있는 우메다의 쇼핑몰. 관람차에서 시내가 내려다보여요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰 · 관람차"
+    ],
+    [
+      "위치",
+      "우메다"
+    ],
+    [
+      "대표",
+      "옥상 대관람차"
+    ],
+    [
+      "연도(Wikidata)",
+      "1998년"
+    ]
+  ],
+  "tip": "관람차 요금과 운행 시간은 공식 안내로 확인하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "관람차",
+    "우메다"
+  ],
+  "art_key": "skyline",
+  "local_search": "HEP",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q751156",
+    "https://ko.wikipedia.org/wiki/HEP_(%EC%87%BC%ED%95%91_%EC%84%BC%ED%84%B0)",
+    "https://en.wikipedia.org/wiki/HEP_(shopping_mall)"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "shopping mall",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:11.252Z"
+}

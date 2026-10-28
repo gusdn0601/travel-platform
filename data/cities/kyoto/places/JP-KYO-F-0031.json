@@ -1,0 +1,81 @@
+{
+  "id": "pl_8258d6e174",
+  "code": "JP-KYO-F-0031",
+  "city_id": "JP-KYO",
+  "slug": "menya-inoichi",
+  "kind": "food",
+  "name_ko": "멘야 이노이치",
+  "name_sub": "Menya Inoichi",
+  "name_local": "麺屋 猪一",
+  "lat": 35.00133,
+  "lng": 135.76695,
+  "area": "시조/가와라마치",
+  "lead": "교토 시내에서 줄이 길게 늘어서는 라멘집으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "맑은 간장 국물"
+    ],
+    [
+      "위치",
+      "시조 인근"
+    ]
+  ],
+  "origin": [
+    "이노이치는 교토 시내의 라멘집으로, 맑은 간장 국물과 정갈한 그릇으로 알려져 있어요.",
+    "좌석이 적어 대기 시간이 길어지는 날이 많아요.",
+    "오전과 오후 영업 사이에 쉬는 시간이 있어 방문 전 확인이 필요해요.",
+    "시장이나 가와라마치와 가까워 동선에 넣기 좋아요."
+  ],
+  "practical": [
+    "대기 김",
+    "브레이크 타임 있음"
+  ],
+  "tip": "오픈 직전에 가면 대기를 줄일 수 있어요.",
+  "order": [
+    "<b>支那そば</b> 시나소바"
+  ],
+  "open_hours": "Mo-Su 11:00-14:30,17:30-21:00 (OSM)",
+  "stay_min": 50,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "쇼유",
+    "줄서기"
+  ],
+  "art_key": "noodle",
+  "local_search": "麺屋 猪一",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/7374963085"
+  ],
+  "meta": {
+    "priority": 16,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 라멘 줄서기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:17.157Z"
+}

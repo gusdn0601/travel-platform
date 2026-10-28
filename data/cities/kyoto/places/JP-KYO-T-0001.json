@@ -1,0 +1,66 @@
+{
+  "id": "pl_44c62361ab",
+  "code": "JP-KYO-T-0001",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-station",
+  "kind": "transit",
+  "name_ko": "교토역",
+  "name_sub": "Kyōto Station",
+  "name_local": "京都駅",
+  "lat": 34.98556,
+  "lng": 135.75861,
+  "area": "교토역",
+  "lead": "신칸센·JR·지하철·사철이 모이는 교토의 관문 역. 대형 건물 안에 상점과 전망 공간이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "JR·신칸센 역"
+    ],
+    [
+      "연결",
+      "지하철 가라스마선, 긴테쓰"
+    ],
+    [
+      "용도",
+      "시내·근교 이동 거점"
+    ]
+  ],
+  "tip": "버스·전철 환승이 복잡해 일정 첫날에 이동 방식을 정해 두면 편해요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "JR",
+    "신칸센"
+  ],
+  "art_key": "train",
+  "local_search": "京都駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q801046",
+    "https://ko.wikipedia.org/wiki/%EA%B5%90%ED%86%A0%EC%97%AD",
+    "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station",
+    "https://www.openstreetmap.org/node/267316272"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 27,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "railway station and metro station in Kyōto, Kyōto Prefecture, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:23.796Z"
+}

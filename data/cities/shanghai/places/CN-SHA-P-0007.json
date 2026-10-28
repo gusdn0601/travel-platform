@@ -1,0 +1,76 @@
+{
+  "id": "pl_3c4defc7e8",
+  "code": "CN-SHA-P-0007",
+  "city_id": "CN-SHA",
+  "slug": "dragonfly-spa",
+  "kind": "shop",
+  "name_ko": "드래곤플라이 마사지 (蜻蜓)",
+  "name_sub": "Dragonfly Therapeutic Retreat",
+  "name_local": "蜻蜓 Dragonfly 养生会所 上海",
+  "lat": null,
+  "lng": null,
+  "area": "프랑스 조계지/도심",
+  "lead": "여러 지점을 둔 상하이 마사지·스파 체인. 호텔 같은 분위기에서 발·전신 코스를 받을 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "체인 마사지·스파"
+    ],
+    [
+      "코스",
+      "발마사지, 전신 마사지"
+    ],
+    [
+      "예약",
+      "앱·전화 예약 권장"
+    ],
+    [
+      "주의",
+      "지점별 영업·가격 상이"
+    ]
+  ],
+  "origin": [
+    "드래곤플라이는 상하이에 여러 지점을 둔 중고급 마사지·스파 브랜드로 알려져 있어요.",
+    "식당과 달리 마사지는 체인이 많아 지점별 영업시간과 코스 구성이 다르므로, 한국인 여행자는 지점을 정한 뒤 예약하는 편이에요.",
+    "여행 중 지친 발을 풀기 좋은 휴식 일정 후보로 소개돼요."
+  ],
+  "tip": "지점 정보와 영업시간은 예약 시 확인하세요. 팁 문화는 없지만 가격에 서비스료가 포함되기도 해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "코스별 상이(추정 1인 300~600위안대, 지점·시간 확인)",
+  "must": 0,
+  "tags": [
+    "마사지",
+    "스파",
+    "휴식"
+  ],
+  "art_key": "spa",
+  "local_search": "蜻蜓 Dragonfly 养生会所 上海",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai",
+    "https://en.wikipedia.org/wiki/Massage"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 마사지 후보로 자주 거론(수집가 판단, 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.983Z"
+}

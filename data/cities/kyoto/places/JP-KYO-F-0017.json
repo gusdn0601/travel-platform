@@ -1,0 +1,75 @@
+{
+  "id": "pl_4fe6930ac8",
+  "code": "JP-KYO-F-0017",
+  "city_id": "JP-KYO",
+  "slug": "tenkaippin-honten",
+  "kind": "food",
+  "name_ko": "천하일품 본점",
+  "name_sub": "Tenkaippin Honten",
+  "name_local": "天下一品 総本店",
+  "lat": null,
+  "lng": null,
+  "area": "사쿄구",
+  "lead": "걸쭉하고 진한 닭뼈 국물(고테코테)로 알려진 교토 발상 라멘 체인의 총본점이에요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "걸쭉한 국물"
+    ],
+    [
+      "위치",
+      "기타시라카와"
+    ]
+  ],
+  "origin": [
+    "천하일품은 교토에서 시작한 라멘 체인으로, 닭뼈와 채소를 오래 끓여 만든 걸쭉한 국물이 특징으로 알려져 있어요.",
+    "총본점은 교토 북쪽에 있고 지점이 일본 전역에 있어요.",
+    "국물이 매우 진해 호불호가 나뉘지만 마니아층이 두텁다고 소개돼요."
+  ],
+  "practical": [
+    "총본점 위치 대중교통 확인"
+  ],
+  "tip": "처음엔 보통 맛으로 시작해 보세요.",
+  "order": [
+    "<b>こってりラーメン</b> 진한 국물 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,000~1,300엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "진한국물",
+    "교토발"
+  ],
+  "art_key": "noodle",
+  "local_search": "天下一品 総本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 8,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 라멘 개성파로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:11:06.459Z"
+}

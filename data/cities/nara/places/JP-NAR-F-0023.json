@@ -1,0 +1,81 @@
+{
+  "id": "pl_0090ea3c1c",
+  "code": "JP-NAR-F-0023",
+  "city_id": "JP-NAR",
+  "slug": "kasuga-ni-chaya",
+  "kind": "food",
+  "name_ko": "가스가니차야",
+  "name_sub": "Kasuga-ni-chaya",
+  "name_local": "春日荷茶屋",
+  "lat": 34.68231,
+  "lng": 135.84338,
+  "area": "나라 공원",
+  "lead": "가스가타이샤 참배길의 찻집. 계절 죽인 만엽죽으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "찻집"
+    ],
+    [
+      "대표",
+      "만엽죽"
+    ],
+    [
+      "위치",
+      "가스가타이샤 참배길"
+    ]
+  ],
+  "origin": [
+    "가스가니차야는 가스가타이샤로 이어지는 참배길에 있는 찻집이에요.",
+    "계절 재료를 넣은 죽인 만엽죽이 대표 메뉴로 소개돼요.",
+    "참배길 숲이 바로 앞이라 걸으며 쉬어 가기 좋아요.",
+    "아침 일찍 문을 여는 시기가 있어 참배 전 들르기도 해요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "현금 결제 편함"
+  ],
+  "tip": "아침 참배 전에 죽 한 그릇을 먹으면 든든해요.",
+  "order": [
+    "<b>万葉粥</b> 만엽죽"
+  ],
+  "open_hours": "10:00-16:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "찻집",
+    "만엽죽",
+    "가스가"
+  ],
+  "art_key": "cafe",
+  "local_search": "春日荷茶屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/3665432125"
+  ],
+  "meta": {
+    "priority": 22,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 가스가 참배길 찻집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:33.032Z"
+}

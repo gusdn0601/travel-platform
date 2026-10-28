@@ -1,0 +1,81 @@
+{
+  "id": "pl_648e1cd16f",
+  "code": "JP-NAR-T-0004",
+  "city_id": "JP-NAR",
+  "slug": "yamato-saidaiji-station",
+  "kind": "transit",
+  "name_ko": "야마토사이다이지역",
+  "name_sub": "Yamato-Saidaiji Station",
+  "name_local": "大和西大寺駅",
+  "lat": 34.69389,
+  "lng": 135.78278,
+  "area": "니시노쿄",
+  "lead": "교토·오사카·나라 방면 긴테쓰 노선이 갈라지는 큰 환승역이에요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "긴테쓰 교토·나라·가시하라선"
+    ],
+    [
+      "특징",
+      "환승 거점"
+    ]
+  ],
+  "origin": [
+    "야마토사이다이지역은 긴테쓰의 여러 노선이 만나는 환승역이에요.",
+    "교토나 오사카에서 나라로 올 때 갈아타는 경우가 많아요.",
+    "역 주변에 상점과 식당이 모여 있어 짐을 두거나 식사하기 좋아요.",
+    "나라 공원까지는 한 정거장 더 가야 해요."
+  ],
+  "practical": [
+    "환승 동선 넓음",
+    "표지판 확인"
+  ],
+  "tip": "교토 방면에서 오면 여기서 나라선으로 갈아타요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "구간 요금",
+  "must": 0,
+  "tags": [
+    "교통",
+    "긴테쓰",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "大和西大寺駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yamato-Saidaiji_Station",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E8%A5%BF%E5%A4%A7%E5%AF%BA%E9%A7%85",
+    "https://www.openstreetmap.org/node/14292763464"
+  ],
+  "meta": {
+    "priority": 26,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 130,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "환승 동선(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:26.139Z"
+}

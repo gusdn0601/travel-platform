@@ -1,0 +1,79 @@
+{
+  "id": "pl_e0945ce5d1",
+  "code": "JP-NAR-T-0006",
+  "city_id": "JP-NAR",
+  "slug": "yoshino-station",
+  "kind": "transit",
+  "name_ko": "긴테쓰 요시노역",
+  "name_sub": "Yoshino Station",
+  "name_local": "吉野駅",
+  "lat": 34.37693,
+  "lng": 135.85351,
+  "area": "교외(요시노)",
+  "lead": "요시노산 케이블카와 이어지는 종점역. 벚꽃철에는 매우 붐벼요.",
+  "facts": [
+    [
+      "종류",
+      "철도역"
+    ],
+    [
+      "노선",
+      "긴테쓰 요시노선"
+    ],
+    [
+      "특징",
+      "케이블카 환승"
+    ]
+  ],
+  "origin": [
+    "요시노역은 긴테쓰 요시노선의 종점으로, 여기서 케이블카나 버스로 산에 올라요.",
+    "벚꽃철에는 역과 케이블카에 줄이 길게 늘어서요.",
+    "산 위까지는 도보로도 오를 수 있지만 시간이 꽤 걸려요.",
+    "봄이 아니면 비교적 한산해요."
+  ],
+  "practical": [
+    "벚꽃철 대기",
+    "케이블카 운행시간 확인"
+  ],
+  "tip": "벚꽃철에는 아침 일찍 출발해야 해요.",
+  "open_hours": null,
+  "stay_min": 15,
+  "price_hint": "구간 요금",
+  "must": 0,
+  "tags": [
+    "교통",
+    "긴테쓰",
+    "벚꽃"
+  ],
+  "art_key": "train",
+  "local_search": "吉野駅",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yoshino_Station_(Nara)",
+    "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E9%A7%85"
+  ],
+  "meta": {
+    "priority": 51,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 요시노 벚꽃 동선로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:31.501Z"
+}

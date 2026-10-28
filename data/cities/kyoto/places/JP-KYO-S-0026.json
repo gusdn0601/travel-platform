@@ -1,0 +1,74 @@
+{
+  "id": "pl_309ae509fc",
+  "code": "JP-KYO-S-0026",
+  "city_id": "JP-KYO",
+  "slug": "kurama-dera-temple",
+  "kind": "sight",
+  "name_ko": "구라마데라",
+  "name_sub": "Kurama-dera Temple",
+  "name_local": "鞍馬寺",
+  "addr_local": "京都府京都市左京区鞍馬本町1074",
+  "lat": 35.11806,
+  "lng": 135.77074,
+  "area": "교외(구라마)",
+  "lead": "산속 사찰로 이어지는 하이킹 코스. 구라마에서 기부네까지 이어 걷는 길이 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "산사"
+    ],
+    [
+      "접근",
+      "에이잔 전철 구라마역"
+    ],
+    [
+      "특징",
+      "숲길 하이킹"
+    ],
+    [
+      "연도(Wikidata)",
+      "796년"
+    ]
+  ],
+  "tip": "산길이라 운동화와 시간 여유가 필요해요.",
+  "open_hours": "Mo-Su 09:00-16:30 (OSM)",
+  "stay_min": 150,
+  "price_hint": "케이블카·경내 별도",
+  "must": 0,
+  "tags": [
+    "산사",
+    "자연",
+    "하이킹"
+  ],
+  "art_key": "temple",
+  "local_search": "鞍馬寺",
+  "photos": [
+    "JP-KYO-S-0026-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q608668",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%9D%BC%EB%A7%88%EB%8D%B0%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Kurama-dera",
+    "https://www.openstreetmap.org/way/1243730752",
+    "https://www.kuramadera.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 25,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "temple in Kyoto prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:35.102Z"
+}

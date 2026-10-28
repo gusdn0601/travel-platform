@@ -1,0 +1,86 @@
+{
+  "id": "pl_3e1cb5770a",
+  "code": "CN-SHA-F-0027",
+  "city_id": "CN-SHA",
+  "slug": "nanjing-impression",
+  "kind": "food",
+  "name_ko": "난징 임프레션 (南京大排档)",
+  "name_local": "南京大排档",
+  "lat": 31.23437,
+  "lng": 121.46623,
+  "area": "도심 여러 지점",
+  "lead": "난징 향토 요리를 선보이는 체인. 소금물 오리(盐水鸭)와 훈툰이 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "난징 요리"
+    ],
+    [
+      "대표",
+      "소금물 오리"
+    ],
+    [
+      "분위기",
+      "푸드코트형 활기"
+    ],
+    [
+      "지점",
+      "도심 여러 곳"
+    ]
+  ],
+  "origin": [
+    "난징은 베이징덕의 뿌리이자 소금물 오리(盐水鸭)의 본고장으로 알려져요.",
+    "난징 요리는 장쑤 요리의 한 갈래로 비교적 담백하고 달콤해요.",
+    "이 체인은 난징의 길거리 포장마차(大排档) 분위기를 실내로 옮겨 놓은 컨셉이에요."
+  ],
+  "practical": [
+    "주말 대기"
+  ],
+  "tip": "시원한 오리 요리부터 시작하면 좋아요.",
+  "order": [
+    "<b>盐水鸭</b> 소금물 오리",
+    "<b>鸭血粉丝汤</b> 오리피 당면 국",
+    "<b>小馄饨</b> 작은 완탕"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 100~180위안 추정",
+  "must": 0,
+  "tags": [
+    "난징요리",
+    "오리",
+    "체인"
+  ],
+  "art_key": "basket",
+  "local_search": "南京大排档",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jiangsu_cuisine",
+    "https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%8F%9C",
+    "https://www.openstreetmap.org/node/11209357664"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난징 요리 체인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.369Z"
+}

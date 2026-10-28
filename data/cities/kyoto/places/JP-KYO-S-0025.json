@@ -1,0 +1,71 @@
+{
+  "id": "pl_c740e2c14e",
+  "code": "JP-KYO-S-0025",
+  "city_id": "JP-KYO",
+  "slug": "daitoku-ji-temple",
+  "kind": "sight",
+  "name_ko": "다이토쿠지",
+  "name_sub": "Daitoku-ji Temple",
+  "name_local": "大徳寺",
+  "lat": 35.04389,
+  "lng": 135.74611,
+  "area": "기타구",
+  "lead": "여러 탑두 사찰이 모인 대형 선종 사찰. 일부 탑두는 정원을 별도로 공개해요.",
+  "facts": [
+    [
+      "종류",
+      "사찰 복합체"
+    ],
+    [
+      "특징",
+      "탑두 사찰 다수"
+    ],
+    [
+      "접근",
+      "킨카쿠지 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "1315년"
+    ]
+  ],
+  "tip": "탑두마다 개방 시간과 요금이 달라 가고 싶은 곳을 먼저 정하세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "경내 무료/탑두 유료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "선종",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "大徳寺",
+  "photos": [
+    "JP-KYO-S-0025-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q901256",
+    "https://en.wikipedia.org/wiki/Daitoku-ji",
+    "https://www.openstreetmap.org/way/969457939"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 123,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Zen Buddhist temple in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:30.929Z"
+}

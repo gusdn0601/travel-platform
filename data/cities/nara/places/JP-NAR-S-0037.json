@@ -1,0 +1,83 @@
+{
+  "id": "pl_ae766f4dcb",
+  "code": "JP-NAR-S-0037",
+  "city_id": "JP-NAR",
+  "slug": "fujiwara-palace-site",
+  "kind": "sight",
+  "name_ko": "후지와라노미야 터",
+  "name_sub": "Fujiwara Palace Site",
+  "name_local": "藤原宮跡",
+  "lat": 34.50222,
+  "lng": 135.80722,
+  "area": "교외(가시하라)",
+  "lead": "일본 최초의 본격 도성 터. 지금은 넓은 들판에 주춧돌만 남아 있어요.",
+  "facts": [
+    [
+      "종류",
+      "궁궐 터"
+    ],
+    [
+      "특징",
+      "주춧돌·기단"
+    ],
+    [
+      "위치",
+      "가시하라시"
+    ]
+  ],
+  "origin": [
+    "후지와라노미야는 7세기 말 일본이 본격적인 도성 제도를 시작한 곳으로 알려져 있어요.",
+    "궁전 건물은 남아 있지 않고 넓은 들판에 주춧돌과 기단만 남아 있어요.",
+    "계절마다 꽃이 피는 들판으로도 알려져 사진을 찍는 사람이 찾아요.",
+    "유적 자체는 설명판을 읽으며 상상해야 하는 곳이에요."
+  ],
+  "practical": [
+    "그늘 없음",
+    "모자·물 준비"
+  ],
+  "tip": "봄 유채꽃·가을 코스모스 시기가 사진 찍기 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "유적",
+    "궁터",
+    "들판"
+  ],
+  "art_key": "ruins",
+  "local_search": "藤原宮跡",
+  "photos": [
+    "JP-NAR-S-0037-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fujiwara-ky%C5%8D",
+    "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%AE%AE",
+    "https://www.openstreetmap.org/way/426531398"
+  ],
+  "meta": {
+    "priority": 55,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 81,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 들판 유적 사진로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:09.674Z"
+}

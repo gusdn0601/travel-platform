@@ -1,0 +1,83 @@
+{
+  "id": "pl_a75d25f8a6",
+  "code": "CN-SHA-S-0044",
+  "city_id": "CN-SHA",
+  "slug": "hangzhou-west-lake",
+  "kind": "sight",
+  "name_ko": "항저우 서호",
+  "name_sub": "West Lake",
+  "name_local": "西湖",
+  "lat": 30.24694,
+  "lng": 120.14417,
+  "area": "근교(항저우)",
+  "lead": "시와 그림의 소재가 된 중국 대표 호수. 상하이에서 고속열차로 1시간 거리라 당일치기도 가능해요.",
+  "facts": [
+    [
+      "세계유산",
+      "2011년 등재"
+    ],
+    [
+      "대표 풍경",
+      "쑤디·바이디 제방, 뇌봉탑"
+    ],
+    [
+      "접근",
+      "상하이 훙차오~항저우 동역 약 1시간"
+    ],
+    [
+      "이동",
+      "자전거·유람선"
+    ]
+  ],
+  "origin": [
+    "서호는 항저우 도심 서쪽의 호수로 2011년 “항저우 서호의 문화 경관”으로 유네스코 세계유산에 올랐어요.",
+    "당나라 백거이와 송나라 소식 같은 시인들이 호수를 가꾸고 노래한 것으로 유명해요.",
+    "호수에는 제방과 섬, 탑이 어우러져 있고 계절마다 풍경이 달라요.",
+    "중국 사람들에게는 “소주·항주”라는 말로 하늘 아래 천당이라 불릴 만큼 이상적인 풍경의 상징이에요."
+  ],
+  "tip": "하루로 끝내려면 호수 한 바퀴보다 쑤디 걷기와 유람선 위주로 계획하세요.",
+  "open_hours": null,
+  "stay_min": 360,
+  "price_hint": "호수 무료, 유람선 별도(추정)",
+  "must": 0,
+  "tags": [
+    "호수",
+    "세계유산",
+    "당일치기"
+  ],
+  "art_key": "water",
+  "local_search": "西湖",
+  "photos": [
+    "CN-SHA-S-0044-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/West_Lake",
+    "https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%B9%96",
+    "https://www.openstreetmap.org/relation/2308774"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 146,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.958Z"
+}

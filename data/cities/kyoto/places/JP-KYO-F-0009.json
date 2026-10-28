@@ -1,0 +1,80 @@
+{
+  "id": "pl_490de8640c",
+  "code": "JP-KYO-F-0009",
+  "city_id": "JP-KYO",
+  "slug": "ippodo-tea",
+  "kind": "food",
+  "name_ko": "잇포도 차호 본점",
+  "name_sub": "Ippodo Tea",
+  "name_local": "一保堂茶舗 京都本店",
+  "lat": 35.01446,
+  "lng": 135.76736,
+  "area": "나카교구",
+  "lead": "1717년 창업으로 알려진 일본차 전문점. 안쪽 카페에서 차 한 잔을 마실 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "일본차 전문점"
+    ],
+    [
+      "창업",
+      "1717년"
+    ],
+    [
+      "위치",
+      "데라마치 인근"
+    ]
+  ],
+  "origin": [
+    "잇포도는 1700년대 초 창업으로 알려진 교토의 차 전문점이에요.",
+    "교토 중심부의 오래된 거리에 있어 차와 다기를 사러 오는 사람이 많고, 안쪽에서는 직접 우려낸 차를 체험할 수 있어요.",
+    "한국 여행자에게는 품질이 안정적인 차 선물 가게로 소개돼요."
+  ],
+  "practical": [
+    "티룸은 예약 불가일 수 있음"
+  ],
+  "tip": "소분된 말차 가루가 선물용으로 인기예요.",
+  "order": [
+    "<b>玉露/煎茶</b> 차 시음",
+    "<b>抹茶</b>"
+  ],
+  "open_hours": "Mo-Su,PH 10:00-17:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "차 1,000엔~ 추정",
+  "must": 0,
+  "tags": [
+    "차",
+    "일본차",
+    "선물"
+  ],
+  "art_key": "tea",
+  "local_search": "一保堂茶舗 京都本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/2274779753"
+  ],
+  "meta": {
+    "priority": 8,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 차 선물로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:15.561Z"
+}

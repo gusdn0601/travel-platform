@@ -1,0 +1,74 @@
+{
+  "id": "pl_439488e85a",
+  "code": "JP-KYO-S-0065",
+  "city_id": "JP-KYO",
+  "slug": "randen-tram",
+  "kind": "sight",
+  "name_ko": "란덴(게이후쿠 전차)",
+  "name_sub": "Randen Tram",
+  "name_local": "嵐電",
+  "lat": null,
+  "lng": null,
+  "area": "아라시야마",
+  "lead": "아라시야마와 시내를 잇는 노면전차. 벚꽃철 벚꽃 터널로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "노면전차"
+    ],
+    [
+      "구간",
+      "아라시야마~시조오미야"
+    ],
+    [
+      "특징",
+      "벚꽃 터널 구간"
+    ]
+  ],
+  "origin": [
+    "란덴은 아라시야마 방면을 달리는 오래된 전차로, 주택가와 거리 사이를 천천히 지나가요.",
+    "봄에는 선로 양옆 벚나무가 터널처럼 이어지는 구간이 유명하다고 소개돼요.",
+    "킨카쿠지 방면 지선과 연계해 이용하는 여행자가 많아요."
+  ],
+  "practical": [
+    "IC카드 가능 여부 현장 확인"
+  ],
+  "tip": "시내 이동 겸 풍경으로 한 번 타 볼 만해요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "구간 균일 요금(추정)",
+  "must": 0,
+  "tags": [
+    "트램",
+    "아라시야마",
+    "벚꽃터널"
+  ],
+  "art_key": "train",
+  "local_search": "嵐電",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Keifuku_Electric_Railroad"
+  ],
+  "meta": {
+    "priority": 17,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 이동 수단로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:11:04.038Z"
+}

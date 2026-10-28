@@ -1,0 +1,83 @@
+{
+  "id": "pl_c7804fc871",
+  "code": "CN-SHA-F-0015",
+  "city_id": "CN-SHA",
+  "slug": "laozhengxing",
+  "kind": "food",
+  "name_ko": "라오정싱 (老正兴)",
+  "name_local": "老正兴菜馆 福州路",
+  "lat": null,
+  "lng": null,
+  "area": "황푸/푸저우루",
+  "lead": "1860년대부터 이어졌다고 전해지는 본토식 명가. 생선·게 요리와 조림이 대표예요.",
+  "facts": [
+    [
+      "종류",
+      "상하이 본토식"
+    ],
+    [
+      "시작",
+      "1862년 전승"
+    ],
+    [
+      "위치",
+      "푸저우루 일대"
+    ],
+    [
+      "예약",
+      "단체 가능"
+    ]
+  ],
+  "origin": [
+    "라오정싱은 청나라 말기 1862년 무렵 문을 열었다고 전해지는 상하이 본토식 대표 노포예요.",
+    "푸저우루 일대에는 서점과 극장이 모여 있던 문화 거리라 이 지역을 걸으며 식사를 곁들이기 좋아요.",
+    "대표 요리는 생선·게 요리와 진한 간장 조림이에요."
+  ],
+  "practical": [
+    "단체는 예약 권장"
+  ],
+  "tip": "생선 요리는 계절과 시기에 따라 구성이 달라져요.",
+  "order": [
+    "<b>八宝鸭</b> 팔보오리",
+    "<b>油爆河虾</b> 새우튀김",
+    "<b>红烧划水</b> 잉어 꼬리 조림"
+  ],
+  "open_hours": null,
+  "stay_min": 75,
+  "price_hint": "1인 100~200위안 추정",
+  "must": 0,
+  "tags": [
+    "본토식",
+    "노포",
+    "생선요리"
+  ],
+  "art_key": "basket",
+  "local_search": "老正兴菜馆 福州路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 본토식 노포로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.072Z"
+}

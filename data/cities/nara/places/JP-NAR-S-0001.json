@@ -1,0 +1,71 @@
+{
+  "id": "pl_78d482ea46",
+  "code": "JP-NAR-S-0001",
+  "city_id": "JP-NAR",
+  "slug": "todai-ji-temple",
+  "kind": "sight",
+  "name_ko": "도다이지",
+  "name_sub": "Tōdai-ji Temple",
+  "name_local": "東大寺",
+  "lat": 34.68917,
+  "lng": 135.83972,
+  "area": "나라 공원",
+  "lead": "거대한 청동 대불이 모셔진 사찰. 목조 대불전의 규모에 먼저 놀라게 돼요.",
+  "facts": [
+    [
+      "종류",
+      "사찰(화엄종)"
+    ],
+    [
+      "대표",
+      "대불전, 노사나불"
+    ],
+    [
+      "유산",
+      "세계유산(고도 나라 문화재)"
+    ],
+    [
+      "연도(Wikidata)",
+      "800년"
+    ]
+  ],
+  "tip": "사슴 공원에서 이어 걷는 동선이 짧아 오전에 먼저 들르면 한결 여유로워요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "대불전 입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "대불",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "東大寺",
+  "photos": [
+    "JP-NAR-S-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q460367",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8B%A4%EC%9D%B4%EC%A7%80",
+    "https://en.wikipedia.org/wiki/T%C5%8Ddai-ji",
+    "http://www.todaiji.or.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Japanese Buddhist temple in Nara",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:03.265Z"
+}

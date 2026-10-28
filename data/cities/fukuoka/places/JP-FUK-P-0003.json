@@ -1,0 +1,62 @@
+{
+  "id": "pl_ff39fdf5b4",
+  "code": "JP-FUK-P-0003",
+  "city_id": "JP-FUK",
+  "slug": "yanagibashi-rengo-market",
+  "kind": "shop",
+  "name_ko": "야나기바시 연합시장",
+  "name_sub": "Yanagibashi Rengo Market",
+  "name_local": "柳橋連合市場",
+  "lat": 33.58306,
+  "lng": 130.40853,
+  "area": "하카타",
+  "lead": "‘하카타의 부엌’이라 불리는 재래시장. 해산물 가게가 모여 있어요.",
+  "facts": [
+    [
+      "종류",
+      "재래시장"
+    ],
+    [
+      "특징",
+      "신선 해산물·건어물"
+    ],
+    [
+      "위치",
+      "나카스 인근"
+    ]
+  ],
+  "tip": "오전 중에 가면 가장 활기차요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "먹거리 1,000~3,000엔",
+  "must": 0,
+  "tags": [
+    "시장",
+    "해산물",
+    "로컬"
+  ],
+  "art_key": "market",
+  "local_search": "柳橋連合市場",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/179129052"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:52.025Z"
+}

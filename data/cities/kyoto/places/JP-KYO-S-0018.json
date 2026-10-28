@@ -1,0 +1,73 @@
+{
+  "id": "pl_ab05d03719",
+  "code": "JP-KYO-S-0018",
+  "city_id": "JP-KYO",
+  "slug": "byodo-in-temple",
+  "kind": "sight",
+  "name_ko": "뵤도인",
+  "name_sub": "Byōdō-in Temple",
+  "name_local": "平等院",
+  "lat": 34.88944,
+  "lng": 135.80778,
+  "area": "우지",
+  "lead": "연못 위에 날개를 편 듯한 봉황당이 상징인 사찰. 10엔 동전 뒷면 그림으로도 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "봉황당"
+    ],
+    [
+      "접근",
+      "우지역에서 도보"
+    ],
+    [
+      "연도(Wikidata)",
+      "1052년"
+    ]
+  ],
+  "tip": "우지차 간식과 함께 반나절 코스로 좋아요.",
+  "open_hours": "Mo-Su 08:45-17:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "세계유산",
+    "우지"
+  ],
+  "art_key": "temple",
+  "local_search": "平等院",
+  "photos": [
+    "JP-KYO-S-0018-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q61094",
+    "https://ko.wikipedia.org/wiki/%EB%B5%A4%EB%8F%84%EC%9D%B8",
+    "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in",
+    "https://www.openstreetmap.org/way/332883349",
+    "https://www.byodoin.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 22,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Kyoto Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:57.931Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pl_990fa93415",
+  "code": "JP-OSA-T-0005",
+  "city_id": "JP-OSA",
+  "slug": "kansai-international-airport",
+  "kind": "transit",
+  "name_ko": "간사이 국제공항",
+  "name_sub": "Kansai International Airport",
+  "name_local": "関西国際空港",
+  "addr_local": "大阪府泉佐野市泉州空港北1",
+  "lat": 34.43056,
+  "lng": 135.23028,
+  "area": "교외(린쿠)",
+  "lead": "오사카 만 인공섬에 있는 국제공항. 한국 노선이 많고 시내까지 전철로 연결돼요.",
+  "facts": [
+    [
+      "종류",
+      "국제공항"
+    ],
+    [
+      "위치",
+      "인공섬 (시내까지 약 1시간)"
+    ],
+    [
+      "시내 연결",
+      "난카이선, JR 간사이공항선"
+    ],
+    [
+      "연도(Wikidata)",
+      "1994년"
+    ]
+  ],
+  "tip": "귀국편은 출발 2~3시간 전 도착을 권장하는 안내가 일반적이에요(항공사 확인).",
+  "open_hours": "24시간 운영 터미널(시설별 상이, 추정) (추정)",
+  "stay_min": 30,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "공항"
+  ],
+  "art_key": "plane",
+  "local_search": "関西国際空港",
+  "photos": [
+    "JP-OSA-T-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q193682",
+    "https://ko.wikipedia.org/wiki/%EA%B0%84%EC%82%AC%EC%9D%B4_%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD",
+    "https://en.wikipedia.org/wiki/Kansai_International_Airport",
+    "https://www.openstreetmap.org/relation/9436735",
+    "https://www.kansai-airport.or.jp/en/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 500,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "airport serving Kobe, Osaka, and Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:51:07.262Z"
+}

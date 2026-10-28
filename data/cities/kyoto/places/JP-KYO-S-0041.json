@@ -1,0 +1,81 @@
+{
+  "id": "pl_63170d4acd",
+  "code": "JP-KYO-S-0041",
+  "city_id": "JP-KYO",
+  "slug": "kitano-tenmangu",
+  "kind": "sight",
+  "name_ko": "기타노 덴만구",
+  "name_sub": "Kitano Tenmangu",
+  "name_local": "北野天満宮",
+  "lat": 35.03111,
+  "lng": 135.73528,
+  "area": "기타구",
+  "lead": "학문의 신 스가와라 미치자네를 모신 신사. 시험 합격 부적과 매화로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "덴만구 총본사격"
+    ],
+    [
+      "특징",
+      "매화·단풍"
+    ],
+    [
+      "시장",
+      "매월 25일 벼룩시장"
+    ]
+  ],
+  "origin": [
+    "기타노 덴만구는 헤이안 시대 학자 스가와라 미치자네를 모신 신사로, 10세기에 세워졌다고 전해져요.",
+    "미치자네가 매화를 사랑했다는 이야기에서 경내에 매화가 많고, 2월 매화철에 특히 붐벼요.",
+    "매월 25일에는 골동품과 먹거리 노점이 서는 시장이 열려 알려져 있어요."
+  ],
+  "practical": [
+    "매월 25일 시장은 혼잡"
+  ],
+  "tip": "학업·시험 부적 구입용으로 인기예요.",
+  "open_hours": "Mo-Su 07:00-17:00 (OSM)",
+  "stay_min": 50,
+  "price_hint": "경내 무료, 매화원 별도",
+  "must": 0,
+  "tags": [
+    "신사",
+    "학문의신",
+    "매화"
+  ],
+  "art_key": "shrine",
+  "local_search": "北野天満宮",
+  "photos": [
+    "JP-KYO-S-0041-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB",
+    "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%87%8E%E5%A4%A9%E6%BA%80%E5%AE%AE",
+    "https://www.openstreetmap.org/way/432120699"
+  ],
+  "meta": {
+    "priority": 14,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 78,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 학업 부적로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:15.019Z"
+}

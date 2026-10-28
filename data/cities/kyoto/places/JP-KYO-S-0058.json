@@ -1,0 +1,78 @@
+{
+  "id": "pl_54b100d57a",
+  "code": "JP-KYO-S-0058",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-station-skypath",
+  "kind": "sight",
+  "name_ko": "교토역 스카이웨이·대계단",
+  "name_sub": "Kyoto Station Building",
+  "name_local": "京都駅ビル 大階段",
+  "lat": 34.98556,
+  "lng": 135.75861,
+  "area": "교토역",
+  "lead": "교토역 빌딩의 거대한 계단과 옥상 공중 통로. 야경 조명 연출로 소개돼요.",
+  "facts": [
+    [
+      "종류",
+      "건축·전망"
+    ],
+    [
+      "개장",
+      "1997년"
+    ],
+    [
+      "특징",
+      "대계단, 옥상 정원"
+    ]
+  ],
+  "origin": [
+    "교토역 빌딩은 1997년 현재 모습으로 개장했다고 알려진 대형 복합 건물이에요.",
+    "가운데 큰 계단과 옥상으로 이어지는 공중 통로가 있어 낮에는 전망, 저녁에는 조명으로 알려져 있어요.",
+    "기차 시간 전에 가볍게 둘러볼 수 있어요."
+  ],
+  "practical": [
+    "야간 조명 연출은 시기별 상이"
+  ],
+  "tip": "짐을 맡기고 가볍게 둘러보세요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "야경",
+    "건축",
+    "계단"
+  ],
+  "art_key": "building",
+  "local_search": "京都駅ビル 大階段",
+  "photos": [
+    "JP-KYO-S-0058-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ky%C5%8Dto_Station"
+  ],
+  "meta": {
+    "priority": 10,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토역 볼거리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:47.894Z"
+}

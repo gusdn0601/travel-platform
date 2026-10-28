@@ -1,0 +1,85 @@
+{
+  "id": "pl_39d37b718e",
+  "code": "CN-SHA-F-0011",
+  "city_id": "CN-SHA",
+  "slug": "adacongyoubing",
+  "kind": "food",
+  "name_ko": "아다 총요우빙 (阿大葱油饼)",
+  "name_local": "阿大葱油饼",
+  "lat": 31.21332,
+  "lng": 121.46078,
+  "area": "황푸/예원",
+  "lead": "파기름 향이 진한 상하이식 파전. 줄이 길지만 포장해서 걸으며 먹기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "총요우빙(파기름 부침개)"
+    ],
+    [
+      "식감",
+      "겉바속촉"
+    ],
+    [
+      "특징",
+      "길거리 줄서는 집"
+    ],
+    [
+      "가격대",
+      "저렴(추정)"
+    ]
+  ],
+  "origin": [
+    "총요우빙은 파와 기름을 켜켜이 말아 구운 중국 북부·강남의 대표 길거리 음식이에요.",
+    "상하이식은 기름을 넉넉히 둘러 겉이 바삭하고 파 향이 진한 점이 특징이에요.",
+    "아다 총요우빙은 줄을 서서 먹는 대표 가게로 알려져 있고, 상하이 여행기에 자주 등장해요.",
+    "따뜻할 때 먹어야 가장 맛있어요."
+  ],
+  "practical": [
+    "현금·QR 결제 모두 가능한지 현장 확인"
+  ],
+  "tip": "길게 서야 한다면 오전 일찍이나 비수기 시간대가 나아요.",
+  "order": [
+    "<b>葱油饼</b> 파전 한 장"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "1개 5~10위안 추정",
+  "must": 0,
+  "tags": [
+    "길거리",
+    "간식",
+    "파전"
+  ],
+  "art_key": "street",
+  "local_search": "阿大葱油饼",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scallion_pancake",
+    "https://zh.wikipedia.org/wiki/%E8%91%B1%E6%B2%B9%E9%A5%BC",
+    "https://www.openstreetmap.org/node/5040158726"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 길거리 간식로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.066Z"
+}

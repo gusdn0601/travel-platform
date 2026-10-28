@@ -1,0 +1,63 @@
+{
+  "id": "pl_659a4268d4",
+  "code": "JP-OSA-S-0028",
+  "city_id": "JP-OSA",
+  "slug": "cupnoodles-museum-osaka-ikeda",
+  "kind": "sight",
+  "name_ko": "컵누들 박물관 오사카 이케다",
+  "name_sub": "Cupnoodles Museum Osaka Ikeda",
+  "name_local": "カップヌードルミュージアム 大阪池田",
+  "addr_local": "〒563-0048 大阪府 池田市 姫室町 旧伊丹池田線",
+  "lat": 34.81811,
+  "lng": 135.42668,
+  "area": "교외(이케다)",
+  "lead": "인스턴트 라면의 발명 이야기와 나만의 컵 만들기 체험이 있는 시설.",
+  "facts": [
+    [
+      "종류",
+      "체험형 박물관"
+    ],
+    [
+      "특징",
+      "나만의 컵누들 만들기"
+    ],
+    [
+      "위치",
+      "이케다시"
+    ]
+  ],
+  "tip": "체험은 사전 예약이 필요할 수 있어 공식 사이트를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "체험",
+    "아이와"
+  ],
+  "art_key": "museum",
+  "local_search": "カップヌードルミュージアム 大阪池田",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/157838159"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:40.982Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "pl_33dc8ca400",
+  "code": "JP-KYO-S-0056",
+  "city_id": "JP-KYO",
+  "slug": "kurama-onsen",
+  "kind": "sight",
+  "name_ko": "구라마 온천",
+  "name_sub": "Kurama Onsen",
+  "name_local": "鞍馬温泉",
+  "lat": null,
+  "lng": null,
+  "area": "교외(구라마)",
+  "lead": "구라마데라 산자락의 온천. 사찰 산행 뒤 노천탕으로 쉬어 가는 코스로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "온천"
+    ],
+    [
+      "특징",
+      "노천탕"
+    ],
+    [
+      "위치",
+      "구라마"
+    ]
+  ],
+  "origin": [
+    "구라마 온천은 구라마데라로 오르는 산 아래에 있는 온천으로 알려져 있어요.",
+    "산행 뒤 피로를 풀기 좋다고 소개돼요.",
+    "운영 시간과 요금은 변동이 있어 방문 전에 확인해야 해요."
+  ],
+  "practical": [
+    "요금·시간 현장 확인(미검증)",
+    "문신 규정 확인"
+  ],
+  "tip": "구라마~기후네 코스와 묶어요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "입욕료 약 1,000엔대(추정)",
+  "must": 0,
+  "tags": [
+    "온천",
+    "노천탕",
+    "교외"
+  ],
+  "art_key": "onsen",
+  "local_search": "鞍馬温泉",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kurama-dera"
+  ],
+  "meta": {
+    "priority": 21,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "교외 온천(수집가 판단)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:43.669Z"
+}

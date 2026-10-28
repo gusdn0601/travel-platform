@@ -1,0 +1,74 @@
+{
+  "id": "pl_4595283b25",
+  "code": "JP-OSA-S-0012",
+  "city_id": "JP-OSA",
+  "slug": "osaka-museum-of-history",
+  "kind": "sight",
+  "name_ko": "오사카 역사박물관",
+  "name_sub": "Osaka Museum of History",
+  "name_local": "大阪歴史博物館",
+  "addr_local": "〒540-0007 大阪府 大阪市 中央区 大手前四丁目 本町通",
+  "lat": 34.68272,
+  "lng": 135.52081,
+  "area": "주오구/오사카조",
+  "lead": "고대 나니와 궁터부터 근세 오사카까지 모형으로 보여 주는 박물관. 위층 창으로 오사카성이 보여요.",
+  "facts": [
+    [
+      "종류",
+      "박물관"
+    ],
+    [
+      "위치",
+      "오사카성 공원 인근"
+    ],
+    [
+      "특징",
+      "시대별 실물 크기 복원"
+    ],
+    [
+      "연도(Wikidata)",
+      "2001년"
+    ]
+  ],
+  "tip": "오사카성 일정과 묶으면 동선이 짧아요. 휴관일(화요일 등)은 공식 사이트로 확인하세요.",
+  "open_hours": "We-Mo 09:30-17:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "역사",
+    "실내"
+  ],
+  "art_key": "museum",
+  "local_search": "大阪歴史博物館",
+  "photos": [
+    "JP-OSA-S-0012-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11261312",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4_%EC%97%AD%EC%82%AC%EB%B0%95%EB%AC%BC%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Osaka_Museum_of_History",
+    "https://www.openstreetmap.org/node/4920617728",
+    "http://www.mus-his.city.osaka.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 12,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "Japanese museum",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:21.304Z"
+}

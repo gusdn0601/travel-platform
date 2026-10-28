@@ -1,0 +1,82 @@
+{
+  "id": "pl_68b1d25404",
+  "code": "JP-NAR-F-0024",
+  "city_id": "JP-NAR",
+  "slug": "tenkaippin-nara",
+  "kind": "food",
+  "name_ko": "천하일품 나라점",
+  "name_sub": "Tenkaippin Nara",
+  "name_local": "天下一品 奈良店",
+  "lat": 34.68236,
+  "lng": 135.8288,
+  "area": "나라마치",
+  "lead": "걸쭉한 닭뼈 국물 라멘으로 알려진 체인의 나라 지점이에요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "걸쭉한 국물(고테코테)"
+    ],
+    [
+      "위치",
+      "히가시무키 상점가 인근"
+    ]
+  ],
+  "origin": [
+    "천하일품은 교토에서 시작한 라멘 체인으로, 진하고 걸쭉한 닭뼈 국물이 특징이에요.",
+    "나라 지점은 역과 공원 사이 상점가 근처에 있어 일정 중 들르기 쉬워요.",
+    "국물이 매우 진해 호불호가 갈리는 맛이에요.",
+    "저녁에는 늦게까지 여는 경우가 많아요."
+  ],
+  "practical": [
+    "늦은 시간 영업",
+    "현금·카드 확인"
+  ],
+  "tip": "처음이라면 담백한 국물로 주문해 보세요.",
+  "order": [
+    "<b>こってりラーメン</b> 진한 라멘",
+    "<b>あっさり</b> 담백한 국물"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 900~1,300엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "진한국물",
+    "역 앞"
+  ],
+  "art_key": "noodle",
+  "local_search": "天下一品 奈良店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/11821499672"
+  ],
+  "meta": {
+    "priority": 39,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 역 근처 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:34.042Z"
+}

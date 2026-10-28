@@ -1,0 +1,89 @@
+{
+  "id": "pl_3d5a1ce782",
+  "code": "JP-FUK-F-0014",
+  "city_id": "JP-FUK",
+  "slug": "kawatarou-nakasu",
+  "kind": "food",
+  "name_ko": "가와타로 (오징어 활어회)",
+  "name_sub": "Kawatarou",
+  "name_local": "河太郎 中洲本店",
+  "lat": 33.59013,
+  "lng": 130.40928,
+  "area": "나카스",
+  "lead": "살아 있는 오징어를 그 자리에서 회로 뜨는 요리(이키즈쿠리)로 유명한 나카스의 해산물집.",
+  "facts": [
+    [
+      "종류",
+      "해산물 · 오징어 활어회"
+    ],
+    [
+      "특징",
+      "투명한 오징어 회 · 튀김 다리"
+    ],
+    [
+      "위치",
+      "나카스"
+    ],
+    [
+      "시기",
+      "시즌에 따라 어종 변동"
+    ]
+  ],
+  "origin": [
+    "이키즈쿠리는 살아 있는 생선·오징어를 그 자리에서 회로 떠 접시에 올리는 일본 요리 방식이에요.",
+    "후쿠오카 앞바다는 오징어가 잘 잡혀 이 요리를 대표 음식으로 내세우는 가게가 많아요.",
+    "투명한 오징어 회를 먹고 남은 다리를 튀김으로 내주는 구성이 일반적이에요.",
+    "한국 여행객 후기에서는 신선도와 식감 때문에 호불호가 갈린다는 반응도 있어요."
+  ],
+  "practical": [
+    "예약 권장",
+    "가격대 높은 편"
+  ],
+  "tip": "오징어는 계절에 따라 종류가 달라지니 추천을 물어보세요.",
+  "order": [
+    "<b>活きいかの造り</b> 오징어 활어회",
+    "<b>げそ天</b> 오징어 다리 튀김",
+    "<b>刺身盛り合わせ</b> 모둠회"
+  ],
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "1인 4,000~7,000엔 추정",
+  "must": 0,
+  "tags": [
+    "오징어회",
+    "활어",
+    "나카스"
+  ],
+  "art_key": "seafood",
+  "local_search": "河太郎 中洲本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ikizukuri",
+    "https://ja.wikipedia.org/wiki/%E6%B4%BB%E3%81%8D%E4%BD%9C%E3%82%8A",
+    "https://www.openstreetmap.org/node/13052286669"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 오징어회로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:54.935Z"
+}

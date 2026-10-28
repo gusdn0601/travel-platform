@@ -1,0 +1,82 @@
+{
+  "id": "pl_eec3df4f52",
+  "code": "JP-KYO-F-0001",
+  "city_id": "JP-KYO",
+  "slug": "ichiran-kyoto-kawaramachi",
+  "kind": "food",
+  "name_ko": "이치란 교토 가와라마치",
+  "name_sub": "Ichiran Kawaramachi",
+  "name_local": "一蘭 京都河原町店",
+  "lat": 35.00577,
+  "lng": 135.76808,
+  "area": "시조/가와라마치",
+  "lead": "칸막이 1인석으로 유명한 이치란의 교토 지점. 쇼핑 거리 한복판이라 동선에 끼워 넣기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "돈코츠 라멘"
+    ],
+    [
+      "특징",
+      "1인 칸막이 좌석"
+    ],
+    [
+      "위치",
+      "가와라마치 번화가"
+    ]
+  ],
+  "origin": [
+    "이치란은 후쿠오카에서 시작한 돈코츠 라멘 체인으로, 주문지에 면 굵기와 맛 농도를 적어 내는 칸막이 좌석 방식이 알려져 있어요.",
+    "교토 지점은 가와라마치 상점가에 있어 낮에 사찰을 돌고 저녁에 들르는 코스로 많이 소개돼요.",
+    "교토 전통 요리와는 결이 다른 진한 국물이라 호불호 적은 선택지로 자리 잡았어요."
+  ],
+  "practical": [
+    "식권 자판기 방식",
+    "저녁 피크 시간대 대기 발생"
+  ],
+  "tip": "오후 3~5시 사이가 비교적 한산해요.",
+  "order": [
+    "<b>天然とんこつラーメン</b> 기본 라멘",
+    "<b>替玉</b> 면 추가"
+  ],
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 45,
+  "price_hint": "1인 1,200~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "돈코츠",
+    "1인석"
+  ],
+  "art_key": "noodle",
+  "local_search": "一蘭 京都河原町店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ichiran",
+    "https://www.openstreetmap.org/node/2548425926"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 안 라멘 선택지로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:04.940Z"
+}

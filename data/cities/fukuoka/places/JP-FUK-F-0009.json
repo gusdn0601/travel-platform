@@ -1,0 +1,87 @@
+{
+  "id": "pl_1afcf4900b",
+  "code": "JP-FUK-F-0009",
+  "city_id": "JP-FUK",
+  "slug": "fukuya-nakasu",
+  "kind": "food",
+  "name_ko": "후쿠야 본점 (명란)",
+  "name_sub": "Fukuya Mentaiko",
+  "name_local": "ふくや 中洲本店",
+  "lat": null,
+  "lng": null,
+  "area": "나카스",
+  "lead": "일본 명란젓(멘타이코)의 원조로 알려진 가게. 부산에서 먹던 명란 맛을 기억해 만든 이야기가 한국인에게 특히 친숙해요.",
+  "facts": [
+    [
+      "종류",
+      "멘타이코(명란젓) 전문"
+    ],
+    [
+      "시작",
+      "1948년 창업, 1949년 명란 판매"
+    ],
+    [
+      "위치",
+      "나카스"
+    ],
+    [
+      "특징",
+      "시식 가능한 매장도"
+    ]
+  ],
+  "origin": [
+    "후쿠야의 창업자 가와하라 도시오는 부산에서 어린 시절 먹던 명란젓의 맛을 떠올려 전후 후쿠오카에서 이를 재현하기 시작했다고 전해져요.",
+    "1949년 무렵 가게에서 명란젓을 팔기 시작했고, 일본식으로 맛을 다듬어 하카타의 명물이 되었어요.",
+    "특허를 내지 않고 제조법을 공개해 다른 업체가 만들 수 있게 한 일화도 유명하며, 덕분에 후쿠오카 전체가 명란젓 산지로 알려졌어요.",
+    "한국에서 건너온 음식이 일본에서 새롭게 자리 잡은 사례로 한국 여행객에게 특히 흥미를 끌어요."
+  ],
+  "practical": [
+    "선물용 냉장 포장 가능",
+    "귀국 시 식품 반입 규정 확인"
+  ],
+  "tip": "귀국 항공 시간을 고려해 냉장 포장·수량을 정하세요.",
+  "order": [
+    "<b>味の明太子</b> 대표 명란",
+    "<b>辛子明太子</b> 매운 명란",
+    "<b>明太子入りおにぎり</b> 명란 주먹밥"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "명란 1,500~5,000엔 추정",
+  "must": 0,
+  "tags": [
+    "명란젓",
+    "멘타이코",
+    "선물"
+  ],
+  "art_key": "seafood",
+  "local_search": "ふくや 中洲本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8F%E3%82%84",
+    "https://en.wikipedia.org/wiki/Mentaiko",
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 명란 선물로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:47.893Z"
+}

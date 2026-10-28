@@ -1,0 +1,90 @@
+{
+  "id": "pl_fc73a26ba7",
+  "code": "JP-FUK-F-0016",
+  "city_id": "JP-FUK",
+  "slug": "makino-udon",
+  "kind": "food",
+  "name_ko": "마키노 우동",
+  "name_sub": "Makino Udon",
+  "name_local": "牧のうどん",
+  "lat": 33.5323,
+  "lng": 130.34127,
+  "area": "시내 여러 곳",
+  "lead": "후쿠오카식 부드러운 면에 맑은 국물, 우엉튀김(고보텐)을 올려 먹는 로컬 우동 체인.",
+  "facts": [
+    [
+      "종류",
+      "하카타 우동"
+    ],
+    [
+      "특징",
+      "부드러운 면 · 맑은 국물"
+    ],
+    [
+      "대표",
+      "고보텐 우동"
+    ],
+    [
+      "접근",
+      "여러 지점"
+    ]
+  ],
+  "origin": [
+    "하카타 우동은 사누키 우동과 달리 쫄깃함보다 부드러움을 중시하는 면이 특징이에요.",
+    "후쿠오카에는 13세기 쇼이치 국사가 중국에서 제분 기술을 가져와 우동·소바를 전했다는 전승이 있어 조텐지에 관련 기념비가 남아 있어요.",
+    "마키노 우동은 그런 전통 위에 지역 주민이 일상적으로 먹는 우동을 대표하는 체인으로 알려져요.",
+    "라멘이 부담스러울 때 가볍게 먹을 수 있는 대안으로 소개돼요."
+  ],
+  "practical": [
+    "식권 또는 카운터 주문",
+    "점심 피크에 붐빔"
+  ],
+  "tip": "라멘 사이의 쉬어 가는 한 끼로 좋아요.",
+  "order": [
+    "<b>ごぼう天うどん</b> 우엉 튀김 우동",
+    "<b>肉うどん</b> 고기 우동",
+    "<b>かしわめし</b> 닭고기 주먹밥"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 600~1,000엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "부드러운면",
+    "로컬"
+  ],
+  "art_key": "noodle",
+  "local_search": "牧のうどん",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Udon",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%86%E3%81%A9%E3%82%93",
+    "https://www.openstreetmap.org/way/700326641"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 우동로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:59.076Z"
+}

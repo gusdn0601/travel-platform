@@ -1,0 +1,86 @@
+{
+  "id": "pl_53d8bddeb0",
+  "code": "CN-SHA-F-0030",
+  "city_id": "CN-SHA",
+  "slug": "manner-coffee",
+  "kind": "food",
+  "name_ko": "매너 커피 (Manner Coffee)",
+  "name_local": "Manner Coffee 江阴路",
+  "lat": 31.17151,
+  "lng": 121.46767,
+  "area": "도심 여러 지점",
+  "lead": "상하이에서 시작한 로컬 커피 체인. 합리적인 가격과 진한 에스프레소로 현지 직장인들에게 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "커피 체인"
+    ],
+    [
+      "시작",
+      "2015년 상하이"
+    ],
+    [
+      "특징",
+      "텀블러 할인"
+    ],
+    [
+      "주문",
+      "미니프로그램/앱"
+    ]
+  ],
+  "origin": [
+    "매너 커피는 2015년 상하이에서 작은 매장으로 시작한 커피 브랜드예요.",
+    "작은 공간에서 빠르게 커피를 내려 주는 모델이 호응을 얻었고, 지금은 중국 여러 도시에 퍼졌어요.",
+    "대형 체인보다 저렴한 가격과 진한 맛으로 로컬 카페 문화를 체험하기에 알맞아요."
+  ],
+  "practical": [
+    "텀블러 지참 시 할인"
+  ],
+  "tip": "현지 카페 문화는 기다림이 짧아요. 걷다가 한 잔 들르기 좋아요.",
+  "order": [
+    "<b>拿铁</b> 라떼",
+    "<b>澳白</b> 플랫화이트",
+    "<b>咖啡</b> 아메리카노"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "1잔 15~30위안 추정",
+  "must": 0,
+  "tags": [
+    "커피",
+    "로컬체인",
+    "테이크아웃"
+  ],
+  "art_key": "roastery",
+  "local_search": "Manner Coffee 江阴路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Specialty_coffee",
+    "https://zh.wikipedia.org/wiki/%E5%92%96%E5%95%A1",
+    "https://www.openstreetmap.org/node/11786752321"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 로컬 커피 체인로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.373Z"
+}

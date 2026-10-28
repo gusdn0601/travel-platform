@@ -1,0 +1,88 @@
+{
+  "id": "pl_1b4a953c56",
+  "code": "JP-FUK-S-0026",
+  "city_id": "JP-FUK",
+  "slug": "yufuin-yunotsubo-street",
+  "kind": "sight",
+  "name_ko": "유후인 유노츠보 거리",
+  "name_sub": "Yunotsubo Street",
+  "name_local": "湯の坪街道",
+  "lat": 33.26603,
+  "lng": 131.36861,
+  "area": "근교(유후인)",
+  "lead": "유후인역에서 긴린코 호수까지 이어지는 상점가. 디저트·공방·잡화점이 늘어서 있어 걷는 재미가 커요.",
+  "facts": [
+    [
+      "종류",
+      "상점가"
+    ],
+    [
+      "위치",
+      "유후인역~긴린코 방면"
+    ],
+    [
+      "볼거리",
+      "디저트·공예품·잡화"
+    ],
+    [
+      "분위기",
+      "온천 마을 산책"
+    ]
+  ],
+  "origin": [
+    "유후인은 오이타현 유후다케 산기슭의 분지에 있는 온천 마을로, 개발보다 경관 보존을 우선한 마을 만들기로 이름났어요.",
+    "1970년대 이후 주민들이 난개발을 막고 자연과 어우러진 관광지를 만들려 했던 것이 오늘날 분위기의 바탕이라고 소개돼요.",
+    "유노츠보 거리는 그런 흐름 속에서 작은 가게들이 모여 자연스럽게 만들어진 산책로예요.",
+    "한국 여행객에게는 후쿠오카에서 버스·열차로 당일 다녀오기 좋은 대표 근교 코스로 알려져 있어요."
+  ],
+  "practical": [
+    "후쿠오카에서 버스나 특급열차로 약 2시간 안팎",
+    "낮에는 사람이 많으니 오전 일찍 도착 추천",
+    "유후인 마을 안은 도보로 충분"
+  ],
+  "tip": "버스는 예약제 구간이 있어 미리 좌석을 잡아 두세요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(간식·쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "유후인",
+    "상점가",
+    "온천마을"
+  ],
+  "art_key": "street",
+  "local_search": "湯の坪街道",
+  "photos": [
+    "JP-FUK-S-0026-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yufuin%2C_%C5%8Cita",
+    "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E9%99%A2%E6%B8%A9%E6%B3%89",
+    "https://www.openstreetmap.org/way/414621665"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 502,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 근교 당일치기로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:23.917Z"
+}

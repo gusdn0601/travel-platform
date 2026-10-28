@@ -1,0 +1,78 @@
+{
+  "id": "pl_bdbc55b118",
+  "code": "JP-NAR-P-0006",
+  "city_id": "JP-NAR",
+  "slug": "kintetsu-department-nara",
+  "kind": "shop",
+  "name_ko": "긴테쓰 백화점 나라점",
+  "name_sub": "Kintetsu Department Store Nara",
+  "name_local": "近鉄百貨店 奈良店",
+  "lat": 34.69486,
+  "lng": 135.78461,
+  "area": "니시노쿄",
+  "lead": "야마토사이다이지역에 붙어 있는 백화점. 식품관에서 향토 과자를 살 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "특징",
+      "식품관"
+    ],
+    [
+      "위치",
+      "야마토사이다이지역"
+    ]
+  ],
+  "origin": [
+    "긴테쓰 백화점 나라점은 야마토사이다이지역과 바로 이어지는 백화점이에요.",
+    "지하 식품관에서 나라 지역 과자와 도시락을 살 수 있어요.",
+    "여행 마지막 날 기념품을 한 번에 정리하기 좋아요.",
+    "나라 공원 방향과는 반대편이라 일정에 넣을 때 동선을 확인해야 해요."
+  ],
+  "practical": [
+    "영업시간 확인",
+    "역 직결"
+  ],
+  "tip": "기념품을 마지막 날 몰아서 사기에 편해요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "무료(구경)",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "식품관",
+    "기념품"
+  ],
+  "art_key": "shop",
+  "local_search": "近鉄百貨店 奈良店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/8554115882"
+  ],
+  "meta": {
+    "priority": 43,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 기념품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:36:20.246Z"
+}

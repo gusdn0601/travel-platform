@@ -1,0 +1,77 @@
+{
+  "id": "pl_31635fe5d9",
+  "code": "JP-KYO-F-0043",
+  "city_id": "JP-KYO",
+  "slug": "kina-na",
+  "kind": "food",
+  "name_ko": "교토 키나나",
+  "name_sub": "Kyo Kina-na",
+  "name_local": "京きなな",
+  "lat": null,
+  "lng": null,
+  "area": "기온/히가시야마",
+  "lead": "콩가루 아이스크림으로 알려진 디저트 가게예요.",
+  "facts": [
+    [
+      "종류",
+      "디저트"
+    ],
+    [
+      "대표",
+      "키나코 아이스"
+    ],
+    [
+      "위치",
+      "기온"
+    ]
+  ],
+  "origin": [
+    "키나나는 콩가루를 사용한 아이스 디저트로 알려져 있어요.",
+    "차분한 단맛과 고소함이 특징이라 사찰 산책 후 먹기 좋아요.",
+    "본점 외에 지점이 여러 곳 있어 동선에 맞춰 고르기 쉬워요.",
+    "좌석이 적어 테이크아웃하는 경우도 많아요."
+  ],
+  "practical": [
+    "좌석 적음",
+    "테이크아웃"
+  ],
+  "tip": "기온 산책 중 손에 들고 먹기 좋아요.",
+  "order": [
+    "<b>きなな</b> 키나코 아이스"
+  ],
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "1인 900~1,400엔 추정",
+  "must": 0,
+  "tags": [
+    "키나코",
+    "디저트",
+    "기온"
+  ],
+  "art_key": "food",
+  "local_search": "京きなな",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 19,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:29.687Z"
+}

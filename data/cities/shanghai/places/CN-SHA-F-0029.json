@@ -1,0 +1,79 @@
+{
+  "id": "pl_e8833d75b0",
+  "code": "CN-SHA-F-0029",
+  "city_id": "CN-SHA",
+  "slug": "korean-bbq-area",
+  "kind": "food",
+  "name_ko": "한식당 · 한국식 고깃집 (한인타운 일대)",
+  "name_local": "韩国料理 虹梅路",
+  "lat": null,
+  "lng": null,
+  "area": "민항구 홍메이루",
+  "lead": "입맛이 그리울 때 의지할 수 있는 한식 구역. 삼겹살·찌개·치킨 등 한국식 메뉴가 거의 다 있어요.",
+  "facts": [
+    [
+      "성격",
+      "유형 항목(구역)"
+    ],
+    [
+      "구역",
+      "홍메이루 한인타운"
+    ],
+    [
+      "메뉴",
+      "삼겹살·찌개·치킨·냉면"
+    ],
+    [
+      "주의",
+      "점포 영업 변동 잦음"
+    ]
+  ],
+  "origin": [
+    "상하이 한인타운에는 1990년대 이후 한국 식당이 모여 있어 현지 한국인 가족과 출장자가 자주 이용해요.",
+    "여행자에게는 한식당을 찾는 가장 확실한 구역이에요.",
+    "다만 점포는 개업과 폐업이 잦으므로 방문 직전에 현지 지도 앱에서 영업 여부를 확인해야 해요."
+  ],
+  "practical": [
+    "개별 점포 정보는 이 DB가 확인하지 못함",
+    "현지 지도 앱 리뷰로 최신 영업 확인"
+  ],
+  "tip": "특정 업소를 정하지 않고 구역으로 접근하는 항목이에요. 홍메이루 한국거리 항목(CN-SHA-S-0048)과 함께 보세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 80~200위안 추정(점포별)",
+  "must": 0,
+  "tags": [
+    "한식",
+    "삼겹살",
+    "야식"
+  ],
+  "art_key": "skewer",
+  "local_search": "韩国料理 虹梅路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Korean_cuisine",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD_%EC%9A%94%EB%A6%AC"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국인 거주·방문 많은 구역(수집가 판단, 미검증). 구체 업소는 미확인",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.371Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pl_9cea1c70cf",
+  "code": "JP-KYO-S-0008",
+  "city_id": "JP-KYO",
+  "slug": "nijo-castle",
+  "kind": "sight",
+  "name_ko": "니조성",
+  "name_sub": "Nijō Castle",
+  "name_local": "元離宮二条城",
+  "lat": 35.01417,
+  "lng": 135.7475,
+  "area": "나카교구",
+  "lead": "쇼군의 거처로 지은 성. 걸을 때 소리가 나는 마루(우구이스바리)로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "성"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "볼거리",
+      "니노마루 어전, 정원"
+    ],
+    [
+      "연도(Wikidata)",
+      "1601년"
+    ]
+  ],
+  "tip": "어전 내부는 실내 촬영이 제한되니 안내를 따르세요.",
+  "open_hours": "Mo-Su 08:45-17:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "성",
+    "세계유산",
+    "역사"
+  ],
+  "art_key": "castle",
+  "local_search": "元離宮二条城",
+  "photos": [
+    "JP-KYO-S-0008-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1013399",
+    "https://ko.wikipedia.org/wiki/%EB%8B%88%EC%A1%B0%EC%84%B1",
+    "https://en.wikipedia.org/wiki/Nij%C5%8D_Castle",
+    "https://www.openstreetmap.org/way/57111281",
+    "https://nijo-jocastle.city.kyoto.lg.jp/?lang=en"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 95,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "castle in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:05.419Z"
+}

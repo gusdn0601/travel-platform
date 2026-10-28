@@ -1,0 +1,82 @@
+{
+  "id": "pl_cf724b6f77",
+  "code": "CN-SHA-S-0024",
+  "city_id": "CN-SHA",
+  "slug": "peace-hotel",
+  "kind": "sight",
+  "name_ko": "화평반점 (페이스 호텔)",
+  "name_sub": "Fairmont Peace Hotel",
+  "name_local": "和平饭店",
+  "lat": 31.23886,
+  "lng": 121.48716,
+  "area": "와이탄",
+  "lead": "녹색 피라미드 지붕이 눈에 띄는 와이탄의 아르데코 호텔. 로비 장식과 재즈 밴드로 유명해요.",
+  "facts": [
+    [
+      "준공",
+      "1929년(사순 하우스)"
+    ],
+    [
+      "건축",
+      "아르데코"
+    ],
+    [
+      "개명",
+      "1956년 화평반점"
+    ],
+    [
+      "특징",
+      "올드 재즈 밴드"
+    ]
+  ],
+  "origin": [
+    "이 건물은 1929년 영국계 유대인 사업가 빅터 사순이 지은 사순 하우스예요.",
+    "상하이에서 가장 화려한 사교장으로 불리며 20세기 초 국제도시 상하이의 상징이었어요.",
+    "중화인민공화국 수립 후 1956년 이름이 화평반점으로 바뀌었고, 리노베이션을 거쳐 2010년 재개관했어요.",
+    "초록 피라미드 지붕과 아르데코 로비, 저녁 재즈 공연이 지금도 이어져요."
+  ],
+  "tip": "로비 구경만 해도 분위기가 좋아요. 재즈 공연은 시간과 입장 규정을 현장에서 확인하세요.",
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "로비 무료, 1층 재즈바 입장 시 최소 주문(추정)",
+  "must": 0,
+  "tags": [
+    "아르데코",
+    "재즈",
+    "역사"
+  ],
+  "art_key": "bund",
+  "local_search": "和平饭店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97",
+    "https://en.wikipedia.org/wiki/Victor_Sassoon",
+    "https://en.wikipedia.org/wiki/The_Bund",
+    "https://www.openstreetmap.org/way/177998987"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 351,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.901Z"
+}

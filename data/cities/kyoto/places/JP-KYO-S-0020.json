@@ -1,0 +1,73 @@
+{
+  "id": "pl_4cdffea159",
+  "code": "JP-KYO-S-0020",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-tower",
+  "kind": "sight",
+  "name_ko": "교토 타워",
+  "name_sub": "Kyoto Tower",
+  "name_local": "京都タワー",
+  "lat": 34.9875,
+  "lng": 135.75917,
+  "area": "교토역",
+  "lead": "교토역 앞에 선 흰 전망탑. 평지가 넓은 교토를 한눈에 보기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "전망탑"
+    ],
+    [
+      "위치",
+      "교토역 맞은편"
+    ],
+    [
+      "특징",
+      "등대를 닮은 외형"
+    ],
+    [
+      "연도(Wikidata)",
+      "1964년"
+    ]
+  ],
+  "tip": "야경 시간대에 올라가면 조명이 켜진 교토를 볼 수 있어요.",
+  "open_hours": "Mo-Su 10:00-21:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "전망대 입장료 별도",
+  "must": 0,
+  "tags": [
+    "전망",
+    "야경",
+    "교토역"
+  ],
+  "art_key": "tower",
+  "local_search": "京都タワー",
+  "photos": [
+    "JP-KYO-S-0020-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1201304",
+    "https://ko.wikipedia.org/wiki/%EA%B5%90%ED%86%A0_%ED%83%80%EC%9B%8C",
+    "https://en.wikipedia.org/wiki/Kyoto_Tower",
+    "https://www.openstreetmap.org/node/1494857741",
+    "https://www.keihanhotels-resorts.co.jp/kyoto-tower/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 16,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "observation tower in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:06.789Z"
+}

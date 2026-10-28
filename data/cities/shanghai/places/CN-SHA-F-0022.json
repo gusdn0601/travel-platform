@@ -1,0 +1,83 @@
+{
+  "id": "pl_68744a76ae",
+  "code": "CN-SHA-F-0022",
+  "city_id": "CN-SHA",
+  "slug": "dadong-duck",
+  "kind": "food",
+  "name_ko": "다둥 오리구이 (大董烤鸭)",
+  "name_local": "大董烤鸭店 上海",
+  "lat": null,
+  "lng": null,
+  "area": "도심",
+  "lead": "‘기름기 적은 오리구이’를 앞세운 고급 오리구이 레스토랑. 접대·기념 식사에 많이 쓰여요.",
+  "facts": [
+    [
+      "종류",
+      "베이징덕"
+    ],
+    [
+      "특징",
+      "기름 적게 구운 스타일"
+    ],
+    [
+      "분위기",
+      "고급 레스토랑"
+    ],
+    [
+      "예약",
+      "필수 권장"
+    ]
+  ],
+  "origin": [
+    "베이징덕은 명나라 시기 난징에서 시작해 수도 이전과 함께 베이징으로 퍼진 요리로 전해져요.",
+    "다둥은 베이징에서 출발한 브랜드로, 기름기를 줄인 오리구이를 앞세워 현대적인 코스를 제공한다고 소개돼요.",
+    "상하이에도 지점이 있어요."
+  ],
+  "practical": [
+    "사전 예약 필수",
+    "1인 최소 주문 없음/있음 지점별 확인"
+  ],
+  "tip": "기존 목록의 사계민복과 비교해서 먹어 보는 재미가 있어요.",
+  "order": [
+    "<b>酥不腻烤鸭</b> 시그니처 오리구이",
+    "<b>鸭汤</b> 오리 국물"
+  ],
+  "open_hours": null,
+  "stay_min": 100,
+  "price_hint": "1인 200~400위안 추정",
+  "must": 0,
+  "tags": [
+    "베이징덕",
+    "고급",
+    "오리구이"
+  ],
+  "art_key": "duck",
+  "local_search": "大董烤鸭店 上海",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peking_duck",
+    "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 고급 오리구이로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.359Z"
+}

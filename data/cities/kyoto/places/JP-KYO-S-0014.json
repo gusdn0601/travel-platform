@@ -1,0 +1,73 @@
+{
+  "id": "pl_6f498370b9",
+  "code": "JP-KYO-S-0014",
+  "city_id": "JP-KYO",
+  "slug": "heian-jingu",
+  "kind": "sight",
+  "name_ko": "헤이안 신궁",
+  "name_sub": "Heian Jingū",
+  "name_local": "平安神宮",
+  "lat": 35.01667,
+  "lng": 135.78222,
+  "area": "사쿄구",
+  "lead": "커다란 붉은 도리이와 넓은 자갈 마당이 인상적인 신사. 신엔 정원이 함께 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "대표",
+      "대형 도리이, 신엔 정원"
+    ],
+    [
+      "유래",
+      "헤이안 천도 기념으로 건립"
+    ],
+    [
+      "연도(Wikidata)",
+      "1895년"
+    ]
+  ],
+  "tip": "정원은 입장료가 별도니 시간 여유에 따라 선택하세요.",
+  "open_hours": "Mar 15-Sep 30 Mo-Su 06:00-18:00; Oct 01-Oct 31 Mo-Su 06:00-17:30; Nov 01-Feb 14 Mo-Su 06:00-17:00; Feb 15-Mar 14 Mo-Su 06:00-17:30 (OSM)",
+  "stay_min": 60,
+  "price_hint": "신원 무료/정원 유료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "정원",
+    "도리이"
+  ],
+  "art_key": "shrine",
+  "local_search": "平安神宮",
+  "photos": [
+    "JP-KYO-S-0014-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q385141",
+    "https://ko.wikipedia.org/wiki/%ED%97%A4%EC%9D%B4%EC%95%88_%EC%8B%A0%EA%B6%81",
+    "https://en.wikipedia.org/wiki/Heian_Shrine",
+    "https://www.openstreetmap.org/way/619903245",
+    "http://www.heianjingu.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 83,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Kyoto Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:33.837Z"
+}

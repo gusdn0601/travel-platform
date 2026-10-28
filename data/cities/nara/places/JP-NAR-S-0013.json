@@ -1,0 +1,70 @@
+{
+  "id": "pl_5eb54022f3",
+  "code": "JP-NAR-S-0013",
+  "city_id": "JP-NAR",
+  "slug": "muro-ji-temple",
+  "kind": "sight",
+  "name_ko": "무로지",
+  "name_sub": "Murō-ji Temple",
+  "name_local": "室生寺",
+  "lat": 34.53789,
+  "lng": 136.04062,
+  "area": "교외(우다)",
+  "lead": "산속에 자리한 소형 5층탑으로 알려진 사찰. 여성의 고야산이라 불리기도 해요.",
+  "facts": [
+    [
+      "종류",
+      "산사"
+    ],
+    [
+      "대표",
+      "야외 5층탑"
+    ],
+    [
+      "특징",
+      "산속 한적함"
+    ],
+    [
+      "연도(Wikidata)",
+      "800년"
+    ]
+  ],
+  "tip": "버스 편수가 적어 시간표를 먼저 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "산사",
+    "5층탑"
+  ],
+  "art_key": "temple",
+  "local_search": "室生寺",
+  "photos": [
+    "JP-NAR-S-0013-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1088506",
+    "https://en.wikipedia.org/wiki/Mur%C5%8D-ji",
+    "http://www.murouji.or.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:49.567Z"
+}

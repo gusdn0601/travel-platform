@@ -1,0 +1,88 @@
+{
+  "id": "pl_d617040ed0",
+  "code": "JP-FUK-F-0005",
+  "city_id": "JP-FUK",
+  "slug": "ramen-stadium",
+  "kind": "food",
+  "name_ko": "라멘 스타디움 (캐널시티)",
+  "name_sub": "Canal City Ramen Stadium",
+  "name_local": "ラーメンスタジアム キャナルシティ博多",
+  "lat": 33.59111,
+  "lng": 130.41056,
+  "area": "하카타",
+  "lead": "캐널시티 5층에 일본 각지 라멘 가게를 모은 라멘 테마 공간. 여러 지역 맛을 비교해 고를 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "라멘 푸드코트"
+    ],
+    [
+      "위치",
+      "캐널시티 하카타 5층"
+    ],
+    [
+      "특징",
+      "각 지역 라멘 가게 입점"
+    ],
+    [
+      "참고",
+      "입점 가게는 수시로 교체"
+    ]
+  ],
+  "origin": [
+    "라멘 스타디움은 캐널시티 하카타 안에서 일본 각 지역을 대표하는 라멘 가게를 한자리에 모은 곳이에요.",
+    "돈코츠뿐 아니라 쇼유·미소 등 다른 지역의 스타일도 먹어볼 수 있다는 점이 한국인 여행객에게 인기 있는 이유로 소개돼요.",
+    "가게 구성은 정기적으로 바뀌므로 방문 시점의 입점 목록을 확인해야 해요.",
+    "쇼핑몰이라 날씨와 상관없이 즐길 수 있고, 분수 쇼 시간에 맞춰 함께 보는 일정도 많아요."
+  ],
+  "practical": [
+    "입점 가게는 시기별로 바뀜",
+    "식권 방식 가게 많음"
+  ],
+  "tip": "분수 쇼 전후로 식사 시간을 맞추면 한 번에 해결돼요.",
+  "order": [
+    "<b>各店ラーメン</b> 입점 가게별 대표 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 900~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "푸드코트",
+    "일본전국"
+  ],
+  "art_key": "noodle",
+  "local_search": "ラーメンスタジアム キャナルシティ博多",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canal_City_Hakata",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%9A%E5%A4%9A",
+    "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 캐널시티 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:41.503Z"
+}

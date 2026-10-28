@@ -1,0 +1,87 @@
+{
+  "id": "pl_c76899cded",
+  "code": "JP-FUK-F-0024",
+  "city_id": "JP-FUK",
+  "slug": "hakata-issou",
+  "kind": "food",
+  "name_ko": "하카타 잇소 (博多一双)",
+  "name_sub": "Hakata Issou",
+  "name_local": "博多一双",
+  "lat": 33.58637,
+  "lng": 130.42511,
+  "area": "하카타",
+  "lead": "진한 돈코츠 국물 위에 향 좋은 기름을 올린 하카타 라멘집. 현지 라멘 마니아가 찾는 곳으로 알려져요.",
+  "facts": [
+    [
+      "종류",
+      "하카타 돈코츠 라멘"
+    ],
+    [
+      "특징",
+      "진한 국물"
+    ],
+    [
+      "위치",
+      "하카타"
+    ],
+    [
+      "곁들임",
+      "가에다마"
+    ]
+  ],
+  "origin": [
+    "하카타 라멘은 가는 면과 진한 돼지뼈 국물이 기본이고, 가게마다 기름과 간의 맛이 달라 취향이 갈려요.",
+    "이 가게는 그런 흐름 속에서 국물에 향이 좋은 기름을 올려 고소함을 더하는 스타일로 알려져 있어요.",
+    "줄이 길어도 국물 맛을 위해 기다리는 손님이 많다는 평이 있어요."
+  ],
+  "practical": [
+    "영업시간 변동 가능",
+    "카드 불가인 곳이 있어 현금 준비"
+  ],
+  "tip": "유명 라멘집을 하루 두 곳 이상 도는 일정에 어울려요.",
+  "order": [
+    "<b>ラーメン</b> 기본 라멘",
+    "<b>替玉</b> 면 추가"
+  ],
+  "open_hours": null,
+  "stay_min": 45,
+  "price_hint": "1인 1,000~1,500엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "돈코츠",
+    "줄서는집"
+  ],
+  "art_key": "noodle",
+  "local_search": "博多一双",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+    "https://www.openstreetmap.org/node/4274752291"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타 라멘 맛집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:38.368Z"
+}

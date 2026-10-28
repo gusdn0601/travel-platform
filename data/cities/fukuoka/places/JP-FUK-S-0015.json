@@ -1,0 +1,70 @@
+{
+  "id": "pl_656ac8ea60",
+  "code": "JP-FUK-S-0015",
+  "city_id": "JP-FUK",
+  "slug": "komyozen-ji",
+  "kind": "sight",
+  "name_ko": "고묘젠지",
+  "name_sub": "Kōmyōzen-ji",
+  "name_local": "光明禅寺",
+  "lat": 33.51838,
+  "lng": 130.53418,
+  "area": "교외(다자이후)",
+  "lead": "이끼와 모래로 꾸민 작은 정원이 있는 사찰. 다자이후 참배길 근처에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "가레산스이 정원"
+    ],
+    [
+      "위치",
+      "다자이후"
+    ],
+    [
+      "연도(Wikidata)",
+      "1273년"
+    ]
+  ],
+  "tip": "규모가 작아 짧게 둘러보기 좋아요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "정원",
+    "사찰",
+    "다자이후"
+  ],
+  "art_key": "garden",
+  "local_search": "光明禅寺",
+  "photos": [
+    "JP-FUK-S-0015-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q865845",
+    "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%AC%98%EC%A0%A0%EC%A7%80",
+    "https://en.wikipedia.org/wiki/K%C5%8Dmy%C5%8Dzen-ji"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Fukuoka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:15.710Z"
+}

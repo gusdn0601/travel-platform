@@ -1,0 +1,74 @@
+{
+  "id": "pl_6124cfda94",
+  "code": "JP-KYO-S-0004",
+  "city_id": "JP-KYO",
+  "slug": "ginkaku-ji-temple",
+  "kind": "sight",
+  "name_ko": "긴카쿠지",
+  "name_sub": "Ginkaku-ji Temple",
+  "name_local": "慈照寺",
+  "addr_local": "京都府 京都市 左京区 銀閣寺町 2",
+  "lat": 35.02667,
+  "lng": 135.79833,
+  "area": "사쿄구",
+  "lead": "이끼 정원과 모래 조형이 차분한 사찰. 철학의 길 북쪽 끝에 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰(선종)"
+    ],
+    [
+      "대표",
+      "은각, 모래 정원"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "1465년"
+    ]
+  ],
+  "tip": "철학의 길과 난젠지 방향으로 이어 걸으면 좋아요.",
+  "open_hours": "09:00~17:00 (추정, 계절별 상이) (추정)",
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "세계유산",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "慈照寺",
+  "photos": [
+    "JP-KYO-S-0004-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q257473",
+    "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%87%BC%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Ginkaku-ji",
+    "https://www.openstreetmap.org/way/105817561",
+    "https://www.shokoku-ji.jp/ginkakuji/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 29,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "temple in Sakyo ward of Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:45.013Z"
+}

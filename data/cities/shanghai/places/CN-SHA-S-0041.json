@@ -1,0 +1,78 @@
+{
+  "id": "pl_b98a373a90",
+  "code": "CN-SHA-S-0041",
+  "city_id": "CN-SHA",
+  "slug": "tongli",
+  "kind": "sight",
+  "name_ko": "퉁리 고진",
+  "name_sub": "Tongli",
+  "name_local": "同里古镇",
+  "lat": 31.15972,
+  "lng": 120.715,
+  "area": "근교 수향마을(쑤저우)",
+  "lead": "장쑤성 쑤저우 외곽의 수향마을. 퇴사원 정원을 포함해 비교적 한적한 편이에요.",
+  "facts": [
+    [
+      "위치",
+      "장쑤성 쑤저우시 우장구"
+    ],
+    [
+      "대표",
+      "퇴사원(退思园)"
+    ],
+    [
+      "세계유산",
+      "퇴사원은 쑤저우 고전원림에 포함"
+    ],
+    [
+      "접근",
+      "상하이에서 버스·기차 환승"
+    ]
+  ],
+  "origin": [
+    "퉁리는 쑤저우 근처에 있는 운하 마을로, 마을 안에 물길이 사방으로 이어져요.",
+    "청나라 말기 1885년 무렵 조성된 퇴사원은 물가 정원 양식의 대표작으로 꼽혀 쑤저우 고전원림 세계유산 목록에 포함돼요.",
+    "주자자오와 비교하면 상대적으로 덜 붐비는 편이라 한적함을 찾는 여행자가 선택해요."
+  ],
+  "tip": "상하이 근교 수향 중 하루 일정으로 여유 있게 보려면 아침 일찍 출발하세요.",
+  "open_hours": null,
+  "stay_min": 240,
+  "price_hint": "입장권 별도(추정)",
+  "must": 0,
+  "tags": [
+    "수향마을",
+    "정원",
+    "장쑤성"
+  ],
+  "art_key": "water",
+  "local_search": "同里古镇",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tongli",
+    "https://zh.wikipedia.org/wiki/%E5%90%8C%E9%87%8C%E9%95%87"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.950Z"
+}

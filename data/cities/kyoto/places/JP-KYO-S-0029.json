@@ -1,0 +1,70 @@
+{
+  "id": "pl_fce043052b",
+  "code": "JP-KYO-S-0029",
+  "city_id": "JP-KYO",
+  "slug": "eikan-do-zenrin-ji-temple",
+  "kind": "sight",
+  "name_ko": "에이칸도",
+  "name_sub": "Eikan-dō Zenrin-ji Temple",
+  "name_local": "禅林寺",
+  "lat": 35.01452,
+  "lng": 135.79529,
+  "area": "사쿄구",
+  "lead": "가을 단풍과 야간 개장으로 유명한 사찰. 돌아보는 길이 길어 천천히 걷기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "단풍 명소"
+    ],
+    [
+      "위치",
+      "난젠지 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "853년"
+    ]
+  ],
+  "tip": "단풍 시즌에는 입장 대기가 길어져요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "단풍",
+    "야간개장"
+  ],
+  "art_key": "temple",
+  "local_search": "禅林寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2380134",
+    "https://en.wikipedia.org/wiki/Eikan-d%C5%8D_Zenrin-ji",
+    "https://www.openstreetmap.org/way/859305371",
+    "https://www.eikando.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 56,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Kyoto Prefecture, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:45.565Z"
+}

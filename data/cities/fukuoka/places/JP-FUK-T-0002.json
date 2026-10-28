@@ -1,0 +1,74 @@
+{
+  "id": "pl_4f4ef7b6e9",
+  "code": "JP-FUK-T-0002",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-airport",
+  "kind": "transit",
+  "name_ko": "후쿠오카 공항",
+  "name_sub": "Fukuoka Airport",
+  "name_local": "福岡空港",
+  "addr_local": "福岡県福岡市博多区下臼井778-1",
+  "lat": 33.58444,
+  "lng": 130.45167,
+  "area": "하카타",
+  "lead": "시내와 가까운 공항. 지하철로 하카타역까지 짧은 시간에 이동할 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "국제·국내선 공항"
+    ],
+    [
+      "접근",
+      "지하철 공항선"
+    ],
+    [
+      "특징",
+      "시내와 가까움"
+    ],
+    [
+      "연도(Wikidata)",
+      "1943년"
+    ]
+  ],
+  "tip": "귀국편은 출발 2~3시간 전 도착을 권장하는 안내가 일반적이에요(항공사 확인).",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "공항",
+    "지하철"
+  ],
+  "art_key": "plane",
+  "local_search": "福岡空港",
+  "photos": [
+    "JP-FUK-T-0002-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1137465",
+    "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4_%EA%B3%B5%ED%95%AD",
+    "https://en.wikipedia.org/wiki/Fukuoka_Airport",
+    "https://www.openstreetmap.org/way/529445584",
+    "https://www.fukuoka-airport.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 333,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "airport in Fukuoka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:03.263Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_149b67f1ed",
+  "code": "JP-KYO-S-0007",
+  "city_id": "JP-KYO",
+  "slug": "tenryu-ji-temple",
+  "kind": "sight",
+  "name_ko": "덴류지",
+  "name_sub": "Tenryū-ji Temple",
+  "name_local": "天龍寺",
+  "addr_local": "〒616-8385 京都府京都市右京区嵯峨天龍寺芒ノ馬場町68",
+  "lat": 35.01599,
+  "lng": 135.67379,
+  "area": "아라시야마",
+  "lead": "연못 정원이 아름다운 선종 사찰. 뒷문으로 나가면 대나무 숲으로 바로 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "사찰(선종)"
+    ],
+    [
+      "대표",
+      "소겐치 정원"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "1345년"
+    ]
+  ],
+  "tip": "정원만 관람하는 표와 건물까지 보는 표가 나뉘어 있어요.",
+  "open_hours": "Mo-Su 08:30-17:00 (OSM)",
+  "stay_min": 75,
+  "price_hint": "정원 입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "세계유산",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "天龍寺",
+  "photos": [
+    "JP-KYO-S-0007-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1759226",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B4%EB%A5%98%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Tenry%C5%AB-ji",
+    "https://www.openstreetmap.org/way/409723494",
+    "https://www.tenryuji.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 78,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "temple in Ukyō-ku, Kyoto Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:01.263Z"
+}

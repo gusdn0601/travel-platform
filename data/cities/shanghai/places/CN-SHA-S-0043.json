@@ -1,0 +1,79 @@
+{
+  "id": "pl_d72051b4cb",
+  "code": "CN-SHA-S-0043",
+  "city_id": "CN-SHA",
+  "slug": "suzhou-shantang",
+  "kind": "sight",
+  "name_ko": "쑤저우 산탕제",
+  "name_sub": "Shantang Street",
+  "name_local": "山塘街",
+  "lat": 31.3218,
+  "lng": 120.59778,
+  "area": "근교(쑤저우)",
+  "lead": "운하를 따라 흰 담과 검은 기와 건물이 이어지는 쑤저우의 옛 거리. 밤에 등불 켜진 풍경이 예뻐요.",
+  "facts": [
+    [
+      "위치",
+      "쑤저우 구시가 서쪽"
+    ],
+    [
+      "길이",
+      "약 7리(옛 표현)"
+    ],
+    [
+      "유래",
+      "당나라 시인 백거이"
+    ],
+    [
+      "즐길 거리",
+      "운하 보트, 야경"
+    ]
+  ],
+  "origin": [
+    "산탕제는 당나라 시인 백거이가 쑤저우 자사로 있을 때 정비한 제방길에서 시작됐다고 전해져요.",
+    "이후 운하 교역의 중심으로 번성하며 상점가가 형성됐어요.",
+    "지금은 옛 모습을 복원한 보행 거리로, 밤이 되면 처마에 불이 켜져 운치가 있어요."
+  ],
+  "tip": "쑤저우 일정이면 졸정원 오전 → 산탕제 저녁으로 하루를 짜면 좋아요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(보트 별도, 추정)",
+  "must": 0,
+  "tags": [
+    "운하",
+    "야경",
+    "당일치기"
+  ],
+  "art_key": "water",
+  "local_search": "山塘街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shantang_Street",
+    "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A1%98%E8%A1%97",
+    "https://www.openstreetmap.org/node/13566013437"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.955Z"
+}

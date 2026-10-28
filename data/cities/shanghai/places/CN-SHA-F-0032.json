@@ -1,0 +1,82 @@
+{
+  "id": "pl_cfba8ca861",
+  "code": "CN-SHA-F-0032",
+  "city_id": "CN-SHA",
+  "slug": "seesaw-coffee",
+  "kind": "food",
+  "name_ko": "시소 커피 (Seesaw Coffee)",
+  "name_local": "Seesaw Coffee 上海",
+  "lat": 31.14321,
+  "lng": 121.3915,
+  "area": "도심 여러 지점",
+  "lead": "상하이 출신 스페셜티 커피 브랜드. 감각적인 인테리어와 직접 로스팅한 원두가 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "스페셜티 커피"
+    ],
+    [
+      "시작",
+      "상하이"
+    ],
+    [
+      "메뉴",
+      "시그니처 블렌드"
+    ],
+    [
+      "분위기",
+      "세련된 카페"
+    ]
+  ],
+  "origin": [
+    "시소 커피는 상하이에서 시작한 스페셜티 커피 브랜드로, 로스팅과 공간 디자인에 힘을 쏟아 소개돼요.",
+    "도심 여러 곳에 지점이 있어 일정 중 쉬어 가기 좋아요.",
+    "로스터리와 카페를 함께 운영해 원두 판매도 하는 편이에요."
+  ],
+  "practical": [],
+  "tip": "스타벅스 리저브 로스터리와 비교해 방문해도 좋아요.",
+  "order": [
+    "<b>拿铁</b> 라떼"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1잔 30~50위안 추정",
+  "must": 0,
+  "tags": [
+    "커피",
+    "스페셜티",
+    "로컬"
+  ],
+  "art_key": "roastery",
+  "local_search": "Seesaw Coffee 上海",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Coffee_culture",
+    "https://en.wikipedia.org/wiki/Specialty_coffee",
+    "https://www.openstreetmap.org/node/5134404224"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 로컬 스페셜티로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.376Z"
+}

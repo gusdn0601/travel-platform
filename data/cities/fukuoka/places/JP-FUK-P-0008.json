@@ -1,0 +1,82 @@
+{
+  "id": "pl_b3820010ae",
+  "code": "JP-FUK-P-0008",
+  "city_id": "JP-FUK",
+  "slug": "jr-hakata-city-amu-plaza",
+  "kind": "shop",
+  "name_ko": "JR 하카타 시티 (아뮤 플라자)",
+  "name_sub": "Amu Plaza Hakata",
+  "name_local": "アミュプラザ博多",
+  "lat": 33.59044,
+  "lng": 130.41989,
+  "area": "하카타",
+  "lead": "하카타역에 직결된 대형 복합 상업시설. 백화점·식당가·옥상 전망 시설이 모여 있어요.",
+  "facts": [
+    [
+      "종류",
+      "역사 복합 쇼핑"
+    ],
+    [
+      "위치",
+      "하카타역 직결"
+    ],
+    [
+      "시설",
+      "쇼핑·식당·전망대"
+    ],
+    [
+      "함께",
+      "킷테 하카타"
+    ]
+  ],
+  "origin": [
+    "아뮤 플라자 하카타는 JR 하카타 시티 안에 자리한 쇼핑 시설로, 의류·잡화·식당가가 모여 있어요.",
+    "역과 바로 이어져 비 오는 날에도 편하게 쇼핑하고 식사할 수 있어요.",
+    "옥상 광장에는 작은 열차가 다니고 전망 시설이 있어 가족 여행에도 인기예요."
+  ],
+  "practical": [
+    "하카타역 직결",
+    "식당가는 점심·저녁 피크 대기"
+  ],
+  "tip": "공항 가기 전 마지막 쇼핑·식사로 활용해요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "하카타역",
+    "백화점",
+    "쇼핑",
+    "식당가"
+  ],
+  "art_key": "mall",
+  "local_search": "アミュプラザ博多",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/JR%E5%8D%9A%E5%A4%9A%E3%82%B7%E3%83%86%E3%82%A3"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 하카타역 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:29.667Z"
+}

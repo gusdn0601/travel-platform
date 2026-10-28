@@ -1,0 +1,81 @@
+{
+  "id": "pl_5935484aa4",
+  "code": "JP-KYO-F-0032",
+  "city_id": "JP-KYO",
+  "slug": "kaneyo-unagi",
+  "kind": "food",
+  "name_ko": "가네요",
+  "name_sub": "Kaneyo",
+  "name_local": "京極かねよ",
+  "lat": 35.0076,
+  "lng": 135.76797,
+  "area": "나카교구",
+  "lead": "교토에서 장어덮밥으로 알려진 오래된 집이에요.",
+  "facts": [
+    [
+      "종류",
+      "장어 요리점"
+    ],
+    [
+      "대표",
+      "우나기동"
+    ],
+    [
+      "위치",
+      "신쿄고쿠 상점가"
+    ]
+  ],
+  "origin": [
+    "가네요는 신쿄고쿠 상점가 근처에서 장어를 구워 온 집으로 알려져 있어요.",
+    "두툼한 장어를 얹은 덮밥이 대표 메뉴예요.",
+    "실내가 넓지 않아 점심에는 대기하는 경우가 있어요.",
+    "교토식은 양념이 담백한 편이에요."
+  ],
+  "practical": [
+    "점심 대기",
+    "가격대 있음"
+  ],
+  "tip": "점심 일찍 가면 대기 없이 앉기 쉬워요.",
+  "order": [
+    "<b>うなぎ丼</b> 장어덮밥"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 2,500~4,500엔 추정",
+  "must": 0,
+  "tags": [
+    "장어",
+    "노포",
+    "교토"
+  ],
+  "art_key": "food",
+  "local_search": "京極かねよ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/4127816589"
+  ],
+  "meta": {
+    "priority": 25,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 장어덮밥로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:17.511Z"
+}

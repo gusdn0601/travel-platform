@@ -1,0 +1,71 @@
+{
+  "id": "pl_7a7bf0ab09",
+  "code": "JP-NAR-T-0001",
+  "city_id": "JP-NAR",
+  "slug": "kintetsu-nara-station",
+  "kind": "transit",
+  "name_ko": "긴테쓰 나라역",
+  "name_sub": "Kintetsu Nara Station",
+  "name_local": "近鉄奈良駅",
+  "lat": 34.68444,
+  "lng": 135.82742,
+  "area": "나라 공원",
+  "lead": "오사카 난바에서 오는 긴테쓰 전철의 종점. 나라 공원까지 걸어서 이동 가능해요.",
+  "facts": [
+    [
+      "종류",
+      "사철 역"
+    ],
+    [
+      "연결",
+      "오사카난바·교토 방면"
+    ],
+    [
+      "특징",
+      "나라 공원 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "1914년"
+    ]
+  ],
+  "tip": "오사카에서 올 때는 이 역이 관광 동선에 더 가까워요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "긴테쓰",
+    "오사카"
+  ],
+  "art_key": "train",
+  "local_search": "近鉄奈良駅",
+  "photos": [
+    "JP-NAR-T-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6414371",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B4%ED%85%8C%EC%93%B0%EB%82%98%EB%9D%BC%EC%97%AD",
+    "https://en.wikipedia.org/wiki/Kintetsu_Nara_Station",
+    "https://www.kintetsu.co.jp/station/station_info/station03023.html"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "railway station in Nara, Nara prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:57.701Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "pl_62b0c5809c",
+  "code": "JP-OSA-F-0013",
+  "city_id": "JP-OSA",
+  "slug": "jiyuken-namba",
+  "kind": "food",
+  "name_ko": "자유켄 난바 본점",
+  "name_sub": "Jiyuken",
+  "name_local": "自由軒 難波本店",
+  "lat": 34.66632,
+  "lng": 135.50239,
+  "area": "난바/도톤보리",
+  "lead": "난바에서 오래된 카레 전문점. 밥과 카레를 섞어 내고 생계란을 올린 명물 카레로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "일본식 카레"
+    ],
+    [
+      "대표",
+      "생계란을 올린 섞은 카레"
+    ],
+    [
+      "위치",
+      "난바"
+    ],
+    [
+      "분위기",
+      "오래된 대중식당"
+    ]
+  ],
+  "origin": [
+    "자유켄은 난바에서 20세기 초부터 영업해 온 것으로 알려진 카레 전문점이에요.",
+    "밥과 카레를 미리 섞어 내고 생계란을 올리는 방식이 독특해 오사카 명물로 소개돼요.",
+    "매운맛이 강하지 않아 아이도 먹기 편하고, 난바 쇼핑 중 간단히 한 끼 하기 좋아요."
+  ],
+  "practical": [
+    "생계란을 섞어 먹는 방식",
+    "점심 시간대 붐빔"
+  ],
+  "tip": "계란을 잘 섞어야 맛이 부드러워져요.",
+  "order": [
+    "<b>名物カレー</b> 명물 카레(생계란 포함)",
+    "<b>ビーフカレー</b> 비프 카레"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 800~1,200엔 추정",
+  "must": 0,
+  "tags": [
+    "카레",
+    "노포",
+    "난바"
+  ],
+  "art_key": "food",
+  "local_search": "自由軒 難波本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E8%2587%25AA%25E7%2594%25B1%25E8%25BB%2592",
+    "https://en.wikipedia.org/wiki/Japanese_curry",
+    "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%B9",
+    "https://www.openstreetmap.org/way/180244991"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 난바 노포 카레로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.890Z"
+}

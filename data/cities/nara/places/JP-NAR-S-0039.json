@@ -1,0 +1,79 @@
+{
+  "id": "pl_fbfd5f9717",
+  "code": "JP-NAR-S-0039",
+  "city_id": "JP-NAR",
+  "slug": "chikurin-in",
+  "kind": "sight",
+  "name_ko": "지쿠린인",
+  "name_sub": "Chikurin-in",
+  "name_local": "竹林院群芳園",
+  "lat": 34.36027,
+  "lng": 135.86285,
+  "area": "교외(요시노)",
+  "lead": "요시노산 참배길에 있는 정원과 숙소를 겸한 사찰이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰·정원"
+    ],
+    [
+      "특징",
+      "대정원"
+    ],
+    [
+      "위치",
+      "요시노산 중턱"
+    ]
+  ],
+  "origin": [
+    "지쿠린인은 요시노산 참배길에 자리한 사찰로, 정원과 숙박 시설을 함께 운영해요.",
+    "도요토미 히데요시가 꽃구경을 왔다는 전승이 전해지는 정원이 알려져 있어요.",
+    "벚꽃철에는 요시노산 전체가 붐비지만 이 정원은 비교적 한적해요.",
+    "산길 도보 여행 중 쉬어 가기 좋아요."
+  ],
+  "practical": [
+    "요시노산 등산 코스",
+    "벚꽃철 혼잡"
+  ],
+  "tip": "요시노산은 케이블카와 도보를 섞어 오르면 편해요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "정원 입장료 별도",
+  "must": 0,
+  "tags": [
+    "정원",
+    "요시노",
+    "숙소"
+  ],
+  "art_key": "garden",
+  "local_search": "竹林院群芳園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%AB%B9%E6%9E%97%E9%99%A2",
+    "https://www.openstreetmap.org/way/470662668"
+  ],
+  "meta": {
+    "priority": 58,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 요시노 벚꽃 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:12.509Z"
+}

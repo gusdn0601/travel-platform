@@ -1,0 +1,77 @@
+{
+  "id": "pl_59d3b44795",
+  "code": "JP-KYO-F-0002",
+  "city_id": "JP-KYO",
+  "slug": "honke-daiichi-asahi",
+  "kind": "food",
+  "name_ko": "혼케 다이이치아사히",
+  "name_sub": "Honke Daiichi Asahi",
+  "name_local": "本家第一旭 たかばし本店",
+  "lat": null,
+  "lng": null,
+  "area": "교토역",
+  "lead": "교토역 근처의 교토식 간장 돈코츠 라멘 노포. 기름기 적고 깔끔한 국물이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "교토식 라멘"
+    ],
+    [
+      "특징",
+      "간장 베이스 + 돼지뼈 육수"
+    ],
+    [
+      "위치",
+      "교토역 북쪽"
+    ]
+  ],
+  "origin": [
+    "교토식 라멘은 간장 맛이 도는 비교적 맑은 돼지뼈 국물에 가는 면, 넉넉한 파를 올리는 스타일로 알려져 있어요.",
+    "이 집은 교토역 북쪽에서 오래 영업한 노포로 소개되고, 심야까지 문을 여는 날이 많다고 알려져 있어요.",
+    "기차 시간 전후로 부담 없이 들르기 좋아요."
+  ],
+  "practical": [
+    "결제 수단 확인(현금 위주일 수 있음)",
+    "영업시간은 변동 가능"
+  ],
+  "tip": "파를 좋아하면 파 라멘을 시켜 보세요.",
+  "order": [
+    "<b>ラーメン</b> 기본 라멘",
+    "<b>ネギラーメン</b> 파 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 900~1,200엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "교토라멘",
+    "노포"
+  ],
+  "art_key": "noodle",
+  "local_search": "本家第一旭 たかばし本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 4,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토역 근처 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:06.425Z"
+}

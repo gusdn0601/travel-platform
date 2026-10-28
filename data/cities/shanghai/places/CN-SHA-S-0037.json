@@ -1,0 +1,79 @@
+{
+  "id": "pl_320456efeb",
+  "code": "CN-SHA-S-0037",
+  "city_id": "CN-SHA",
+  "slug": "cpc-first-congress",
+  "kind": "sight",
+  "name_ko": "중국공산당 제1차 전국대표대회 회지",
+  "name_sub": "Site of the 1st CPC Congress",
+  "name_local": "中共一大会址",
+  "lat": 31.22206,
+  "lng": 121.47069,
+  "area": "신천지",
+  "lead": "1921년 중국공산당이 처음 모인 건물. 신천지 바로 옆이라 동선이 짧아요.",
+  "facts": [
+    [
+      "사건",
+      "1921년 7월 제1차 대표대회"
+    ],
+    [
+      "건물",
+      "석고문 양식 주택"
+    ],
+    [
+      "위치",
+      "신천지 인근 싱예루"
+    ],
+    [
+      "전시",
+      "당 창립 관련 자료"
+    ]
+  ],
+  "origin": [
+    "1921년 7월 상하이 프랑스 조계의 한 주택에서 중국공산당 제1차 전국대표대회가 열렸어요.",
+    "석고문(石库门) 양식 주택은 지금도 신천지 일대에서 볼 수 있는 상하이 전통 골목 주택이에요.",
+    "인근 박물관에서 당의 창립 과정을 설명하며 주변 거리는 대표적 근대 도시 풍경으로 남았어요."
+  ],
+  "tip": "방문은 사전 예약이 필요한 시기가 있어요. 신천지 방문 전 확인하세요.",
+  "open_hours": "Tu-Su 09:00-17:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "무료(예약·신분증 필요, 추정)",
+  "must": 0,
+  "tags": [
+    "근현대사",
+    "박물관",
+    "신천지"
+  ],
+  "art_key": "museum",
+  "local_search": "中共一大会址",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%B1%E4%B8%80%E5%A4%A7%E4%BC%9A%E5%9D%80",
+    "https://en.wikipedia.org/wiki/1st_National_Congress_of_the_Chinese_Communist_Party",
+    "https://www.openstreetmap.org/way/372180467"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.940Z"
+}

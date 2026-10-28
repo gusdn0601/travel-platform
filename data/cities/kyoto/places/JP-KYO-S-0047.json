@@ -1,0 +1,73 @@
+{
+  "id": "pl_0fa8d0a5eb",
+  "code": "JP-KYO-S-0047",
+  "city_id": "JP-KYO",
+  "slug": "kimono-forest",
+  "kind": "sight",
+  "name_ko": "기모노 숲(란덴 아라시야마역)",
+  "name_sub": "Kimono Forest",
+  "name_local": "キモノフォレスト",
+  "lat": null,
+  "lng": null,
+  "area": "아라시야마",
+  "lead": "란덴 아라시야마역 승강장에 기모노 천 기둥이 숲처럼 이어져 있어요. 밤에는 조명이 켜져요.",
+  "facts": [
+    [
+      "종류",
+      "포토 스팟"
+    ],
+    [
+      "위치",
+      "란덴 아라시야마역"
+    ],
+    [
+      "특징",
+      "기모노 천 기둥"
+    ]
+  ],
+  "origin": [
+    "아라시야마 역 승강장에는 교토의 전통 염색 천으로 만든 기둥이 숲처럼 늘어서 있다고 알려져 있어요.",
+    "역을 지나는 도중 가볍게 사진을 찍고 쉬어 가는 곳으로 소개돼요.",
+    "역 구내에 족욕 시설도 있다고 알려져 있어요.",
+    "운영 정보는 현장 확인이 필요해요."
+  ],
+  "practical": [
+    "조명·족욕 운영 시간 확인(미검증)"
+  ],
+  "tip": "대나무 숲 가기 전후에 잠깐 들러요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "포토스팟",
+    "란덴",
+    "아라시야마"
+  ],
+  "art_key": "street",
+  "local_search": "キモノフォレスト",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 18,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 포토 스팟로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:25.118Z"
+}

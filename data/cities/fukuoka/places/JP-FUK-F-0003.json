@@ -1,0 +1,89 @@
+{
+  "id": "pl_0bc0792a85",
+  "code": "JP-FUK-F-0003",
+  "city_id": "JP-FUK",
+  "slug": "genso-nagahamaya",
+  "kind": "food",
+  "name_ko": "원조 나가하마야",
+  "name_sub": "Ganso Nagahamaya",
+  "name_local": "元祖ながはま屋",
+  "lat": 33.59244,
+  "lng": 130.38661,
+  "area": "나가하마",
+  "lead": "어시장 옆에서 일꾼들의 빠른 한 끼로 자란 나가하마 라멘. 가는 면과 진한 국물, 빠른 회전이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "나가하마 스타일 돈코츠 라멘"
+    ],
+    [
+      "특징",
+      "매우 가는 면, 빠른 제공"
+    ],
+    [
+      "위치",
+      "나가하마 어시장 인근"
+    ],
+    [
+      "곁들임",
+      "면 추가(가에다마)"
+    ]
+  ],
+  "origin": [
+    "나가하마 라멘은 후쿠오카 어시장 근처에서 일하는 사람들이 빨리 먹고 일터로 돌아가도록 가는 면을 쓰고 국물을 진하게 끓인 데서 퍼졌다고 전해져요.",
+    "돈코츠 국물에 가는 면, 면만 추가하는 가에다마 문화가 이 지역에서 자리 잡았다는 설명이 많아요.",
+    "이 가게는 그 흐름을 대표하는 곳 중 하나로 소개되며, 한국 여행객도 늦은 밤 해장 라멘으로 자주 찾아요.",
+    "야타이 거리 나가하마 쪽과 엮어 두 번째 라멘으로 가기에도 좋아요."
+  ],
+  "practical": [
+    "대부분 현금, 합석이 흔함",
+    "영업시간 변동이 있어 방문 전 확인"
+  ],
+  "tip": "회전이 빠르니 줄이 길어도 기다릴 만해요.",
+  "order": [
+    "<b>ラーメン</b> 기본 라멘",
+    "<b>替玉</b> 면 추가"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 700~1,000엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "나가하마",
+    "어시장"
+  ],
+  "art_key": "noodle",
+  "local_search": "元祖ながはま屋",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C_(%E7%A6%8F%E5%B2%A1%E5%B8%82)",
+    "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+    "https://www.openstreetmap.org/node/5424645313"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나가하마 라멘 성지로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:39.820Z"
+}

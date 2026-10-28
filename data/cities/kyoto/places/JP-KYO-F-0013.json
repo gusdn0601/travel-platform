@@ -1,0 +1,81 @@
+{
+  "id": "pl_14921c2eec",
+  "code": "JP-KYO-F-0013",
+  "city_id": "JP-KYO",
+  "slug": "gion-tsujiri",
+  "kind": "food",
+  "name_ko": "기온 쓰지리 본점",
+  "name_sub": "Gion Tsujiri",
+  "name_local": "祇園辻利 本店",
+  "lat": 34.74354,
+  "lng": 135.46066,
+  "area": "기온/히가시야마",
+  "lead": "기온 시조에 있는 말차 전문점. 파르페와 말차 소프트아이스로 한국인 여행자에게 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "찻집·디저트"
+    ],
+    [
+      "특징",
+      "말차 파르페"
+    ],
+    [
+      "위치",
+      "기온 시조"
+    ]
+  ],
+  "origin": [
+    "쓰지리는 우지차를 다루는 가게로 알려져 있고, 기온 본점은 시조 거리 한가운데에 있어요.",
+    "말차 파르페와 아이스크림이 대표 메뉴로 소개되며, 날씨 좋은 날은 줄이 길어지는 경우가 있어요.",
+    "우지까지 가지 않고도 말차를 즐길 수 있어 시내 일정에서 인기가 높아요."
+  ],
+  "practical": [
+    "점심·오후 대기",
+    "테이크아웃 소프트 따로"
+  ],
+  "tip": "소프트아이스는 줄이 훨씬 빨라요.",
+  "order": [
+    "<b>抹茶パフェ</b>",
+    "<b>抹茶ソフト</b> 소프트아이스"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,000~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "말차",
+    "파르페",
+    "기온"
+  ],
+  "art_key": "sweet",
+  "local_search": "祇園辻利 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/814482239"
+  ],
+  "meta": {
+    "priority": 4,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 기온 말차 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:20.654Z"
+}

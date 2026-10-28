@@ -1,0 +1,70 @@
+{
+  "id": "pl_ad22a41def",
+  "code": "JP-NAR-S-0012",
+  "city_id": "JP-NAR",
+  "slug": "hase-dera-temple",
+  "kind": "sight",
+  "name_ko": "하세데라",
+  "name_sub": "Hase-dera Temple",
+  "name_local": "長谷寺",
+  "lat": 34.53583,
+  "lng": 135.90694,
+  "area": "교외(사쿠라이)",
+  "lead": "긴 회랑 계단 위에 본당이 있는 사찰. 봄 모란과 가을 단풍이 유명해요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "등롱 회랑 계단"
+    ],
+    [
+      "시즌",
+      "모란, 단풍"
+    ],
+    [
+      "연도(Wikidata)",
+      "686년"
+    ]
+  ],
+  "tip": "계단이 길어 편한 신발이 좋아요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "모란",
+    "계단"
+  ],
+  "art_key": "temple",
+  "local_search": "長谷寺",
+  "photos": [
+    "JP-NAR-S-0012-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1457787",
+    "https://en.wikipedia.org/wiki/Hase-dera",
+    "http://www.hasedera.or.jp/index.html"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:46.884Z"
+}

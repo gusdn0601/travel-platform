@@ -1,0 +1,69 @@
+{
+  "id": "pl_1f083bbba3",
+  "code": "JP-KYO-S-0024",
+  "city_id": "JP-KYO",
+  "slug": "shimogamo-shrine",
+  "kind": "sight",
+  "name_ko": "시모가모 신사",
+  "name_sub": "Shimogamo Shrine",
+  "name_local": "賀茂御祖神社",
+  "lat": 35.03907,
+  "lng": 135.77301,
+  "area": "사쿄구",
+  "lead": "원시림 느낌의 숲 ‘타다스노모리’가 이어지는 신사.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "볼거리",
+      "타다스노모리 숲길"
+    ]
+  ],
+  "tip": "숲길을 걸으면 시내와 다른 공기를 느낄 수 있어요.",
+  "open_hours": "Mo-Su 05:30-18:00 (OSM)",
+  "stay_min": 60,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "숲",
+    "세계유산"
+  ],
+  "art_key": "shrine",
+  "local_search": "賀茂御祖神社",
+  "photos": [
+    "JP-KYO-S-0024-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q701620",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EB%AA%A8%EB%AF%B8%EC%98%A4%EC%95%BC_%EC%8B%A0%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Shimogamo_Shrine",
+    "https://www.openstreetmap.org/way/98106488",
+    "https://www.shimogamo-jinja.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 234,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Sakyō-ku, Kyōto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:23.462Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pl_0f2962067b",
+  "code": "JP-FUK-S-0016",
+  "city_id": "JP-FUK",
+  "slug": "hakata-port-tower",
+  "kind": "sight",
+  "name_ko": "하카타 포트 타워",
+  "name_sub": "Hakata Port Tower",
+  "name_local": "博多ポートタワー",
+  "lat": 33.60444,
+  "lng": 130.39778,
+  "area": "하카타 항",
+  "lead": "하카타 항 앞에 선 전망탑. 항구와 시내 전경이 보여요.",
+  "facts": [
+    [
+      "종류",
+      "전망탑"
+    ],
+    [
+      "위치",
+      "하카타 항"
+    ],
+    [
+      "특징",
+      "항구 전망"
+    ],
+    [
+      "연도(Wikidata)",
+      "1964년"
+    ]
+  ],
+  "tip": "규모가 작아 짧게 들르기 좋아요.",
+  "open_hours": "10:00-20:00; We off; Dec 29-Jan 3 off (OSM)",
+  "stay_min": 30,
+  "price_hint": "전망대 입장료 별도",
+  "must": 0,
+  "tags": [
+    "전망",
+    "항구",
+    "야경"
+  ],
+  "art_key": "tower",
+  "local_search": "博多ポートタワー",
+  "photos": [
+    "JP-FUK-S-0016-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1568000",
+    "https://en.wikipedia.org/wiki/Hakata_Port_Tower",
+    "https://www.openstreetmap.org/way/684600217",
+    "http://port-of-hakata.city.fukuoka.lg.jp/healing_leisure/porttower.html"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 16,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "observation tower",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:19.123Z"
+}

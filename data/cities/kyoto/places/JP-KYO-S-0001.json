@@ -1,0 +1,73 @@
+{
+  "id": "pl_a377d706b7",
+  "code": "JP-KYO-S-0001",
+  "city_id": "JP-KYO",
+  "slug": "fushimi-inari-taisha",
+  "kind": "sight",
+  "name_ko": "후시미 이나리 대사",
+  "name_sub": "Fushimi Inari-taisha",
+  "name_local": "伏見稲荷大社",
+  "lat": 34.9672,
+  "lng": 135.77339,
+  "area": "후시미",
+  "lead": "산길을 따라 수천 개의 붉은 도리이가 이어지는 신사. 입구부터 가볍게 걷다 돌아와도 인상이 깊어요.",
+  "facts": [
+    [
+      "종류",
+      "신사(이나리 신앙 총본사)"
+    ],
+    [
+      "대표",
+      "센본 도리이 터널"
+    ],
+    [
+      "참고",
+      "정상까지 오르면 왕복 2시간 안팎(추정)"
+    ],
+    [
+      "연도(Wikidata)",
+      "711년"
+    ]
+  ],
+  "tip": "낮에는 붐비니 이른 아침이나 해 질 무렵을 추천해요.",
+  "open_hours": "경내 상시 개방(추정) (추정)",
+  "stay_min": 120,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "도리이",
+    "사진"
+  ],
+  "art_key": "shrine",
+  "local_search": "伏見稲荷大社",
+  "photos": [
+    "JP-KYO-S-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q714828",
+    "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%8B%9C%EB%AF%B8_%EC%9D%B4%EB%82%98%EB%A6%AC_%EB%8C%80%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha",
+    "https://www.openstreetmap.org/node/2656063038",
+    "https://inari.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 36,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrines in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:29.359Z"
+}

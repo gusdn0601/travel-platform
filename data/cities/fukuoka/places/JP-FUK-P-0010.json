@@ -1,0 +1,83 @@
+{
+  "id": "pl_3b6e0647d4",
+  "code": "JP-FUK-P-0010",
+  "city_id": "JP-FUK",
+  "slug": "don-quijote-nakasu",
+  "kind": "shop",
+  "name_ko": "돈키호테 나카스점",
+  "name_sub": "Don Quijote Nakasu",
+  "name_local": "ドン・キホーテ 中洲店",
+  "lat": null,
+  "lng": null,
+  "area": "나카스",
+  "lead": "식품·화장품·잡화를 한 번에 사는 할인 잡화점. 한국 여행객이 가장 많이 들르는 쇼핑 정거장이에요.",
+  "facts": [
+    [
+      "종류",
+      "할인 잡화점"
+    ],
+    [
+      "위치",
+      "나카스"
+    ],
+    [
+      "시간",
+      "늦게까지 영업하는 지점"
+    ],
+    [
+      "택스",
+      "면세 가능"
+    ]
+  ],
+  "origin": [
+    "돈키호테는 일본 전국에 지점을 둔 할인 잡화점으로, 좁은 통로에 상품을 빼곡히 쌓은 진열이 특징이에요.",
+    "나카스 지점은 야타이 거리와 가까워 저녁 식사 뒤 들르기 좋아요.",
+    "한국 여행객이 약, 화장품, 과자, 기념품 등을 사러 자주 찾는 곳이에요."
+  ],
+  "practical": [
+    "면세 가능, 여권 필요",
+    "영업시간은 지점별로 다름"
+  ],
+  "tip": "약과 과자를 한 번에 사려면 늦은 저녁이 한가해요.",
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 60,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "잡화",
+    "면세",
+    "심야",
+    "나카스"
+  ],
+  "art_key": "mall",
+  "local_search": "ドン・キホーテ 中洲店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Don_Quijote_(store)",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86",
+    "https://www.openstreetmap.org/node/7701623523"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "flag": "wikipedia matched company HQ (Tokyo); coords left null"
+  },
+  "sanitized_at": "2026-10-28T10:04:33.415Z"
+}

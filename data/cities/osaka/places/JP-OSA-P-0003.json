@@ -1,0 +1,69 @@
+{
+  "id": "pl_75b1ebe15c",
+  "code": "JP-OSA-P-0003",
+  "city_id": "JP-OSA",
+  "slug": "amerikamura",
+  "kind": "shop",
+  "name_ko": "아메리카무라",
+  "name_sub": "Amerikamura",
+  "name_local": "アメリカ村",
+  "addr_local": "〒542-0086 大阪府 大阪市 中央区 西心斎橋二丁目 周防町筋",
+  "lat": 34.67209,
+  "lng": 135.49796,
+  "area": "난바/도톤보리",
+  "lead": "젊은 층의 패션과 길거리 문화가 모인 구역. 빈티지 가게와 벽화가 많아요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑·유행 거리"
+    ],
+    [
+      "별칭",
+      "아메무라"
+    ],
+    [
+      "대표",
+      "삼각공원 일대"
+    ]
+  ],
+  "tip": "해가 진 뒤에는 분위기가 달라지니 낮에 먼저 둘러보는 것을 권해요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "젊음",
+    "거리예술"
+  ],
+  "art_key": "neon",
+  "local_search": "アメリカ村",
+  "photos": [
+    "JP-OSA-P-0003-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q4745722",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%AC%B4%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Amerikamura",
+    "https://www.openstreetmap.org/node/4586410090"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 77,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "Large retail and entertainment area in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:17.107Z"
+}

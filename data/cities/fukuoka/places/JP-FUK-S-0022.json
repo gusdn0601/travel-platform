@@ -1,0 +1,62 @@
+{
+  "id": "pl_1fb266340b",
+  "code": "JP-FUK-S-0022",
+  "city_id": "JP-FUK",
+  "slug": "tenjin",
+  "kind": "sight",
+  "name_ko": "텐진",
+  "name_sub": "Tenjin",
+  "name_local": "天神",
+  "lat": 33.58941,
+  "lng": 130.39287,
+  "area": "텐진",
+  "lead": "백화점과 지하상가, 카페가 모인 후쿠오카 최대 번화가.",
+  "facts": [
+    [
+      "종류",
+      "번화가(지구)"
+    ],
+    [
+      "특징",
+      "백화점·지하상가"
+    ],
+    [
+      "접근",
+      "지하철 텐진역"
+    ]
+  ],
+  "tip": "비 오는 날은 지하상가로 이동하면 쾌적해요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "번화가",
+    "지하상가"
+  ],
+  "art_key": "neon",
+  "local_search": "天神",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/13003771539"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:47.561Z"
+}

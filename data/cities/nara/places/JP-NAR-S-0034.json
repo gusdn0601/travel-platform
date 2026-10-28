@@ -1,0 +1,80 @@
+{
+  "id": "pl_bbac6baf56",
+  "code": "JP-NAR-S-0034",
+  "city_id": "JP-NAR",
+  "slug": "kitora-tomb",
+  "kind": "sight",
+  "name_ko": "기토라 고분",
+  "name_sub": "Kitora Tomb",
+  "name_local": "キトラ古墳",
+  "lat": 34.4512,
+  "lng": 135.805,
+  "area": "교외(아스카)",
+  "lead": "천문도 벽화가 남아 있던 작은 고분. 지금은 보존 시설 안에서 볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "고분"
+    ],
+    [
+      "특징",
+      "천문도·사신도 벽화"
+    ],
+    [
+      "위치",
+      "아스카 지역"
+    ]
+  ],
+  "origin": [
+    "기토라 고분은 7세기 후반에 만들어졌다고 전해지는 작은 고분이에요.",
+    "사신도와 함께 동아시아에서 이른 시기의 천문도가 그려진 것으로 알려져 있어요.",
+    "보존을 위해 봉분 위에 시설을 덮어 관리하고 있어요.",
+    "인근 기토라 고분 사방관에서 벽화 재현을 볼 수 있어요."
+  ],
+  "practical": [
+    "사방관 관람 여부 확인"
+  ],
+  "tip": "다카마쓰즈카와 함께 아스카 코스로 묶어요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료(외부 관람)",
+  "must": 0,
+  "tags": [
+    "고분",
+    "벽화",
+    "아스카"
+  ],
+  "art_key": "museum",
+  "local_search": "キトラ古墳",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kitora_Tomb",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%88%E3%83%A9%E5%8F%A4%E5%A2%B3",
+    "https://www.openstreetmap.org/way/1566437310"
+  ],
+  "meta": {
+    "priority": 47,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 13,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아스카 고분 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:00.171Z"
+}

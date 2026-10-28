@@ -1,0 +1,76 @@
+{
+  "id": "pl_7cb85cae11",
+  "code": "JP-KYO-S-0039",
+  "city_id": "JP-KYO",
+  "slug": "kyoto-kamogawa-walk",
+  "kind": "sight",
+  "name_ko": "가모강 강변 산책",
+  "name_sub": "Kamogawa River",
+  "name_local": "鴨川",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "시내를 남북으로 흐르는 강. 저녁이면 강변에 일정한 간격으로 앉아 쉬는 사람들이 보이는 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "하천 산책로"
+    ],
+    [
+      "특징",
+      "저녁 강변, 폰토초 뷰"
+    ]
+  ],
+  "origin": [
+    "가모강은 교토 시내를 가로지르는 강으로, 예부터 도시의 주요 풍경이었어요.",
+    "여름 저녁에는 연인과 친구들이 일정 간격으로 앉는 풍경이 유명하다고 소개돼요.",
+    "건너편으로는 폰토초와 기온의 불빛이 이어져 야경 산책 코스로 자주 소개돼요."
+  ],
+  "practical": [
+    "야간에는 조명 약함"
+  ],
+  "tip": "해질 무렵 산조~시조 구간이 가장 좋아요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "강변",
+    "산책",
+    "야경"
+  ],
+  "art_key": "park",
+  "local_search": "鴨川",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kamo_River",
+    "https://ja.wikipedia.org/wiki/%E9%B4%A8%E5%B7%9D",
+    "https://www.openstreetmap.org/relation/7930691"
+  ],
+  "meta": {
+    "priority": 7,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "coord_conflict",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 13065,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 시내 야경 산책로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "coord_note": "wiki/OSM coords disagree >1km; coords withheld pending manual check"
+  },
+  "sanitized_at": "2026-10-28T10:09:10.710Z"
+}

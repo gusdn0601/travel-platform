@@ -1,0 +1,81 @@
+{
+  "id": "pl_fddb2d5dfb",
+  "code": "JP-NAR-F-0003",
+  "city_id": "JP-NAR",
+  "slug": "tenkodo",
+  "kind": "food",
+  "name_ko": "텐고쿠도 나라 본점",
+  "name_sub": "Tenkodo Nara",
+  "name_local": "天極堂 奈良本店",
+  "lat": 34.687,
+  "lng": 135.83493,
+  "area": "나라마치",
+  "lead": "요시노 구즈를 직접 가공해 만드는 디저트 전문점이에요.",
+  "facts": [
+    [
+      "종류",
+      "구즈 제과·디저트"
+    ],
+    [
+      "대표",
+      "구즈모치"
+    ],
+    [
+      "위치",
+      "나라마치 남쪽"
+    ]
+  ],
+  "origin": [
+    "텐고쿠도는 요시노 구즈(칡 녹말)를 다루는 가게로 알려져 있어요.",
+    "구즈모치와 구즈키리를 한 그릇에 담아 내는 세트가 대표 메뉴로 소개돼요.",
+    "차갑고 담백해 여름 사찰 산책 후 쉬어 가기 좋아요.",
+    "본점 외에 나라 안에 지점이 여러 곳 있어요."
+  ],
+  "practical": [
+    "포장 판매 병행"
+  ],
+  "tip": "더울 때는 차가운 구즈모치를 추천해요.",
+  "order": [
+    "<b>くずもち</b> 구즈모치",
+    "<b>吉野本葛</b> 구즈키리"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "구즈모치",
+    "여름",
+    "전통"
+  ],
+  "art_key": "food",
+  "local_search": "天極堂 奈良本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/344611525"
+  ],
+  "meta": {
+    "priority": 12,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 전통 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:50.787Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "pl_34f1ad1b04",
+  "code": "JP-FUK-P-0002",
+  "city_id": "JP-FUK",
+  "slug": "kawabata-shopping-arcade",
+  "kind": "shop",
+  "name_ko": "가와바타 상점가",
+  "name_sub": "Kawabata Shopping Arcade",
+  "name_local": "川端通商店街",
+  "lat": 33.59358,
+  "lng": 130.40836,
+  "area": "하카타",
+  "lead": "하카타의 오래된 지붕 있는 상점가. 팥떡과 어묵 등 간식 가게가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "아케이드 상점가"
+    ],
+    [
+      "특징",
+      "전통 간식·잡화"
+    ],
+    [
+      "위치",
+      "구시다 신사 인근"
+    ]
+  ],
+  "tip": "구시다 신사와 캐널시티 사이에 있어 산책 겸 들르기 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "아케이드",
+    "전통"
+  ],
+  "art_key": "market",
+  "local_search": "川端通商店街",
+  "photos": [
+    "JP-FUK-P-0002-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11479119",
+    "https://kawabatadori.com/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "shōtengai in Hakata-ku, Fukuoka City, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:51.315Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pl_df46af1347",
+  "code": "CN-SHA-S-0055",
+  "city_id": "CN-SHA",
+  "slug": "waibaidu-bridge",
+  "kind": "sight",
+  "name_ko": "와이바이두 다리 (가든 브리지)",
+  "name_sub": "Waibaidu Bridge",
+  "name_local": "外白渡桥",
+  "lat": 31.24306,
+  "lng": 121.49,
+  "area": "북외탄",
+  "lead": "쑤저우허를 가로지르는 철제 트러스 다리. 뒤로 동방명주가 걸리는 사진 명소예요.",
+  "facts": [
+    [
+      "준공",
+      "1907년(현 다리)"
+    ],
+    [
+      "형식",
+      "철제 트러스교"
+    ],
+    [
+      "위치",
+      "북외탄"
+    ],
+    [
+      "특징",
+      "푸동 배경 포토존"
+    ]
+  ],
+  "origin": [
+    "와이바이두 다리의 앞 선구는 1856년 목조 다리였고, 현 철제 트러스 다리는 1907년 완공됐어요.",
+    "100년 이상 쑤저우허와 황푸강이 만나는 지점을 지켜 온 다리로, 영화 촬영지로도 자주 쓰여요.",
+    "2008년 보수 공사를 거쳐 다시 자리에 놓였다고 알려져요."
+  ],
+  "tip": "야경 시간대엔 사진 줄이 생겨요. 사계민복 오리구이(북외탄) 방문 전후로 걷기 좋아요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "다리",
+    "철교",
+    "야경",
+    "사진"
+  ],
+  "art_key": "bund",
+  "local_search": "外白渡桥",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Waibaidu_Bridge",
+    "https://zh.wikipedia.org/wiki/%E5%A4%96%E7%99%BD%E6%B8%A1%E6%A1%A5",
+    "https://www.openstreetmap.org/way/815631996"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 476,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 상하이 일정 후보로 소개되는 곳(수집가 판단, 방문자 수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.644Z"
+}

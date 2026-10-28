@@ -1,0 +1,80 @@
+{
+  "id": "pl_f85f950bb2",
+  "code": "CN-SHA-P-0005",
+  "city_id": "CN-SHA",
+  "slug": "super-brand-mall",
+  "kind": "shop",
+  "name_ko": "정대광장 (슈퍼 브랜드 몰)",
+  "name_sub": "Super Brand Mall",
+  "name_local": "正大广场",
+  "lat": 31.2385,
+  "lng": 121.494,
+  "area": "푸동/루자쭈이",
+  "lead": "푸동 루자쭈이의 대형 쇼핑몰. 식당가가 많고 상하이 해양수족관, 동방명주와 도보권이에요.",
+  "facts": [
+    [
+      "위치",
+      "루자쭈이"
+    ],
+    [
+      "성격",
+      "대형 쇼핑몰 · 식당가"
+    ],
+    [
+      "인근",
+      "해양수족관, 동방명주"
+    ],
+    [
+      "접근",
+      "지하철 2호선"
+    ]
+  ],
+  "origin": [
+    "정대광장은 푸동 금융지구에 있는 대형 복합 쇼핑몰이에요.",
+    "식당가와 영화관, 어린이 시설이 한곳에 모여 있어 푸동 일정 중 식사나 휴식 장소로 자주 쓰여요.",
+    "기존 선택지에 있는 좌정우원 훠궈도 이 몰 안에 있어요."
+  ],
+  "tip": "관광 후 식사 해결용으로 좋아요.",
+  "open_hours": "Mo-Su 10:00-22:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑몰",
+    "푸동",
+    "식당가"
+  ],
+  "art_key": "street",
+  "local_search": "正大广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Super_Brand_Mall",
+    "https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%A4%A7%E5%B9%BF%E5%9C%BA",
+    "https://www.openstreetmap.org/way/40779113"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 72,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.980Z"
+}

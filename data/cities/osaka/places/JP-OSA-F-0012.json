@@ -1,0 +1,91 @@
+{
+  "id": "pl_d70bc1d7f6",
+  "code": "JP-OSA-F-0012",
+  "city_id": "JP-OSA",
+  "slug": "daruma-shinsekai",
+  "kind": "food",
+  "name_ko": "쿠시카츠 다루마 신세카이 본점",
+  "name_sub": "Kushikatsu Daruma",
+  "name_local": "串かつだるま 新世界総本店",
+  "lat": 34.65105,
+  "lng": 135.50648,
+  "area": "신세카이",
+  "lead": "신세카이에서 쿠시카츠를 대중화한 가게로 알려진 곳. 소스는 한 번만 찍는 규칙이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쿠시카츠(튀김 꼬치)"
+    ],
+    [
+      "규칙",
+      "소스 두 번 찍기 금지"
+    ],
+    [
+      "위치",
+      "신세카이"
+    ],
+    [
+      "메뉴",
+      "소고기·새우·야채 꼬치"
+    ]
+  ],
+  "origin": [
+    "쿠시카츠는 고기와 채소를 꼬치에 꿰어 튀긴 오사카의 대표 서민 음식이에요.",
+    "다루마는 신세카이에서 이 음식을 널리 알린 가게로 소개되며, 공용 소스 통에 두 번 찍지 않는다는 규칙으로도 유명해요.",
+    "바삭한 튀김옷과 달콤한 소스 조합이 맥주와 잘 맞아요.",
+    "신세카이의 츠텐카쿠와 묶어 저녁 코스로 많이들 찾아요."
+  ],
+  "practical": [
+    "소스 통에 두 번 찍지 않기",
+    "양배추는 무료로 나오는 곳 많음",
+    "현금 준비"
+  ],
+  "tip": "소스 규칙은 꼭 지켜 주세요. 양배추로 소스를 떠서 뿌려도 돼요.",
+  "order": [
+    "<b>串カツ</b> 소고기 쿠시카츠",
+    "<b>エビ</b> 새우 꼬치",
+    "<b>紅しょうが</b> 붉은 생강 튀김"
+  ],
+  "open_hours": null,
+  "stay_min": 70,
+  "price_hint": "1인 1,500~3,000엔 추정",
+  "must": 0,
+  "tags": [
+    "쿠시카츠",
+    "신세카이",
+    "노포"
+  ],
+  "art_key": "skewer",
+  "local_search": "串かつだるま 新世界総本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E4%25B8%25B2%25E3%2582%25AB%25E3%2583%2584",
+    "https://en.wikipedia.org/wiki/Kushikatsu",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B2%E3%82%AB%E3%83%84",
+    "https://www.openstreetmap.org/node/11129125492"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 신세카이 쿠시카츠로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.889Z"
+}

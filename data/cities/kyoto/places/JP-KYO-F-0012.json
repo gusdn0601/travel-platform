@@ -1,0 +1,76 @@
+{
+  "id": "pl_3cbd4233d9",
+  "code": "JP-KYO-F-0012",
+  "city_id": "JP-KYO",
+  "slug": "weekenders-coffee",
+  "kind": "food",
+  "name_ko": "위켄더스 커피",
+  "name_sub": "Weekenders Coffee",
+  "name_local": "WEEKENDERS COFFEE 富小路",
+  "lat": 35.00678,
+  "lng": 135.76448,
+  "area": "시조/가와라마치",
+  "lead": "주차장 안쪽에 숨은 입구로 알려진 작은 스페셜티 커피 스탠드예요.",
+  "facts": [
+    [
+      "종류",
+      "스페셜티 커피"
+    ],
+    [
+      "특징",
+      "숨은 입구"
+    ],
+    [
+      "위치",
+      "시조 인근"
+    ]
+  ],
+  "origin": [
+    "위켄더스는 골목 안쪽 주차장을 지나 들어가는 독특한 입구로 알려진 커피 스탠드예요.",
+    "시내 중심에서 걸어갈 수 있어 쇼핑 중 쉬어 가는 용도로 찾는 사람이 많아요.",
+    "위치가 헷갈릴 수 있으니 지도를 보고 가는 편이 좋아요."
+  ],
+  "practical": [
+    "좌석 적음"
+  ],
+  "tip": "자리가 적어 테이크아웃도 괜찮아요.",
+  "open_hours": "Th-Tu 07:30-18:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "1인 600~1,000엔 추정",
+  "must": 0,
+  "tags": [
+    "카페",
+    "스페셜티",
+    "숨은입구"
+  ],
+  "art_key": "cafe",
+  "local_search": "WEEKENDERS COFFEE 富小路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/531355149"
+  ],
+  "meta": {
+    "priority": 18,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 감성 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:19.477Z"
+}

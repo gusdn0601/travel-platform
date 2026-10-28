@@ -1,0 +1,73 @@
+{
+  "id": "pl_6d1d95b4f6",
+  "code": "JP-OSA-T-0002",
+  "city_id": "JP-OSA",
+  "slug": "shin-osaka-station",
+  "kind": "transit",
+  "name_ko": "신오사카역",
+  "name_sub": "Shin‐Ōsaka Station",
+  "name_local": "新大阪駅",
+  "addr_local": "〒533-0033 大阪府 大阪市 淀川区 宮原一丁目 新大阪地下道 1",
+  "lat": 34.73361,
+  "lng": 135.5,
+  "area": "교외(요도가와)",
+  "lead": "신칸센이 서는 오사카의 관문 역. 교토·도쿄 방면 이동의 기점이에요.",
+  "facts": [
+    [
+      "종류",
+      "신칸센 역"
+    ],
+    [
+      "연결",
+      "JR 교토선, 미도스지선"
+    ],
+    [
+      "용도",
+      "장거리 이동"
+    ],
+    [
+      "연도(Wikidata)",
+      "1963년"
+    ]
+  ],
+  "tip": "신칸센 환승 시 20분 이상 여유를 두면 안전해요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "신칸센",
+    "환승"
+  ],
+  "art_key": "train",
+  "local_search": "新大阪駅",
+  "photos": [
+    "JP-OSA-T-0002-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q801438",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%98%A4%EC%82%AC%EC%B9%B4%EC%97%AD",
+    "https://en.wikipedia.org/wiki/Shin-%C5%8Csaka_Station",
+    "https://www.openstreetmap.org/node/3626952971"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 19,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "railway station and metro station in Ōsaka, Ōsaka prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:51.507Z"
+}

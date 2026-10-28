@@ -1,0 +1,91 @@
+{
+  "id": "pl_532d505bb2",
+  "code": "JP-OSA-F-0014",
+  "city_id": "JP-OSA",
+  "slug": "551-horai-ebisubashi",
+  "kind": "food",
+  "name_ko": "551 호라이 에비스바시 본점",
+  "name_sub": "551 Horai",
+  "name_local": "551蓬莱 戎橋本店",
+  "lat": 34.66647,
+  "lng": 135.50126,
+  "area": "난바/도톤보리",
+  "lead": "오사카를 대표하는 고기만두(부타만) 전문점. 도톤보리에서 갓 쪄 낸 만두를 바로 먹을 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "부타만(고기만두)"
+    ],
+    [
+      "위치",
+      "에비스바시"
+    ],
+    [
+      "특징",
+      "오사카 향토 체인"
+    ],
+    [
+      "포장",
+      "냉동 만두 선물 가능"
+    ]
+  ],
+  "origin": [
+    "551 호라이는 오사카에서 시작해 간사이 지역을 중심으로 매장을 둔 식품 체인으로 알려져 있어요.",
+    "크고 달콤한 양파가 든 고기만두가 대표 상품이에요.",
+    "오사카 사람들이 집에 들를 때 사 가는 간식으로 유명하고, 한국 여행객도 도톤보리에서 간식으로 사 먹는 코스로 많이 찾아요."
+  ],
+  "practical": [
+    "매장 앞 테이크아웃 줄",
+    "냉동 제품은 보관·반입 규정 확인",
+    "따뜻할 때 먹기"
+  ],
+  "tip": "바로 먹을 것과 선물용을 따로 계산하면 편해요.",
+  "order": [
+    "<b>豚まん</b> 부타만(고기만두)",
+    "<b>焼売</b> 슈마이",
+    "<b>アイスキャンデー</b> 아이스캔디"
+  ],
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "고기만두 2개 400엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "호라이",
+    "고기만두",
+    "간식",
+    "선물"
+  ],
+  "art_key": "food",
+  "local_search": "551蓬莱 戎橋本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F551%25E8%2593%25AC%25E8%258E%25B1",
+    "https://en.wikipedia.org/wiki/Dōtonbori",
+    "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
+    "https://www.openstreetmap.org/way/219869422"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 간식·선물로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.891Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_8ee76cb31c",
+  "code": "JP-OSA-P-0007",
+  "city_id": "JP-OSA",
+  "slug": "namba-parks",
+  "kind": "shop",
+  "name_ko": "난바 파크스",
+  "name_sub": "Namba Parks",
+  "name_local": "なんばパークス",
+  "addr_local": "〒542-8503 大阪府 大阪市 浪速区 難波中二丁目 なんばカーニバルモール 2-10-70, 3F",
+  "lat": 34.66147,
+  "lng": 135.5018,
+  "area": "난바/도톤보리",
+  "lead": "계단식 옥상정원이 있는 대형 쇼핑몰. 쇼핑 중 쉬어 가기 좋은 녹지가 있어요.",
+  "facts": [
+    [
+      "종류",
+      "쇼핑몰"
+    ],
+    [
+      "특징",
+      "옥상정원"
+    ],
+    [
+      "접근",
+      "난카이 난바역 연결"
+    ],
+    [
+      "연도(Wikidata)",
+      "2003년"
+    ]
+  ],
+  "tip": "난카이 난바역과 바로 연결돼 공항철도 이용 전후에 들르기 편해요.",
+  "open_hours": "Mo-Su 10:00-24:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "옥상정원",
+    "난바"
+  ],
+  "art_key": "park",
+  "local_search": "なんばパークス",
+  "photos": [
+    "JP-OSA-P-0007-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6961367",
+    "https://ko.wikipedia.org/wiki/%EB%82%9C%EB%B0%94_%ED%8C%8C%ED%81%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Namba_Parks",
+    "https://www.openstreetmap.org/way/451572345",
+    "https://nambaparks.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 27,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "office and shopping complex in Osaka, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:50:24.025Z"
+}

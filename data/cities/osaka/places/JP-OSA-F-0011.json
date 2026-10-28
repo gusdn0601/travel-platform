@@ -1,0 +1,92 @@
+{
+  "id": "pl_804389a490",
+  "code": "JP-OSA-F-0011",
+  "city_id": "JP-OSA",
+  "slug": "kanidoraku-dotonbori",
+  "kind": "food",
+  "name_ko": "카니도라쿠 도톤보리 본점",
+  "name_sub": "Kanidoraku",
+  "name_local": "かに道楽 道頓堀本店",
+  "lat": 34.66878,
+  "lng": 135.50315,
+  "area": "난바/도톤보리",
+  "lead": "거대한 게 간판이 도톤보리의 상징이 된 게 요리 전문점. 코스로 여러 게 요리를 맛볼 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "게 요리"
+    ],
+    [
+      "간판",
+      "거대한 움직이는 게"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "메뉴",
+      "게 코스·게 스키"
+    ]
+  ],
+  "origin": [
+    "카니도라쿠는 오사카에서 시작해 일본 각지에 지점을 둔 게 요리 전문점이에요.",
+    "도톤보리 본점 앞의 거대한 게 간판은 오사카의 사진 명소로 꼽혀요.",
+    "삶은 게, 구운 게, 게 스키 등 코스로 나오는 구성이 대표적이에요.",
+    "값이 있는 편이라 기념일 식사로 예약해 찾는 여행자가 많아요."
+  ],
+  "practical": [
+    "예약 권장",
+    "코스 위주, 인원·시즌별 가격 상이",
+    "간판 앞 사진 대기 줄"
+  ],
+  "tip": "예약 없이 가면 대기가 길어요. 일정이 정해지면 미리 예약하세요.",
+  "order": [
+    "<b>かにすき</b> 게 스키",
+    "<b>焼きがに</b> 구운 게",
+    "<b>かに刺身</b> 게 회"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 4,000~10,000엔 추정",
+  "must": 0,
+  "tags": [
+    "게요리",
+    "도톤보리",
+    "기념일"
+  ],
+  "art_key": "seafood",
+  "local_search": "かに道楽 道頓堀本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E3%2581%258B%25E3%2581%25AB%25E9%2581%2593%25E6%25A5%25BD",
+    "https://en.wikipedia.org/wiki/Crab",
+    "https://en.wikipedia.org/wiki/Dōtonbori",
+    "https://ja.wikipedia.org/wiki/%E9%81%93%E9%A0%93%E5%A0%80",
+    "https://www.openstreetmap.org/node/2326956816"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 도톤보리 게 요리로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.887Z"
+}

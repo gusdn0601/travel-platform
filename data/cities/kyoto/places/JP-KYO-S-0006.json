@@ -1,0 +1,72 @@
+{
+  "id": "pl_749468c507",
+  "code": "JP-KYO-S-0006",
+  "city_id": "JP-KYO",
+  "slug": "togetsu-kyo",
+  "kind": "sight",
+  "name_ko": "도게쓰교",
+  "name_sub": "Togetsu-kyō",
+  "name_local": "渡月橋",
+  "lat": 35.01281,
+  "lng": 135.67772,
+  "area": "아라시야마",
+  "lead": "가쓰라강을 가로지르는 나무색 난간의 다리. 아라시야마의 중심이에요.",
+  "facts": [
+    [
+      "종류",
+      "다리"
+    ],
+    [
+      "위치",
+      "아라시야마 중심"
+    ],
+    [
+      "특징",
+      "산과 강 풍경"
+    ],
+    [
+      "연도(Wikidata)",
+      "836년"
+    ]
+  ],
+  "tip": "주변 가게에서 간식을 먹으며 강변을 걷기 좋아요.",
+  "open_hours": "상시 통행 (추정)",
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "다리",
+    "강변",
+    "산책"
+  ],
+  "art_key": "bridge",
+  "local_search": "渡月橋",
+  "photos": [
+    "JP-KYO-S-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11561923",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EA%B2%8C%EC%93%B0%EA%B5%90",
+    "https://en.wikipedia.org/wiki/Togetsukyo_Bridge",
+    "https://www.openstreetmap.org/way/519319727"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 8,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "bridge in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:55.310Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pl_5fb19c9c1d",
+  "code": "JP-FUK-S-0001",
+  "city_id": "JP-FUK",
+  "slug": "ohori-park",
+  "kind": "sight",
+  "name_ko": "오호리 공원",
+  "name_sub": "Ōhori Park",
+  "name_local": "大濠公園",
+  "lat": 33.58586,
+  "lng": 130.37625,
+  "area": "오호리",
+  "lead": "큰 연못을 따라 한 바퀴 걷는 도심 공원. 호수 위 다리와 정원이 있어 쉬어 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "도심 공원"
+    ],
+    [
+      "특징",
+      "연못 일주 산책로"
+    ],
+    [
+      "접근",
+      "지하철 오호리코엔역"
+    ],
+    [
+      "연도(Wikidata)",
+      "1929년"
+    ]
+  ],
+  "tip": "연못 일주는 약 2km라 가볍게 걷기 좋아요(추정).",
+  "open_hours": "상시 개방 (추정)",
+  "stay_min": 90,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "공원",
+    "호수",
+    "산책"
+  ],
+  "art_key": "park",
+  "local_search": "大濠公園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q846710",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%98%B8%EB%A6%AC_%EA%B3%B5%EC%9B%90",
+    "https://en.wikipedia.org/wiki/%C5%8Chori_Park",
+    "https://www.openstreetmap.org/node/8484186712",
+    "https://www.ohorikouen.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 30,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "park in Chūō-ku, Fukuoka-shiy, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:27.789Z"
+}

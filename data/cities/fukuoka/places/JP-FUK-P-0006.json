@@ -1,0 +1,82 @@
+{
+  "id": "pl_25a041c920",
+  "code": "JP-FUK-P-0006",
+  "city_id": "JP-FUK",
+  "slug": "tenjin-chikagai",
+  "kind": "shop",
+  "name_ko": "텐진 지하상가",
+  "name_sub": "Tenjin Chikagai",
+  "name_local": "天神地下街",
+  "lat": 33.58964,
+  "lng": 130.3997,
+  "area": "텐진",
+  "lead": "유럽 거리처럼 꾸민 석조풍 지하상가. 쇼핑 중간에 쉬어 가는 카페도 많아요.",
+  "facts": [
+    [
+      "종류",
+      "지하상가"
+    ],
+    [
+      "분위기",
+      "석조풍 지하 거리"
+    ],
+    [
+      "위치",
+      "텐진역 지하"
+    ],
+    [
+      "장점",
+      "비 오는 날에도 쇼핑 가능"
+    ]
+  ],
+  "origin": [
+    "텐진 지하상가는 지하철 텐진역과 연결된 지하 쇼핑 거리로, 건물 사이를 이동할 때도 편리해요.",
+    "천장·조명·타일이 유럽 거리 풍으로 꾸며져 있고, 의류와 잡화점·카페가 이어져요.",
+    "비가 오는 날에도 쇼핑을 이어갈 수 있다는 점에서 여행객에게 인기 있어요."
+  ],
+  "practical": [
+    "텐진역 지하에서 직접 연결",
+    "영업시간은 점포마다 다름"
+  ],
+  "tip": "비 오는 날 동선으로 활용해요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "지하상가",
+    "유럽풍",
+    "텐진"
+  ],
+  "art_key": "street",
+  "local_search": "天神地下街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E5%9C%B0%E4%B8%8B%E8%A1%97",
+    "https://www.openstreetmap.org/way/843356420"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:27.161Z"
+}

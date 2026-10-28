@@ -1,0 +1,80 @@
+{
+  "id": "pl_a575018e9b",
+  "code": "JP-FUK-S-0028",
+  "city_id": "JP-FUK",
+  "slug": "yufuin-floral-village",
+  "kind": "sight",
+  "name_ko": "유후인 플로럴 빌리지",
+  "name_sub": "Yufuin Floral Village",
+  "name_local": "湯布院フローラルヴィレッジ",
+  "lat": null,
+  "lng": null,
+  "area": "근교(유후인)",
+  "lead": "영국 코츠월드풍 건물을 모은 소규모 상점 마을. 올빼미 카페와 잡화 가게가 아기자기해요.",
+  "facts": [
+    [
+      "종류",
+      "테마 상점가"
+    ],
+    [
+      "특징",
+      "유럽풍 건물, 캐릭터 가게"
+    ],
+    [
+      "위치",
+      "유노츠보 거리 인근"
+    ],
+    [
+      "함께",
+      "긴린코 산책"
+    ]
+  ],
+  "origin": [
+    "플로럴 빌리지는 유후인의 전통 온천 거리와 달리 서양 동화마을 같은 풍경으로 꾸민 곳이에요.",
+    "골목마다 캐릭터 상품·잡화·카페가 들어서 아이 동반 가족이나 사진을 좋아하는 여행객이 많이 들러요.",
+    "일본 시골 마을 속 유럽풍 콘셉트가 인기를 끌어 한국 블로그 후기에서도 자주 소개돼요."
+  ],
+  "practical": [
+    "대부분 점포는 오전 10시경 개점",
+    "카페 이용 시 인원 제한 가능"
+  ],
+  "tip": "유노츠보 거리를 지나 긴린코로 가는 동선에 맞춰 들르세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(구입 별도)",
+  "must": 0,
+  "tags": [
+    "동화마을",
+    "유후인",
+    "기념품"
+  ],
+  "art_key": "village",
+  "local_search": "湯布院フローラルヴィレッジ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yufuin",
+    "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E9%99%A2%E6%B8%A9%E6%B3%89"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 유후인 포토 스팟로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:26.458Z"
+}

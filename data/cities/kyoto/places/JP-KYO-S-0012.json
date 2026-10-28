@@ -1,0 +1,73 @@
+{
+  "id": "pl_7387d6ac8c",
+  "code": "JP-KYO-S-0012",
+  "city_id": "JP-KYO",
+  "slug": "sanjusangen-do-temple",
+  "kind": "sight",
+  "name_ko": "산주산겐도",
+  "name_sub": "Sanjūsangen-dō Temple",
+  "name_local": "三十三間堂",
+  "addr_local": "京都市東山区三十三間堂廻り町657",
+  "lat": 34.98788,
+  "lng": 135.77171,
+  "area": "히가시야마",
+  "lead": "긴 본당 안에 천 체의 관음상이 늘어선 사찰. 규모가 압도적이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "천수관음 천 체"
+    ],
+    [
+      "특징",
+      "긴 목조 본당"
+    ],
+    [
+      "연도(Wikidata)",
+      "1165년"
+    ]
+  ],
+  "tip": "내부 촬영은 금지돼요. 관람 동선은 짧아 한 시간 안에 끝나요.",
+  "open_hours": "Apr 01-Nov 15 Mo-Su 08:30-17:00; Nov 16-Mar 31 Mo-Su 09:00-16:00 (OSM)",
+  "stay_min": 45,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "불상",
+    "역사"
+  ],
+  "art_key": "temple",
+  "local_search": "三十三間堂",
+  "photos": [
+    "JP-KYO-S-0012-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q653319",
+    "https://en.wikipedia.org/wiki/Sanj%C5%ABsangen-d%C5%8D",
+    "https://www.openstreetmap.org/way/31842037",
+    "http://www.sanjusangendo.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 14,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "Buddhist temple in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:26.710Z"
+}

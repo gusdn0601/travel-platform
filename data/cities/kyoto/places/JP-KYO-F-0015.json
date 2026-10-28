@@ -1,0 +1,76 @@
+{
+  "id": "pl_bb2d72da55",
+  "code": "JP-KYO-F-0015",
+  "city_id": "JP-KYO",
+  "slug": "yoshimura-arashiyama",
+  "kind": "food",
+  "name_ko": "요시무라 아라시야마",
+  "name_sub": "Yoshimura",
+  "name_local": "よしむら 嵐山",
+  "lat": 35.01365,
+  "lng": 135.67725,
+  "area": "아라시야마",
+  "lead": "도게쓰교를 내려다보는 소바 가게로 알려진 곳이에요.",
+  "facts": [
+    [
+      "종류",
+      "소바"
+    ],
+    [
+      "위치",
+      "도게쓰교 인근"
+    ]
+  ],
+  "origin": [
+    "아라시야마 도게쓰교 근처에서 소바를 내는 가게로 알려져 있어요.",
+    "강과 산을 바라보며 식사할 수 있어 대나무 숲 산책 뒤 점심으로 자주 찾는다고 해요.",
+    "점심 피크 시간에는 기다릴 수 있어요."
+  ],
+  "practical": [
+    "점심 대기"
+  ],
+  "tip": "오전 11시 전 도착을 권해요.",
+  "order": [
+    "<b>ざるそば</b> 냉소바",
+    "<b>天ぷらそば</b>"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,300~2,200엔 추정",
+  "must": 0,
+  "tags": [
+    "소바",
+    "아라시야마",
+    "도게쓰교"
+  ],
+  "art_key": "noodle",
+  "local_search": "よしむら 嵐山",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/3259204564"
+  ],
+  "meta": {
+    "priority": 9,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 아라시야마 점심로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:22.689Z"
+}

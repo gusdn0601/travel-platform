@@ -1,0 +1,87 @@
+{
+  "id": "pl_cf16ec04fc",
+  "code": "JP-FUK-F-0020",
+  "city_id": "JP-FUK",
+  "slug": "b-speak-yufuin",
+  "kind": "food",
+  "name_ko": "비스피크 (유후인 롤케이크)",
+  "name_sub": "B-speak",
+  "name_local": "B-speak 湯布院",
+  "lat": 33.26564,
+  "lng": 131.35987,
+  "area": "근교(유후인)",
+  "lead": "유후인 상점가에서 줄을 서는 롤케이크 전문점. 부드러운 크림과 폭신한 스폰지가 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "디저트"
+    ],
+    [
+      "특징",
+      "롤케이크"
+    ],
+    [
+      "위치",
+      "유후인 유노츠보 거리 인근"
+    ],
+    [
+      "포장",
+      "선물 포장 가능"
+    ]
+  ],
+  "origin": [
+    "유후인은 온천 마을로 알려져 있지만 근래에는 거리 곳곳의 디저트 가게가 여행 후기의 단골 소재가 되었어요.",
+    "비스피크는 그중에서도 롤케이크로 이름난 곳으로 소개돼요.",
+    "우유와 계란의 풍미가 살아 있는 스폰지에 가벼운 크림을 말아 넣은 것이 특징이에요.",
+    "후기에 자주 등장하는 가게라 유후인 상점가 산책 코스의 필수 정거장으로 자리 잡았어요."
+  ],
+  "practical": [
+    "오후 일찍 품절되기도 함",
+    "선물용은 냉장 이동 시간 확인"
+  ],
+  "tip": "오전에 도착하면 줄이 상대적으로 짧아요.",
+  "order": [
+    "<b>Pロール</b> 대표 롤케이크"
+  ],
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "롤케이크 1,500~2,000엔 추정",
+  "must": 0,
+  "tags": [
+    "롤케이크",
+    "유후인",
+    "디저트"
+  ],
+  "art_key": "dessert",
+  "local_search": "B-speak 湯布院",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yufuin",
+    "https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E9%99%A2%E6%B8%A9%E6%B3%89",
+    "https://www.openstreetmap.org/node/4879583024"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 유후인 디저트로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:06.042Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl_ff60e58c9a",
+  "code": "JP-NAR-S-0043",
+  "city_id": "JP-NAR",
+  "slug": "kofukuji-national-treasure-museum",
+  "kind": "sight",
+  "name_ko": "고후쿠지 국보관",
+  "name_sub": "Kōfuku-ji National Treasure Hall",
+  "name_local": "興福寺国宝館",
+  "lat": null,
+  "lng": null,
+  "area": "나라 공원",
+  "lead": "고후쿠지의 불상들을 한자리에 모아 둔 국보관이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰 박물관"
+    ],
+    [
+      "소장",
+      "아수라상 등"
+    ],
+    [
+      "위치",
+      "고후쿠지 경내"
+    ]
+  ],
+  "origin": [
+    "고후쿠지 국보관은 사찰에 전해 내려온 불상과 공예품을 보관·전시하는 곳이에요.",
+    "특히 삼면육비 아수라상으로 알려져 있어 이를 보려는 사람이 많아요.",
+    "조명이 어두워 표정을 천천히 들여다보게 되는 공간이에요.",
+    "고후쿠지 오층탑과 함께 관람 동선이 이어져요."
+  ],
+  "practical": [
+    "입장료 별도",
+    "사진 촬영 제한"
+  ],
+  "tip": "오층탑과 함께 보고 나오면 동선이 짧아요.",
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "불상",
+    "박물관",
+    "국보"
+  ],
+  "art_key": "museum",
+  "local_search": "興福寺国宝館",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 32,
+    "expansion": "nara-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 불상 감상 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:21.813Z"
+}

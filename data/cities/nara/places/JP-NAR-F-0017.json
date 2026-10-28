@@ -1,0 +1,81 @@
+{
+  "id": "pl_0820fd3f00",
+  "code": "JP-NAR-F-0017",
+  "city_id": "JP-NAR",
+  "slug": "tenri-stamina-ramen",
+  "kind": "food",
+  "name_ko": "텐리 스타미나 라멘",
+  "name_sub": "Tenri Stamina Ramen",
+  "name_local": "天理スタミナラーメン",
+  "lat": 34.68396,
+  "lng": 135.82863,
+  "area": "나라 공원",
+  "lead": "텐리 지역에서 시작해 나라 일대에 퍼진 스타미나 라멘 가게예요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "배추·마늘 스타미나"
+    ],
+    [
+      "위치",
+      "텐리시"
+    ]
+  ],
+  "origin": [
+    "텐리 스타미나 라멘은 텐리 지역에서 시작해 나라 일대에 퍼진 라멘 장르예요.",
+    "배추와 마늘을 넣어 진하게 끓인 국물에 밥을 말아 먹는 방식도 알려져 있어요.",
+    "본점은 텐리시에 있어 나라 시내에서 차로 이동해야 해요.",
+    "현지에서 점심으로 즐기는 사람이 많은 곳이에요."
+  ],
+  "practical": [
+    "차 접근",
+    "현지 손님 많음"
+  ],
+  "tip": "국물에 밥을 말아 먹는 방식도 현지에서 익숙해요.",
+  "order": [
+    "<b>スタミナラーメン</b> 스타미나 라멘"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 900~1,300엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "스타미나",
+    "현지 인기"
+  ],
+  "art_key": "noodle",
+  "local_search": "天理スタミナラーメン 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/12948778754"
+  ],
+  "meta": {
+    "priority": 36,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 현지 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:06.218Z"
+}

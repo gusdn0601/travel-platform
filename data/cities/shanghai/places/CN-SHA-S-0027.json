@@ -1,0 +1,82 @@
+{
+  "id": "pl_1495c0eb8b",
+  "code": "CN-SHA-S-0027",
+  "city_id": "CN-SHA",
+  "slug": "shanghai-museum",
+  "kind": "sight",
+  "name_ko": "상하이 박물관",
+  "name_sub": "Shanghai Museum",
+  "name_local": "上海博物馆",
+  "lat": 31.23028,
+  "lng": 121.47056,
+  "area": "인민광장",
+  "lead": "청동기·도자기·서화 컬렉션이 탄탄한 중국 고미술 박물관. 건물은 위가 둥글고 아래가 네모난 ‘천원지방’ 모양이에요.",
+  "facts": [
+    [
+      "개관",
+      "1996년(현 건물)"
+    ],
+    [
+      "건축",
+      "둥근 지붕 + 네모난 기단"
+    ],
+    [
+      "주요 소장",
+      "청동기·도자기·서화"
+    ],
+    [
+      "위치",
+      "인민광장"
+    ]
+  ],
+  "origin": [
+    "상하이 박물관은 1952년 설립됐고 지금의 인민광장 건물로는 1996년 이전했어요.",
+    "둥근 꼭대기와 네모난 아래층은 하늘은 둥글고 땅은 네모나다는 중국 고대 우주관을 건축으로 옮긴 거예요.",
+    "소장품은 중국 고대 청동기가 대표이고 도자기, 서화, 옥기, 소수민족 공예 등이 꾸준히 호평받아요."
+  ],
+  "tip": "입장 정원·예약 방식이 바뀔 수 있어요. 방문 전 공식 안내를 확인하세요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 150,
+  "price_hint": "무료(여권 지참, 예약제 안내 시 앱 확인)",
+  "must": 0,
+  "tags": [
+    "박물관",
+    "청동기",
+    "도자기"
+  ],
+  "art_key": "museum",
+  "local_search": "上海博物馆",
+  "photos": [
+    "CN-SHA-S-0027-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_Museum",
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%8D%9A%E7%89%A9%E9%A6%86",
+    "https://www.openstreetmap.org/way/161090899"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 44,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 상하이 일정에 자주 들어가는 곳(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:17.914Z"
+}

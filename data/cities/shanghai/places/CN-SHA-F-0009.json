@@ -1,0 +1,88 @@
+{
+  "id": "pl_ef76269977",
+  "code": "CN-SHA-F-0009",
+  "city_id": "CN-SHA",
+  "slug": "yangs-fry-dumpling",
+  "kind": "food",
+  "name_ko": "샤오양셩젠 (小杨生煎)",
+  "name_local": "小杨生煎",
+  "lat": 31.1552,
+  "lng": 121.55969,
+  "area": "도심 여러 지점",
+  "lead": "밑면은 바삭, 윗면은 말랑한 생젠바오로 유명한 체인. 육즙이 팡 터져요.",
+  "facts": [
+    [
+      "종류",
+      "생젠(군만두)"
+    ],
+    [
+      "먹는 법",
+      "살짝 식힌 뒤 한입"
+    ],
+    [
+      "지점",
+      "도심 여러 곳"
+    ],
+    [
+      "곁들임",
+      "스프, 국수"
+    ]
+  ],
+  "origin": [
+    "생젠은 번(발효 반죽) 안에 육즙 가득한 소를 넣고 철판에 굽고 찌는 상하이 대표 길거리 음식이에요.",
+    "밑은 바삭하게, 위는 부드럽게 익히는 점이 특징이에요.",
+    "1930년대 이전부터 노점에서 팔던 간식이 가게로 자리 잡았다고 소개돼요.",
+    "오늘날 샤오양셩젠은 여러 지점을 둔 대표 체인으로 한국 여행객도 많이 찾아요."
+  ],
+  "practical": [
+    "육즙이 뜨거우니 한 입 베어 국물부터",
+    "지점별 메뉴 차이 있음"
+  ],
+  "tip": "철판에서 막 나온 직후가 가장 맛있어요. 바닥을 위로 뒤집어 먹는 사람도 있어요.",
+  "order": [
+    "<b>鲜肉生煎</b> 돼지고기 생젠",
+    "<b>虾肉生煎</b> 새우 생젠",
+    "<b>咖喱牛肉汤</b> 카레 소고기 국물"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 25~45위안 추정",
+  "must": 0,
+  "tags": [
+    "생젠",
+    "아침식사",
+    "체인"
+  ],
+  "art_key": "basket",
+  "local_search": "小杨生煎",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shengjian_mantou",
+    "https://zh.wikipedia.org/wiki/%E7%94%9F%E7%85%8E%E9%A6%92%E5%A4%B4",
+    "https://www.openstreetmap.org/node/11209389805"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 생젠 맛집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.063Z"
+}

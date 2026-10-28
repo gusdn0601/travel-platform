@@ -1,0 +1,72 @@
+{
+  "id": "pl_9901b0c205",
+  "code": "JP-FUK-T-0001",
+  "city_id": "JP-FUK",
+  "slug": "hakata-station",
+  "kind": "transit",
+  "name_ko": "하카타역",
+  "name_sub": "Hakata Station",
+  "name_local": "博多駅",
+  "lat": 33.5898,
+  "lng": 130.42068,
+  "area": "하카타",
+  "lead": "규슈 신칸센과 지하철이 모이는 후쿠오카의 중심 역. 역 건물 안에 쇼핑몰이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신칸센·JR·지하철 역"
+    ],
+    [
+      "연결",
+      "규슈 각지 열차"
+    ],
+    [
+      "특징",
+      "역 상업시설 밀집"
+    ],
+    [
+      "연도(Wikidata)",
+      "1889년"
+    ]
+  ],
+  "tip": "공항까지 지하철로 짧은 거리라 이동이 편해요.",
+  "open_hours": null,
+  "stay_min": 20,
+  "price_hint": "-",
+  "must": 0,
+  "tags": [
+    "교통",
+    "신칸센",
+    "JR"
+  ],
+  "art_key": "train",
+  "local_search": "博多駅",
+  "photos": [
+    "JP-FUK-T-0001-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q800875",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%B9%B4%ED%83%80%EC%97%AD",
+    "https://en.wikipedia.org/wiki/Hakata_Station",
+    "https://www.openstreetmap.org/node/13365956443"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 37,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "railway station and metro station in Fukuoka, Fukuoka prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:53.601Z"
+}

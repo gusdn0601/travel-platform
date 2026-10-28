@@ -1,0 +1,70 @@
+{
+  "id": "pl_48467edece",
+  "code": "JP-FUK-S-0008",
+  "city_id": "JP-FUK",
+  "slug": "uminonakamichi-seaside-park",
+  "kind": "sight",
+  "name_ko": "우미노나카미치 해변 공원",
+  "name_sub": "Uminonakamichi Seaside Park",
+  "name_local": "海の中道海浜公園",
+  "lat": 33.65922,
+  "lng": 130.35347,
+  "area": "교외(우미노나카미치)",
+  "lead": "계절 꽃밭이 펼쳐진 대형 해변 공원. 자전거를 빌려 돌아보기도 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "대형 공원"
+    ],
+    [
+      "특징",
+      "계절 꽃밭"
+    ],
+    [
+      "접근",
+      "JR 우미노나카미치역"
+    ],
+    [
+      "연도(Wikidata)",
+      "1981년"
+    ]
+  ],
+  "tip": "꽃 시기에 맞춰 가면 풍경이 한결 좋아요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "공원",
+    "꽃",
+    "자전거"
+  ],
+  "art_key": "park",
+  "local_search": "海の中道海浜公園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11558610",
+    "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%AF%B8%EB%85%B8%EB%82%98%EC%B9%B4%EB%AF%B8%EC%B9%98_%ED%95%B4%EB%B3%80%EA%B3%B5%EC%9B%90",
+    "https://www.openstreetmap.org/relation/15512029",
+    "https://uminaka-park.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 1101,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": null,
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:28.848Z"
+}

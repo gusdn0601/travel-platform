@@ -1,0 +1,84 @@
+{
+  "id": "pl_e7835019fb",
+  "code": "JP-FUK-F-0025",
+  "city_id": "JP-FUK",
+  "slug": "hakata-station-menkoku",
+  "kind": "food",
+  "name_ko": "하카타역 명란 거리 (하카타 명란)",
+  "name_sub": "Hakata Station Mentaiko",
+  "name_local": "博多駅 めんたいこ",
+  "lat": null,
+  "lng": null,
+  "area": "하카타",
+  "lead": "하카타역 안에 여러 명란 브랜드가 모여 비교하며 고르기 좋은 선물 코너.",
+  "facts": [
+    [
+      "종류",
+      "명란젓 선물"
+    ],
+    [
+      "위치",
+      "하카타역"
+    ],
+    [
+      "특징",
+      "시식·포장 비교"
+    ],
+    [
+      "보관",
+      "냉장/냉동 포장"
+    ]
+  ],
+  "origin": [
+    "후쿠오카 명란은 한국에서 건너온 명란젓이 일본식으로 정착한 음식이에요.",
+    "하카타역에는 후쿠야를 비롯한 여러 브랜드가 모여 있어 맛과 가격을 비교하기 쉬워요.",
+    "귀국 항공 시간을 고려해 냉장 포장 여부를 정하는 것이 좋아요."
+  ],
+  "practical": [
+    "냉장 포장 선택 가능",
+    "귀국 시 식품 반입 규정 확인"
+  ],
+  "tip": "출발 당일 구입해 보냉 포장을 요청하세요.",
+  "order": [
+    "<b>辛子明太子</b> 매운 명란",
+    "<b>明太子ペースト</b> 명란 페이스트"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "명란 1,000~4,000엔 추정",
+  "must": 0,
+  "tags": [
+    "명란",
+    "선물",
+    "하카타역"
+  ],
+  "art_key": "seafood",
+  "local_search": "博多駅 めんたいこ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mentaiko",
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E5%A4%AA%E5%AD%90"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 명란 선물로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:39.740Z"
+}

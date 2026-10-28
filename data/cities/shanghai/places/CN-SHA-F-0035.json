@@ -1,0 +1,82 @@
+{
+  "id": "pl_18b11ea059",
+  "code": "CN-SHA-F-0035",
+  "city_id": "CN-SHA",
+  "slug": "vue-bar",
+  "kind": "food",
+  "name_ko": "뷰 바 (Vue Bar, 하얏트 온 더 번드)",
+  "name_local": "Vue Bar 外滩 Hyatt on the Bund",
+  "lat": null,
+  "lng": null,
+  "area": "북외탄/와이탄",
+  "lead": "하얏트 온 더 번드 꼭대기의 루프탑 바. 와이탄과 푸동을 동시에 내려다보는 시야가 장점이에요.",
+  "facts": [
+    [
+      "종류",
+      "루프탑 바"
+    ],
+    [
+      "위치",
+      "북외탄 하얏트 온 더 번드"
+    ],
+    [
+      "시야",
+      "푸동·와이탄"
+    ],
+    [
+      "예약",
+      "창가석은 예약"
+    ]
+  ],
+  "origin": [
+    "황푸강 북쪽에 있는 하얏트 온 더 번드 상층에는 루프탑 바가 있어 야경을 즐기는 장소로 알려져요.",
+    "와이탄 중심가보다 한 발 물러나 있어 상대적으로 시야가 탁 트인 점이 특징이에요.",
+    "저녁에는 입장 인원이 제한될 수 있어요."
+  ],
+  "practical": [
+    "사전 예약 권장",
+    "복장 규정 확인"
+  ],
+  "tip": "해 질 녘에 들어가 야경으로 이어지는 시간대가 좋아요.",
+  "order": [
+    "<b>Cocktail</b> 칵테일"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "칵테일 1잔 100~160위안 추정",
+  "must": 0,
+  "tags": [
+    "루프탑바",
+    "야경",
+    "칵테일"
+  ],
+  "art_key": "night",
+  "local_search": "Vue Bar 外滩 Hyatt on the Bund",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Bund",
+    "https://zh.wikipedia.org/wiki/%E5%A4%96%E6%BB%A9"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 루프탑 야경 바로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.381Z"
+}

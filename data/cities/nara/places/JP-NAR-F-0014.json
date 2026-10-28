@@ -1,0 +1,82 @@
+{
+  "id": "pl_79737c5f2e",
+  "code": "JP-NAR-F-0014",
+  "city_id": "JP-NAR",
+  "slug": "nara-hotel-dining",
+  "kind": "food",
+  "name_ko": "나라 호텔 다이닝",
+  "name_sub": "Nara Hotel",
+  "name_local": "奈良ホテル",
+  "lat": 34.67951,
+  "lng": 135.83407,
+  "area": "나라 공원",
+  "lead": "1909년 문을 연 클래식 호텔의 레스토랑과 라운지예요.",
+  "facts": [
+    [
+      "종류",
+      "호텔 레스토랑·라운지"
+    ],
+    [
+      "개관",
+      "1909년"
+    ],
+    [
+      "위치",
+      "나라 공원 동쪽"
+    ]
+  ],
+  "origin": [
+    "나라 호텔은 나라 공원 동쪽 언덕에 있는 오래된 호텔이에요.",
+    "목조 건물의 라운지에서 차를 마시는 코스가 여행자에게 알려져 있어요.",
+    "점심 코스는 사전 예약이 필요한 경우가 많아요.",
+    "사찰 일정 사이에 조용히 쉬어 가기 좋은 장소예요."
+  ],
+  "practical": [
+    "예약 권장",
+    "복장 규정 확인"
+  ],
+  "tip": "라운지 차만 마셔도 분위기를 즐길 수 있어요.",
+  "order": [
+    "<b>ランチコース</b> 점심 코스",
+    "<b>アフタヌーンティー</b> 애프터눈 티"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "점심 3,000엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "호텔",
+    "클래식",
+    "점심"
+  ],
+  "art_key": "food",
+  "local_search": "奈良ホテル",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/97661034"
+  ],
+  "meta": {
+    "priority": 29,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 클래식 호텔로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:02.982Z"
+}

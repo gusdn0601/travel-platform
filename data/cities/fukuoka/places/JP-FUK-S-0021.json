@@ -1,0 +1,67 @@
+{
+  "id": "pl_79ebe86ce8",
+  "code": "JP-FUK-S-0021",
+  "city_id": "JP-FUK",
+  "slug": "nakasu",
+  "kind": "sight",
+  "name_ko": "나카스",
+  "name_sub": "Nakasu",
+  "name_local": "中洲",
+  "lat": 33.59219,
+  "lng": 130.40675,
+  "area": "나카스",
+  "lead": "강변을 따라 네온과 포장마차가 늘어선 번화가. 저녁에 가장 활기차요.",
+  "facts": [
+    [
+      "종류",
+      "번화가"
+    ],
+    [
+      "특징",
+      "강변 포장마차(야타이)"
+    ],
+    [
+      "위치",
+      "하카타와 텐진 사이"
+    ]
+  ],
+  "tip": "야타이는 영업 시간과 가격이 가게마다 달라 메뉴 가격을 확인하세요.",
+  "open_hours": "저녁~밤(추정) (추정)",
+  "stay_min": 60,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "야경",
+    "번화가",
+    "포장마차"
+  ],
+  "art_key": "neon",
+  "local_search": "中洲",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q6960335",
+    "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Nakasu",
+    "https://www.openstreetmap.org/relation/19383249",
+    "http://www.nakasukankou.com/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 56,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "red-light district in Fukuoka, Japan",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:46.666Z"
+}

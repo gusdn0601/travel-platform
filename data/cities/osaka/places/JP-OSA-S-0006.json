@@ -1,0 +1,69 @@
+{
+  "id": "pl_29ea298fa2",
+  "code": "JP-OSA-S-0006",
+  "city_id": "JP-OSA",
+  "slug": "shitenno-ji-temple",
+  "kind": "sight",
+  "name_ko": "시텐노지",
+  "name_sub": "Shitennō-ji Temple",
+  "name_local": "四天王寺",
+  "addr_local": "大阪府 大阪市 天王寺区 四天王寺 1 11 18",
+  "lat": 34.6539,
+  "lng": 135.51645,
+  "area": "덴노지",
+  "lead": "593년 쇼토쿠 태자가 세웠다고 전하는 일본 불교 초기 사찰. 5층탑을 중심으로 한 배치가 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "시작",
+      "593년 창건(전승)"
+    ],
+    [
+      "볼거리",
+      "5층탑, 금당, 거북이 연못"
+    ]
+  ],
+  "tip": "경내는 무료지만 중심 가람은 입장료가 따로 있어요. 매달 21일 장이 서는 날은 특히 북적여요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "경내 무료, 중심 가람 유료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "역사"
+  ],
+  "art_key": "temple",
+  "local_search": "四天王寺",
+  "photos": [
+    "JP-OSA-S-0006-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q339859",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%85%90%EB%85%B8%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Shitenn%C5%8D-ji",
+    "https://www.openstreetmap.org/way/579077537",
+    "https://www.shitennoji.or.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 81,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "Built in 593 A.D., this famous Buddhist temple features a five-story pagoda, statues and turtle ponds",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:02.139Z"
+}

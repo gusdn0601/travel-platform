@@ -1,0 +1,67 @@
+{
+  "id": "pl_49611399e3",
+  "code": "JP-NAR-S-0014",
+  "city_id": "JP-NAR",
+  "slug": "mount-wakakusa",
+  "kind": "sight",
+  "name_ko": "와카쿠사야마",
+  "name_sub": "Mount Wakakusa",
+  "name_local": "若草山",
+  "lat": 34.69111,
+  "lng": 135.85444,
+  "area": "나라 공원",
+  "lead": "잔디로 덮인 부드러운 산. 정상 전망대에서 나라 시내가 내려다보여요.",
+  "facts": [
+    [
+      "종류",
+      "산"
+    ],
+    [
+      "행사",
+      "1월 야마야키(산불놓기)"
+    ],
+    [
+      "특징",
+      "잔디 능선"
+    ]
+  ],
+  "tip": "개방 기간이 계절별로 달라 입산 가능 여부를 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "언덕",
+    "전망",
+    "산책"
+  ],
+  "art_key": "mountain",
+  "local_search": "若草山",
+  "photos": [
+    "JP-NAR-S-0014-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q2428328",
+    "https://ko.wikipedia.org/wiki/%EC%99%80%EC%B9%B4%EC%BF%A0%EC%82%AC%EC%82%B0",
+    "https://en.wikipedia.org/wiki/Mount_Wakakusa",
+    "http://www.pref.nara.jp/6553.htm"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "mountain in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:54.753Z"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pl_ce095ce4f7",
+  "code": "JP-KYO-S-0043",
+  "city_id": "JP-KYO",
+  "slug": "daigo-ji",
+  "kind": "sight",
+  "name_ko": "다이고지",
+  "name_sub": "Daigo-ji",
+  "name_local": "醍醐寺",
+  "lat": 34.9515,
+  "lng": 135.82178,
+  "area": "교외(후시미)",
+  "lead": "16세기 벚꽃놀이로 알려진 대형 사찰. 넓은 산과 오층탑이 함께 있어요.",
+  "facts": [
+    [
+      "종류",
+      "진언종 사찰"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "특징",
+      "오층탑, 벚꽃"
+    ]
+  ],
+  "origin": [
+    "다이고지는 9세기에 창건됐다고 전해지는 사찰이에요.",
+    "1598년 도요토미 히데요시가 이곳에서 대규모 벚꽃놀이를 열었다고 알려져 있어 벚꽃 명소로 이름났어요.",
+    "시내와 떨어져 있어 반나절 일정으로 보는 편이 좋고, 상쾌한 산사 분위기를 원하는 사람에게 소개돼요."
+  ],
+  "practical": [
+    "시내에서 지하철 이동",
+    "경내 넓음"
+  ],
+  "tip": "벚꽃철에는 반나절 이상 잡아야 해요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 100,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "세계유산",
+    "벚꽃",
+    "사찰"
+  ],
+  "art_key": "temple",
+  "local_search": "醍醐寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daigo-ji",
+    "https://ja.wikipedia.org/wiki/%E9%86%8D%E9%86%90%E5%AF%BA",
+    "https://www.openstreetmap.org/way/218066746"
+  ],
+  "meta": {
+    "priority": 20,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 79,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 벚꽃 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:18.990Z"
+}

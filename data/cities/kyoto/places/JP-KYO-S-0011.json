@@ -1,0 +1,72 @@
+{
+  "id": "pl_8021aa44b7",
+  "code": "JP-KYO-S-0011",
+  "city_id": "JP-KYO",
+  "slug": "ponto-cho",
+  "kind": "sight",
+  "name_ko": "폰토초",
+  "name_sub": "Ponto-chō",
+  "name_local": "先斗町",
+  "lat": 35.00796,
+  "lng": 135.77111,
+  "area": "시조/가와라마치",
+  "lead": "가모강 서쪽을 따라 좁게 이어진 골목. 강변 식당가의 등불이 운치 있어요.",
+  "facts": [
+    [
+      "종류",
+      "전통 골목"
+    ],
+    [
+      "위치",
+      "시조 거리 인근"
+    ],
+    [
+      "특징",
+      "야간 분위기"
+    ],
+    [
+      "연도(Wikidata)",
+      "1674년"
+    ]
+  ],
+  "tip": "좁은 골목이라 어두워진 뒤 걸으면 분위기가 가장 좋아요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "골목",
+    "야경",
+    "강변"
+  ],
+  "art_key": "lantern",
+  "local_search": "先斗町",
+  "photos": [
+    "JP-KYO-S-0011-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q536881",
+    "https://ko.wikipedia.org/wiki/%ED%8F%B0%ED%86%A0%EC%B5%B8",
+    "https://en.wikipedia.org/wiki/Ponto-ch%C5%8D",
+    "https://www.openstreetmap.org/relation/11576233"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 203,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "neighborhood and Kagai in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:15.244Z"
+}

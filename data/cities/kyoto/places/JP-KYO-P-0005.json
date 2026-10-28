@@ -1,0 +1,73 @@
+{
+  "id": "pl_c2eaf62e56",
+  "code": "JP-KYO-P-0005",
+  "city_id": "JP-KYO",
+  "slug": "aritsugu-nishiki",
+  "kind": "shop",
+  "name_ko": "아리쓰구 (니시키 칼가게)",
+  "name_sub": "Aritsugu",
+  "name_local": "有次 錦店",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "니시키 시장 끝에 있는 1560년 창업으로 알려진 칼 전문점이에요.",
+  "facts": [
+    [
+      "종류",
+      "칼·주방용품"
+    ],
+    [
+      "창업",
+      "1560년 전해짐"
+    ],
+    [
+      "위치",
+      "니시키 시장"
+    ]
+  ],
+  "origin": [
+    "아리쓰구는 1500년대 중반 창업했다고 알려진 교토의 칼 가게로, 요리사들이 쓰는 칼을 만들어 온 곳으로 전해져요.",
+    "니시키 시장 안에 있어 시장 구경 중 들르기 좋고, 칼에 이름을 새겨 주는 서비스도 있다고 소개돼요.",
+    "칼은 기내 반입이 불가하므로 위탁 수하물이나 택배 등을 고려해야 해요."
+  ],
+  "practical": [
+    "칼 기내 반입 불가",
+    "각인 서비스 소요 시간 확인"
+  ],
+  "tip": "시장 구경 마지막에 들르면 동선이 자연스러워요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "칼 5,000엔~ 추정",
+  "must": 0,
+  "tags": [
+    "칼",
+    "주방용품",
+    "니시키"
+  ],
+  "art_key": "shop",
+  "local_search": "有次 錦店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 10,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 주방용품 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:11:09.282Z"
+}

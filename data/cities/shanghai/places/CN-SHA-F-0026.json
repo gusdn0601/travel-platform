@@ -1,0 +1,83 @@
+{
+  "id": "pl_606b1e9eff",
+  "code": "CN-SHA-F-0026",
+  "city_id": "CN-SHA",
+  "slug": "aniang-noodle",
+  "kind": "food",
+  "name_ko": "아냥 국수집 (阿娘面馆)",
+  "name_local": "阿娘面馆 淮海中路",
+  "lat": null,
+  "lng": null,
+  "area": "프랑스 조계지",
+  "lead": "황어(黄鱼) 국수와 새우 볶음 국수로 알려진 줄서는 국수집. 상하이식 가볍고 진한 국물을 즐길 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "상하이식 국수"
+    ],
+    [
+      "대표",
+      "황어면·새우면"
+    ],
+    [
+      "분위기",
+      "캐주얼 작은 가게"
+    ],
+    [
+      "위치",
+      "화이하이중루 인근"
+    ]
+  ],
+  "origin": [
+    "상하이 국수는 얇은 면에 해산물과 간장 소스를 올린 스타일이 많아요.",
+    "아냥 국수집은 이러한 상하이 로컬 국수 중 황어(黄鱼) 요리를 앞세운 곳으로 한국어 여행 후기에 종종 등장해요.",
+    "좌석이 작아 대기가 생길 수 있으니 한가한 시간에 가면 좋아요."
+  ],
+  "practical": [
+    "점심 피크엔 대기"
+  ],
+  "tip": "파기름 비빔면(葱油拌面)은 간단하지만 상하이의 맛을 잘 보여 줘요.",
+  "order": [
+    "<b>黄鱼面</b> 황어 국수",
+    "<b>虾仁面</b> 새우 국수",
+    "<b>葱油拌面</b> 파기름 비빔면"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 40~80위안 추정",
+  "must": 0,
+  "tags": [
+    "국수",
+    "현지식",
+    "줄서는집"
+  ],
+  "art_key": "basket",
+  "local_search": "阿娘面馆 淮海中路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Noodle",
+    "https://zh.wikipedia.org/wiki/%E9%9D%A2%E6%9D%A1"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 로컬 국수로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.368Z"
+}

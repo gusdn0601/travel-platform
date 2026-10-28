@@ -1,0 +1,84 @@
+{
+  "id": "pl_1cf501e970",
+  "code": "JP-FUK-S-0034",
+  "city_id": "JP-FUK",
+  "slug": "mojiko-retro",
+  "kind": "sight",
+  "name_ko": "모지코 레트로",
+  "name_sub": "Mojiko Retro",
+  "name_local": "門司港レトロ",
+  "lat": null,
+  "lng": null,
+  "area": "근교(기타큐슈)",
+  "lead": "메이지·다이쇼 시대 서양식 건물이 남은 항구 지역. 모지코 카레와 해협 풍경이 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "항구 · 레트로 지구"
+    ],
+    [
+      "볼거리",
+      "구 모지 세관, 모지코역, 해협 산책"
+    ],
+    [
+      "명물",
+      "모지코 야키카레"
+    ],
+    [
+      "접근",
+      "고쿠라에서 JR 환승"
+    ]
+  ],
+  "origin": [
+    "모지코는 규슈의 현관 역할을 했던 항구로, 20세기 초에 번성하며 은행·상사·세관이 몰려 있었어요.",
+    "지금도 당시 서양식 건물이 많이 남아 있어 레트로 지구로 정비되었고, 간몬 해협 건너 시모노세키가 보이는 풍경이 특징이에요.",
+    "카레 라이스에 치즈를 올려 구운 야키카레가 향토 음식으로 자리 잡았다고 알려져 있어요.",
+    "한국 여행객에게는 후쿠오카에서 JR로 갈 수 있는 당일 코스로 소개돼요."
+  ],
+  "practical": [
+    "하카타에서 신칸센·JR로 약 1시간 안팎",
+    "해협 인도교와 야경 코스 인기",
+    "관광 열차 및 도보 이동"
+  ],
+  "tip": "모지코 야키카레는 줄이 길 수 있어 점심 피크를 피하세요.",
+  "open_hours": null,
+  "stay_min": 180,
+  "price_hint": "무료(식사·체험 별도)",
+  "must": 0,
+  "tags": [
+    "모지코",
+    "항구",
+    "레트로",
+    "카레"
+  ],
+  "art_key": "harbor",
+  "local_search": "門司港レトロ",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/9079593377",
+    "https://ja.wikipedia.org/wiki/%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 북규슈 레트로 항구로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28",
+    "flag": "wikipedia/OSM matched wrong entity (7.6km); coords left null"
+  },
+  "sanitized_at": "2026-10-28T10:02:37.482Z"
+}

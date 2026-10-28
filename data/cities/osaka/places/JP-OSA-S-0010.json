@@ -1,0 +1,70 @@
+{
+  "id": "pl_f4eb27140a",
+  "code": "JP-OSA-S-0010",
+  "city_id": "JP-OSA",
+  "slug": "shinsekai",
+  "kind": "sight",
+  "name_ko": "신세카이",
+  "name_sub": "Shinsekai",
+  "name_local": "新世界",
+  "addr_local": "〒556-0002 大阪府 大阪市 浪速区 恵美須東二丁目 新世界本通線",
+  "lat": 34.65222,
+  "lng": 135.50611,
+  "area": "신세카이",
+  "lead": "츠텐카쿠 아래로 쿠시카츠 가게와 오래된 간판이 모인 레트로 동네. 저녁에 불이 들어오면 분위기가 살아나요.",
+  "facts": [
+    [
+      "종류",
+      "번화가(지구)"
+    ],
+    [
+      "대표",
+      "쿠시카츠 골목, 츠텐카쿠"
+    ],
+    [
+      "분위기",
+      "쇼와 시대 느낌의 간판"
+    ]
+  ],
+  "tip": "주변에 호객하는 가게가 많으니 가격표를 보고 들어가면 안심이에요.",
+  "open_hours": "상시 보행 가능(점포별 상이) (추정)",
+  "stay_min": 90,
+  "price_hint": "무료(식비 별도)",
+  "must": 0,
+  "tags": [
+    "레트로",
+    "먹거리",
+    "번화가"
+  ],
+  "art_key": "neon",
+  "local_search": "新世界",
+  "photos": [
+    "JP-OSA-S-0010-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1049117",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%84%B8%EC%B9%B4%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Shinsekai",
+    "https://www.openstreetmap.org/node/4190308689",
+    "https://shinsekai.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 16,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "neighbourhood",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:04.298Z"
+}

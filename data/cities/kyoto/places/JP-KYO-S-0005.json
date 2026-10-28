@@ -1,0 +1,66 @@
+{
+  "id": "pl_cb95546eda",
+  "code": "JP-KYO-S-0005",
+  "city_id": "JP-KYO",
+  "slug": "bamboo-forest",
+  "kind": "sight",
+  "name_ko": "아라시야마 대나무 숲",
+  "name_sub": "Bamboo Forest",
+  "name_local": "竹林の小径",
+  "lat": 35.00946,
+  "lng": 135.66677,
+  "area": "아라시야마",
+  "lead": "하늘로 뻗은 대나무가 양쪽에 늘어선 산책로. 짧은 길이라 오래 걸리지 않아요.",
+  "facts": [
+    [
+      "종류",
+      "대나무 숲길"
+    ],
+    [
+      "위치",
+      "덴류지 북쪽"
+    ],
+    [
+      "특징",
+      "사진 명소"
+    ]
+  ],
+  "tip": "붐비는 시간대를 피하려면 오전 이른 시각이 좋아요.",
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 45,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "대나무",
+    "산책",
+    "사진"
+  ],
+  "art_key": "bamboo",
+  "local_search": "竹林の小径",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q23579173",
+    "https://ko.wikipedia.org/wiki/%EC%A3%BD%EB%A6%BC_(%EA%B5%90%ED%86%A0%EC%8B%9C)",
+    "https://en.wikipedia.org/wiki/Bamboo_Forest_(Kyoto)",
+    "https://www.openstreetmap.org/relation/17656638"
+  ],
+  "meta": {
+    "verification": "coord_conflict",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 1076,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Bamboo forest in Arashiyama, Kyoto",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:45:52.005Z"
+}

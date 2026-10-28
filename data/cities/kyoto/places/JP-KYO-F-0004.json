@@ -1,0 +1,75 @@
+{
+  "id": "pl_aff68da4ed",
+  "code": "JP-KYO-F-0004",
+  "city_id": "JP-KYO",
+  "slug": "omen-ginkakuji",
+  "kind": "food",
+  "name_ko": "오멘 긴카쿠지",
+  "name_sub": "Omen Ginkakuji",
+  "name_local": "おめん 銀閣寺本店",
+  "lat": null,
+  "lng": null,
+  "area": "사쿄구",
+  "lead": "긴카쿠지 근처의 우동집. 제철 채소를 곁들여 먹는 츠케 우동으로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "우동"
+    ],
+    [
+      "특징",
+      "채소 곁들임 츠케 우동"
+    ],
+    [
+      "위치",
+      "긴카쿠지 인근"
+    ]
+  ],
+  "origin": [
+    "이 집은 긴카쿠지로 가는 길목에서 교토식 츠케우동을 내는 곳으로 알려져 있어요.",
+    "담백한 국물에 깨와 채소를 넣고 면을 찍어 먹는 방식이라 사찰 산책 뒤 가볍게 먹기 좋다고 해요.",
+    "철학의 길 산책과 묶어 방문하는 코스로 자주 소개돼요."
+  ],
+  "practical": [
+    "점심 한정 대기 가능"
+  ],
+  "tip": "철학의 길을 걷고 난 오후에는 줄이 비교적 덜해요.",
+  "order": [
+    "<b>おめん</b> 대표 츠케 우동"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,300~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "우동",
+    "철학의길",
+    "채소"
+  ],
+  "art_key": "noodle",
+  "local_search": "おめん 銀閣寺本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 6,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 긴카쿠지 주변 식사로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:06:08.049Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pl_0b18f7698c",
+  "code": "JP-NAR-F-0005",
+  "city_id": "JP-NAR",
+  "slug": "harushika-brewery",
+  "kind": "food",
+  "name_ko": "하루시카 양조장",
+  "name_sub": "Harushika Sake Brewery",
+  "name_local": "春鹿 醸造元 今西清兵衛商店",
+  "lat": 34.67705,
+  "lng": 135.83434,
+  "area": "나라마치",
+  "lead": "나라마치의 사케 양조장. 소량 시음을 곁들인 시음 코너로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사케 양조장·직판"
+    ],
+    [
+      "대표",
+      "하루시카"
+    ],
+    [
+      "위치",
+      "나라마치"
+    ]
+  ],
+  "origin": [
+    "하루시카는 나라마치에서 사케를 빚는 양조장이에요.",
+    "매장 안에서 여러 종류를 작은 잔으로 시음하는 방식이 한국인 여행자 사이에서도 알려져 있어요.",
+    "사케잔을 골라 가져가는 구성도 있어 기념으로 사는 사람이 많아요.",
+    "시음 후에는 바로 옆에서 병 제품을 살 수 있어요."
+  ],
+  "practical": [
+    "음주 후 운전 금지",
+    "시음 연령 확인"
+  ],
+  "tip": "마지막 날 들러 사케를 사 가면 짐이 늘지 않아요.",
+  "order": [
+    "<b>春鹿 純米吟醸</b> 준마이긴조 시음"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "시음 세트 500엔 안팎(추정)",
+  "must": 0,
+  "tags": [
+    "사케",
+    "시음",
+    "양조장"
+  ],
+  "art_key": "food",
+  "local_search": "春鹿 醸造元 今西清兵衛商店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/way/236802422"
+  ],
+  "meta": {
+    "priority": 16,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 사케 체험로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:32:53.354Z"
+}

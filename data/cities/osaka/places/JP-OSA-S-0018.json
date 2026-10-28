@@ -1,0 +1,68 @@
+{
+  "id": "pl_641a0210be",
+  "code": "JP-OSA-S-0018",
+  "city_id": "JP-OSA",
+  "slug": "namba-yasaka-shrine",
+  "kind": "sight",
+  "name_ko": "난바 야사카 신사",
+  "name_sub": "Namba-yasaka Shrine",
+  "name_local": "難波八阪神社",
+  "addr_local": "〒556-0015 大阪府 大阪市 浪速区 元町二丁目 大国町筋",
+  "lat": 34.66122,
+  "lng": 135.49669,
+  "area": "난바/도톤보리",
+  "lead": "사자 머리 모양 무대로 유명한 신사. 도심 한가운데서 사진 명소로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "대표",
+      "사자 머리 모양 무대"
+    ],
+    [
+      "위치",
+      "난바 서쪽"
+    ]
+  ],
+  "tip": "난바 일정 사이에 잠깐 들르기 좋은 곳이에요.",
+  "open_hours": "Mo-Su 06:00-17:00 (OSM)",
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "사진",
+    "도심"
+  ],
+  "art_key": "shrine",
+  "local_search": "難波八阪神社",
+  "photos": [
+    "JP-OSA-S-0018-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11659527",
+    "https://www.openstreetmap.org/way/637023828",
+    "http://nambayasaka.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 19,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "Shinto shrine in Osaka Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:51.833Z"
+}

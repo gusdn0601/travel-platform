@@ -1,0 +1,73 @@
+{
+  "id": "pl_5d7b0f91ac",
+  "code": "JP-KYO-S-0028",
+  "city_id": "JP-KYO",
+  "slug": "iwatayama-monkey-park",
+  "kind": "sight",
+  "name_ko": "이와타야마 원숭이 공원",
+  "name_sub": "Iwatayama Monkey Park",
+  "name_local": "嵐山モンキーパークいわたやま",
+  "addr_local": "京都府京都市西京区嵐山中尾下町６１",
+  "lat": 35.00894,
+  "lng": 135.67468,
+  "area": "아라시야마",
+  "lead": "산 위에서 야생 원숭이를 가까이 볼 수 있는 공원. 정상에서 교토 시내가 보여요.",
+  "facts": [
+    [
+      "종류",
+      "야생 원숭이 공원"
+    ],
+    [
+      "접근",
+      "도게쓰교 근처에서 오르막"
+    ],
+    [
+      "주의",
+      "먹이 규정 준수"
+    ],
+    [
+      "연도(Wikidata)",
+      "1957년"
+    ]
+  ],
+  "tip": "정상까지 약 20분 오르막이라 편한 신발이 좋아요(추정).",
+  "open_hours": "Mo-Su 09:00-16:00; Jan 01 off (OSM)",
+  "stay_min": 75,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "원숭이",
+    "전망",
+    "하이킹"
+  ],
+  "art_key": "monkey",
+  "local_search": "嵐山モンキーパークいわたやま",
+  "photos": [
+    "JP-KYO-S-0028-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q15229013",
+    "https://en.wikipedia.org/wiki/Iwatayama_Monkey_Park",
+    "https://www.openstreetmap.org/way/1343714212",
+    "http://www.monkeypark.jp/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 32,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "park in Kyoto",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:47:39.252Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "pl_aa08d81589",
+  "code": "JP-NAR-F-0012",
+  "city_id": "JP-NAR",
+  "slug": "miwa-somen-yamamoto",
+  "kind": "food",
+  "name_ko": "미와 소멘 야마모토",
+  "name_sub": "Miwa Somen Yamamoto",
+  "name_local": "三輪素麺 山本",
+  "lat": null,
+  "lng": null,
+  "area": "교외(사쿠라이)",
+  "lead": "미와 지역에서 소면을 내는 집. 차가운 소면이 여름 별미예요.",
+  "facts": [
+    [
+      "종류",
+      "소면 전문점"
+    ],
+    [
+      "대표",
+      "차가운 소면"
+    ],
+    [
+      "위치",
+      "사쿠라이 미와"
+    ]
+  ],
+  "origin": [
+    "미와 지역은 소면 생산으로 알려진 곳이에요.",
+    "이 집은 그 소면을 그 자리에서 삶아 내는 곳으로 소개돼요.",
+    "가늘게 뽑은 면을 차가운 국물에 담아 먹는 방식이 기본이에요.",
+    "오미와 신사 참배와 함께 묶는 코스가 자연스러워요."
+  ],
+  "practical": [
+    "여름 성수기 대기"
+  ],
+  "tip": "오미와 신사 참배 후 점심으로 들르기 좋아요.",
+  "order": [
+    "<b>三輪そうめん</b> 미와 소면"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,000~1,800엔 추정",
+  "must": 0,
+  "tags": [
+    "소면",
+    "미와",
+    "여름"
+  ],
+  "art_key": "noodle",
+  "local_search": "三輪素麺 山本",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 24,
+    "expansion": "nara-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 미와 소면 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:00.811Z"
+}

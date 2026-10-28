@@ -1,0 +1,84 @@
+{
+  "id": "pl_7bc280df40",
+  "code": "JP-FUK-S-0041",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-zoo-botanical",
+  "kind": "sight",
+  "name_ko": "후쿠오카시 동식물원",
+  "name_sub": "Fukuoka City Zoo and Botanical Garden",
+  "name_local": "福岡市動物園・植物園",
+  "lat": 33.57239,
+  "lng": 130.39058,
+  "area": "시내 남부",
+  "lead": "언덕 위 동물원과 식물원이 함께 있는 시립 공원. 벚꽃 시즌에는 시민들의 나들이 장소예요.",
+  "facts": [
+    [
+      "종류",
+      "동물원 · 식물원"
+    ],
+    [
+      "위치",
+      "시내 남부 언덕"
+    ],
+    [
+      "시즌",
+      "봄 벚꽃"
+    ],
+    [
+      "대상",
+      "가족 여행"
+    ]
+  ],
+  "origin": [
+    "후쿠오카시 동식물원은 시내에서 지하철과 버스로 가기 쉬운 곳에 자리한 시립 시설이에요.",
+    "동물원과 식물원이 같은 부지에 있어 하루 일정으로 즐길 수 있고, 봄에는 벚꽃으로 유명해요.",
+    "아이 동반 여행에서 자주 거론되는 곳이에요."
+  ],
+  "practical": [
+    "언덕이라 유모차는 힘들 수 있음",
+    "봄 시즌 혼잡"
+  ],
+  "tip": "벚꽃 시즌에는 오전 일찍 방문하세요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "입장 600엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "동물원",
+    "식물원",
+    "벚꽃",
+    "가족"
+  ],
+  "art_key": "park",
+  "local_search": "福岡市動物園・植物園",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%8B%95%E6%A4%8D%E7%89%A9%E5%9C%92",
+    "https://www.openstreetmap.org/way/169652278"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 119,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 가족 여행 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:51.126Z"
+}

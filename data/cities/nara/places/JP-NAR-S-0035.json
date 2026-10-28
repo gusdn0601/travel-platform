@@ -1,0 +1,83 @@
+{
+  "id": "pl_56e3a5fe0b",
+  "code": "JP-NAR-S-0035",
+  "city_id": "JP-NAR",
+  "slug": "hokiji",
+  "kind": "sight",
+  "name_ko": "호키지",
+  "name_sub": "Hōki-ji",
+  "name_local": "法起寺",
+  "lat": 34.62297,
+  "lng": 135.74622,
+  "area": "교외(이카루가)",
+  "lead": "일본에서 가장 오래된 3층탑으로 알려진 사찰이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "삼층탑(현존 최고 最古)"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ]
+  ],
+  "origin": [
+    "호키지는 호류지 동쪽 들판에 자리한 사찰로, 7세기에 세워졌다고 전해져요.",
+    "삼층탑은 일본 현존 삼층탑 가운데 가장 오래된 것으로 알려져 있어요.",
+    "사찰은 작지만 논과 마을 사이에 서 있어 한적한 풍경이 나요.",
+    "세계유산에 등재된 지역 안에 있어요."
+  ],
+  "practical": [
+    "관람 시간 짧음",
+    "주변 들길"
+  ],
+  "tip": "호류지에서 자전거나 차로 5분 거리예요.",
+  "open_hours": null,
+  "stay_min": 30,
+  "price_hint": "입장료 소액",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "삼층탑",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "法起寺",
+  "photos": [
+    "JP-NAR-S-0035-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hokki-ji",
+    "https://ja.wikipedia.org/wiki/%E6%B3%95%E8%B5%B7%E5%AF%BA",
+    "https://www.openstreetmap.org/way/218651765"
+  ],
+  "meta": {
+    "priority": 48,
+    "expansion": "nara-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 43,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 이카루가 역사 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:05.116Z"
+}

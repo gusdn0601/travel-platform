@@ -1,0 +1,73 @@
+{
+  "id": "pl_6c48430544",
+  "code": "JP-KYO-P-0002",
+  "city_id": "JP-KYO",
+  "slug": "teramachi-shinkyogoku",
+  "kind": "shop",
+  "name_ko": "데라마치·신쿄고쿠 상점가",
+  "name_sub": "Teramachi / Shinkyogoku",
+  "name_local": "寺町京極 新京極商店街",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "시조 가와라마치에서 이어지는 지붕 있는 상점가. 기념품·잡화·간식이 한곳에 몰려 있어요.",
+  "facts": [
+    [
+      "종류",
+      "아케이드 상점가"
+    ],
+    [
+      "특징",
+      "비 오는 날에도 쇼핑"
+    ],
+    [
+      "위치",
+      "가와라마치"
+    ]
+  ],
+  "origin": [
+    "데라마치는 이름 그대로 절이 모여 있던 거리에서 비롯됐다고 전해지고, 지금은 아케이드 상점가로 이어져 있어요.",
+    "신쿄고쿠는 에도 시대 이후 번화가로 발전했다고 알려져 있어요.",
+    "비 오는 날에도 걷기 편해서 한국 여행자의 기념품 쇼핑 코스로 자주 소개돼요."
+  ],
+  "practical": [
+    "가게마다 영업시간 상이",
+    "면세 가능 매장 확인"
+  ],
+  "tip": "니시키 시장과 이어서 걸으면 한 번에 둘러볼 수 있어요.",
+  "open_hours": null,
+  "stay_min": 120,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "아케이드",
+    "기념품"
+  ],
+  "art_key": "shop",
+  "local_search": "寺町京極 新京極商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 1,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 시내 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:41.473Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pl_9c0875992b",
+  "code": "JP-KYO-F-0022",
+  "city_id": "JP-KYO",
+  "slug": "yasaki-endo",
+  "kind": "food",
+  "name_ko": "야사카 엔도",
+  "name_sub": "Yasaka Endo",
+  "name_local": "天ぷら 八坂圓堂",
+  "lat": 34.99897,
+  "lng": 135.77513,
+  "area": "기온/히가시야마",
+  "lead": "기온 골목의 덴푸라 전문점. 튀긴 순서대로 하나씩 내와요.",
+  "facts": [
+    [
+      "종류",
+      "덴푸라"
+    ],
+    [
+      "특징",
+      "코스로 하나씩 제공"
+    ],
+    [
+      "위치",
+      "기온"
+    ]
+  ],
+  "origin": [
+    "야사카 엔도는 기온의 골목에 있는 덴푸라 집이에요.",
+    "재료를 튀긴 직후 하나씩 접시에 올려 주는 방식으로 소개돼요.",
+    "코스 가격대가 있어 점심과 저녁 차이가 커요.",
+    "기온 산책 동선에 넣기 좋은 위치예요."
+  ],
+  "practical": [
+    "예약 권장",
+    "복장 규정 확인"
+  ],
+  "tip": "점심 코스가 상대적으로 부담이 적어요.",
+  "order": [
+    "<b>天ぷらコース</b> 덴푸라 코스"
+  ],
+  "open_hours": "Mo-Su 11:30-15:00, 17:00-22:00 (OSM)",
+  "stay_min": 90,
+  "price_hint": "1인 6,000엔대~ 추정",
+  "must": 0,
+  "tags": [
+    "덴푸라",
+    "기온",
+    "예약"
+  ],
+  "art_key": "food",
+  "local_search": "天ぷら 八坂圓堂",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/6390907686"
+  ],
+  "meta": {
+    "priority": 20,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 기온 덴푸라로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:04.568Z"
+}

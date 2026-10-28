@@ -1,0 +1,81 @@
+{
+  "id": "pl_30d9f977c2",
+  "code": "JP-KYO-F-0037",
+  "city_id": "JP-KYO",
+  "slug": "arabica-higashiyama",
+  "kind": "food",
+  "name_ko": "% 아라비카 교토 히가시야마",
+  "name_sub": "% Arabica Kyoto Higashiyama",
+  "name_local": "% Arabica 京都東山",
+  "lat": 34.99864,
+  "lng": 135.77828,
+  "area": "히가시야마",
+  "lead": "히가시야마 골목의 작은 커피숍. 강변 자리로 알려져 있어요.",
+  "facts": [
+    [
+      "종류",
+      "커피 전문점"
+    ],
+    [
+      "특징",
+      "강변 입구"
+    ],
+    [
+      "위치",
+      "히가시야마"
+    ]
+  ],
+  "origin": [
+    "아라비카는 교토에서 시작한 커피 브랜드로, 히가시야마 지점이 한국인 여행자에게 잘 알려져 있어요.",
+    "가게가 작아 대부분 테이크아웃으로 마시고 강변에서 쉬어요.",
+    "여름에는 차가운 라테가, 겨울에는 따뜻한 커피가 인기예요.",
+    "사진을 찍으려는 사람이 많아 대기하는 경우가 있어요."
+  ],
+  "practical": [
+    "테이크아웃 위주",
+    "대기 가능"
+  ],
+  "tip": "강변에 앉아 마시면 분위기가 가장 좋아요.",
+  "order": [
+    "<b>カフェラテ</b> 카페라테"
+  ],
+  "open_hours": null,
+  "stay_min": 25,
+  "price_hint": "1인 600~1,000엔 추정",
+  "must": 0,
+  "tags": [
+    "커피",
+    "히가시야마",
+    "테이크아웃"
+  ],
+  "art_key": "cafe",
+  "local_search": "% Arabica 京都東山",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/4551239595"
+  ],
+  "meta": {
+    "priority": 5,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 커피 명소로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:23.212Z"
+}

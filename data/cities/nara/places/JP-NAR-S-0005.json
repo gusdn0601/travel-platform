@@ -1,0 +1,71 @@
+{
+  "id": "pl_b7a7da39b2",
+  "code": "JP-NAR-S-0005",
+  "city_id": "JP-NAR",
+  "slug": "horyu-ji-temple",
+  "kind": "sight",
+  "name_ko": "호류지",
+  "name_sub": "Hōryū-ji Temple",
+  "name_local": "法隆寺",
+  "lat": 34.61444,
+  "lng": 135.73417,
+  "area": "교외(이카루가)",
+  "lead": "세계에서 가장 오래된 목조 건축군으로 알려진 사찰. 고요한 경내에서 천천히 걸을 수 있어요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "대표",
+      "금당, 5층탑"
+    ],
+    [
+      "유산",
+      "세계유산"
+    ],
+    [
+      "연도(Wikidata)",
+      "607년"
+    ]
+  ],
+  "tip": "나라 시내에서 전철로 이동해야 하니 반나절 이상 잡으세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "목조",
+    "세계유산"
+  ],
+  "art_key": "temple",
+  "local_search": "法隆寺",
+  "photos": [
+    "JP-NAR-S-0005-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q261932",
+    "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%A5%98%EC%A7%80",
+    "https://en.wikipedia.org/wiki/H%C5%8Dry%C5%AB-ji",
+    "http://www.horyuji.or.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Buddhist temple in Nara Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:14.775Z"
+}

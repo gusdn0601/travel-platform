@@ -1,0 +1,84 @@
+{
+  "id": "pl_27436c4965",
+  "code": "JP-FUK-P-0013",
+  "city_id": "JP-FUK",
+  "slug": "daikoku-drug-tenjin",
+  "kind": "shop",
+  "name_ko": "다이코쿠 드럭 (텐진·하카타)",
+  "name_sub": "Daikoku Drug",
+  "name_local": "ダイコクドラッグ 天神",
+  "lat": 33.59198,
+  "lng": 130.39829,
+  "area": "텐진",
+  "lead": "의약품·화장품·생활용품을 면세로 사기 좋은 드럭스토어. 시내 곳곳에 지점이 많아요.",
+  "facts": [
+    [
+      "종류",
+      "드럭스토어"
+    ],
+    [
+      "품목",
+      "의약품·화장품·생활용품"
+    ],
+    [
+      "특징",
+      "지점이 많음"
+    ],
+    [
+      "택스",
+      "면세 가능"
+    ]
+  ],
+  "origin": [
+    "일본 드럭스토어는 약뿐 아니라 화장품과 생활용품을 함께 파는 곳으로 한국 여행객의 필수 쇼핑 장소예요.",
+    "다이코쿠 드럭은 서일본에서 지점이 많은 편으로 소개돼요.",
+    "복용 중인 약이 있으면 귀국 시 반입 규정을 먼저 확인하세요."
+  ],
+  "practical": [
+    "일부 의약품은 약사 상담 필요",
+    "귀국 시 의약품 반입 규정 확인"
+  ],
+  "tip": "쿠폰이나 면세 조건은 지점별로 달라요.",
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "드럭스토어",
+    "의약품",
+    "화장품"
+  ],
+  "art_key": "mall",
+  "local_search": "ダイコクドラッグ 天神",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF",
+    "https://en.wikipedia.org/wiki/Drugstore",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2",
+    "https://www.openstreetmap.org/node/4575139291"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 일본 드럭스토어 쇼핑로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:37.465Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "pl_aab5d4ef1e",
+  "code": "JP-FUK-F-0002",
+  "city_id": "JP-FUK",
+  "slug": "ippudo-daimyo",
+  "kind": "food",
+  "name_ko": "잇푸도 다이묘 본점",
+  "name_sub": "Ippudo Daimyo",
+  "name_local": "一風堂 大名本店",
+  "lat": null,
+  "lng": null,
+  "area": "다이묘",
+  "lead": "1985년 다이묘에서 문을 연 라멘 체인의 출발점. 부드러운 돈코츠 국물에 시로마루·아카마루 두 스타일이 대표예요.",
+  "facts": [
+    [
+      "종류",
+      "하카타 돈코츠 라멘"
+    ],
+    [
+      "시작",
+      "1985년 후쿠오카 다이묘"
+    ],
+    [
+      "대표",
+      "시로마루(기본)·아카마루(마늘 기름)"
+    ],
+    [
+      "위치",
+      "다이묘"
+    ]
+  ],
+  "origin": [
+    "잇푸도는 1985년 후쿠오카 다이묘에서 가와하라 시게미가 시작한 라멘 가게로 알려져 있어요.",
+    "돈코츠 특유의 냄새를 줄이고 부드러운 국물로 다듬어 젊은 층과 여성 손님을 끌어들인 것이 특징이에요.",
+    "이후 일본 전역과 해외로 지점을 넓히며 하카타 라멘을 대표하는 이름이 되었어요.",
+    "본점은 다이묘의 아기자기한 골목 쇼핑 거리 가까이에 있어 텐진 쇼핑과 묶어서 가기 좋아요."
+  ],
+  "practical": [
+    "점심·저녁 피크에는 대기 줄이 있을 수 있음",
+    "면 추가는 국물이 남아 있을 때 요청"
+  ],
+  "tip": "처음이면 시로마루, 진한 맛을 좋아하면 아카마루를 골라요.",
+  "order": [
+    "<b>白丸元味</b> 시로마루(기본 돈코츠)",
+    "<b>赤丸新味</b> 아카마루(마늘 기름·된장 양념)",
+    "<b>替玉</b> 면 추가"
+  ],
+  "open_hours": null,
+  "stay_min": 50,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "돈코츠",
+    "아카마루"
+  ],
+  "art_key": "noodle",
+  "local_search": "一風堂 大名本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ippudo",
+    "https://ja.wikipedia.org/wiki/%E4%B8%80%E9%A2%A8%E5%A0%82",
+    "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+    "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+  ],
+  "meta": {
+    "priority": 1,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 4 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 라멘 맛집로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:38.205Z"
+}

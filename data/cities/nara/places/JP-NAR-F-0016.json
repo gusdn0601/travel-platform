@@ -1,0 +1,81 @@
+{
+  "id": "pl_dee741326c",
+  "code": "JP-NAR-F-0016",
+  "city_id": "JP-NAR",
+  "slug": "saika-ramen-honten",
+  "kind": "food",
+  "name_ko": "사이카 라멘 본점",
+  "name_sub": "Saika Ramen",
+  "name_local": "彩華ラーメン 本店",
+  "lat": 34.59514,
+  "lng": 135.81149,
+  "area": "교외(텐리)",
+  "lead": "나라·텐리 지역에서 알려진 라멘 체인의 본점. 마늘 향이 강한 국물이 특징이에요.",
+  "facts": [
+    [
+      "종류",
+      "라멘"
+    ],
+    [
+      "특징",
+      "마늘 향 강한 국물"
+    ],
+    [
+      "위치",
+      "텐리시"
+    ]
+  ],
+  "origin": [
+    "사이카 라멘은 텐리에서 시작한 라멘 가게로 알려져 있어요.",
+    "배추와 마늘을 넣은 진한 국물이 특징이라 현지에서 오래 사랑받아 왔어요.",
+    "본점은 텐리시에 있고 나라 시내에도 지점이 있어요.",
+    "취향이 갈리는 맛이라 처음에는 보통 맛으로 주문하는 편이 무난해요."
+  ],
+  "practical": [
+    "마늘 향 강함",
+    "주차장 있음"
+  ],
+  "tip": "마늘 냄새가 남으니 다음 일정을 고려하세요.",
+  "order": [
+    "<b>彩華ラーメン</b> 사이카 라멘"
+  ],
+  "open_hours": "11:00-03:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "1인 900~1,300엔 추정",
+  "must": 0,
+  "tags": [
+    "라멘",
+    "마늘",
+    "현지 인기"
+  ],
+  "art_key": "noodle",
+  "local_search": "彩華ラーメン 本店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/1154159593"
+  ],
+  "meta": {
+    "priority": 33,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 나라 현지 라멘로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:33:05.652Z"
+}

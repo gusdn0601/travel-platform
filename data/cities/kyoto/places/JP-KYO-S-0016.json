@@ -1,0 +1,73 @@
+{
+  "id": "pl_068f2c0dcc",
+  "code": "JP-KYO-S-0016",
+  "city_id": "JP-KYO",
+  "slug": "yasaka-shrine",
+  "kind": "sight",
+  "name_ko": "야사카 신사",
+  "name_sub": "Yasaka Shrine",
+  "name_local": "八坂神社",
+  "lat": 35.00364,
+  "lng": 135.77853,
+  "area": "기온/히가시야마",
+  "lead": "기온 끝자락에 있는 신사. 밤에도 경내가 열려 있어 저녁 산책 코스로 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "신사"
+    ],
+    [
+      "행사",
+      "7월 기온 마쓰리"
+    ],
+    [
+      "위치",
+      "마루야마 공원 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "656년"
+    ]
+  ],
+  "tip": "시조 거리에서 바로 이어져 낮과 밤 모두 들르기 쉬워요.",
+  "open_hours": "24/7 (OSM)",
+  "stay_min": 30,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "신사",
+    "야경",
+    "기온"
+  ],
+  "art_key": "shrine",
+  "local_search": "八坂神社",
+  "photos": [
+    "JP-KYO-S-0016-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q692714",
+    "https://ko.wikipedia.org/wiki/%EC%95%BC%EC%82%AC%EC%B9%B4_%EC%8B%A0%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Yasaka_Shrine",
+    "https://www.openstreetmap.org/way/328903218",
+    "http://www.yasaka-jinja.or.jp/en/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 22,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "Shinto shrine in Kyoto, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:44.978Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "pl_477f31441f",
+  "code": "JP-NAR-S-0002",
+  "city_id": "JP-NAR",
+  "slug": "nara-park",
+  "kind": "sight",
+  "name_ko": "나라 공원",
+  "name_sub": "Nara Park",
+  "name_local": "奈良公園",
+  "lat": 34.68545,
+  "lng": 135.84341,
+  "area": "나라 공원",
+  "lead": "사슴이 자유롭게 거니는 넓은 공원. 도다이지·가스가타이샤를 잇는 중심 산책 구역이에요.",
+  "facts": [
+    [
+      "종류",
+      "공원"
+    ],
+    [
+      "대표",
+      "사슴, 도다이지·고후쿠지 인접"
+    ],
+    [
+      "주의",
+      "사슴 먹이는 전용 과자만"
+    ]
+  ],
+  "tip": "사슴이 종이나 지도를 물 수 있으니 소지품을 잘 챙기세요.",
+  "open_hours": "상시 개방 (추정)",
+  "stay_min": 120,
+  "price_hint": "무료",
+  "must": 0,
+  "tags": [
+    "사슴",
+    "공원",
+    "산책"
+  ],
+  "art_key": "deer",
+  "local_search": "奈良公園",
+  "photos": [
+    "JP-NAR-S-0002-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1186358",
+    "https://ko.wikipedia.org/wiki/%EB%82%98%EB%9D%BC_%EA%B3%B5%EC%9B%90",
+    "https://en.wikipedia.org/wiki/Nara_Park",
+    "http://nara-park.com/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "park",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:05.082Z"
+}

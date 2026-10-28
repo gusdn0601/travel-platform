@@ -1,0 +1,73 @@
+{
+  "id": "pl_ab4229d4bc",
+  "code": "JP-KYO-S-0015",
+  "city_id": "JP-KYO",
+  "slug": "nanzen-ji-temple",
+  "kind": "sight",
+  "name_ko": "난젠지",
+  "name_sub": "Nanzen-ji Temple",
+  "name_local": "南禅寺",
+  "lat": 35.01111,
+  "lng": 135.79417,
+  "area": "사쿄구",
+  "lead": "붉은 벽돌 수로각이 사찰 경내를 가로지르는 독특한 풍경의 선종 사찰.",
+  "facts": [
+    [
+      "종류",
+      "사찰(선종)"
+    ],
+    [
+      "대표",
+      "수로각, 삼문"
+    ],
+    [
+      "접근",
+      "철학의 길 남쪽 끝 인근"
+    ],
+    [
+      "연도(Wikidata)",
+      "1291년"
+    ]
+  ],
+  "tip": "수로각에서 사진을 찍는 사람이 많아 오전에 가면 한적해요.",
+  "open_hours": "Mar-Nov Mo-Su 08:40-17:00; Dec-Feb Mo-Su 08:40-16:30; Dec 28-Dec 31 off (OSM)",
+  "stay_min": 60,
+  "price_hint": "경내 무료/일부 유료",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "수로각",
+    "정원"
+  ],
+  "art_key": "temple",
+  "local_search": "南禅寺",
+  "photos": [
+    "JP-KYO-S-0015-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1089767",
+    "https://ko.wikipedia.org/wiki/%EB%82%9C%EC%A0%A0%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Nanzen-ji",
+    "https://www.openstreetmap.org/way/352013907",
+    "http://www.nanzen.net/english/index.html"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 147,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "addr_basis": null,
+    "entity": "building in Kyoto Prefecture, Japan",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:40.143Z"
+}

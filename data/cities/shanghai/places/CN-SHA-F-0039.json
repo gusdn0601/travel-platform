@@ -1,0 +1,83 @@
+{
+  "id": "pl_e3ea9ea16b",
+  "code": "CN-SHA-F-0039",
+  "city_id": "CN-SHA",
+  "slug": "fu-1088",
+  "kind": "food",
+  "name_ko": "푸 1088 (福1088)",
+  "name_sub": "Fu 1088",
+  "name_local": "福1088",
+  "lat": null,
+  "lng": null,
+  "area": "창닝/프랑스 조계지",
+  "lead": "옛 저택을 개조한 고급 본토식 레스토랑. 분위기 있는 한 끼를 원할 때 후보로 올라요.",
+  "facts": [
+    [
+      "종류",
+      "고급 본토식"
+    ],
+    [
+      "건물",
+      "옛 저택 개조"
+    ],
+    [
+      "위치",
+      "창닝구 일대"
+    ],
+    [
+      "예약",
+      "필수"
+    ]
+  ],
+  "origin": [
+    "푸 1088은 옛 양옥을 개조해 상하이 본토식 요리를 정찬으로 선보이는 레스토랑으로 알려져 있어요.",
+    "본토식은 간장과 설탕을 써서 진하게 조리는 요리로, 이곳에서는 현대적으로 정제된 형태로 낸다고 소개돼요.",
+    "기념일 식사 후보로 자주 거론돼요."
+  ],
+  "practical": [
+    "예약 필수"
+  ],
+  "tip": "점심이 상대적으로 부담이 덜해요.",
+  "order": [
+    "<b>红烧肉</b> 홍샤오러우",
+    "<b>蟹粉</b> 게살 요리"
+  ],
+  "open_hours": null,
+  "stay_min": 100,
+  "price_hint": "1인 300~600위안 추정",
+  "must": 0,
+  "tags": [
+    "본토식",
+    "고급",
+    "저택"
+  ],
+  "art_key": "garden",
+  "local_search": "福1088",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "고급 본토식 후보로 소개(수집가 판단, 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.654Z"
+}

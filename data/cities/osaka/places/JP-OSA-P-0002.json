@@ -1,0 +1,65 @@
+{
+  "id": "pl_b4d9383fce",
+  "code": "JP-OSA-P-0002",
+  "city_id": "JP-OSA",
+  "slug": "shinsaibashi-suji",
+  "kind": "shop",
+  "name_ko": "신사이바시스지",
+  "name_sub": "Shinsaibashi-suji",
+  "name_local": "心斎橋筋商店街",
+  "addr_local": "〒542-0085 大阪府 大阪市 中央区 心斎橋筋一丁目 心斎橋筋商店街 1 Chome-5-21",
+  "lat": 34.67231,
+  "lng": 135.50136,
+  "area": "난바/도톤보리",
+  "lead": "남북으로 길게 뻗은 지붕 있는 상점가. 비 오는 날에도 쇼핑하기 편해요.",
+  "facts": [
+    [
+      "종류",
+      "아케이드 상점가"
+    ],
+    [
+      "특징",
+      "약국·패션·잡화 점포 다수"
+    ],
+    [
+      "접근",
+      "미도스지선 신사이바시역 인근"
+    ]
+  ],
+  "tip": "도톤보리까지 걸어서 이어지니 쇼핑 후 저녁 산책 코스로 묶기 좋아요.",
+  "open_hours": "점포별 상이(대체로 11:00~20:00 전후) (추정)",
+  "stay_min": 90,
+  "price_hint": "무료(구매 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "아케이드",
+    "번화가"
+  ],
+  "art_key": "market",
+  "local_search": "心斎橋筋商店街",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.wikidata.org/wiki/Q11255039",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%82%AC%EC%9D%B4%EB%B0%94%EC%8B%9C_%EC%83%81%EC%A0%90%EA%B0%80",
+    "https://www.shinsaibashi.or.jp/"
+  ],
+  "meta": {
+    "verification": "single_source",
+    "verified_scope": null,
+    "coord_sources": [
+      "wikidata"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "estimated",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-reverse (근사)",
+    "entity": "shopping arcade in Shinsaibashi, Osaka",
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:49:11.240Z"
+}

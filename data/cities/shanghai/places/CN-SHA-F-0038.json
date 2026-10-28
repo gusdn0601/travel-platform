@@ -1,0 +1,87 @@
+{
+  "id": "pl_3d80cdc4d1",
+  "code": "CN-SHA-F-0038",
+  "city_id": "CN-SHA",
+  "slug": "xiaonanguo",
+  "kind": "food",
+  "name_ko": "샤오난궈 (小南国)",
+  "name_sub": "Xiao Nan Guo",
+  "name_local": "小南国",
+  "lat": 31.22042,
+  "lng": 121.50241,
+  "area": "도심 여러 지점",
+  "lead": "본토식 정통 메뉴를 깔끔한 분위기에서 내는 상하이 체인. 홍샤오러우와 게살 요리가 유명하다고 소개돼요.",
+  "facts": [
+    [
+      "종류",
+      "상하이 본토식"
+    ],
+    [
+      "분위기",
+      "캐주얼 정찬"
+    ],
+    [
+      "지점",
+      "도심 여러 곳"
+    ],
+    [
+      "예약",
+      "단체 가능"
+    ]
+  ],
+  "origin": [
+    "샤오난궈는 상하이에서 시작한 본토식 체인으로 알려져 있어요.",
+    "본토식은 간장과 설탕을 써서 진하고 달게 졸이는 조림이 중심이에요.",
+    "관광 일정 중 격식 있는 한 끼를 원하는 단체·가족 여행자가 자주 찾는다고 소개돼요."
+  ],
+  "practical": [
+    "단체 예약 권장"
+  ],
+  "tip": "본토식은 달고 진한 편이니 담백한 채소 요리를 곁들이세요.",
+  "order": [
+    "<b>红烧肉</b> 홍샤오러우",
+    "<b>蟹粉豆腐</b> 게살 두부",
+    "<b>小笼包</b> 샤오룽바오"
+  ],
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "1인 120~220위안 추정",
+  "must": 0,
+  "tags": [
+    "본토식",
+    "체인",
+    "가족식사"
+  ],
+  "art_key": "basket",
+  "local_search": "小南国",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai_cuisine",
+    "https://zh.wikipedia.org/wiki/%E6%9C%AC%E5%B8%AE%E8%8F%9C",
+    "https://www.openstreetmap.org/node/4509878892"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "본토식 체인 후보로 소개(수집가 판단, 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:01:39.653Z"
+}

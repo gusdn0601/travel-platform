@@ -1,0 +1,81 @@
+{
+  "id": "pl_300e836133",
+  "code": "JP-KYO-F-0033",
+  "city_id": "JP-KYO",
+  "slug": "demachi-futaba",
+  "kind": "food",
+  "name_ko": "데마치 후타바",
+  "name_sub": "Demachi Futaba",
+  "name_local": "出町ふたば",
+  "lat": 35.03011,
+  "lng": 135.76963,
+  "area": "사쿄구",
+  "lead": "콩을 넣은 마메모치로 알려진 떡집. 늘 줄이 이어져요.",
+  "facts": [
+    [
+      "종류",
+      "떡·과자점"
+    ],
+    [
+      "대표",
+      "마메모치"
+    ],
+    [
+      "위치",
+      "데마치야나기"
+    ]
+  ],
+  "origin": [
+    "데마치 후타바는 교토에서 마메모치로 알려진 가게예요.",
+    "소금기 살짝 있는 콩과 떡을 함께 쪄 낸 과자로, 그날 만든 것만 파는 방식이에요.",
+    "가게 앞에 줄이 길게 늘어서는 것으로 유명해요.",
+    "강변 산책과 함께 들르기 좋아요."
+  ],
+  "practical": [
+    "줄 설 수 있음",
+    "현금 편함"
+  ],
+  "tip": "강변에서 바로 먹으면 가장 맛있어요.",
+  "order": [
+    "<b>名代豆餅</b> 마메모치"
+  ],
+  "open_hours": "We-Mo 08:30-17:30 (OSM)",
+  "stay_min": 20,
+  "price_hint": "1개 250엔 안팎 추정",
+  "must": 0,
+  "tags": [
+    "마메모치",
+    "간식",
+    "줄서기"
+  ],
+  "art_key": "food",
+  "local_search": "出町ふたば",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://www.openstreetmap.org/node/4374432589"
+  ],
+  "meta": {
+    "priority": 6,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 마메모치로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:19.461Z"
+}

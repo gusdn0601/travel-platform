@@ -1,0 +1,80 @@
+{
+  "id": "pl_22d2bc4617",
+  "code": "CN-SHA-S-0046",
+  "city_id": "CN-SHA",
+  "slug": "huaihai-road",
+  "kind": "sight",
+  "name_ko": "화이하이중루",
+  "name_sub": "Huaihai Middle Road",
+  "name_local": "淮海中路",
+  "lat": 31.21778,
+  "lng": 121.46111,
+  "area": "프랑스 조계지/쉬후이",
+  "lead": "플라타너스 가로수가 이어진 프랑스 조계지의 쇼핑 거리. 패션과 카페가 섞여 있어요.",
+  "facts": [
+    [
+      "성격",
+      "쇼핑·카페 거리"
+    ],
+    [
+      "옛 이름",
+      "라파예트로(조계 시기)"
+    ],
+    [
+      "대표",
+      "K11, iapm 등"
+    ],
+    [
+      "접근",
+      "지하철 1·10·13호선"
+    ]
+  ],
+  "origin": [
+    "화이하이중루는 프랑스 조계 시절 이곳을 프랑스식 지명으로 불렀던 번화가예요.",
+    "가로수와 옛 양옥이 어우러진 풍경이 남아 있고, 지금은 현대 쇼핑몰과 오래된 건물이 함께 이어져요.",
+    "신천지, 쓰난루와 가까워 반나절 코스로 이어가기 좋아요."
+  ],
+  "tip": "신천지 → 쓰난루 → 화이하이중루 순으로 걸으면 동선이 편해요.",
+  "open_hours": null,
+  "stay_min": 150,
+  "price_hint": "무료(쇼핑 별도)",
+  "must": 0,
+  "tags": [
+    "쇼핑",
+    "플라타너스",
+    "카페"
+  ],
+  "art_key": "street",
+  "local_search": "淮海中路",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Huaihai_Road",
+    "https://zh.wikipedia.org/wiki/%E6%B7%AE%E6%B5%B7%E4%B8%AD%E8%B7%AF",
+    "https://www.openstreetmap.org/node/5306477816"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 468,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 가이드·블로그에서 자주 소개되는 코스(수집가 판단, 방문자 수치는 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:00:57.963Z"
+}

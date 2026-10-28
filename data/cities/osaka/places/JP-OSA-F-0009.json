@@ -1,0 +1,89 @@
+{
+  "id": "pl_47d9e930cc",
+  "code": "JP-OSA-F-0009",
+  "city_id": "JP-OSA",
+  "slug": "chibo-dotonbori",
+  "kind": "food",
+  "name_ko": "치보 도톤보리",
+  "name_sub": "Chibo",
+  "name_local": "千房 道頓堀ビル店",
+  "lat": 34.66884,
+  "lng": 135.5039,
+  "area": "난바/도톤보리",
+  "lead": "도톤보리에서 여러 층 규모로 영업하는 오코노미야키 체인. 좌석이 많아 단체로도 가기 좋아요.",
+  "facts": [
+    [
+      "종류",
+      "오코노미야키"
+    ],
+    [
+      "특징",
+      "도톤보리 대형 매장"
+    ],
+    [
+      "위치",
+      "도톤보리"
+    ],
+    [
+      "메뉴",
+      "오코노미야키·모던야키"
+    ]
+  ],
+  "origin": [
+    "치보는 오사카에서 시작해 전국에 지점을 둔 오코노미야키 체인으로 알려져 있어요.",
+    "도톤보리 매장은 층별로 좌석이 많아 여행자 단체가 들어가기 비교적 수월해요.",
+    "기본 오코노미야키에 면을 넣은 모던야키, 치즈 토핑 등 선택지가 다양해 처음 먹는 사람도 고르기 쉬워요."
+  ],
+  "practical": [
+    "예약 가능 여부 매장 확인",
+    "점심 세트 있는 매장 있음"
+  ],
+  "tip": "인원이 많으면 도톤보리 대형 매장이 대기 부담이 적어요.",
+  "order": [
+    "<b>豚玉</b> 돼지고기 오코노미야키",
+    "<b>モダン焼</b> 모던야키",
+    "<b>とんぺい焼</b> 톤페이야키"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "1인 1,500~2,800엔 추정",
+  "must": 0,
+  "tags": [
+    "오코노미야키",
+    "도톤보리",
+    "체인"
+  ],
+  "art_key": "okonomiyaki",
+  "local_search": "千房 道頓堀ビル店",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E5%258D%2583%25E6%2588%25BF",
+    "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D",
+    "https://www.openstreetmap.org/node/2332951165"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "osaka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 3 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 오사카 오코노미야키로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:37:24.885Z"
+}

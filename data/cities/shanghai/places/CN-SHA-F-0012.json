@@ -1,0 +1,87 @@
+{
+  "id": "pl_bb2ccec24c",
+  "code": "CN-SHA-F-0012",
+  "city_id": "CN-SHA",
+  "slug": "chenghuangmiao-snacks",
+  "kind": "food",
+  "name_ko": "성황묘 샤오츠 광장 (먹자골목)",
+  "name_local": "城隍庙小吃广场",
+  "lat": 31.22791,
+  "lng": 121.48723,
+  "area": "예원/성황묘",
+  "lead": "예원 앞 성황묘 일대 노점·식당이 모인 먹자 구역. 상하이 전통 간식을 한자리에서 맛볼 수 있어요.",
+  "facts": [
+    [
+      "성격",
+      "먹자 골목"
+    ],
+    [
+      "대표",
+      "샤오룽바오·생젠·탕후루"
+    ],
+    [
+      "위치",
+      "예원·성황묘 인근"
+    ],
+    [
+      "혼잡",
+      "주말 매우 혼잡"
+    ]
+  ],
+  "origin": [
+    "성황묘 앞 장터는 사원 참배객을 상대로 한 점포가 모이며 생겨난 상업 구역이에요.",
+    "시간이 흐르며 간식과 기념품, 전통 요리 식당이 늘어 지금의 예원 상권이 됐어요.",
+    "남상만두점 등 노포가 있는 자리라 샤오룽바오의 고향 이야기를 곁들여 걷기 좋아요."
+  ],
+  "practical": [
+    "주말 낮엔 사람 많아 소매치기 주의",
+    "관광지 가격이라 비싼 편"
+  ],
+  "tip": "여러 곳을 먹기보다 한두 곳만 정하고 구경 위주로 즐기세요.",
+  "order": [
+    "<b>南翔小笼</b> 샤오룽바오",
+    "<b>糖葫芦</b> 탕후루",
+    "<b>梨膏糖</b> 배엿"
+  ],
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "간식 10~30위안 추정",
+  "must": 0,
+  "tags": [
+    "먹자골목",
+    "간식",
+    "예원"
+  ],
+  "art_key": "street",
+  "local_search": "城隍庙小吃广场",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chenghuangmiao",
+    "https://zh.wikipedia.org/wiki/%E5%9F%8E%E9%9A%8D%E5%BA%99",
+    "https://www.openstreetmap.org/node/5346226594"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "shanghai-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 예원 먹거리 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:59:19.068Z"
+}

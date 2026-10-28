@@ -1,0 +1,74 @@
+{
+  "id": "pl_a345444489",
+  "code": "JP-FUK-S-0011",
+  "city_id": "JP-FUK",
+  "slug": "fukuoka-dome",
+  "kind": "sight",
+  "name_ko": "후쿠오카 PayPay 돔",
+  "name_sub": "Fukuoka Dome",
+  "name_local": "福岡ドーム",
+  "addr_local": "福岡県 福岡市 中央区 地行浜 2丁目 2 2",
+  "lat": 33.59528,
+  "lng": 130.36222,
+  "area": "모모치",
+  "lead": "프로야구 구단 홈구장인 개폐식 돔. 이벤트와 야구 경기 일정에 맞춰 방문해요.",
+  "facts": [
+    [
+      "종류",
+      "돔 야구장"
+    ],
+    [
+      "특징",
+      "개폐식 지붕"
+    ],
+    [
+      "위치",
+      "모모치"
+    ],
+    [
+      "연도(Wikidata)",
+      "1993년"
+    ]
+  ],
+  "tip": "경기 일정은 공식 사이트에서 확인하세요.",
+  "open_hours": null,
+  "stay_min": 90,
+  "price_hint": "경기·투어 별도",
+  "must": 0,
+  "tags": [
+    "야구",
+    "돔",
+    "이벤트"
+  ],
+  "art_key": "stadium",
+  "local_search": "福岡ドーム",
+  "photos": [
+    "JP-FUK-S-0011-P1"
+  ],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://www.wikidata.org/wiki/Q1365961",
+    "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4_%EB%8F%94",
+    "https://en.wikipedia.org/wiki/Mizuho_PayPay_Dome_Fukuoka",
+    "https://www.openstreetmap.org/way/28445837",
+    "https://www.softbankhawks.co.jp/stadium/"
+  ],
+  "meta": {
+    "verification": "cross_checked",
+    "verified_scope": "identity+coords (Wikidata vs OSM)",
+    "coord_sources": [
+      "wikidata",
+      "osm"
+    ],
+    "coord_delta_m": 10,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "addr_basis": "osm-tags",
+    "entity": "stadium",
+    "photo": "commons",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T09:46:58.119Z"
+}

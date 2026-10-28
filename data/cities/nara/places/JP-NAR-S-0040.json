@@ -1,0 +1,78 @@
+{
+  "id": "pl_c20b6dd3ca",
+  "code": "JP-NAR-S-0040",
+  "city_id": "JP-NAR",
+  "slug": "shigisan-chogosonshiji",
+  "kind": "sight",
+  "name_ko": "시기산 조코신지지",
+  "name_sub": "Chōgosonshi-ji",
+  "name_local": "信貴山朝護孫子寺",
+  "lat": 34.60944,
+  "lng": 135.67128,
+  "area": "교외(이코마)",
+  "lead": "커다란 호랑이 조형물로 알려진 산 위 사찰이에요.",
+  "facts": [
+    [
+      "종류",
+      "사찰"
+    ],
+    [
+      "특징",
+      "호랑이 상"
+    ],
+    [
+      "위치",
+      "시기산"
+    ]
+  ],
+  "origin": [
+    "시기산 조코신지지는 이코마 산지에 자리한 사찰로, 호랑이가 전승에 등장해 경내에 큰 호랑이 조형물이 있어요.",
+    "산 위에 있어 나라 분지가 내려다보이는 전망이 열려요.",
+    "절 안내에 따르면 여러 당이 산길을 따라 흩어져 있어 걷는 시간이 필요하다고 해요.",
+    "차로 올라가는 편이 일반적이에요."
+  ],
+  "practical": [
+    "차 또는 버스 접근",
+    "경내 이동 많음"
+  ],
+  "tip": "전망대에서 노을 시간대를 노려 보세요.",
+  "open_hours": null,
+  "stay_min": 60,
+  "price_hint": "무료(일부 별도)",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "호랑이",
+    "전망"
+  ],
+  "art_key": "temple",
+  "local_search": "信貴山朝護孫子寺",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%9C%9D%E8%AD%B7%E5%AD%AB%E5%AD%90%E5%AF%BA"
+  ],
+  "meta": {
+    "priority": 50,
+    "expansion": "nara-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "wikipedia"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 이코마 근교 코스로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:31:16.504Z"
+}

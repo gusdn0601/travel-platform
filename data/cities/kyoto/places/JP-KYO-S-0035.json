@@ -1,0 +1,78 @@
+{
+  "id": "pl_91256f6ec8",
+  "code": "JP-KYO-S-0035",
+  "city_id": "JP-KYO",
+  "slug": "shoren-in",
+  "kind": "sight",
+  "name_ko": "쇼렌인",
+  "name_sub": "Shōren-in",
+  "name_local": "青蓮院",
+  "lat": 35.00731,
+  "lng": 135.7832,
+  "area": "기온/히가시야마",
+  "lead": "거대한 녹나무와 정원으로 알려진 조용한 사찰. 야간 특별 개방 때 인기가 높아요.",
+  "facts": [
+    [
+      "종류",
+      "천태종 사찰"
+    ],
+    [
+      "특징",
+      "녹나무, 정원"
+    ],
+    [
+      "위치",
+      "마루야마 북쪽"
+    ]
+  ],
+  "origin": [
+    "쇼렌인은 천태종 사찰로, 옛 황족이 주지를 맡아 온 문적 사찰로 알려져 있어요.",
+    "경내 입구의 오래된 녹나무가 대표 볼거리예요.",
+    "비교적 한적해 마루야마와 지온인 일대의 인파에서 벗어난 휴식 코스로 소개돼요."
+  ],
+  "practical": [
+    "야간 특별 개방은 시기별 확인"
+  ],
+  "tip": "한적하게 앉아 정원을 보기 좋은 사찰이에요.",
+  "open_hours": "Mo-Su 09:00-17:00 (OSM)",
+  "stay_min": 40,
+  "price_hint": "입장료 별도",
+  "must": 0,
+  "tags": [
+    "사찰",
+    "정원",
+    "녹나무"
+  ],
+  "art_key": "temple",
+  "local_search": "青蓮院",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": "2026-10-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sh%C5%8Dren-in",
+    "https://www.openstreetmap.org/way/456124860"
+  ],
+  "meta": {
+    "priority": 22,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "cross_checked",
+    "coord_sources": [
+      "wikipedia",
+      "osm"
+    ],
+    "coord_delta_m": 37,
+    "hours_basis": "osm",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 조용한 사찰로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:09:03.880Z"
+}

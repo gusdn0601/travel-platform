@@ -1,0 +1,83 @@
+{
+  "id": "pl_44431d3e2f",
+  "code": "JP-FUK-S-0038",
+  "city_id": "JP-FUK",
+  "slug": "aino-shima-cat-island",
+  "kind": "sight",
+  "name_ko": "아이노시마 (고양이 섬)",
+  "name_sub": "Aino-shima",
+  "name_local": "相島",
+  "lat": 33.76102,
+  "lng": 130.3682,
+  "area": "근교(신구)",
+  "lead": "하카타만 북쪽의 작은 섬. 주민보다 고양이가 많다고 알려져 한국 SNS에서 인기예요.",
+  "facts": [
+    [
+      "종류",
+      "섬"
+    ],
+    [
+      "특징",
+      "길고양이 다수"
+    ],
+    [
+      "접근",
+      "신구항에서 배"
+    ],
+    [
+      "소요",
+      "선박 약 20분"
+    ]
+  ],
+  "origin": [
+    "아이노시마는 후쿠오카 신구정에서 배로 약 20분 거리의 작은 섬이에요.",
+    "어업이 중심이던 섬에 고양이가 많이 살아 ‘고양이 섬’으로 알려졌고, 관광객이 늘면서 먹이 주기와 쓰레기 문제에 대한 안내가 마련되어 있어요.",
+    "섬에는 과거 조선 통신사가 머물렀던 역사의 흔적도 있다고 알려져 있어 한국 방문객에게 의미가 있는 곳이에요."
+  ],
+  "practical": [
+    "선박 시간이 정해져 있어 복귀 시간 확인",
+    "고양이 먹이 주기는 안내에 따를 것",
+    "섬에는 상점이 적어 식음료 준비"
+  ],
+  "tip": "왕복 시간표를 먼저 확인하고 일정을 짜세요.",
+  "open_hours": null,
+  "stay_min": 240,
+  "price_hint": "왕복 선박 약 1,000엔대 추정",
+  "must": 0,
+  "tags": [
+    "고양이",
+    "섬",
+    "당일치기"
+  ],
+  "art_key": "island",
+  "local_search": "相島",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%B3%B6",
+    "https://www.openstreetmap.org/relation/8444038"
+  ],
+  "meta": {
+    "priority": 2,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 1 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 후쿠오카 고양이 섬로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:02:44.737Z"
+}

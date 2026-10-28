@@ -1,0 +1,83 @@
+{
+  "id": "pl_59b6b503ea",
+  "code": "JP-FUK-P-0012",
+  "city_id": "JP-FUK",
+  "slug": "iwataya-tenjin",
+  "kind": "shop",
+  "name_ko": "이와타야 (텐진)",
+  "name_sub": "Iwataya",
+  "name_local": "岩田屋 福岡",
+  "lat": 33.58868,
+  "lng": 130.39707,
+  "area": "텐진",
+  "lead": "후쿠오카에서 오래된 백화점 브랜드. 텐진의 중심 건물에 본관과 신관이 있어요.",
+  "facts": [
+    [
+      "종류",
+      "백화점"
+    ],
+    [
+      "위치",
+      "텐진"
+    ],
+    [
+      "특징",
+      "지역 대표 백화점"
+    ],
+    [
+      "택스",
+      "면세 가능"
+    ]
+  ],
+  "origin": [
+    "이와타야는 후쿠오카를 대표하는 오래된 백화점 브랜드로, 텐진 지구 상권의 한 축을 이뤄 왔어요.",
+    "본관과 신관이 있어 패션·잡화·식품이 폭넓게 모여 있어요.",
+    "지역 사람들이 일상적으로 쓰는 백화점이라 현지 분위기를 느끼기 좋아요."
+  ],
+  "practical": [
+    "면세 카운터 이용 시 여권 필요",
+    "시즌 세일 기간 확인"
+  ],
+  "tip": "텐진 지하상가와 묶어서 돌아보세요.",
+  "open_hours": null,
+  "stay_min": 80,
+  "price_hint": "쇼핑 별도",
+  "must": 0,
+  "tags": [
+    "백화점",
+    "텐진",
+    "전통"
+  ],
+  "art_key": "mall",
+  "local_search": "岩田屋 福岡",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iwataya",
+    "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%B1%8B",
+    "https://www.openstreetmap.org/way/207839945"
+  ],
+  "meta": {
+    "priority": 3,
+    "expansion": "fukuoka-2026-10-28",
+    "verification": "single_source",
+    "coord_sources": [
+      "osm"
+    ],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 2 Wikipedia reference(s) in sources[]; not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 텐진 백화점로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:04:36.495Z"
+}

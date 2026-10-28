@@ -1,0 +1,77 @@
+{
+  "id": "pl_52e9a44c68",
+  "code": "JP-KYO-F-0036",
+  "city_id": "JP-KYO",
+  "slug": "francois",
+  "kind": "food",
+  "name_ko": "프랑수아",
+  "name_sub": "Francois Cafe",
+  "name_local": "フランソア喫茶室",
+  "lat": null,
+  "lng": null,
+  "area": "시조/가와라마치",
+  "lead": "1930년대부터 이어진 클래식 찻집. 붉은 벨벳 의자가 인상적이에요.",
+  "facts": [
+    [
+      "종류",
+      "찻집"
+    ],
+    [
+      "특징",
+      "클래식 실내"
+    ],
+    [
+      "위치",
+      "가와라마치 인근"
+    ]
+  ],
+  "origin": [
+    "프랑수아는 교토에서 20세기 초반에 문을 연 찻집으로 알려져 있어요.",
+    "붉은 의자와 높은 천장, 그림이 있는 실내가 그대로 남아 있어요.",
+    "케이크와 커피를 함께 내는 세트가 기본이에요.",
+    "강변 가까이 있어 산책 중 들르기 좋아요."
+  ],
+  "practical": [
+    "금연·흡연 구역 확인",
+    "좌석 대기"
+  ],
+  "tip": "오후 간 시간대에 가면 한산해요.",
+  "order": [
+    "<b>ケーキセット</b> 케이크 세트"
+  ],
+  "open_hours": null,
+  "stay_min": 40,
+  "price_hint": "1인 1,000~1,600엔 추정",
+  "must": 0,
+  "tags": [
+    "레트로 카페",
+    "클래식",
+    "교토"
+  ],
+  "art_key": "cafe",
+  "local_search": "フランソア喫茶室",
+  "photos": [],
+  "status": "drafted",
+  "version": 1,
+  "verified_at": null,
+  "sources": [],
+  "meta": {
+    "priority": 13,
+    "expansion": "kyoto-2026-10-28",
+    "verification": "unverified",
+    "coord_sources": [],
+    "coord_delta_m": null,
+    "hours_basis": "unknown",
+    "stay_basis": "estimated",
+    "price_basis": "estimated",
+    "story_basis": "own retelling of general knowledge; 0 Wikipedia reference(s) in sources[] (UNDER 2); not line-by-line fact-checked",
+    "popularity": {
+      "note": "한국어 여행 정보에서 교토 클래식 카페로 자주 소개되는 곳(수집가 판단, 순위·수치 미검증)",
+      "basis": "collector-judgement (unverified)",
+      "sources": []
+    },
+    "photo": "null",
+    "collected_at": "2026-10-28"
+  },
+  "sanitized_at": "2026-10-28T10:38:22.616Z"
+}
