@@ -37,6 +37,10 @@ export function filterAreas(doc, type = 'all') {
 
 const fitLine = (a) => list(a.fit).map((t) => TYPE_LABEL[t] || t).join('·');
 
+// 항목마다 '미검증' 배지를 반복하지 않고 화면 상단에 한 번만 알린다(대표님 10/29 지시).
+// 데이터의 unverified 플래그는 그대로 둔다 — 수집·검증 파이프라인이 계속 쓴다.
+export const ROUGH_NOTE = '요금·시간은 대략값이에요. 예약·탑승 전 공식 사이트에서 확인하세요.';
+
 function srcLink(url, label = '출처') {
   return url ? `<a class="gsrc" href="${esc(url)}" target="_blank" rel="noopener noreferrer">↗ ${esc(label)}</a>` : '';
 }
@@ -55,7 +59,7 @@ function areaHtml(a) {
     <p class="lgfit">${esc(fitLine(a))} · ${esc(a.price_krw)}</p>
     <p class="lgr">${esc(a.access)}<br>${esc(a.from_airport)}</p>
     <details class="lgdet">
-      <summary>장단점·안전·소음${list(a.examples).length ? '·예시' : ''}${a.unverified === false ? '' : ' <span class="badge warnb">미검증</span>'}</summary>
+      <summary>장단점·안전·소음${list(a.examples).length ? '·예시' : ''}</summary>
       <ul class="lgpro">${list(a.pros).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
       <ul class="lgcon">${list(a.cons).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
       <p class="gmeta"><b>안전</b>${esc(a.safety)}</p>
@@ -70,7 +74,7 @@ function areaHtml(a) {
 export function lodgingHtml(doc, type = 'all') {
   if (!doc || !list(doc.areas).length) return '<p class="empty">숙박 가이드가 아직 없어요.</p>';
   const areas = filterAreas(doc, type);
-  return `<div class="gnote">구역별 대략 가격입니다. 실제 요금·예약 정보가 아니며, 출처는 공식 관광 페이지입니다.</div>
+  return `<div class="gnote">구역별 대략 가격입니다. ${esc(ROUGH_NOTE)}</div>
     <div class="lgcards">${areas.map(areaHtml).join('')}</div>`;
 }
 
@@ -110,7 +114,9 @@ export function transitHtml(doc) {
   const lines = list(doc.lines);
   const modes = list(doc.modes);
   const maps = list(doc.maps);
-  return `<div class="gnote">${esc(doc.note || '요금·운행 시간은 변동될 수 있습니다.')}</div>
+  // 도시별 안내는 살리되, 위 공통 문구와 겹치는 '요금 변동' 상투구는 빼고 한 블록으로 합친다.
+  const cityNote = String(doc.note || '').replace(/(요금·운행 시간은 변동될 수 있습니다\.?|노선·요금은 변동이 잦습니다\.?)/g, '').replace(/\s+/g, ' ').trim();
+  return `<div class="gnote">${esc(ROUGH_NOTE)}${cityNote ? ' ' + esc(cityNote) : ''}</div>
     <section class="txsec" aria-label="노선">
       <h2 class="txh2">노선 <small>${lines.length}개</small></h2>
       ${lines.map(lineHtml).join('')}
@@ -135,10 +141,10 @@ export function transitHtml(doc) {
     </section>`;
 }
 
-/** 상단 요약 칩(구역 수·미검증 표시) — 접근성 라벨용. */
+/** 상단 요약 칩(구역·노선 수) — 미검증 배지는 항목마다 반복하지 않고 본문 상단 안내(ROUGH_NOTE)로 대신한다. */
 export function guideSummary(doc, topic) {
   if (!doc) return '';
   const n = topic === 'lodging' ? list(doc.areas).length : list(doc.lines).length;
   const unit = topic === 'lodging' ? '구역' : '노선';
-  return `${n}${unit} · 공식 페이지 링크 · <span class="badge warnb">미검증</span>`;
+  return `${n}${unit} · 공식 페이지 링크`;
 }

@@ -3,6 +3,8 @@
 import { iconSvg, KIND_ICON } from './place-icons.js';
 import { ads } from './ads-config.js';
 import { chipsHtml, lodgingHtml, transitHtml, guideSummary } from './guide.js';
+import { amapUrl, gmapUrl } from './maps-link.js';
+import { branchesHtml } from './branch-list.js';
 
 const KIND = { sight: '관광', food: '맛집', shop: '쇼핑', transit: '교통', activity: '액티비티' };
 const KIND_ORDER = ['sight', 'food', 'shop', 'transit'];
@@ -603,6 +605,7 @@ function bindDetailClose(item) {
   });
 }
 
+/* 지점(체인) — 데이터에 있는 지점만 그린다. 렌더는 branch-list.js(순수 함수). */
 function detailHtml(p, item) {
   const photos = state.photos[p.code] || [];
   const hero = photos[0];
@@ -619,12 +622,12 @@ function detailHtml(p, item) {
   if (item.a) rows.push(['구역', item.a]);
   for (const [k, v] of facts) rows.push([k, v]);
 
-  const mapQ = p.lat != null && p.lng != null ? `${p.lat},${p.lng}` : [p.name_local, p.addr_local].filter(Boolean).join(' ');
-  const gmap = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mapQ || p.name_ko)}`;
-  const amap = p.lat != null && p.lng != null
-    ? `https://uri.amap.com/marker?position=${p.lng},${p.lat}&name=${encodeURIComponent(p.name_local || p.name_ko)}`
-    : `https://uri.amap.com/search?keyword=${encodeURIComponent(p.name_local || p.name_ko)}`;
-  const isCN = (state.data.cities.find((c) => c.id === item.city) || {}).country === 'CN';
+  const cityRow = state.data.cities.find((c) => c.id === item.city) || {};
+  const cityLocal = cityRow.name_local || '';
+  // 좌표계·도시 범위는 maps-link.js 에서 처리(고덕 marker 는 coordinate=wgs84, search 는 city=도시명).
+  const gmap = gmapUrl(p, cityLocal);
+  const amap = amapUrl(p, cityLocal);
+  const isCN = cityRow.country === 'CN';
 
   const sec = (t, sub = '') => `<h2 class="sec">${esc(t)}${sub ? `<small>${esc(sub)}</small>` : ''}</h2>`;
   let h = '<div class="dbody">';
@@ -650,6 +653,7 @@ function detailHtml(p, item) {
 
   if (rows.length) h += `<dl class="facts">${rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${rich(v)}</dd>`).join('')}</dl>`;
   if (p.tip) h += `<div class="tipbox"><b>팁</b> · ${rich(p.tip)}</div>`;
+  h += branchesHtml(p, cityLocal, isCN);
 
   if (p.order && p.order.length) {
     h += sec('대표 메뉴', p.kind === 'food' ? '주문할 때 보여 주세요' : '');

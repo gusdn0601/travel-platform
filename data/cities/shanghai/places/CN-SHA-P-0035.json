@@ -99,5 +99,71 @@
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T11:36:01.616Z"
+  "sanitized_at": "2026-10-28T11:36:01.616Z",
+  "branches": [
+    {
+      "name_local": "罗森",
+      "addr_local": "新闸路 488",
+      "lat": 31.2410981,
+      "lng": 121.4623399,
+      "hours": null,
+      "source": "OSM node 12368981801"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "思南路 101",
+      "lat": 31.2118255,
+      "lng": 121.4657704,
+      "hours": null,
+      "source": "OSM node 5038744022"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "复兴中 1272",
+      "lat": 31.2146378,
+      "lng": 121.4528447,
+      "hours": null,
+      "source": "OSM node 5748062940"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "复兴中路 1321",
+      "lat": 31.2134456,
+      "lng": 121.4493676,
+      "hours": "24/7",
+      "source": "OSM node 5210178421"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "长寿路 70",
+      "lat": 31.2462761,
+      "lng": 121.4402853,
+      "hours": null,
+      "source": "OSM node 12364455601"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "新会路 427",
+      "lat": 31.2399086,
+      "lng": 121.4330739,
+      "hours": null,
+      "source": "OSM node 12364522701"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "枫林路 97号",
+      "lat": 31.2004416,
+      "lng": 121.449978,
+      "hours": "Mo-Su 00:00-12:00",
+      "source": "OSM node 4540867789"
+    },
+    {
+      "name_local": "罗森",
+      "addr_local": "淮海中路 1640",
+      "lat": 31.2093589,
+      "lng": 121.4386028,
+      "hours": null,
+      "source": "OSM node 4476877491"
+    }
+  ]
 }

@@ -98,5 +98,6 @@
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T10:00:57.958Z"
+  "sanitized_at": "2026-10-28T10:00:57.958Z",
+  "map_city": "杭州"
 }

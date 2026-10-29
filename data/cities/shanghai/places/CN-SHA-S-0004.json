@@ -157,7 +157,7 @@
   "must": 0,
   "tags": [],
   "art_key": "water",
-  "local_search": "乌镇西栅 美食",
+  "local_search": "乌镇西栅",
   "photos": [
     "CN-SHA-S-0004-P1",
     "CN-SHA-S-0004-P2",
@@ -181,5 +181,6 @@
   "meta": {
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
-  }
+  },
+  "map_city": "嘉兴"
 }

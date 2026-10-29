@@ -100,5 +100,47 @@
     "menu_collected_at": "2026-10-28",
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
-  }
+  },
+  "branches": [
+    {
+      "name_local": "Manner Coffee",
+      "addr_local": "黄陂南路 838",
+      "lat": 31.2129811,
+      "lng": 121.471867,
+      "hours": "Mo-Su 07:30-22:00",
+      "source": "OSM node 9240093319"
+    },
+    {
+      "name_local": "Manner Coffee",
+      "addr_local": "静安区 南阳路 278",
+      "lat": 31.2294786,
+      "lng": 121.4456616,
+      "hours": "Mo-Sa 08:00-18:30; Su 08:30-18:30",
+      "source": "OSM node 4450070451"
+    },
+    {
+      "name_local": "瑞幸咖啡",
+      "addr_local": null,
+      "lat": 31.2168981,
+      "lng": 121.4639033,
+      "hours": null,
+      "source": "OSM node 8324254501"
+    },
+    {
+      "name_local": "Manner Coffee",
+      "addr_local": "南京西路 1488",
+      "lat": 31.2269229,
+      "lng": 121.4448568,
+      "hours": "Mo-Su 09:00-19:30",
+      "source": "OSM node 8849853917"
+    },
+    {
+      "name_local": "Manner Coffee (长风大悦城1F店)",
+      "addr_local": null,
+      "lat": 31.2248302,
+      "lng": 121.3901952,
+      "hours": null,
+      "source": "OSM node 12328771332"
+    }
+  ]
 }

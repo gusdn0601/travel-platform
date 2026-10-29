@@ -150,5 +150,23 @@
     "menu_collected_at": "2026-10-28",
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
-  }
+  },
+  "branches": [
+    {
+      "name_local": "鼎泰丰((New World))",
+      "addr_local": null,
+      "lat": 31.221012,
+      "lng": 121.4708265,
+      "hours": null,
+      "source": "OSM node 6350970774"
+    },
+    {
+      "name_local": "鼎泰丰",
+      "addr_local": "南京西路 1376",
+      "lat": 31.2286708,
+      "lng": 121.4466454,
+      "hours": null,
+      "source": "OSM node 1750771478"
+    }
+  ]
 }

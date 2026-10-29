@@ -96,5 +96,15 @@
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:59:19.359Z"
+  "sanitized_at": "2026-10-28T09:59:19.359Z",
+  "branches": [
+    {
+      "name_local": "大董烤鸭店",
+      "addr_local": "南京西路 1601",
+      "lat": 31.2245539,
+      "lng": 121.4432969,
+      "hours": null,
+      "source": "OSM node 4406360489"
+    }
+  ]
 }

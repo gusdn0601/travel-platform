@@ -6,6 +6,6 @@
 
 - 사진: Wikimedia Commons 등 CC/PD 라이선스, 각 사진에 출처·라이선스를 표기합니다.
 - 개인정보(예약·항공권·가족 정보)는 포함하지 않습니다.
-- 생성: `npm run build:site` (2026-10-28)
+- 생성: `npm run build:site` (2026-10-29)
 
 방문: https://gusdn0601.github.io/travel-platform/
