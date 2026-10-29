@@ -116,5 +116,39 @@
     "menu_collected_at": "2026-10-28",
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200 (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
-  }
+  },
+  "branches": [
+    {
+      "name_local": "海底捞火锅(人民广场店)",
+      "addr_local": "上海市黄浦区南京东路830号第一百货商业中心B馆5楼",
+      "lat": 31.2370467,
+      "lng": 121.4702684,
+      "hours": null,
+      "source": "Ctrip 7013053 · Trip.com 15152804 · 360 map; coords OSM 第一百货商店"
+    },
+    {
+      "name_local": "海底捞火锅(徐家汇店)",
+      "addr_local": "上海市徐汇区华山路2068号百联徐汇商业广场南5楼",
+      "lat": 31.1987902,
+      "lng": 121.4327404,
+      "hours": null,
+      "source": "Trip.com 11167910 · Ctrip 5018912 · 360 map · OSM node 6534721475"
+    },
+    {
+      "name_local": "海底捞火锅(世纪大道店)",
+      "addr_local": "上海市浦东新区世纪大道168号陆家嘴世纪金融广场L1",
+      "lat": null,
+      "lng": null,
+      "hours": null,
+      "source": "KKday 286489 · Ltrip 286489 · Tianyancha"
+    },
+    {
+      "name_local": "海底捞火锅(览海国际店)",
+      "addr_local": "上海市浦东新区世纪大道160号览海国际广场B2层B201",
+      "lat": null,
+      "lng": null,
+      "hours": null,
+      "source": "KKday 286489 · Apple Maps · 360 map · Tianyancha annual report"
+    }
+  ]
 }

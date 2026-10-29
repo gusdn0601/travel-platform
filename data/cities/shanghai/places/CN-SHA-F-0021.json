@@ -96,5 +96,31 @@
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:59:19.358Z"
+  "sanitized_at": "2026-10-28T09:59:19.358Z",
+  "branches": [
+    {
+      "name_local": "巴奴毛肚火锅(人广来福士店)",
+      "addr_local": "上海市黄浦区西藏中路268号来福士广场6层",
+      "lat": 31.2345002,
+      "lng": 121.4720693,
+      "hours": null,
+      "source": "Trip.com 108733768 · 360 map · city8; coords OSM 来福士广场"
+    },
+    {
+      "name_local": "巴奴毛肚火锅(环球港店)",
+      "addr_local": "上海市普陀区中山北路3300号环球港L3层L3017",
+      "lat": 31.2363888,
+      "lng": 121.4084809,
+      "hours": null,
+      "source": "Ctrip 25030950 · Trip.com 79150795 · 360 map; coords OSM 环球港"
+    },
+    {
+      "name_local": "巴奴毛肚火锅(五角场合生汇店)",
+      "addr_local": "上海市杨浦区黄兴路2228号合生汇L5-37",
+      "lat": 31.3018481,
+      "lng": 121.5135563,
+      "hours": null,
+      "source": "Xiaohongshu · Yangpu first-store WeChat article; coords OSM 合生汇"
+    }
+  ]
 }

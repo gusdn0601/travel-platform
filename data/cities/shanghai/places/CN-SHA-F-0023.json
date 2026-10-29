@@ -106,5 +106,31 @@
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T09:59:19.361Z"
+  "sanitized_at": "2026-10-28T09:59:19.361Z",
+  "branches": [
+    {
+      "name_local": "全聚德(淮海中路店)",
+      "addr_local": "上海市黄浦区淮海中路780号栗时代大厦4F",
+      "lat": null,
+      "lng": null,
+      "hours": null,
+      "source": "Ctrip 13993358 · Trip.com 27195185 · Dianhua"
+    },
+    {
+      "name_local": "全聚德(控江路店)",
+      "addr_local": "上海市杨浦区控江路1628号紫荆广场L5",
+      "lat": 31.2770542,
+      "lng": 121.5123684,
+      "hours": null,
+      "source": "Trip.com 33342933 · Dianhua · Tianyancha; coords OSM 紫荆广场"
+    },
+    {
+      "name_local": "全聚德(虹桥南丰城店)",
+      "addr_local": "上海市长宁区遵义路100号虹桥南丰城北区6层L602",
+      "lat": 31.209056,
+      "lng": 121.4033979,
+      "hours": null,
+      "source": "Ctrip 22599654 · Apple Maps · WeChat brand article; coords OSM 虹桥南丰城"
+    }
+  ]
 }

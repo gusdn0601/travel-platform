@@ -91,5 +91,71 @@
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
   },
-  "sanitized_at": "2026-10-28T11:36:01.943Z"
+  "sanitized_at": "2026-10-28T11:36:01.943Z",
+  "branches": [
+    {
+      "name_local": "全家便利店",
+      "addr_local": "西藏中路 500号",
+      "lat": 31.2391797,
+      "lng": 121.4686009,
+      "hours": null,
+      "source": "OSM node 6669050185"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "福建中路 363号",
+      "lat": 31.2383918,
+      "lng": 121.4754759,
+      "hours": null,
+      "source": "OSM node 7100733813"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "黄陂北路 205-1",
+      "lat": 31.2307679,
+      "lng": 121.4665131,
+      "hours": null,
+      "source": "OSM node 4242798915 · map listing 黄陂北路205-1"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "重庆北路 211",
+      "lat": 31.2289958,
+      "lng": 121.465106,
+      "hours": null,
+      "source": "OSM node 4242802196"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "石门二路 203",
+      "lat": 31.2357707,
+      "lng": 121.4560422,
+      "hours": null,
+      "source": "OSM node 12361134401"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "威海路 656",
+      "lat": 31.2284885,
+      "lng": 121.4544586,
+      "hours": null,
+      "source": "OSM node 12361081401"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "宁海东路",
+      "lat": 31.2305168,
+      "lng": 121.4765284,
+      "hours": null,
+      "source": "OSM node 6918644885"
+    },
+    {
+      "name_local": "全家便利店",
+      "addr_local": "北京西路 1381",
+      "lat": 31.2299432,
+      "lng": 121.4447815,
+      "hours": null,
+      "source": "OSM node 4484129203"
+    }
+  ]
 }

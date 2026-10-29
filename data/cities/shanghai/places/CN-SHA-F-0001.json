@@ -153,5 +153,47 @@
     "menu_collected_at": "2026-10-28",
     "kr_refs_basis": "naver-blog-search + youtube-search; title match + HTTP/oEmbed 200; recent-first (published/views) (collect-kr-refs.mjs)",
     "kr_refs_checked_at": "2026-10-28"
-  }
+  },
+  "branches": [
+    {
+      "name_local": "四季民福烤鸭店(外滩外白渡桥店)",
+      "addr_local": "上海市虹口区吴淞路130号城投控股大厦辅楼彩虹北三层",
+      "lat": null,
+      "lng": null,
+      "hours": null,
+      "source": "Ctrip 25058729 · Trip.com 131172547 · 360 map"
+    },
+    {
+      "name_local": "四季民福烤鸭店(香港广场店)",
+      "addr_local": "上海市黄浦区淮海中路282号香港广场北座3层",
+      "lat": 31.2258108,
+      "lng": 121.4701157,
+      "hours": null,
+      "source": "Apple Maps · Tabelog 51004309 · Naver blog; coords OSM 香港广场北座"
+    },
+    {
+      "name_local": "四季民福烤鸭店(静安大悦城店)",
+      "addr_local": "上海市静安区西藏北路198号静安大悦城北座5层",
+      "lat": 31.2459874,
+      "lng": 121.467506,
+      "hours": null,
+      "source": "Xiaohongshu branch guide · Baidu Map; coords OSM 大悦城"
+    },
+    {
+      "name_local": "四季民福烤鸭店(中信泰富店)",
+      "addr_local": "上海市静安区南京西路1168号中信泰富广场L402-L403",
+      "lat": null,
+      "lng": null,
+      "hours": null,
+      "source": "Xiaohongshu · CITIC Square official Weibo"
+    },
+    {
+      "name_local": "四季民福烤鸭店(龙之梦店)",
+      "addr_local": "上海市长宁区长宁路1018号龙之梦城市生活中心8~10层",
+      "lat": 31.2208976,
+      "lng": 121.411965,
+      "hours": null,
+      "source": "163.com article · Apple Maps · Xiaohongshu; coords OSM 龙之梦"
+    }
+  ]
 }
